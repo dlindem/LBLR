@@ -14,7 +14,7 @@ with open ('wikidata_basque_lexemes.txt', 'r', encoding='utf-8') as infile:
 #    print(wdlemlist)
 
 with open('mapping.csv', encoding="utf-8") as csvfile:
-    mapping = csv.reader(csvfile, delimiter="\t") # reads replace rules
+    mapping = csv.reader(csvfile, delimiter=",") # reads replace rules
 
     mapdict = {}
     for row in mapping:
