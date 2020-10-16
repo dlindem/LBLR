@@ -23,6 +23,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
 
     sarmatches = []
     wdmatches = []
+    nomatches = []
 
     print('\nStarted processing...')
 
@@ -55,6 +56,8 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 wdlem = ""
             if wdlem != "":
                 wdmatches.append(wdlem)
+            if sarlem == "" and wdlem == "":
+                nomatches.append({oldlem, newlem})
 
             outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+wdlem+'\n')
 
@@ -66,5 +69,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     with open('egokitor_wikidatamatches.txt', 'w', encoding='utf-8') as outfile:
         for match in wdmatchset:
             outfile.write(match+'\n')
+    with open('egokitor_nomatches.txt', 'w', encoding='utf-8') as outfile:
+        outfile.write(str(nomatches))
 
 print('Finished.')
