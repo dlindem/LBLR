@@ -34,7 +34,8 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             newlem = oldnorlem
             for rule in mapdict:
                 interlem = re.sub(rule, mapdict[rule], newlem)
-                newlem = interlem
+                if len(interlem) > 0:
+                    newlem = interlem
 #                print(rule+' '+mapdict[rule]+' '+interlem)
             if newlem in sarlemlist: # if EGOKITUA is found in SARASOLA
                 sarlem = newlem
@@ -50,14 +51,16 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 wdlem = newlem
             elif newlem[-1] == "a" and newlem[:-1] in wdlemlist: # asks for match if letter "-a" is stripped off from LAR_LEMMA
                 wdlem = newlem[:-1]
-            elif len(newlem) > 3 and newlem[-2] == "a" and newlem[-1] == "k" and newlem[:-2] in wdlemlist: # asks for match if letter "-ak" is stripped off from LAR_LEMMA
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in wdlemlist: # asks for match if letter "-k" is stripped off from LAR_LEMMA finishing with "-ak"
+                wdlem = newlem[:-2]
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in wdlemlist: # asks for match if letter "-ak" is stripped off from LAR_LEMMA
                 wdlem = newlem[:-2]
             else:
                 wdlem = ""
             if wdlem != "":
                 wdmatches.append(wdlem)
             if sarlem == "" and wdlem == "":
-                nomatches.append({oldlem, newlem})
+                nomatches.append({oldlem: newlem})
 
             outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+wdlem+'\n')
 
