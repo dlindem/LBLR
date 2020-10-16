@@ -28,7 +28,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     print('\nStarted processing...')
 
     with open('egokitor_result_table.csv', 'w', encoding='utf-8') as outfile:
-        outfile.write('LAR_LEMMA\tUNIDECODE\tEGOKITUA\tSARASOLA\tWIKIDATA\n')
+        outfile.write('LAR_LEMMA\tUNIDECODE\tEGOKITUA\tSARASOLA\tWIKIDATA\n') # csv header row
         for oldlem in larlemlist:
             oldnorlem = unidecode(oldlem.rstrip())
             newlem = oldnorlem
@@ -49,11 +49,11 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 sarmatches.append(sarlem)
             if newlem in wdlemlist: # if EGOKITUA is found in WIKIDATA
                 wdlem = newlem
-            elif newlem[-1] == "a" and newlem[:-1] in wdlemlist: # asks for match if letter "-a" is stripped off from LAR_LEMMA
+            elif newlem[-1] == "a" and newlem[:-1] in wdlemlist: # asks for match if letter "-a" is stripped off from EGOKITUA
                 wdlem = newlem[:-1]
-            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in wdlemlist: # asks for match if letter "-k" is stripped off from LAR_LEMMA finishing with "-ak"
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in wdlemlist: # asks for match if letter "-k" is stripped off from EGOKITUA finishing with "-ak"
                 wdlem = newlem[:-2]
-            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in wdlemlist: # asks for match if letter "-ak" is stripped off from LAR_LEMMA
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in wdlemlist: # asks for match if letter "-ak" is stripped off from EGOKITUA
                 wdlem = newlem[:-2]
             else:
                 wdlem = ""
