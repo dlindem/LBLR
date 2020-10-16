@@ -13,7 +13,7 @@ with open ('wikidata_basque_lexemes.txt', 'r', encoding='utf-8') as infile:
     wdlemlist = infile.read().split('\n') # reads list entries
 #    print(wdlemlist)
 
-with open('mapping.csv', encoding="utf-8") as csvfile:
+with open('rules.csv', encoding="utf-8") as csvfile:
     mapping = csv.reader(csvfile, delimiter=",") # reads replace rules
 
     mapdict = {}
@@ -21,7 +21,12 @@ with open('mapping.csv', encoding="utf-8") as csvfile:
         print(row)
         mapdict[row[0]]=row[1]
 
-    with open('result.csv', 'w', encoding='utf-8') as outfile:
+    sarmatches = []
+    wdmatches = []
+
+    print('\nStarted processing...')
+
+    with open('egokitor_result_table.csv', 'w', encoding='utf-8') as outfile:
         outfile.write('LAR_LEMMA\tUNIDECODE\tEGOKITUA\tSARASOLA\tWIKIDATA\n')
         for oldlem in larlemlist:
             oldnorlem = unidecode(oldlem.rstrip())
@@ -34,13 +39,32 @@ with open('mapping.csv', encoding="utf-8") as csvfile:
                 sarlem = newlem
             elif newlem[-1] == "a" and newlem[:-1] in sarlemlist: # asks for match if letter "-a" is stripped off from LAR_LEMMA
                 sarlem = newlem[:-1]
+            elif len(newlem) > 3 and newlem[-2] == "a" and newlem[-1] == "k" and newlem[:-2] in sarlemlist: # asks for match if letter "-ak" is stripped off from LAR_LEMMA
+                sarlem = newlem[:-2]
             else:
                 sarlem = ""
+            if sarlem != "":
+                sarmatches.append(sarlem)
             if newlem in wdlemlist: # if EGOKITUA is found in WIKIDATA
                 wdlem = newlem
             elif newlem[-1] == "a" and newlem[:-1] in wdlemlist: # asks for match if letter "-a" is stripped off from LAR_LEMMA
                 wdlem = newlem[:-1]
+            elif len(newlem) > 3 and newlem[-2] == "a" and newlem[-1] == "k" and newlem[:-2] in wdlemlist: # asks for match if letter "-ak" is stripped off from LAR_LEMMA
+                wdlem = newlem[:-2]
             else:
                 wdlem = ""
+            if wdlem != "":
+                wdmatches.append(wdlem)
 
             outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+wdlem+'\n')
+
+    sarmatchset = set(sarmatches)
+    with open('egokitor_sarasolamatches.txt', 'w', encoding='utf-8') as outfile:
+        for match in sarmatchset:
+            outfile.write(match+'\n')
+    wdmatchset = set(wdmatches)
+    with open('egokitor_wikidatamatches.txt', 'w', encoding='utf-8') as outfile:
+        for match in wdmatchset:
+            outfile.write(match+'\n')
+
+print('Finished.')
