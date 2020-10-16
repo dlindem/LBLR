@@ -29,7 +29,7 @@ abanico	abanico	abaniko
 abaninoa	abaninoa	abaninoa		
 abarca	abarca	abarka	abarka	abarka
 ezpartuzcoa	ezpartuzcoa	ezpartuzkoa		
-abarcac	abarcac	abarkak		
+abarcac	abarcac	abarkak		abark
 abarcatu	abarcatu	abarkatu		
 abarizqueta	abarizqueta	abarizketa		
 abarrac	abarrac	abarrak		
@@ -498,7 +498,7 @@ adizan	adizan	adizan
 adizazu	adizazu	adizazu		
 adjudicar	adjudicar	adjudikar		
 adlargaren	adlargaren	adlargaren		
-érac	erac	erak		
+érac	erac	erak		er
 administracion	administracion	administrazion		
 administratua	administratua	administratua	administratu	administratu
 administratzallea	administratzallea	administratzailea	administratzaile	administratzaile
@@ -930,9 +930,9 @@ aingura	aingura	aingura	aingura	aingura
 lotu	lotu	lotu	lotu	lotu
 aingura	aingura	aingura	aingura	aingura
 saria	saria	saria	sari	sari
-aingurac	aingurac	aingurak		
+aingurac	aingurac	aingurak		aingur
 alcha	alcha	altxa		
-aingurac	aingurac	aingurak		
+aingurac	aingurac	aingurak		aingur
 bota	bota	bota	bota	bota
 aingurae	aingurae	aingurae		
 jasó	jaso	jaso	jaso	jaso
@@ -1544,7 +1544,7 @@ aldia	aldia	aldia	aldi	aldi
 aldia	aldia	aldia	aldi	aldi
 batean	batean	batean	batean	
 aldiac	aldiac	aldiak	aldi	aldi
-erostac	erostac	erostak		
+erostac	erostac	erostak		erost
 aldiac.á	aldiac.a	aldiac.a		
 aldiacatu	aldiacatu	aldiakatu		
 aldiacatua	aldiacatua	aldiakatua		
@@ -1682,7 +1682,7 @@ alloera	alloera	ailoera
 alloza	alloza	ailoza		
 almaca	almaca	almaka	almaka	
 almená	almena	almena	almena	almena
-almenac	almenac	almenak	almen	
+almenac	almenac	almenak	almen	almen
 almenaria	almenaria	almenaria		
 almendra	almendra	almendra	almendra	almendra
 almendra	almendra	almendra	almendra	almendra
@@ -1911,7 +1911,7 @@ amarcitzallea	amarcitzallea	amarzitzailea
 amarduna	amarduna	amarduna		
 amarena	amarena	amarena		
 amaroina	amaroina	amaroina		
-amarrac	amarrac	amarrak		
+amarrac	amarrac	amarrak		amarr
 amarratua	amarratua	amarratua	amarratu	amarratu
 amarratzallea	amarratzallea	amarratzailea		
 lotutzallea	lotutzallea	lotutzailea		
@@ -2274,7 +2274,7 @@ anemone	anemone	anemone
 anetza	anetza	anetza		
 anezquea	anezquea	anezkea		
 anezquechoa	anezquechoa	anezketxoa		
-angarillac	angarillac	angarilak		
+angarillac	angarillac	angarilak		angaril
 ango-es-	ango-es-	ango-es-		
 angostar	angostar	angostar		
 angura	angura	angura	angura	
@@ -2930,7 +2930,7 @@ arbalcha	arbalcha	arbaltxa	arbaltx
 arbaso	arbaso	arbaso	arbaso	arbaso
 arbazcatu	arbazcatu	arbazkatu		
 arbazta	arbazta	arbazta	arbazta	arbazta
-arbaztac	arbaztac	arbaztak		
+arbaztac	arbaztac	arbaztak		arbazt
 arbegui	arbegui	arbegi		
 arbelá	arbela	arbela	arbel	arbel
 arbelcha	arbelcha	arbeltxa	arbeltx	
@@ -3317,7 +3317,7 @@ arimandia	arimandia	arimandia
 arimandicoa	arimandicoa	arimandikoa		
 arimandiro	arimandiro	arimandiro		
 arimaren	arimaren	arimaren		
-almenac	almenac	almenak	almen	
+almenac	almenac	almenak	almen	almen
 arimaren	arimaren	arimaren		
 berdindea	berdindea	berdindea		
 arimaren	arimaren	arimaren		
@@ -3528,7 +3528,7 @@ arracá	arraca	arraka
 arracacoa	arracacoa	arrakakoa		
 arracada	arracada	arrakada	arrakada	arrakada
 arracadá	arracada	arrakada	arrakada	arrakada
-arracadac	arracadac	arrakadak		
+arracadac	arracadac	arrakadak		arrakad
 arracaria	arracaria	arrakaria		
 arracatu	arracatu	arrakatu		
 arracatú	arracatu	arrakatu		
@@ -4190,7 +4190,7 @@ arzuloduna	arzuloduna	arzuloduna
 as-	as-	as-		
 asaba	asaba	asaba	asaba	asaba
 erena	erena	erena		
-asabac	asabac	asabak		
+asabac	asabac	asabak		asab
 asaldatú	asaldatu	asaldatu	asaldatu	asaldatu
 asaldatua	asaldatua	asaldatua	asaldatu	asaldatu
 asantza	asantza	asantza		
@@ -4595,7 +4595,7 @@ atarico	atarico	atariko	atariko	atariko
 leorpea	leorpea	leorpea		
 ataritzarra	ataritzarra	ataritzarra		
 atasca	atasca	ataska		ataska
-atascac	atascac	ataskak		
+atascac	atascac	ataskak		atask
 ataurrea	ataurrea	ataurrea	ataurre	ataurre
 atáurrea	ataurrea	ataurrea	ataurre	ataurre
 atauscaria	atauscaria	atauskaria		
@@ -5815,8 +5815,8 @@ baeguillea	baeguillea	baegilea
 baetu	baetu	baetu		
 baga	baga	baga	baga	baga
 bagá	baga	baga	baga	baga
-bagac	bagac	bagak		
-bagac	bagac	bagak		
+bagac	bagac	bagak		bag
+bagac	bagac	bagak		bag
 eguin	eguin	egin	egin	egin
 bagachoa	bagachoa	bagatxoa		
 bagachuria	bagachuria	bagatxuria		
@@ -8228,7 +8228,7 @@ besoetan	besoetan	besoetan
 erabillia	erabillia	erabilia	erabili	erabili
 beson-	beson-	beson-		
 besonda	besonda	besonda		
-bestac	bestac	bestak		
+bestac	bestac	bestak		best
 bestaldia	bestaldia	bestaldia		
 bestcac	bestcac	bestkak		
 lenego	lenego	lenego		
@@ -10168,7 +10168,7 @@ burla	burla	burla	burla	burla
 burlá	burla	burla	burla	burla
 burla	burla	burla	burla	burla
 pesada	pesada	pesada		
-burlac	burlac	burlak		
+burlac	burlac	burlak		burl
 burlaguillea	burlaguillea	burlagilea	burlagile	
 burlar	burlar	burlar		
 burlarquia	burlarquia	burlarkia		
@@ -11000,7 +11000,7 @@ cartá	carta	karta	karta	karta
 carta	carta	karta	karta	karta
 joco	joco	joko	joko	joko
 bat	bat	bat	bat	bat
-cartac	cartac	kartak		
+cartac	cartac	kartak		kart
 jaquiñeraz	jaquineraz	jakineraz		
 nastu	nastu	nastu		
 cartagaa	cartagaa	kartagaa		
@@ -11573,7 +11573,7 @@ Ceridagoca-	Ceridagoca-	Ceridagoka-
 ceroa	ceroa	zeroa	zero	zero
 cerra	cerra	zerra	zerra	zerra
 cerrá	cerra	zerra	zerra	zerra
-cerrac	cerrac	zerrak		
+cerrac	cerrac	zerrak		zerr
 cerracaya	cerracaya	zerrakaia		
 cerrachoa	cerrachoa	zerratxoa	zerratxo	
 cerragarria	cerragarria	zerragarria		
@@ -11743,7 +11743,7 @@ chalmá	chalma	txalma	txalma	txalma
 bigunagoa	bigunagoa	bigunagoa		
 chalmá	chalma	txalma	txalma	txalma
 quendu	quendu	kendu	kendu	kendu
-chalmac	chalmac	txalmak		
+chalmac	chalmac	txalmak		txalm
 jostea	jostea	jostea		
 chalmachoa	chalmachoa	txalmatxoa		
 chalmaguiña	chalmaguina	txalmagina	txalmagin	
@@ -11807,9 +11807,9 @@ chaolac	chaolac	txaolak
 chaolachoa	chaolachoa	txaolatxoa		
 chaoletan	chaoletan	txaoletan		
 sartu	sartu	sartu	sartu	sartu
-chapac	chapac	txapak		
+chapac	chapac	txapak		txap
 eransia	eransia	eransia		
-chapac	chapac	txapak		
+chapac	chapac	txapak		txap
 estalia	estalia	estalia	estali	estali
 chapachoa	chapachoa	txapatxoa		
 chapala	chapala	txapala		
@@ -12042,7 +12042,7 @@ chimino	chimino	tximino	tximino	tximino
 chiminognillea	chiminognillea	tximinognilea		
 chiminoqueria	chiminoqueria	tximinokeria	tximinokeria	
 chimista	chimista	tximista	tximista	tximista
-chimistac	chimistac	tximistak		
+chimistac	chimistac	tximistak		tximist
 izan	izan	izan	izan	izan
 chimistatu	chimistatu	tximistatu		
 chimisteguia	chimisteguia	tximistegia		
@@ -12149,7 +12149,7 @@ chiriscaria	chiriscaria	txiriskaria
 chiriscatu	chiriscatu	txiriskatu		
 chirita	chirita	txirita		
 chirivia	chirivia	txiribia	txiribi	
-chirlac	chirlac	txirlak		
+chirlac	chirlac	txirlak		txirl
 chirmendaria	chirmendaria	txirmendaria		
 chirmendeguia	chirmendeguia	txirmendegia		
 chirmendu	chirmendu	txirmendu		
@@ -17034,7 +17034,7 @@ eguiñoa	eguinoa	eginoa
 eguiñodoan	eguinodoan	eginodoan		
 eguinquizuna	eguinquizuna	eginkizuna	eginkizun	eginkizun
 eguintaria	eguintaria	egintaria		
-eguintzac	eguintzac	egintzak		
+eguintzac	eguintzac	egintzak		egintz
 eguintzazcoa	eguintzazcoa	egintzazkoa		
 eguinzallea	eguinzallea	egintzailea	egintzaile	
 eguiqiizuna	eguiqiizuna	egiqiizuna		
@@ -17478,7 +17478,7 @@ emacumedia	emacumedia	emakumedia
 emacumeen	emacumeen	emakumeen		
 erara	erara	erara	erara	
 emacumeen	emacumeen	emakumeen		
-erguelqueriac	erguelqueriac	ergelkeriak		
+erguelqueriac	erguelqueriac	ergelkeriak		ergelkeri
 artu	artu	artu		
 emacumeen	emacumeen	emakumeen		
 nastoquia	nastoquia	nastokia		
@@ -17507,7 +17507,7 @@ emaichoa	emaichoa	emaitxoa
 emaillea	emaillea	emailea	emaile	emaile
 emailletasuna	emailletasuna	emailetasuna		
 emaitza	emaitza	emaitza	emaitza	emaitza
-emaitzac	emaitzac	emaitzak		
+emaitzac	emaitzac	emaitzak		emaitz
 emaitzagoa	emaitzagoa	emaitzagoa		
 emaitzatu	emaitzatu	emaitzatu		
 emaitzatua	emaitzatua	emaitzatua		
@@ -17875,7 +17875,7 @@ epaitorria	epaitorria	epaitorria
 epaitu	epaitu	epaitu	epaitu	epaitu
 epaitua	epaitua	epaitua	epaitu	epaitu
 epaitza	epaitza	epaitza	epaitza	epaitza
-epaitzac	epaitzac	epaitzak		
+epaitzac	epaitzac	epaitzak		epaitz
 epaizulotic	epaizulotic	epaizulotik		
 epaizulotic	epaizulotic	epaizulotik		
 ateratua	ateratua	ateratua		ateratu
@@ -19652,7 +19652,7 @@ esaldua	esaldua	esaldua
 esalea	esalea	esalea	esale	esale
 esalquichoa	esalquichoa	esalkitxoa		
 esamesa	esamesa	esamesa	esamesa	esamesa
-esamesac	esamesac	esamesak		
+esamesac	esamesac	esamesak		esames
 esan	esan	esan	esan	esan
 esan	esan	esan	esan	esan
 erran	erran	erran	erran	erran
@@ -19813,7 +19813,7 @@ escogimiento	escogimiento	eskojimiento
 escoido	escoido	eskoido		
 Escola	Escola	Eskola		
 Mldaisua	Mldaisua	Mldaisua		
-escolac	escolac	eskolak		
+escolac	escolac	eskolak		eskol
 Escolamaistrea	Escolamaistrea	Eskolamaistrea		
 Escolamaistrearen	Escolamaistrearen	Eskolamaistrearen		
 goyendea	goyendea	goiendea	goiende	
@@ -20001,8 +20001,8 @@ escusatu	escusatu	eskusatu	eskusatu
 escuscribatua	escuscribatua	eskuscribatua		
 escusilla	escusilla	eskusila		
 escusuteguia	escusuteguia	eskusutegia		
-escutadac	escutadac	eskutadak		
-escutadac	escutadac	eskutadak		
+escutadac	escutadac	eskutadak		eskutad
+escutadac	escutadac	eskutadak		eskutad
 eman	eman	eman	eman	eman
 escutaquia	escutaquia	eskutakia		
 escutezgarria	escutezgarria	eskutezgarria		
@@ -20611,7 +20611,7 @@ etzauntza	etzauntza	etzauntza	etzauntza	etzauntza
 prestau	prestau	prestau		
 etzauntza	etzauntza	etzauntza	etzauntza	etzauntza
 zaya	zaya	zaia	zaia	
-etzauntzac	etzauntzac	etzauntzak		
+etzauntzac	etzauntzac	etzauntzak		etzauntz
 artua	artua	artua		
 etzauntzazaya	etzauntzazaya	etzauntzazaia		
 etzaunza	etzaunza	etzauntza	etzauntza	etzauntza
@@ -21437,9 +21437,9 @@ ferdantza	ferdantza	ferdantza
 ferdatistea	ferdatistea	ferdatistea		
 ferdetasuna	ferdetasuna	ferdetasuna		
 ferdetu	ferdetu	ferdetu		
-ferecac	ferecac	ferekak		
+ferecac	ferecac	ferekak		ferek
 ferecatu	ferecatu	ferekatu	ferekatu	ferekatu
-feriac	feriac	feriak		
+feriac	feriac	feriak		feri
 fermento	fermento	fermento		
 fermua	fermua	fermua	fermu	fermu
 fermuguita	fermuguita	fermugita		
@@ -21452,7 +21452,7 @@ ferretea	ferretea	ferretea
 festá	festa	festa	festa	festa
 festa	festa	festa	festa	festa
 dabillac	dabillac	dabilak		
-festac	festac	festak		
+festac	festac	festak		fest
 festivo	festivo	festibo		
 fetá	feta	feta		
 feudatu	feudatu	feudatu		
@@ -22244,7 +22244,7 @@ galquidezcorra	galquidezcorra	galkidezkorra
 galquiro	galquiro	galkiro		
 galtsua	galtsua	galtsua	galtsu	
 galtzabernea	galtzabernea	galtzabernea		
-galtzac	galtzac	galtzak		
+galtzac	galtzac	galtzak		galtz
 galtzada	galtzada	galtzada	galtzada	galtzada
 galtzapena	galtzapena	galtzapena	galtzapen	galtzapen
 galtzarbea	galtzarbea	galtzarbea	galtzarbe	galtzarbe
@@ -22580,7 +22580,7 @@ gargaletsua	gargaletsua	gargaletsua
 gargar	gargar	gargar		
 belarra	belarra	belarra		
 gargara	gargara	gargara	gargara	gargara
-gargarac	gargarac	gargarak		
+gargarac	gargarac	gargarak		gargar
 eguitea	eguitea	egitea	egite	egite
 gargorria	gargorria	gargorria		
 gargozoa	gargozoa	gargozoa		
@@ -26542,7 +26542,7 @@ indeterminable	indeterminable	indeterminable
 indeterminacion	indeterminacion	indeterminazion		
 indeterminado	indeterminado	indeterminado		
 india	india	india		
-babac	babac	babak		
+babac	babac	babak		bab
 Indiarra	Indiarra	Indiarra		
 indiarra	indiarra	indiarra		
 indiatarra	indiatarra	indiatarra		
@@ -27840,11 +27840,11 @@ izquidezgarria	izquidezgarria	izkidezgarria
 izquilaura	izquilaura	izkilaura		
 izquiña	izquina	izkina	izkina	izkina
 izquiraburua	izquiraburua	izkiraburua		
-izquirac	izquirac	izkirak		
+izquirac	izquirac	izkirak		izkir
 batu	batu	batu	batu	batu
-izquirac	izquirac	izkirak		
+izquirac	izquirac	izkirak		izkir
 otallutu	otallutu	otailutu	otailutu	
-izquirac	izquirac	izkirak		
+izquirac	izquirac	izkirak		izkir
 otallutua	otallutua	otailutua	otailutu	
 izquiraduna	izquiraduna	izkiraduna		
 izquiradundia	izquiradundia	izkiradundia		
@@ -28913,7 +28913,7 @@ landatzallea	landatzallea	landatzailea	landatzaile
 landatzea	landatzea	landatzea		
 landechoa	landechoa	landetxoa		
 landen	landen	landen		
-mugac	mugac	mugak		
+mugac	mugac	mugak		mug
 landerqueria	landerqueria	landerkeria		
 landerquiro	landerquiro	landerkiro		
 landerra	landerra	landerra		
@@ -28976,7 +28976,7 @@ lanzchoa	lanzchoa	lantztxoa
 lapa	lapa	lapa	lapa	lapa
 lapá	lapa	lapa	lapa	lapa
 lapabelarra	lapabelarra	lapabelarra		
-lapac	lapac	lapak		
+lapac	lapac	lapak		lap
 lapago-	lapago-	lapago-		
 laparra	laparra	laparra		
 lapastu	lapastu	lapastu	lapastu	
@@ -29257,7 +29257,7 @@ lasturrina	lasturrina	lasturrina
 lasyatzea	lasyatzea	laxatzea		
 lasyotu	lasyotu	laxotu		
 Lat	Lat	Lat		
-latac	latac	latak		
+latac	latac	latak		lat
 quendu	quendu	kendu	kendu	kendu
 latadu	latadu	latadu		
 latatu	latatu	latatu		
@@ -30341,7 +30341,7 @@ loguirotu	loguirotu	logirotu
 loguirotua	loguirotua	logirotua		
 loguitea	loguitea	logitea		
 logura	logura	logura	logura	logura
-logurac	logurac	logurak		
+logurac	logurac	logurak		logur
 loguratua	loguratua	loguratua	loguratu	
 loi	loi	loi		
 loia	loia	loia		
@@ -30543,7 +30543,7 @@ lotuá	lotua	lotua	lotu	lotu
 lotuguea	lotuguea	lotugea		
 lotura	lotura	lotura	lotura	lotura
 loturá	lotura	lotura	lotura	lotura
-loturac	loturac	loturak		
+loturac	loturac	loturak		lotur
 lotuú	lotuu	lotuu		
 lotuztaya	lotuztaya	lotuztaia		
 lotzalea	lotzalea	lotzalea	lotzale	
@@ -30627,7 +30627,7 @@ lulicurtoncia	lulicurtoncia	lulikurtontzia
 luluratu	luluratu	luluratu	luluratu	
 luma	luma	luma	luma	luma
 lumabaguea	lumabaguea	lumabagea	lumabage	
-lumac	lumac	lumak		
+lumac	lumac	lumak		lum
 quedu	quedu	kedu		
 lumach	lumach	lumatx		
 andia	andia	andia		
@@ -31310,7 +31310,7 @@ marboillaeuia	marboillaeuia	marboilaeuia
 marboillarra	marboillarra	marboilarra		
 marburua	marburua	marburua		
 marca	marca	marka	marka	marka
-marcac	marcac	markak		
+marcac	marcac	markak		mark
 marcar	marcar	markar		
 marcatu	marcatu	markatu	markatu	markatu
 marcatua	marcatua	markatua	markatu	markatu
@@ -31370,7 +31370,7 @@ marquindarra	marquindarra	markindarra
 marquindu	marquindu	markindu		
 marrá	marra	marra	marra	marra
 marra-	marra-	marra-		
-marrac	marrac	marrak		
+marrac	marrac	marrak		marr
 marracoa	marracoa	marrakoa		
 marraguea	marraguea	marragea		
 marrajoa	marrajoa	marrajoa		
@@ -31466,7 +31466,7 @@ masqueltasuna	masqueltasuna	maskeltasuna
 ,	,	,		
 &c	&c	&k		
 masquelua	masquelua	maskelua	maskelu	maskelu
-mastac	mastac	mastak		
+mastac	mastac	mastak		mast
 mastelariac	mastelariac	mastelariak		
 masti	masti	masti	masti	
 berria	berria	berria	berria	berri
@@ -31489,7 +31489,7 @@ bat	bat	bat	bat	bat
 mataderia	mataderia	mataderia		
 matarrata	matarrata	matarrata		
 mataza	mataza	mataza	mataza	mataza
-matazac	matazac	matazak		
+matazac	matazac	matazak		mataz
 lisiban	lisiban	lisiban		
 sartu	sartu	sartu	sartu	sartu
 matazachoa	matazachoa	matazatxoa		
@@ -32557,7 +32557,7 @@ muetazquiro	muetazquiro	muetazkiro
 muga	muga	muga	muga	muga
 mugá	muga	muga	muga	muga
 mugaárriac	mugaarriac	mugaarriak		
-mugac	mugac	mugak		
+mugac	mugac	mugak		mug
 mugacaiztu	mugacaiztu	mugakaiztu		
 mugacoa	mugacoa	mugakoa	mugako	mugako
 mugaguetu	mugaguetu	mugagetu		
@@ -33778,7 +33778,7 @@ obra	obra	obra	obra	obra
 andia	andia	andia		
 da	da	da		
 obrabea	obrabea	obrabea		
-obrac	obrac	obrak		
+obrac	obrac	obrak		obr
 obrachoa	obrachoa	obratxoa		
 obraera	obraera	obraera		
 obraquintza	obraquintza	obrakintza		
@@ -37114,7 +37114,7 @@ poztuna	poztuna	poztuna
 pPaquetzea	pPaquetzea	pPaketzea		
 pper	pper	pper		
 gaicharra	gaicharra	gaitxarra		
-pracac	pracac	prakak		
+pracac	pracac	prakak		prak
 practicante	practicante	practikante		
 praedicaquizuna	praedicaquizuna	praedikakizuna		
 Prebenda	Prebenda	Prebenda		
@@ -37411,7 +37411,7 @@ egoquia	egoquia	egokia	egoki	egoki
 puscá	pusca	puska	puska	puska
 urratuz	urratuz	urratuz		
 josia	josia	josia	josi	josi
-puscac	puscac	puskak		
+puscac	puscac	puskak		pusk
 puscachoa	puscachoa	puskatxoa	puskatxo	
 puscaera	puscaera	puskaera		
 puscaguillea	puscaguillea	puskagilea		
@@ -38182,7 +38182,7 @@ sañiacorra	saniacorra	saniakorra
 sañiacundea	saniacundea	saniakundea		
 Santa	Santa	Santa		
 Clararen	Clararen	Clararen		
-alabac	alabac	alabak		
+alabac	alabac	alabak		alab
 santarra	santarra	santarra		
 santelmoa	santelmoa	santelmoa		
 santidadea	santidadea	santidadea	santidade	
@@ -39943,7 +39943,7 @@ taracea	taracea	tarazea
 tarandoa	tarandoa	tarandoa		
 tarantela-	tarantela-	tarantela-		
 tarantula	tarantula	tarantula	tarantula	tarantula
-tarantulac	tarantulac	tarantulak		
+tarantulac	tarantulac	tarantulak		tarantul
 autsiquia	autsiquia	autsikia		
 tararira	tararira	tararira		
 tarasca	tarasca	taraska		
@@ -39986,7 +39986,7 @@ tellá	tella	teila	teila	teila
 tella	tella	teila	teila	teila
 guisara	guisara	gisara	gisara	
 ifiñia	ifinia	ifinia	ifini	
-tellac	tellac	teilak		
+tellac	tellac	teilak		teil
 quendu	quendu	kendu	kendu	kendu
 tellacada	tellacada	teilakada		
 tellachoa	tellachoa	teilatxoa		
@@ -40321,7 +40321,7 @@ traicicn	traicicn	traizicn
 traicioa	traicioa	traizioa		traizio
 traicion	traicion	traizion		
 traidore	traidore	traidore	traidore	traidore
-erac	erac	erak		
+erac	erac	erak		er
 dituena	dituena	dituena		
 traidore	traidore	traidore	traidore	traidore
 guisa	guisa	gisa	gisa	gisa
@@ -40460,7 +40460,7 @@ trinquetea	trinquetea	trinketea	trinkete
 trinquiña	trinquina	trinkina		
 tripa-saltz	tripa-saltz	tripa-saltz		
 allea	allea	ailea		
-tripac	tripac	tripak		
+tripac	tripac	tripak		trip
 tripandia	tripandia	tripandia	tripandi	
 tripaqnia	tripaqnia	tripaqnia		
 tripaqui	tripaqui	tripaki	tripaki	tripaki
@@ -41946,7 +41946,7 @@ locarriac	locarriac	lokarriak	lokarri	lokarri
 vela	vela	bela	bela	bela
 nagusiaren	nagusiaren	nagusiaren		
 erasquiña	erasquina	eraskina	eraskin	
-velac	velac	belak		
+velac	velac	belak		bel
 lotu	lotu	lotu	lotu	lotu
 velacioac	velacioac	belazioak		
 velairatu	velairatu	belairatu		
@@ -42510,7 +42510,7 @@ zapata	zapata	zapata	zapata	zapata
 batzuec	batzuec	batzuek		
 zapata	zapata	zapata	zapata	zapata
 coscoa	coscoa	koskoa	kosko	kosko
-zapatac	zapatac	zapatak		
+zapatac	zapatac	zapatak		zapat
 janci	janci	jantzi	jantzi	jantzi
 zapatacho	zapatacho	zapatatxo	zapatatxo	
 mee	mee	mee		
