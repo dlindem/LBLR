@@ -9,6 +9,10 @@ with open ('D:/Lab_LAR/Sarasola/sarasola.txt', 'r', encoding='utf-8') as infile:
     sarlemlist = infile.read().split('\n') # reads list entries
 #    print(sarlemlist)
 
+with open ('D:/Lab_LAR/Sarasola/sarasola1745.txt', 'r', encoding='utf-8') as infile:
+    sarlarlemlist = infile.read().split('\n') # reads list entries
+#    print(sarlarlemlist)
+
 with open ('wikidata_basque_lexemes.txt', 'r', encoding='utf-8') as infile:
     wdlemlist = infile.read().split('\n') # reads list entries
 #    print(wdlemlist)
@@ -22,13 +26,14 @@ with open('rules.csv', encoding="utf-8") as csvfile:
         mapdict[row[0]]=row[1]
 
     sarmatches = []
+    sarlarmatches = []
     wdmatches = []
     nomatches = []
 
     print('\nStarted processing...')
 
     with open('egokitor_result_table.csv', 'w', encoding='utf-8') as outfile:
-        outfile.write('LAR_LEMMA\tUNIDECODE\tEGOKITUA\tSARASOLA\tWIKIDATA\n') # csv header row
+        outfile.write('LAR_LEMMA\tUNIDECODE\tEGOKITUA\tSARASOLA\tSARASOLA1745\tWIKIDATA\n') # csv header row
         for oldlem in larlemlist:
             oldnorlem = unidecode(oldlem.rstrip())
             newlem = oldnorlem
@@ -37,6 +42,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 if len(interlem) > 0:
                     newlem = interlem
 #                print(rule+' '+mapdict[rule]+' '+interlem)
+            # look at Sarasola
             if newlem in sarlemlist: # if EGOKITUA is found in SARASOLA
                 sarlem = newlem
             elif newlem[-1] == "a" and newlem[:-1] in sarlemlist: # asks for match if letter "-a" is stripped off from LAR_LEMMA
@@ -47,6 +53,18 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 sarlem = ""
             if sarlem != "":
                 sarmatches.append(sarlem)
+            # look at Sarasola lemmata marked with date "1745"
+            if newlem in sarlarlemlist: # if EGOKITUA is found in SARASOLA1745
+                sarlarlem = newlem
+            elif newlem[-1] == "a" and newlem[:-1] in sarlarlemlist: # asks for match if letter "-a" is stripped off from LAR_LEMMA
+                sarlarlem = newlem[:-1]
+            elif len(newlem) > 3 and newlem[-2] == "a" and newlem[-1] == "k" and newlem[:-2] in sarlemlist: # asks for match if letter "-ak" is stripped off from LAR_LEMMA
+                sarlarlem = newlem[:-2]
+            else:
+                sarlarlem = ""
+            if sarlarlem != "":
+                sarlarmatches.append(sarlarlem)
+            # look at Wikidata
             if newlem in wdlemlist: # if EGOKITUA is found in WIKIDATA
                 wdlem = newlem
             elif newlem[-1] == "a" and newlem[:-1] in wdlemlist: # asks for match if letter "-a" is stripped off from EGOKITUA
@@ -59,14 +77,19 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 wdlem = ""
             if wdlem != "":
                 wdmatches.append(wdlem)
+            # no match >>> nomatchlist
             if sarlem == "" and wdlem == "":
                 nomatches.append({oldlem: newlem})
 
-            outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+wdlem+'\n')
+            outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'\n')
 
     sarmatchset = set(sarmatches)
     with open('egokitor_sarasolamatches.txt', 'w', encoding='utf-8') as outfile:
         for match in sarmatchset:
+            outfile.write(match+'\n')
+    sarlarmatchset = set(sarlarmatches)
+    with open('egokitor_sarasola1745matches.txt', 'w', encoding='utf-8') as outfile:
+        for match in sarlarmatchset:
             outfile.write(match+'\n')
     wdmatchset = set(wdmatches)
     with open('egokitor_wikidatamatches.txt', 'w', encoding='utf-8') as outfile:
