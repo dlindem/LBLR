@@ -9,7 +9,10 @@ ch,tx
 tch,tx
 lz,ltz
 nz,ntz
-rz,rz
+rz,rtz
+rs,rts
+ls,lts
+ns,nts
 ge,je
 gi,ji
 gue,ge
