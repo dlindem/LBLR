@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Usage: python alto_ocr_text.py <altofile>
+# converts Kraken ALTO-XML export to Wikitext, looks at indentation (TextLine HPOS), and applies Wikitext indent markers (":")
 
 import codecs
 import os
@@ -36,17 +36,17 @@ for path, dirs, files in os.walk(alto_dir):
 
                     for altostring in lines.findall('{%s}String' % xmlns):
                         content = altostring.attrib.get('CONTENT') + ' '
-                        wikitxtword = re.sub(r"@([^ \n<]+)", r"''\1''", content)
+                        wikitxtword = re.sub(r"@([^ \n<]+)", r"''\1''", content) # @words to ''words''
                         wikitxtline += wikitxtword
 
 
 
                     if hpos < minhpos+115 and re.search('^[A-Z]', wikitxtline) != None and hpos < lasthpos + 20:
-                        indentchar = ':'
+                        indentchar = ':' # simple indent for lines that start between minhpos and minhpos +115, and start with a capital letter
                     elif hpos < 1000:
-                        indentchar = '::'
+                        indentchar = '::' # double indent for lines that start after minhpos+115 or do not start with a capital letter
                     else:
-                        indentchar = ':::::'
+                        indentchar = ':::::' # five indent markers for lines that start after hpos 1000
 
                     outfile.write('</br>\n'+str(hpos)+' '+indentchar+' '+wikitxtline)
                     lasthpos = hpos
