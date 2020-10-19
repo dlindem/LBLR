@@ -89,19 +89,19 @@ with open('rules.csv', encoding="utf-8") as csvfile:
 
             outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'\n')
     # writes Sarasola matches unique
-    sarmatchset = set(sarlemmatch)
+    sarlemmatchset = set(sarlemmatch)
     with open('egokitor_sarasolamatches_unique.txt', 'w', encoding='utf-8') as outfile:
-        for match in sarmatchset:
-            outfile.write(match+','+'\n')
+        for match in sarlemmatchset:
+            outfile.write(match+'\n')
     sarlarmatchset = set(sarlarlemmatch)
     # writes Sarasola matching pairs
     with open('egokitor_sarasolamatches.csv', 'w', encoding='utf-8') as outfile:
         outfile.write(sarmatches)
     # writes Sarasola1745 matches unique
-    sarlarmatchset = set(sarlarlemmatch)
+    sarlarlemmatchset = set(sarlarlemmatch)
     with open('egokitor_sarasola1745matches_unique.txt', 'w', encoding='utf-8') as outfile:
-        for match in sarlarmatchset:
-            outfile.write(match+','+'\n')
+        for match in sarlarlemmatchset:
+            outfile.write(match+'\n')
     # writes Sarasola1745 matching pairs
     with open('egokitor_sarasola1745matches.csv', 'w', encoding='utf-8') as outfile:
         outfile.write(sarlarmatches)
