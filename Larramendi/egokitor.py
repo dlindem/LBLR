@@ -25,10 +25,13 @@ with open('rules.csv', encoding="utf-8") as csvfile:
         print(row)
         mapdict[row[0]]=row[1]
 
-    sarmatches = []
-    sarlarmatches = []
-    wdmatches = []
-    nomatches = []
+    sarmatches = ""
+    sarlemmatch = []
+    sarlarmatches = ""
+    sarlarlemmatch = []
+    wdmatches = ""
+    wdlemmatch = []
+    nomatches = ""
 
     print('\nStarted processing...')
 
@@ -52,7 +55,8 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             else:
                 sarlem = ""
             if sarlem != "":
-                sarmatches.append(sarlem)
+                sarlemmatch.append(sarlem)
+                sarmatches += sarlem+','+oldlem+'\n'
             # look at Sarasola lemmata marked with date "1745"
             if newlem in sarlarlemlist: # if EGOKITUA is found in SARASOLA1745
                 sarlarlem = newlem
@@ -63,7 +67,8 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             else:
                 sarlarlem = ""
             if sarlarlem != "":
-                sarlarmatches.append(sarlarlem)
+                sarlarlemmatch.append(sarlarlem)
+                sarlarmatches += sarlarlem+','+oldlem+'\n'
             # look at Wikidata
             if newlem in wdlemlist: # if EGOKITUA is found in WIKIDATA
                 wdlem = newlem
@@ -76,26 +81,40 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             else:
                 wdlem = ""
             if wdlem != "":
-                wdmatches.append(wdlem)
+                wdlemmatch.append(wdlem)
+                wdmatches += wdlem+','+oldlem+'\n'
             # no match >>> nomatchlist
             if sarlem == "" and wdlem == "":
-                nomatches.append({oldlem: newlem})
+                nomatches += oldlem+','+newlem+'\n'
 
             outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'\n')
-
-    sarmatchset = set(sarmatches)
-    with open('egokitor_sarasolamatches.txt', 'w', encoding='utf-8') as outfile:
+    # writes Sarasola matches unique
+    sarmatchset = set(sarlemmatch)
+    with open('egokitor_sarasolamatches_unique.txt', 'w', encoding='utf-8') as outfile:
         for match in sarmatchset:
-            outfile.write(match+'\n')
-    sarlarmatchset = set(sarlarmatches)
-    with open('egokitor_sarasola1745matches.txt', 'w', encoding='utf-8') as outfile:
+            outfile.write(match+','+'\n')
+    sarlarmatchset = set(sarlarlemmatch)
+    # writes Sarasola matching pairs
+    with open('egokitor_sarasolamatches.csv', 'w', encoding='utf-8') as outfile:
+        outfile.write(sarmatches)
+    # writes Sarasola1745 matches unique
+    sarlarmatchset = set(sarlarlemmatch)
+    with open('egokitor_sarasola1745matches_unique.txt', 'w', encoding='utf-8') as outfile:
         for match in sarlarmatchset:
+            outfile.write(match+','+'\n')
+    # writes Sarasola1745 matching pairs
+    with open('egokitor_sarasola1745matches.csv', 'w', encoding='utf-8') as outfile:
+        outfile.write(sarlarmatches)
+    # writes wikidata matches unique
+    wdlemmatchset = set(wdlemmatch)
+    with open('egokitor_wikidatamatches_unique.txt', 'w', encoding='utf-8') as outfile:
+        for match in wdlemmatchset:
             outfile.write(match+'\n')
-    wdmatchset = set(wdmatches)
-    with open('egokitor_wikidatamatches.txt', 'w', encoding='utf-8') as outfile:
-        for match in wdmatchset:
-            outfile.write(match+'\n')
-    with open('egokitor_nomatches.txt', 'w', encoding='utf-8') as outfile:
-        outfile.write(str(nomatches))
+    # writes Wikidata matching pairs
+    with open('egokitor_wikidatamatches.csv', 'w', encoding='utf-8') as outfile:
+        outfile.write(wdmatches)
+    # writes nomatchlist
+    with open('egokitor_nomatches.csv', 'w', encoding='utf-8') as outfile:
+        outfile.write(nomatches)
 
 print('Finished.')
