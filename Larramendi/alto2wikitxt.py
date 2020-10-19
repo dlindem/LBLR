@@ -27,7 +27,7 @@ for path, dirs, files in os.walk(alto_dir):
                 for lines in tree.iterfind('.//{%s}TextLine' % xmlns):
                     hpos= int(lines.attrib.get('HPOS'))
                     if hpos < minhpos:
-                        minhpos = hpos
+                        minhpos = hpos # finds line with least indent
                 print('minhpos in '+xmlfile+' is '+str(minhpos))
                 for lines in tree.iterfind('.//{%s}TextLine' % xmlns):
                     hpos= int(lines.attrib.get('HPOS'))
