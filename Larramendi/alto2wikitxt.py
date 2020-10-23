@@ -36,7 +36,7 @@ for path, dirs, files in os.walk(alto_dir):
 
                     for altostring in lines.findall('{%s}String' % xmlns):
                         content = altostring.attrib.get('CONTENT') + ' '
-                        wikitxtword = re.sub(r"@([^ \n<]+)", r"''\1''", content) # @words to ''words''
+                        wikitxtword = re.sub(r"@([^ \n\.,;\?:<]+)", r"''\1''", content) # @words to ''words''. Words end with space, EOL, "<", or interpunction
                         wikitxtline += wikitxtword
 
 
@@ -48,7 +48,7 @@ for path, dirs, files in os.walk(alto_dir):
                     else:
                         indentchar = ':::::' # five indent markers for lines that start after hpos 1000
 
-                    outfile.write('</br>\n'+str(hpos)+' '+indentchar+' '+wikitxtline)
+                    outfile.write('</br>\n'+indentchar+wikitxtline)
                     lasthpos = hpos
 
 
