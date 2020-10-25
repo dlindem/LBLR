@@ -21,7 +21,7 @@ with open ('wikidata_basque_lexemes.txt', 'r', encoding='utf-8') as infile:
 #    print(wdlemlist)
 with open (home+'/Lab_LAR/OEH/oeh_lemak_egok.txt', 'r', encoding='utf-8') as infile:
     oehlemlist = infile.read().replace('_', ' ').split('\n') # reads list entries, converts "_" hyphen-or-space normalization into space
-#    print(wdlemlist)
+    print(oehlemlist)
 
 with open('rules.csv', encoding="utf-8") as csvfile:
     mapping = csv.reader(csvfile, delimiter=",") # reads replace rules
@@ -113,7 +113,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             if sarlem == "" and wdlem == "" and oehlem =="":
                 nomatches += oldlem+','+newlem+'\n'
 
-            outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'t'+oehlem+'\n')
+            outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'\t'+oehlem+'\n')
     # writes Sarasola matches unique
     sarlemmatchset = set(sarlemmatch)
     with open('egokitor_sarasolamatches_unique.txt', 'w', encoding='utf-8') as outfile:
