@@ -36,13 +36,19 @@ with open('spegokitor_result_table.csv', 'w', encoding='utf-8') as outfile:
 
 
 
-# writes matchlist
+# writes matchlist: items that appear in both lists
 matchset = sorted(set(matches))
-with open('spegokitor_matches.csv', 'w', encoding='utf-8') as outfile:
+with open('spegokitor_LAR_and_DA.txt', 'w', encoding='utf-8') as outfile:
     for match in matchset:
         outfile.write(match+'\n')
-# writes nomatchlist
-with open('spegokitor_nomatches.csv', 'w', encoding='utf-8') as outfile:
+# writes list of LAR items not in DA
+with open('spegokitor_LAR_not_DA.csv', 'w', encoding='utf-8') as outfile:
     outfile.write('LAR_LEMMA\tEGOKITUA\tFAILED_MATCH\n'+nomatches)
+# writes list of DA items not in LAR
+with open('spegokitor_DA_not_LAR.txt', 'w', encoding='utf-8') as outfile:
+    for dalem in dalemlist:
+        if dalem not in matchset:
+            outfile.write(dalem+'\n')
+
 
 print('Finished.')
