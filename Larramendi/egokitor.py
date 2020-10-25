@@ -1,20 +1,26 @@
 from unidecode import unidecode
 import csv
 import re
+from os.path import expanduser
+home = expanduser("~")
 
 with open ('larbasque.txt', 'r', encoding='utf-8') as infile:
-    larlemlist = infile.read().replace(' ','\n').split('\n') # splits basque multiwords into lines, and reads words into list
+    #larlemlist = infile.read().replace(' ','\n').split('\n') # splits basque multiwords into lines, and reads words into list
+    larlemlist = infile.read().split('\n') # reads words into list
 
-with open ('D:/Lab_LAR/Sarasola/sarasola.txt', 'r', encoding='utf-8') as infile:
+with open (home+'/Lab_LAR/Sarasola/sarasola.txt', 'r', encoding='utf-8') as infile:
     sarlemlist = infile.read().split('\n') # reads list entries
 #    print(sarlemlist)
 
-with open ('D:/Lab_LAR/Sarasola/sarasola1745.txt', 'r', encoding='utf-8') as infile:
+with open (home+'/Lab_LAR/Sarasola/sarasola1745.txt', 'r', encoding='utf-8') as infile:
     sarlarlemlist = infile.read().split('\n') # reads list entries
 #    print(sarlarlemlist)
 
 with open ('wikidata_basque_lexemes.txt', 'r', encoding='utf-8') as infile:
     wdlemlist = infile.read().split('\n') # reads list entries
+#    print(wdlemlist)
+with open (home+'/Lab_LAR/OEH/oeh_lemak_egok.txt', 'r', encoding='utf-8') as infile:
+    oehlemlist = infile.read().replace('_', ' ').split('\n') # reads list entries, converts "_" hyphen-or-space normalization into space
 #    print(wdlemlist)
 
 with open('rules.csv', encoding="utf-8") as csvfile:
@@ -31,6 +37,8 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     sarlarlemmatch = []
     wdmatches = ""
     wdlemmatch = []
+    oehmatches = ""
+    oehlemmatch = []
     nomatches = ""
 
     print('\nStarted processing...')
@@ -83,8 +91,22 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             if wdlem != "":
                 wdlemmatch.append(wdlem)
                 wdmatches += wdlem+','+oldlem+'\n'
+            # look at OEH
+            if newlem in wdlemlist: # if EGOKITUA is found in OEH
+                oehlem = newlem
+            elif newlem[-1] == "a" and newlem[:-1] in oehlemlist: # asks for match if letter "-a" is stripped off from EGOKITUA
+                oehlem = newlem[:-1]
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in oehlemlist: # asks for match if letter "-k" is stripped off from EGOKITUA finishing with "-ak"
+                oehlem = newlem[:-2]
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in oehlemlist: # asks for match if letter "-ak" is stripped off from EGOKITUA
+                oehlem = newlem[:-2]
+            else:
+                oehlem = ""
+            if oehlem != "":
+                oehlemmatch.append(wdlem)
+                oehmatches += oehlem+','+oldlem+'\n'
             # no match >>> nomatchlist
-            if sarlem == "" and wdlem == "":
+            if sarlem == "" and wdlem == "" and oehlem =="":
                 nomatches += oldlem+','+newlem+'\n'
 
             outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'\n')
@@ -113,6 +135,14 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     # writes Wikidata matching pairs
     with open('egokitor_wikidatamatches.csv', 'w', encoding='utf-8') as outfile:
         outfile.write(wdmatches)
+    # writes OEH matches unique
+    oehlemmatchset = set(oehlemmatch)
+    with open('egokitor_oehmatches_unique.txt', 'w', encoding='utf-8') as outfile:
+        for match in oehlemmatchset:
+            outfile.write(match+'\n')
+    # writes OEH matching pairs
+    with open('egokitor_oehmatches.csv', 'w', encoding='utf-8') as outfile:
+        outfile.write(oehmatches)
     # writes nomatchlist
     with open('egokitor_nomatches.csv', 'w', encoding='utf-8') as outfile:
         outfile.write(nomatches)

@@ -1,3 +1,4 @@
+
 jaiotza
 bizigarri
 patruilatu
@@ -68,7 +69,6 @@ tentaldi
 ibilera
 tonto
 desegoki
-alertze
 landu
 urdindu
 arkanbele
@@ -95,7 +95,6 @@ zitara
 zur
 zoko
 erosi
-biguntasun
 edoski
 galdetzaile
 arotu
@@ -110,7 +109,6 @@ itsatsi
 zorte
 mugitu
 erori
-emagarri
 mailu
 menperatu
 teilatu
@@ -122,7 +120,6 @@ sufritu
 aldatu
 barrunbe
 mantal
-ospil
 alanbre
 ezdeustu
 mende
@@ -205,16 +202,14 @@ jostura
 ase
 lizun
 mailukada
-pertz
 kaltetsu
 argiontzi
 gogoan jo
 zenbatezin
 garbitoki
-pasagarri
+zori
 neke
 oratu
-zori
 gaizkiagotu
 amama
 areriotasun
@@ -224,7 +219,6 @@ imitatzaile
 garraiatu
 gorputz
 beilegi
-karter
 galtzapen
 beretu
 goren
@@ -238,7 +232,6 @@ borda
 erroitz
 erretzaile
 larritu
-hirurteko
 mamitsu
 txerritoki
 zigorrada
@@ -321,10 +314,9 @@ birla
 ezkontza
 zumardi
 itzali
-izerkari
 logur
-desordu
 uso
+desordu
 karobi
 domeka
 oin
@@ -385,9 +377,8 @@ pasealeku
 urin
 belu
 txalmatu
-sabelki
-eramangarri
 sumindu
+eramangarri
 gomendatu
 zeuretu
 fits
@@ -449,7 +440,6 @@ inguru
 piper
 erreskate
 tomo
-tapiz
 toreatzaile
 kopa
 egun
@@ -494,7 +484,6 @@ istinga
 bizartsu
 lagundu
 ito
-gonazpiko
 iragarri
 errementari
 alfer
@@ -544,7 +533,6 @@ sarraila
 berdura
 kala
 zilargile
-trobalari
 itsasbide
 karmintasun
 kontrapisu
@@ -649,13 +637,12 @@ laburgarri
 ardura
 ordetu
 balekume
-menpeko
+pausa
 berritasun
 orain
-pausa
 salbia
-pagatu
 zabaltasun
+pagatu
 zurra
 bitarteko
 barkazio
@@ -685,7 +672,6 @@ kortesia
 gau
 arindu
 erabaki
-iraintsu
 irteera
 zolda
 egiztatu
@@ -696,7 +682,6 @@ jauregi
 hitzaurre
 partikular
 zabarkeria
-zortzidun
 deigarri
 deserritu
 aldaira
@@ -756,10 +741,9 @@ gain
 urteurren
 aldeko
 izu
-ante
+meza
 aunatu
 kaltedun
-meza
 galtzada
 urri
 argaldu
@@ -894,7 +878,6 @@ ikustatu
 tristetu
 kontratu
 aldaratu
-errentari
 olata
 egorri
 azpildura
@@ -920,12 +903,10 @@ burutazio
 desantolatu
 apatz
 aste
-errebote
-aberetu
 orpo
+aberetu
 gazitasun
 biltzaile
-pikatzaile
 pozkida
 gurtu
 ametsetako
@@ -1041,7 +1022,6 @@ albaka
 loratu
 lotur
 urritasun
-alboko
 bekar
 giro
 karrera
@@ -1121,7 +1101,6 @@ airos
 odolustu
 bikario
 malba
-iraupen
 jakingarri
 larre
 gogortasun
@@ -1240,9 +1219,8 @@ portu
 baiezko
 azotatu
 hunkitu
-masail
-ziazerba
 putakume
+ziazerba
 tiratu
 gozakaitz
 karnaba
@@ -1260,7 +1238,6 @@ ze
 antsikabe
 arraun
 aitortu
-estropezu
 sakeatu
 ureztatu
 ele
@@ -1278,7 +1255,6 @@ ostikada
 prestamen
 ganbara
 sarbide
-sabelaldi
 urrikitu
 errespetatu
 zezenko
@@ -1307,7 +1283,6 @@ borta
 alkate
 irten
 asun
-agerpen
 luzagarri
 intziri
 loreztatu
@@ -1347,7 +1322,6 @@ ubel
 profeta
 bizitegi
 tximino
-basarto
 musikatu
 zeregin
 baietz
@@ -1399,7 +1373,6 @@ karmindu
 errenkada
 ezeztu
 mizke
-baliakizun
 egia
 bolea
 zokoratu
@@ -1442,7 +1415,6 @@ giltza
 on egin
 arrakad
 urtzaile
-sotarri
 gozo
 amultsu
 garagar
@@ -1504,7 +1476,6 @@ zapo
 bizkondesa
 txakurkume
 zimendu
-burruntzali
 petardo
 letagin
 agindu
@@ -1570,11 +1541,10 @@ bandatu
 damasko
 tratulari
 arranpa
-bigun
 txiki
 egiaztatu
-intentzio
 linburtu
+intentzio
 borrero
 asmazio
 zartada
@@ -1645,7 +1615,6 @@ azaldu
 koipetsu
 birikeri
 negargarri
-ablatibo
 pobre
 altzo
 tu
@@ -1673,7 +1642,6 @@ txerriki
 jarraigo
 erakarri
 larreratu
-kixote
 makilada
 gazitu
 errestatu
@@ -1686,8 +1654,6 @@ kemendu
 zuhurtzia
 urrun
 ezkabia
-masaileko
-matrail
 tarantula
 astearte
 dolare
@@ -1708,7 +1674,6 @@ garaile
 dangada
 gainditu
 begizkoa egin
-matraileko
 sala
 solo
 mordo
@@ -1751,7 +1716,6 @@ oroitza
 likiskeria
 sukalde
 samintasun
-txolarte
 goiti
 motxila
 patena
@@ -1790,12 +1754,10 @@ baratxuri
 artelazki
 nekaldi
 ondo
-angaril
 garestitu
 abere
 bertsio
 fiskal
-txilibitu
 araudun
 atzerapen
 estudiante
@@ -1854,7 +1816,6 @@ ergel
 itzatu
 frak
 jirabiratu
-pregoilari
 presondegi
 erdietsi
 errebotatu
@@ -1878,7 +1839,6 @@ kota
 ohoin
 euskaldun
 mindu
-betibizi
 arkume
 nagi
 kizkurtu
@@ -1912,7 +1872,6 @@ biztu
 nekatu
 sari
 seta
-erraki
 kontatzaile
 predikari
 barkamen
@@ -1946,7 +1905,6 @@ zerr
 egoera
 kasu
 jantzi
-sarleku
 askaera
 otzan
 entregatu
@@ -2037,7 +1995,6 @@ estalpe
 gorro
 gorrotatu
 kalkatu
-sorki
 saskiratu
 mintzo
 balakari
@@ -2047,7 +2004,6 @@ nagitasun
 ganga
 eztitasun
 osatu
-astintzaile
 sorgindu
 amesgile
 kolokatu
@@ -2162,7 +2118,6 @@ malgu
 arautu
 oi
 zurrupatu
-itsumutil
 sabeldarraio
 aldats
 kontseilu
@@ -2171,7 +2126,6 @@ zoli
 arrimu
 sandalo
 promestu
-koke
 sangria
 sorbete
 alargundu
@@ -2230,7 +2184,6 @@ traza
 alokairu
 iritxi
 seilatu
-giltzurrun
 estali
 motibo
 mugape
@@ -2328,7 +2281,6 @@ elikatu
 urreztatu
 mendekatzaile
 kontaezin
-kakeri
 ezinegon
 iletsu
 zapuztu
@@ -2432,7 +2384,6 @@ areriotu
 euli
 akara
 sutu
-irrizkin
 afaltegi
 kirastu
 karga
@@ -2455,7 +2406,6 @@ irain
 azpiratu
 manatu
 lasaigarri
-turbante
 emon
 egikaritu
 bultza
@@ -2484,7 +2434,6 @@ etsitu
 adiskide
 marrega
 txistatu
-apaizgo
 itsutasun
 artxo
 jautsi
@@ -2500,7 +2449,6 @@ erregute
 azken
 txanel
 txoratu
-sagarrondo
 aingira
 plaza
 moldura
@@ -2513,13 +2461,11 @@ etorki
 beirate
 zorri
 lanperna
-tiragale
 diamante
 zangarte
 iragazi
 estudio
 metatzaile
-permatu
 premiazko
 deabru
 iluntasun
@@ -2541,7 +2487,6 @@ alabatu
 giristino
 maia
 lotsagarri
-alokatzaile
 azkon
 desarmatu
 kartoi
@@ -2562,7 +2507,6 @@ ugatz
 anaia
 etendura
 edo
-etsaigo
 denda
 miragarri
 frogatu
@@ -2638,7 +2582,6 @@ badia
 probetxu
 kargatu
 maingutu
-gogoan izan
 menderatu
 tristatu
 aita
@@ -2657,7 +2600,6 @@ paleta
 ladino
 feri
 jakite
-tamarindo
 sinu
 zaldun
 zuzkidura
@@ -2823,13 +2765,11 @@ zimel
 ezarri
 jarri
 suertatu
-isiltasun
 burl
 buru
 bukaera
 eritu
 mundu
-pikart
 segada
 zerratoki
 uztaldi
@@ -2885,7 +2825,6 @@ zuzendari
 seintzain
 zimurtu
 alarguntza
-burko
 astakeria
 beiraki
 frogantza
@@ -3017,7 +2956,6 @@ kili
 sorrera
 egitura
 goaitatu
-eskalatzaile
 kaskamotz
 jatorrizko
 dantza
@@ -3120,7 +3058,6 @@ tasatu
 trinkatu
 golde
 saiakera
-etendu
 zuzendu
 garraio
 pilatzaile
@@ -3166,7 +3103,6 @@ borratu
 lista
 zaplada
 astun
-ilegorri
 autortu
 urrintsu
 seindun
@@ -3174,7 +3110,6 @@ txukundu
 artelatz
 zirritu
 ekarri
-tinbalari
 prentsatu
 adarkatu
 eratu
@@ -3193,7 +3128,6 @@ suerte
 estaltzaile
 barnatu
 alargun
-borbor
 sarealdi
 edari
 ikasle
@@ -3298,7 +3232,6 @@ bizkonde
 erroi
 dirualdi
 lastima
-pospolin
 atari
 bisita
 betetzaile
@@ -3365,7 +3298,6 @@ auzilari
 salgarri
 lozorro
 bizitu
-aloger
 ezegoki
 edertu
 alaitu
@@ -3397,7 +3329,6 @@ jazarri
 mendekari
 janaritu
 akabera
-kantziler
 gargara
 gastatzaile
 manera
@@ -3412,10 +3343,8 @@ jabetu
 premia
 alfertasun
 irudipen
-kafeontzi
 azpiko
 goragarri
-estutasun
 gogoangarri
 gaiztakeria
 pelikano
@@ -3489,10 +3418,9 @@ erregarri
 teila
 eraztu
 jan
-errekargu
+zazpi
 arditegi
 urritu
-zazpi
 gaixotu
 atezain
 ematu
@@ -3500,12 +3428,10 @@ bordari
 biluzi
 irozkai
 mendre
-ezkonge
 mokordo
 parada
 partida
 bakailao
-barri
 izozte
 botin
 lika
@@ -3534,12 +3460,10 @@ zuzenbide
 atzeneko
 seme
 zapatu
-bitar
 komediante
 anparatu
 andere
 pertsegitu
-sobratu
 karreatu
 gorrina
 apain
@@ -3548,7 +3472,6 @@ largatu
 begirale
 makartsu
 trafiko
-merkatalgo
 moztu
 biltze
 mariskal
@@ -3603,7 +3526,6 @@ ozendu
 jale
 bastoi
 leundu
-elbarritasun
 zabu
 estudiatu
 konpondu
