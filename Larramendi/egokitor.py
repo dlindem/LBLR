@@ -44,7 +44,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     print('\nStarted processing...')
 
     with open('egokitor_result_table.csv', 'w', encoding='utf-8') as outfile:
-        outfile.write('LAR_LEMMA\tUNIDECODE\tEGOKITUA\tSARASOLA\tSARASOLA1745\tWIKIDATA\n') # csv header row
+        outfile.write('LAR_LEMMA\tUNIDECODE\tEGOKITUA\tSARASOLA\tSARASOLA1745\tWIKIDATA\tOEH\n') # csv header row
         for oldlem in larlemlist:
             oldnorlem = unidecode(oldlem.rstrip())
             newlem = oldnorlem
@@ -58,7 +58,9 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 sarlem = newlem
             elif newlem[-1] == "a" and newlem[:-1] in sarlemlist: # asks for match if letter "-a" is stripped off from LAR_LEMMA
                 sarlem = newlem[:-1]
-            elif len(newlem) > 3 and newlem[-2] == "a" and newlem[-1] == "k" and newlem[:-2] in sarlemlist: # asks for match if letter "-ak" is stripped off from LAR_LEMMA
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in sarlemlist: # asks for match if letter "-k" is stripped off from LAR_LEMMA
+                sarlem = newlem[:-2]
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in sarlemlist: # asks for match if letter "-ak" is stripped off from EGOKITUA
                 sarlem = newlem[:-2]
             else:
                 sarlem = ""
@@ -70,7 +72,9 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 sarlarlem = newlem
             elif newlem[-1] == "a" and newlem[:-1] in sarlarlemlist: # asks for match if letter "-a" is stripped off from LAR_LEMMA
                 sarlarlem = newlem[:-1]
-            elif len(newlem) > 3 and newlem[-2] == "a" and newlem[-1] == "k" and newlem[:-2] in sarlemlist: # asks for match if letter "-ak" is stripped off from LAR_LEMMA
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in sarlarlemlist: # asks for match if letter "-k" is stripped off from LAR_LEMMA
+                sarlarlem = newlem[:-2]
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in sarlarlemlist: # asks for match if letter "-ak" is stripped off from EGOKITUA
                 sarlarlem = newlem[:-2]
             else:
                 sarlarlem = ""
@@ -109,7 +113,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             if sarlem == "" and wdlem == "" and oehlem =="":
                 nomatches += oldlem+','+newlem+'\n'
 
-            outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'\n')
+            outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'t'+oehlem+'\n')
     # writes Sarasola matches unique
     sarlemmatchset = set(sarlemmatch)
     with open('egokitor_sarasolamatches_unique.txt', 'w', encoding='utf-8') as outfile:
