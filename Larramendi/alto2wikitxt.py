@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# converts Kraken ALTO-XML export to Wikitext, looks at indentation (TextLine HPOS), and applies Wikitext indent markers (":")
+# converts Larramendi dictionary Kraken ALTO-XML export to Wikitext, looks at indentation (TextLine HPOS), and applies Wikitext indent markers (":")
 
 import codecs
 import os
@@ -10,6 +10,8 @@ import re
 alto_dir = "D:/Lab_LAR/ALTO"
 wtxt_dir = "D:/Lab_LAR/WTXT"
 
+spanishlem = ''
+spanishlemdir = 'D:/Lab_LAR/SpanishLem'
 
 for path, dirs, files in os.walk(alto_dir):
     for file in files:
@@ -43,6 +45,7 @@ for path, dirs, files in os.walk(alto_dir):
 
                     if hpos < minhpos+115 and re.search('^[A-Z]', wikitxtline) != None and hpos < lasthpos + 20:
                         indentchar = ':' # simple indent for lines that start between minhpos and minhpos +115, and start with a capital letter
+                        spanishlem += re.sub(" +$", "", re.sub(r"(^[^,\.']+).*", r"\1", wikitxtline))+"\n"
                     elif hpos < 1000:
                         indentchar = '::' # double indent for lines that start after minhpos+115 or do not start with a capital letter
                     else:
@@ -54,3 +57,7 @@ for path, dirs, files in os.walk(alto_dir):
 
             else:
                 print('ERROR: Not a valid ALTO file (namespace declaration missing)')
+
+
+with open(spanishlemdir+'/'+'LAR_spanish_lem.txt', 'w', encoding='utf-8') as outfile:
+    outfile.write(spanishlem)
