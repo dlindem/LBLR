@@ -61,7 +61,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 sarlem = newlem[:-1]
             elif len(newlem) > 3 and newlem[-3]+newlem[-2]+newlem[-1] == "rra" and newlem[:-2] in sarlemlist: # asks for match if r"-ra" is stripped off from EGOKITUA finishing with "-ak"
                 sarlem = newlem[:-2]
-            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in sarlemlist: # asks for match if "-k" is stripped off from LAR_LEMMA
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in sarlemlist: # asks for match if "-k" is stripped off from EGOKITUA
                 sarlem = newlem[:-2]
             elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in sarlemlist: # asks for match if "-ak" is stripped off from EGOKITUA
                 sarlem = newlem[:-2]
@@ -79,7 +79,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 sarlarlem = newlem[:-1]
             elif len(newlem) > 3 and newlem[-3]+newlem[-2]+newlem[-1] == "rra" and newlem[:-2] in sarlarlemlist: # asks for match if r"-ra" is stripped off from EGOKITUA finishing with "-ak"
                 sarlarlem = newlem[:-2]
-            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in sarlarlemlist: # asks for match if "-k" is stripped off from LAR_LEMMA
+            elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in sarlarlemlist: # asks for match if "-k" is stripped off from EGOKITUA
                 sarlarlem = newlem[:-2]
             elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in sarlarlemlist: # asks for match if "-ak" is stripped off from EGOKITUA
                 sarlarlem = newlem[:-2]
