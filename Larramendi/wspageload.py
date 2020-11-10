@@ -11,6 +11,7 @@ for pagenum in range(1656): # Larramendi_1745_dictionary_body.pdf has 1656 pages
     print('\n...that was JSON version of page number '+str(pagenum+1)+'\n')
     time.sleep(1)
 print(str(pagedict))
+
 with open('D:/Lab_LAR/pagedict.json', 'w', encoding="utf-8") as json_file:
 	json.dump(pagedict, json_file, ensure_ascii=False, indent=2)
 print('Finished and saved to JSON file.')
