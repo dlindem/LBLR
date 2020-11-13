@@ -25,10 +25,12 @@ for sarrera in sarrerak:
 
         basquedict[esburu] = {}
         sarrera = re.sub(r'\- *\'\' *\n:*\'\'', '', sarrera) # join end-of-line-hyphened italics words
+        sarrera = re.sub(r'\n:+' ,' ', sarrera) # join lines, eliminate indent markers
         basques = re.findall(r'\'\'[^\']+\'\'', sarrera)
         for n in range(len(basques)):
             basques[n] = basques[n].replace("'", "")
             basquedict[esburu]['candidates'] = basques
+
 
 #print(sarrerak)
 
