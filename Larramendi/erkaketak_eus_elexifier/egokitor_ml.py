@@ -48,7 +48,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     with open('egokitor_result_table.csv', 'w', encoding='utf-8') as outfile:
         outfile.write('LAR_LEMMA\tUNIDECODE\tEGOKITUA\tSARASOLA\tSARASOLA1745\tWIKIDATA\tOEH\n') # csv header row
         for line in larlemlist:
-            if re.match(r"[^\t]+\t", line):
+            if re.match(r"[^\t]+\t", line): # if sarrera has a translation
                 splitline = line.split('\t')
                 print(splitline)
                 oldlem = splitline[0]
