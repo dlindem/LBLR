@@ -35,7 +35,7 @@ with open('spegokitor_result_table.csv', 'w', encoding='utf-8') as outfile:
             homnr = 1
         else:
             homnr = homnr.group(0)
-        anchor = 'https://eu.wikisource.org/wiki/Hiztegi_Hirukoitza/'+sarrera[0]+'#'+sarrera
+        anchor = 'https://eu.wikisource.org/wiki/Hiztegi_Hirukoitza/'+sarrera[0].upper()+'#'+sarrera
         # get Basque equiv. candidates
         candidates = pagedict[sarrera].get('candidates')
 

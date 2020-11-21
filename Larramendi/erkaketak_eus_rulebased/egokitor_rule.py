@@ -6,7 +6,7 @@ import json
 #home = expanduser("~")
 home = "D:"
 
-with open ('reversedict.json', 'r', encoding='utf-8') as infile:
+with open (home+'/Lab_LAR/reversedict.json', 'r', encoding='utf-8') as infile:
 
     reversedict = json.load(infile)
 
@@ -49,9 +49,9 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     print('\nWorking...')
 
     with open('egokitor_result_table.csv', 'w', encoding='utf-8') as outfile:
-        outfile.write('LAR_EUS_EGOK\tLAR_EUS_UNIDECODE\tLAR_EUS_ORIG\tSARASOLA\tSARASOLA1745\tWIKIDATA\tOEH\n') # csv header row
+        outfile.write('LAR_EUS_EGOK\tLAR_EUS_UNIDECODE\tLAR_EUS_ORIG\tSARASOLA\tSARASOLA1745\tWIKIDATA\tOEH\tOEHLINK\n') # csv header row
         for oldlem in reversedict:
-            oldnorlem = unidecode(oldlem.rstrip())
+            oldnorlem = unidecode(oldlem.replace('ñ', '_')).replace('_', 'ñ').rstrip()
             newlem = oldnorlem
             for rule in mapdict:
                 interlem = re.sub(rule, mapdict[rule], newlem)
@@ -63,7 +63,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 exportdict[newlem] = {}
             exportdict[newlem][oldlem] = {'unidecode' : newlem, 'sarrerak': reversedict[oldlem]['sarrerak']}
             for sarrera in reversedict[oldlem]['sarrerak']:
-                nlsarrerakcsv += newlem+'\t'+sarrera+'\thttps://eu.wikisource.org/wiki/Hiztegi_Hirukoitza/'+sarrera[0]+'#'+sarrera+'\n'
+                nlsarrerakcsv += newlem+'\t'+sarrera+'\thttps://eu.wikisource.org/wiki/Hiztegi_Hirukoitza/'+sarrera[0].upper()+'#'+sarrera+'\n'
             # look at Sarasola
             if newlem in sarlemlist: # if EGOKITUA is found in SARASOLA
                 sarlem = newlem
@@ -139,8 +139,10 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                 oehlem = newlem[:-3]
             else:
                 oehlem = ""
+                oehlink = ""
             if oehlem != "":
                 oehlemmatch.append(oehlem)
+                oehlink = 'https://www.euskaltzaindia.eus/index.php?option=com_oehberria&task=bilaketa&Itemid=413&lang=eu&query='+oehlem
                 oehmatches += oehlem+','+oldlem+'\n'
                 reversedict[oldlem]['oeh'] = oehlem
                 exportdict[newlem][oldlem]['oeh'] = oehlem
@@ -148,7 +150,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             if sarlem == "" and wdlem == "" and oehlem =="":
                 nomatches += oldlem+','+newlem+'\n'
 
-            outfile.write(newlem+'\t'+oldnorlem+'\t'+oldlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'\t'+oehlem+'\n') # write to result csv
+            outfile.write(newlem+'\t'+oldnorlem+'\t'+oldlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'\t'+oehlem+'\t'+oehlink+'\n') # write to result csv
 
     # writes Sarasola matches unique
     sarlemmatchset = set(sarlemmatch)
@@ -187,7 +189,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     with open('egokitor_nomatches.csv', 'w', encoding='utf-8') as outfile:
         outfile.write(nomatches)
     # write result dict (key is original form)
-    with open('resultdict.json', 'w', encoding="utf-8") as json_file:
+    with open(home+'/Lab_LAR/resultdict.json', 'w', encoding="utf-8") as json_file:
     	json.dump(reversedict, json_file, ensure_ascii=False, indent=2)
     # write export dict (key is adapted form, according to rules.csv)
     with open('exportdict.json', 'w', encoding="utf-8") as json_file:

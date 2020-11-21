@@ -11,7 +11,7 @@ basqueitems = {}
 for sarrera in pagedict:
 	candidates = pagedict[sarrera].get('candidates')
 	if candidates != None:
-		
+
 		for n in range(len(candidates)):
 			if candidates[n] not in basqueitems:
 				basqueitems[candidates[n]] = {'sarrerak':[sarrera]}
@@ -22,6 +22,6 @@ for sarrera in pagedict:
 
 
 
-with open('reversedict.json', 'w', encoding="utf-8") as json_file:
+with open('D:/Lab_LAR/reversedict.json', 'w', encoding="utf-8") as json_file:
 	json.dump(basqueitems, json_file, ensure_ascii=False, indent=2)
 print('Finished and saved to JSON file.')

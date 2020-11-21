@@ -149,6 +149,7 @@ abridero
 abridor
 abrigado
 abrigar
+abrigaño
 abrigo
 abril
 abrir
@@ -162,6 +163,7 @@ abroquelado
 abroquelarse
 abrotano
 abrumar
+absceso
 absentarse
 absolucion
 absolutamente
@@ -196,6 +198,7 @@ aburrir
 abusar
 abuso
 abutarda
+abuñuelar
 abyeccion
 aca
 acaba
@@ -220,6 +223,7 @@ acallado
 acallar
 acalorado
 acalorar
+acaloñar
 acampado
 acampamento
 acampar
@@ -264,8 +268,15 @@ acaudellar
 acaudillado
 acaudillador
 acaudillar
+acañoneado
+acañonear
 accelerar
 accentuar
+accesible
+accesion
+acceso
+accesoriamente
+accesorio
 accidentado
 accidental
 accidentalmente
@@ -327,6 +338,7 @@ acetreria
 acetrero
 acezar
 acezo
+aceña
 achacosamente
 achacoso
 achaparrado
@@ -395,6 +407,10 @@ acomodado
 acomodamiento
 acomodar
 acomodarse
+acompañado
+acompañador
+acompañamiento
+acompañar
 acomplexionado
 aconchadillo
 aconchar
@@ -498,6 +514,9 @@ acusado
 acusador
 acusar
 acutangulo
+acuñado
+acuñador
+acuñar
 ad
 adafina
 adagio
@@ -528,6 +547,7 @@ adelfa
 adelgazado
 adelgazar
 adelgazarse
+adeliñarse
 ademan
 ademas
 adensar
@@ -583,6 +603,7 @@ admiracion
 admirado
 admirar
 admirarse
+admision
 admitido
 admitir
 admonicion
@@ -667,6 +688,7 @@ afan
 afanado
 afanar
 afascalar
+afaño
 afeado
 afeador
 afear
@@ -817,6 +839,7 @@ agraz
 agregacion
 agregado
 agregar
+agresor
 agreste
 agrete
 agriamente
@@ -859,6 +882,7 @@ aguijar
 aguijon
 aguijonear
 aguila
+aguileño
 aguilucho
 aguisar
 aguja
@@ -1028,6 +1052,8 @@ albarrada
 albarrana
 albarraz
 albayalde
+albañar
+albañil
 albeitar
 albeiteria
 albenda
@@ -1099,6 +1125,7 @@ alcaparral
 alcaparron
 alcaravan
 alcaravea
+alcarceña
 alcaria
 alcarraza
 alcartaz
@@ -1126,6 +1153,7 @@ alcoranista
 alcorci
 alcornocal
 alcornoque
+alcornoqueño
 alcorza
 alcorzado
 alcorzar
@@ -1133,6 +1161,7 @@ alcotan
 alcrebite
 alcuza
 alcuzcuz
+alcuña
 alda
 aldaba
 aldabada
@@ -1146,6 +1175,7 @@ alear
 alebrarse
 alechugar
 alectoria
+aledaño
 alegar
 alegato
 alegoria
@@ -1202,6 +1232,7 @@ alfargia
 alfayate
 alferecia
 alferez
+alfeñique
 alfiler
 alfoli
 alfombra
@@ -1249,6 +1280,9 @@ alharaca
 alhargama
 alhelga
 alheli
+alheña
+alheñar
+alheñarse
 alholba
 alholi
 alhombra
@@ -1283,6 +1317,7 @@ alijado
 alijar
 alijo
 alimara
+alimaña
 alimentado
 alimentar
 alimento
@@ -1304,6 +1339,9 @@ aliviar
 alivio
 alixares
 alizar
+aliñado
+aliñador
+aliñar
 aljaba
 aljabibe
 aljama
@@ -1384,6 +1422,7 @@ almirez
 almiron
 almizcle
 almizclero
+almizcleño
 almocaden
 almocafre
 almocati
@@ -1483,6 +1522,7 @@ alternativa
 alternativamente
 alternativo
 alteza
+altisimo
 altivamente
 altivez
 altivo
@@ -1560,9 +1600,16 @@ amartelado
 amartelar
 amartillado
 amartillar
+amasado
+amasador
+amasadura
+amasar
 amasijo
 amatar
 amatorio
+amañado
+amañarse
+amaños
 ambages
 ambar
 ambarino
@@ -1788,6 +1835,8 @@ aniquilado
 aniquilar
 aniquilarse
 anis
+aniñado
+aniñarse
 annales
 annalista
 annata
@@ -1804,7 +1853,6 @@ annotador
 annotar
 annual
 annualmente
-ano
 anochecer
 anochecido
 anodino
@@ -1823,11 +1871,14 @@ ansiosamente
 ansioso
 antagonista
 antarctico
+antaño
 ante
 anteado
 antecamara
 antecedente
 antecedentemente
+antecesor
+antecesores
 antechoro
 antechristo
 antecoger
@@ -1840,6 +1891,7 @@ antena
 antenado
 antenoche
 anteojos
+antepasados
 antepecho
 antepenultimo
 anteponer
@@ -1972,6 +2024,10 @@ apartar
 apartarse
 aparte
 aparvar
+apasionadamente
+apasionado
+apasionarse
+apañar
 apea
 apeadero
 apeador
@@ -2022,6 +2078,8 @@ apetecido
 apetencia
 apetitivo
 apetitoso
+apeñuscado
+apeñuscar
 aphaca
 aphorismo
 apiadarse
@@ -2039,6 +2097,8 @@ apisonado
 apisonar
 apitonado
 apitonarse
+apiñado
+apiñarse
 aplacable
 aplacado
 aplacador
@@ -2107,6 +2167,7 @@ aposentamiento
 aposentar
 aposentillo
 aposento
+aposesionarse
 aposiopesis
 apospelo
 aposta
@@ -2201,6 +2262,10 @@ apurado
 apurador
 apurar
 apuro
+apuñado
+apuñar
+apuñeado
+apuñear
 aquadrillado
 aquadrillar
 aquario
@@ -2212,6 +2277,7 @@ aqueducto
 aquel
 aquende
 aqueo
+aquese
 aqueste
 aqui
 aquietado
@@ -2234,6 +2300,12 @@ arancel
 arandela
 aranzada
 arar
+araña
+arañado
+arañar
+arañarse
+araño
+arañuelo
 arbitrador
 arbitrar
 arbitrario
@@ -2288,6 +2360,8 @@ arctico
 arda
 ardalear
 arde
+ardentisimamente
+ardentisimo
 arder
 ardid
 ardideza
@@ -2311,8 +2385,12 @@ aresta
 arestin
 argadillo
 argamandel
+argamasa
+argamasado
+argamasar
 argana
 argano
+argavieso
 argayo
 argel
 argema
@@ -2325,7 +2403,7 @@ argonautas
 argonave
 argos
 argue
-arguenas
+argueñas
 arguido
 arguir
 argumentacion
@@ -2359,6 +2437,7 @@ armazon
 armeria
 armero
 armisticio
+armiño
 armoniaco
 armuelle
 arnequin
@@ -2412,6 +2491,8 @@ arrebatador
 arrebatamiento
 arrebatar
 arrebatarse
+arrebatiña
+arrebañar
 arrebol
 arrebolarse
 arrebozado
@@ -2558,8 +2639,10 @@ artillado
 artillar
 artilleria
 artillero
+artimaña
 artista
 artizado
+aruñar
 arveja
 arvejal
 arzobispado
@@ -2567,10 +2650,25 @@ arzobispal
 arzon
 as
 asa
+asadero
+asado
+asador
 asadura
+asaeteado
+asaetear
+asalariado
+asaltador
+asaltar
+asalto
+asamblea
 asar
 asarabacara
+asasinado
+asasinar
+asasinato
 asasino
+asayar
+asaz
 asbesto
 ascendencia
 ascendente
@@ -2583,16 +2681,61 @@ ascios
 asco
 ascosidad
 ascua
+asechador
+asecla
+asediar
+aseglarado
+asegundado
+asegundar
+aseguradamente
 asegurador
+asegurar
+asemejado
+asemejar
+asemejarse
+asendereado
+asenderear
+asensios
+asenso
+asentada
+asentaderas
+asentador
+asentar
+asentir
+asentista
 aseo
+aserradero
+aserrador
+aserraduras
+aserrar
+asesar
+asesor
+asesoria
+asestado
+asestar
+aseveracion
+aseverado
+aseverar
+asi
 asiatico
 asidero
 asido
+asiduo
+asiento
+asignacion
+asignado
+asignar
 asilla
 asimiento
+asimilacion
+asimilar
 asinino
 asir
 asirse
+asisia
+asistencia
+asistente
+asistido
 asistir
 asma
 asmadura
@@ -2606,6 +2749,25 @@ asnas
 asnero
 asnillo
 asno
+asociarse
+asolado
+asolador
+asolamiento
+asolar
+asoldado
+asoldar
+asoleado
+asolearse
+asomada
+asomado
+asomar
+asombrado
+asombrar
+asombro
+asomo
+asonada
+asonancia
+asordar
 asosegar
 asotanado
 aspa
@@ -2641,6 +2803,14 @@ astroso
 astucia
 astutamente
 astuto
+asueto
+asuncion
+asunto
+asurar
+asurcado
+asurcar
+asustado
+asustar
 atabacado
 atabal
 atabalero
@@ -2700,6 +2870,7 @@ atauxia
 ataviado
 ataviar
 atavio
+atañer
 atediado
 atemorizado
 atemorizar
@@ -2816,6 +2987,10 @@ atrasar
 atrasarse
 atrasmano
 atraso
+atravesado
+atravesar
+atravesarse
+atravesaño
 atravesia
 atreguado
 atreguar
@@ -2839,6 +3014,7 @@ atrio
 atrito
 atrochemoche
 atrocidad
+atrocisimo
 atronado
 atronador
 atronar
@@ -2933,6 +3109,8 @@ avaramente
 avaricia
 avariento
 avaro
+avasallado
+avasallar
 ave
 avechucho
 avecilla
@@ -2979,6 +3157,8 @@ avestruz
 avezar
 aviar
 aviciar
+aviesamente
+avieso
 avilantez
 avillanado
 avillanarse
@@ -3053,6 +3233,7 @@ azar
 azarcon
 azarosamente
 azaroso
+azaña
 azcona
 azebo
 azebuche
@@ -3104,6 +3285,27 @@ azumbrado
 azumbre
 azuzar
 azymo
+añada
+añadido
+añadidura
+añadir
+añafil
+añagaza
+añal
+añascar
+añazeas
+añazmes
+añejado
+añejarse
+añejo
+añicos
+añinos
+año
+añojo
+añoso
+añublo
+añudar
+añusgar
 babador
 babaza
 babazorro
@@ -3146,6 +3348,7 @@ badulaque
 baga
 bagage
 bagagero
+bagasa
 bagatela
 bahari
 bahia
@@ -3231,7 +3434,6 @@ bambarria
 bambolear
 bamboleo
 bambolla
-banar
 banasta
 banasto
 banca
@@ -3316,6 +3518,7 @@ barbilucio
 barbinegro
 barbiponiente
 barbirubio
+barbizaeño
 barbo
 barbon
 barbudo
@@ -3373,6 +3576,7 @@ barrerse
 barreta
 barreteado
 barretear
+barreña
 barriada
 barrica
 barricada
@@ -3398,6 +3602,7 @@ basilica
 basilicon
 basilisco
 basquear
+basquiña
 basta
 bastante
 bastar
@@ -3471,6 +3676,11 @@ bayuca
 baza
 bazo
 bazofia
+baña
+bañado
+bañar
+bañarse
+baño
 be
 beata
 beaterio
@@ -3478,6 +3688,7 @@ beatificacion
 beatificado
 beatificar
 beatifico
+beatisimo
 beatitud
 beato
 bebedero
@@ -3500,6 +3711,7 @@ behetria
 bejuco
 bel
 beldad
+beleño
 belfo
 belico
 belicoso
@@ -3521,6 +3733,7 @@ bendicion
 bendito
 benefactor
 beneficencia
+beneficentisimo
 beneficiado
 beneficiador
 beneficial
@@ -3533,6 +3746,7 @@ benevolencia
 benevolo
 benignamente
 benignidad
+benignisimamente
 benigno
 benjui
 beodez
@@ -3630,7 +3844,11 @@ birola
 birrete
 birretina
 bisagra
+bisiesto
 bisojo
+bisoñeria
+bisoño
+bisylabo
 bitacora
 bitas
 bitumen
@@ -3766,6 +3984,7 @@ bonicamente
 bonico
 bonificar
 bonina
+bonisimo
 bonito
 bootes
 boqueada
@@ -3801,6 +4020,7 @@ bordoneria
 bordonero
 boreal
 boreas
+borgoñota
 borla
 borlon
 borneadizo
@@ -3828,6 +4048,7 @@ borreguero
 borricada
 borrico
 borricon
+borriqueño
 borriquillo
 borro
 borron
@@ -3894,6 +4115,7 @@ boyerizo
 bozal
 bozar
 bozo
+boñiga
 brabante
 brabio
 braceada
@@ -3946,13 +4168,17 @@ brega
 bregadura
 bregar
 breque
+bretaña
 brete
 breva
 breve
 brevedad
 brevemente
 breviario
+brevisimamente
 brezo
+breñal
+breñas
 briba
 bribon
 bribonada
@@ -4035,6 +4261,8 @@ bruxeria
 bruxula
 bruxulear
 bruza
+bruñido
+bruñir
 bua
 buaro
 bubacion
@@ -4075,6 +4303,7 @@ bufonear
 bugada
 bugallas
 bugia
+buglosa
 buharda
 buho
 buhoneria
@@ -4140,6 +4369,8 @@ buzano
 buzes
 buzo
 buzon
+buñolero
+buñuelo
 c
 ca
 cabal
@@ -4149,6 +4380,8 @@ cabalgada
 cabalgadura
 cabalgar
 cabalina
+cabalisimamente
+cabalisimo
 cabalista
 cabalistico
 caballa
@@ -4171,6 +4404,7 @@ caballo
 caballon
 caballos
 cabalmente
+cabaña
 cabe
 cabecear
 cabeceo
@@ -4260,6 +4494,7 @@ cadahalso
 cadarzo
 cadaver
 cadaverico
+cadañero
 cadejo
 cadena
 cadencia
@@ -4344,8 +4579,10 @@ calandria
 calar
 calarse
 calavera
+calaña
 calcanto
 calcar
+calcañar
 calce
 calcedonia
 calceta
@@ -4514,6 +4751,7 @@ campanil
 campanilla
 campanudo
 campar
+campaña
 campeador
 campear
 campeche
@@ -4521,6 +4759,7 @@ campeon
 campero
 campesino
 campillo
+campiña
 campo
 camuesa
 camueso
@@ -4598,7 +4837,6 @@ caniqui
 cano
 canoa
 canon
-canones
 canongia
 canonicamente
 canonicato
@@ -4649,12 +4887,14 @@ cantoneo
 cantonera
 cantonero
 cantor
+cantueso
 caoba
 caos
 capa
 capacete
 capacha
 capacidad
+capacisimo
 capada
 capador
 capadura
@@ -4741,6 +4981,8 @@ caramelo
 caramente
 caramillo
 carantamaula
+carantoña
+carantoñero
 caratula
 carava
 caravana
@@ -4748,6 +4990,7 @@ caravanas
 caravero
 caray
 caraza
+caraña
 carbon
 carbonada
 carbonera
@@ -4759,6 +5002,7 @@ carcava
 carcavear
 carcavuezo
 carcax
+carcañar
 carcel
 carceleria
 carcelero
@@ -4825,7 +5069,10 @@ caripando
 cariraido
 cariredondo
 carisea
+carisimo
 carita
+cariñosamente
+cariñoso
 carlanca
 carlear
 carmen
@@ -4867,6 +5114,7 @@ carrancudo
 carrascal
 carrasco
 carraspada
+carrasqueño
 carrera
 carreta
 carretada
@@ -4887,6 +5135,7 @@ carrizo
 carro
 carrocin
 carroza
+carroño
 carruage
 carrucha
 carruco
@@ -4915,6 +5164,7 @@ carvi
 cas
 casa
 casaca
+casacion
 casadero
 casado
 casal
@@ -4959,6 +5209,15 @@ casquillo
 casquilucio
 casta
 castamente
+castaña
+castañal
+castañazo
+castañero
+castañeta
+castañetazo
+castañetear
+castaño
+castañuela
 castellania
 castellano
 castificar
@@ -4997,6 +5256,7 @@ catapulta
 catar
 catarata
 cataratas
+cataraña
 catarral
 catarribera
 catarro
@@ -5082,6 +5342,33 @@ cazumbrar
 cazumbre
 cazumbron
 cazurro
+caña
+cañada
+cañaheja
+cañal
+cañama
+cañamar
+cañamazo
+cañamo
+cañamon
+cañar
+cañas
+cañaveral
+cañavete
+cañazo
+cañeria
+cañilavado
+cañillera
+cañizo
+caño
+cañon
+cañonazo
+cañonera
+cañonero
+cañones
+cañutazo
+cañutillo
+cañuto
 cea
 ceatica
 cebada
@@ -5174,6 +5461,7 @@ cencerra
 cencerrada
 cencerro
 cencerruno
+cenceño
 cenchris
 cendal
 cendales
@@ -5188,7 +5476,6 @@ cenizo
 cenizoso
 cenogil
 cenoria
-cenoso
 cenotaphio
 censo
 censor
@@ -5265,6 +5552,8 @@ cereza
 cerezal
 ceribon
 cerilla
+cermeña
+cermeño
 cernada
 cernadero
 cernedero
@@ -5278,6 +5567,7 @@ cerquita
 cerrada
 cerradamente
 cerradero
+cerradisimo
 cerrado
 cerradura
 cerradurilla
@@ -5306,7 +5596,10 @@ certificado
 certificador
 certificar
 certinidad
+certisimamente
+certisimo
 ceruleo
+cerusa
 cerval
 cervatico
 cerveceria
@@ -5316,6 +5609,9 @@ cervicabra
 cerviguillo
 cerviz
 cervuno
+cesacion
+cesar
+cesion
 cesped
 cesta
 cesteria
@@ -5327,6 +5623,13 @@ cetra
 cetre
 cetreria
 cetrino
+ceñido
+ceñidor
+ceñir
+ceñirse
+ceño
+ceñoso
+ceñudo
 chabacaneria
 chabacano
 chabeta
@@ -5640,6 +5943,8 @@ cifra
 cifrar
 cigarra
 cigarro
+cigoñino
+cigueña
 cilantro
 cilicio
 cilla
@@ -5649,6 +5954,7 @@ cimarron
 cimborio
 cimbrar
 cimbrarse
+cimbreño
 cimbria
 cimbronazo
 cimentado
@@ -5696,6 +6002,7 @@ circularmente
 circulo
 circuncidado
 circuncidar
+circuncision
 circundar
 circunferencia
 circunscriptivo
@@ -5726,6 +6033,7 @@ cisquero
 cistel
 cisterciense
 cisterna
+cisura
 cita
 citacion
 citado
@@ -5765,7 +6073,12 @@ clarificar
 clarimente
 clarin
 clarion
+clarisas
+clarisimamente
+clarisimo
 claro
+clase
+clasico
 claudicar
 claustral
 claustro
@@ -6007,6 +6320,7 @@ colocar
 colochyntida
 colodra
 colodrillo
+colombroño
 colonia
 colono
 coloquio
@@ -6090,6 +6404,13 @@ comienza
 comienzo
 comilon
 comino
+comisaria
+comisario
+comision
+comisionario
+comisionista
+comiso
+comisura
 comitre
 commemoracion
 commemorado
@@ -6117,7 +6438,6 @@ compadecerse
 compadecido
 compadre
 compage
-compana
 comparable
 comparacion
 comparado
@@ -6131,6 +6451,10 @@ compartido
 compartimiento
 compartir
 compas
+compasado
+compasar
+compasion
+compasivo
 compaternidad
 compathia
 compatibilidad
@@ -6138,6 +6462,9 @@ compatible
 compatriota
 compatron
 compatronato
+compaña
+compañia
+compañon
 compeler
 compelido
 compendiar
@@ -6187,6 +6514,7 @@ comprehensible
 comprehension
 comprehensor
 compresbytero
+compresion
 comprimido
 comprimir
 comprobacion
@@ -6194,6 +6522,8 @@ comprobado
 comprobar
 comprometer
 comprometido
+compromisario
+compromiso
 compuerta
 compuesto
 compulsa
@@ -6242,10 +6572,12 @@ conceptuoso
 concerniente
 concernir
 concertadamente
+concertadisimo
 concertado
 concertador
 concertar
 concertarse
+concesion
 concha
 conchabanza
 conchabarse
@@ -6296,6 +6628,7 @@ concurrir
 concursado
 concursar
 concurso
+concusion
 condado
 conde
 condecoracion
@@ -6353,6 +6686,11 @@ confederarse
 conferencia
 conferido
 conferir
+confesar
+confesion
+confesionario
+confeso
+confesor
 confiadamente
 confiado
 confianza
@@ -6426,6 +6764,7 @@ congregacion
 congregado
 congregante
 congregar
+congreso
 congrio
 congrua
 congruamente
@@ -6549,6 +6888,9 @@ constituido
 constituir
 constitutivo
 constituyente
+constreñido
+constreñimiento
+constreñir
 construccion
 construir
 construpar
@@ -6566,6 +6908,7 @@ consulta
 consultado
 consultante
 consultar
+consultisimo
 consultivo
 consultor
 consumacion
@@ -6612,6 +6955,7 @@ contenta
 contentadizo
 contentar
 contentarse
+contentisimo
 contento
 contera
 contermino
@@ -6663,6 +7007,7 @@ contradictorio
 contradique
 contraescarpa
 contraescritura
+contrafoso
 contrahecho
 contraher
 contraherse
@@ -6697,6 +7042,7 @@ contrariamente
 contrariar
 contrariedad
 contrario
+contraseña
 contrastante
 contrastar
 contraste
@@ -6852,6 +7198,7 @@ corderillo
 cordero
 corderuno
 cordial
+cordialisimo
 cordialmente
 cordillera
 cordoban
@@ -6902,6 +7249,7 @@ coronica
 coronilla
 coroza
 corpanchon
+corpiño
 corporales
 corporalidad
 corporalmente
@@ -6947,6 +7295,7 @@ correspondido
 correspondiente
 corretage
 corrida
+corridisimo
 corrido
 corriente
 corrientemente
@@ -7033,6 +7382,7 @@ cosido
 cosilla
 cosmographia
 cosmographo
+coso
 cosquillar
 cosquillas
 cosquilloso
@@ -7083,6 +7433,8 @@ coz
 crabron
 craneo
 crascitar
+crasitud
+craso
 crea
 creacion
 creado
@@ -7160,6 +7512,7 @@ crudezas
 crudo
 cruel
 crueldad
+cruelisimamente
 cruentar
 cruento
 crustico
@@ -7199,6 +7552,8 @@ cubrir
 cubrirse
 cuca
 cucaracha
+cucaña
+cucañero
 cuchar
 cuchara
 cucharada
@@ -7281,6 +7636,7 @@ culpado
 culpar
 cultamente
 cultedad
+cultisimo
 cultivacion
 cultivado
 cultivador
@@ -7295,6 +7651,8 @@ cumbre
 cumple
 cumplidamente
 cumplidero
+cumplidisimamente
+cumplidisimo
 cumplido
 cumplidor
 cumplimentar
@@ -7317,6 +7675,7 @@ curandero
 curar
 curativo
 curato
+cureña
 curia
 curial
 curiana
@@ -7347,6 +7706,9 @@ cutis
 cuxa
 cuyo
 cuz
+cuña
+cuñado
+cuño
 cyclo
 d
 daca
@@ -7386,6 +7748,13 @@ data
 dataria
 datario
 datil
+dañado
+dañador
+dañar
+dañino
+daño
+dañosamente
+dañoso
 de
 dea
 dean
@@ -7422,6 +7791,7 @@ decentado
 decentar
 decente
 decentemente
+decentisimo
 dechado
 decible
 decideras
@@ -7590,6 +7960,7 @@ delirante
 delirar
 delirio
 delito
+deliñado
 delphin
 demanda
 demandado
@@ -7605,6 +7976,7 @@ demasiado
 demediar
 demencia
 demerito
+demision
 democracia
 democratico
 demoler
@@ -7689,6 +8061,7 @@ depravador
 depravar
 deprecacion
 deprender
+depresion
 deprimido
 deprimir
 depuesto
@@ -7748,13 +8121,16 @@ desabastecer
 desabollado
 desabollar
 desabono
+desabor
 desabotonado
 desabotonar
+desabridamente
 desabrido
 desabrigado
 desabrigar
 desabrigo
 desabrimiento
+desabrir
 desabrochado
 desabrochar
 desabrocharse
@@ -7828,6 +8204,7 @@ desahuciado
 desahuciar
 desahucio
 desahumar
+desainar
 desairadamente
 desairar
 desaire
@@ -7841,6 +8218,9 @@ desalentar
 desalforjar
 desalforjarse
 desaliento
+desaliñadamente
+desaliñar
+desaliño
 desalmadamente
 desalmamiento
 desalmar
@@ -7862,6 +8242,7 @@ desamparar
 desamparo
 desancorar
 desandar
+desangrar
 desanidar
 desanimar
 desanudar
@@ -7872,6 +8253,9 @@ desaparear
 desaparecer
 desaparecimiento
 desaparejar
+desapasionadamente
+desapasionado
+desapasionar
 desapegar
 desapego
 desapercebido
@@ -7888,6 +8272,7 @@ desapoderamiento
 desapoderar
 desapolillar
 desaposentar
+desaposesionar
 desapostura
 desapoyar
 desapreciar
@@ -7970,6 +8355,7 @@ desayunarse
 desayuno
 desazeitado
 desazogar
+desazon
 desazonar
 desbabar
 desbancar
@@ -8041,6 +8427,8 @@ descargadero
 descargado
 descargar
 descargo
+descariñarse
+descariño
 descarnado
 descarnador
 descarnar
@@ -8058,6 +8446,7 @@ descasar
 descascarado
 descascarar
 descascarse
+descañonar
 descendencia
 descender
 descendiente
@@ -8073,6 +8462,8 @@ descerrumado
 descerrumarse
 descervigar
 descetranar
+desceñido
+desceñir
 deschrismar
 descifrado
 descifrador
@@ -8118,6 +8509,9 @@ descomodidad
 descomodo
 descompadrado
 descompadrar
+descompasadamente
+descompasado
+descompasarse
 descomponer
 descomponerse
 descomposicion
@@ -8224,6 +8618,14 @@ desden
 desdentado
 desdentar
 desdevanar
+desdeñable
+desdeñado
+desdeñador
+desdeñar
+desdeñarse
+desdeño
+desdeñosamente
+desdeñoso
 desdicha
 desdichadamente
 desdichado
@@ -8247,6 +8649,7 @@ desedificacion
 desedificado
 desedificar
 deseguida
+desellar
 desembanastar
 desembarazadamente
 desembarazado
@@ -8273,6 +8676,10 @@ desembozo
 desembrazar
 desembriagarse
 desembuchar
+desemejante
+desemejanza
+desemejar
+desemmarañar
 desemmohecer
 desemmudecer
 desempacarse
@@ -8283,12 +8690,17 @@ desempapelar
 desemparejar
 desemparvar
 desempatar
+desempañar
 desempedrador
 desempedrar
 desempegar
 desempeorarse
 desemperezar
+desempeñado
+desempeñar
+desempeño
 desempolvorar
+desemponzoñar
 desempotrar
 desenalbardar
 desenamorar
@@ -8333,6 +8745,12 @@ desenfurecerse
 desengarrafar
 desengarzar
 desengastar
+desengañadamente
+desengañador
+desengañar
+desengaño
+desengrasar
+desengrosar
 desengrudar
 desenhebrar
 desenhetrar
@@ -8351,7 +8769,8 @@ desenrazonado
 desenredar
 desensabanar
 desensartar
-desensenar
+desensañar
+desenseñar
 desensillar
 desensoberbecerse
 desentablar
@@ -8363,6 +8782,7 @@ desentonadamente
 desentonamiento
 desentonar
 desentorpecerse
+desentrañar
 desentumecerse
 desenvainar
 desenvoltura
@@ -8376,6 +8796,8 @@ desequido
 desercion
 desertar
 desertor
+deservicio
+deservir
 desescurecer
 desesperacion
 desesperadamente
@@ -8422,6 +8844,7 @@ desgarro
 desgarron
 desgastar
 desgatar
+desglosar
 desgobernar
 desgobierno
 desgolletar
@@ -8437,6 +8860,8 @@ desgraduado
 desgramar
 desgranar
 desgranzar
+desgreñado
+desgreñar
 desguarnecer
 desguarnecido
 desguindar
@@ -8478,6 +8903,7 @@ desigual
 desigualar
 desigualdad
 desimaginar
+desimpresionar
 desinclinar
 desinficionar
 desinflamar
@@ -8531,10 +8957,13 @@ desman
 desmandar
 desmandarse
 desmantelar
+desmarañar
 desmayadamente
 desmayar
 desmayarse
 desmazalado
+desmaña
+desmañado
 desmedidamente
 desmedido
 desmedrar
@@ -8571,9 +9000,11 @@ desmonte
 desmoronadizo
 desmoronar
 desmotar
+desmoñar
 desnarigar
 desnatar
 desnaturalizar
+desnecesario
 desnevar
 desnivel
 desnucar
@@ -8606,6 +9037,8 @@ desorden
 desordenadamente
 desordenar
 desorejar
+desosar
+desoterrar
 desovar
 desove
 desovillar
@@ -8670,9 +9103,13 @@ despernar
 despertador
 despertar
 despesar
+despestañarse
 despezar
 despezo
 despezonar
+despeñadero
+despeñar
+despeño
 despicarse
 despiertamente
 despierto
@@ -8697,6 +9134,7 @@ desportillar
 desposado
 desposar
 desposarse
+desposeer
 desposorio
 despoticamente
 despotico
@@ -8756,6 +9194,7 @@ desterronar
 destetar
 desteto
 destexer
+desteñir
 destiempo
 destierro
 destilacion
@@ -8788,14 +9227,18 @@ destruido
 destruidor
 destruir
 desturbar
+desubstanciar
+desudar
 desuello
 desuncir
 desunidamente
 desunion
 desunir
+desurcar
 desusado
 desusar
 desuso
+desuñar
 desvaido
 desvainar
 desvalimiento
@@ -8973,6 +9416,7 @@ dignarse
 dignidad
 digno
 digo
+digresion
 dilacion
 dilatacion
 dilatar
@@ -8997,6 +9441,8 @@ diminucion
 diminuir
 diminutivo
 diminuto
+dimision
+dimisorias
 dinerada
 dinero
 dineroso
@@ -9058,8 +9504,16 @@ discursista
 discursivo
 discurso
 discutir
+disecacion
+disecar
 diseminar
+disension
+disentimiento
 disentir
+disertacion
+disertar
+disertisimo
+diseño
 disfamacion
 disfamador
 disfamar
@@ -9076,6 +9530,13 @@ disgregativo
 disgustado
 disgustar
 disgusto
+disimil
+disimulacion
+disimuladamente
+disimulado
+disimular
+disipacion
+disipador
 disipar
 disipula
 dislocacion
@@ -9083,6 +9544,9 @@ dislocarse
 disminucion
 disminuido
 disminuir
+disolucion
+disoluto
+disolvente
 disonante
 dispar
 disparador
@@ -9136,6 +9600,9 @@ distributivo
 distrito
 disturbar
 disturbio
+disuadir
+disuelto
+disymbolo
 disyuncion
 disyuntivamente
 dita
@@ -9184,8 +9651,8 @@ doblon
 doblonada
 doce
 docena
-docenal
 doceno
+doceñal
 docil
 docilidad
 docilmente
@@ -9227,6 +9694,7 @@ domar
 domesticamente
 domesticar
 domestico
+domeñar
 domiciliado
 domicilio
 dominacion
@@ -9240,7 +9708,6 @@ dominica
 dominical
 dominio
 don
-dona
 donacion
 donado
 donador
@@ -9291,6 +9758,7 @@ dote
 dotes
 dovelas
 dozavo
+doña
 drachma
 dragon
 dragona
@@ -9320,6 +9788,9 @@ duende
 duendecillo
 duendo
 duerna
+dueña
+dueñas
+dueño
 dula
 dulce
 dulcemente
@@ -9405,6 +9876,7 @@ efluvio
 egilope
 egira
 egloga
+egresion
 el
 ela
 elacion
@@ -9506,6 +9978,7 @@ embelecar
 embeleco
 embelesamiento
 embelesar
+embeleñado
 embellaquecerse
 embellecer
 embeodar
@@ -9568,6 +10041,7 @@ embrazado
 embrazar
 embrear
 embregarse
+embreñarse
 embriagar
 embriaguez
 embridar
@@ -9604,11 +10078,14 @@ eminencia
 eminencial
 eminente
 eminentemente
+eminentisimo
+emisario
 emmaderamiento
 emmaderar
 emmagrecer
 emmalecer
 emmantar
+emmarañar
 emmarchitar
 emmaridarse
 emmaromado
@@ -9669,6 +10146,8 @@ empatado
 empatar
 empate
 empavesada
+empañado
+empañar
 empecer
 empecible
 empedernido
@@ -9687,6 +10166,7 @@ empellon
 empeorado
 empeoramiento
 empeorar
+empequeñecer
 emperador
 emperadora
 emperchar
@@ -9697,6 +10177,11 @@ empero
 emperrado
 emperrarse
 empezar
+empeñadamente
+empeñado
+empeñar
+empeñarse
+empeño
 emphasis
 emphaticamente
 emphatico
@@ -9733,6 +10218,8 @@ empodrecer
 empodrecido
 empollar
 empolvorar
+emponzoñado
+emponzoñar
 emporcar
 emporio
 empotrado
@@ -9741,6 +10228,7 @@ empozado
 empozar
 emprender
 emprensar
+empresa
 emprestar
 emprestido
 emprestillador
@@ -9756,6 +10244,9 @@ empulgado
 empulgadura
 empulgar
 empulgueras
+empuñado
+empuñadura
+empuñar
 empyreo
 emulacion
 emulador
@@ -9834,7 +10325,6 @@ encamisada
 encamisado
 encamisarse
 encampanado
-encanado
 encanalado
 encanalar
 encanamento
@@ -9883,6 +10373,7 @@ encargado
 encargar
 encargarse
 encargo
+encariñado
 encarnacion
 encarnado
 encarnadura
@@ -9893,6 +10384,7 @@ encarnizarse
 encaro
 encarrilado
 encarrilar
+encarroñar
 encarrujarse
 encartacion
 encartaciones
@@ -9915,6 +10407,12 @@ encaxarse
 encaxe
 encaxonado
 encaxonar
+encañado
+encañadora
+encañar
+encañonado
+encañonar
+encañutar
 encebadamiento
 encebadarse
 encelar
@@ -10006,6 +10504,7 @@ encorvar
 encostarse
 encostrar
 encovar
+encrasar
 encrespado
 encrespador
 encrespamiento
@@ -10031,6 +10530,7 @@ encumbrado
 encumbramiento
 encumbrar
 encunado
+encuñar
 encyclopedia
 ende
 endeble
@@ -10139,6 +10639,7 @@ enfurecer
 enfurecerse
 enfurecido
 enfuriarse
+enfurruñarse
 enfurtido
 enfurtir
 engace
@@ -10174,6 +10675,14 @@ engaste
 engatar
 engavillar
 engazar
+engañadizo
+engañador
+engañamiento
+engañar
+engañifa
+engaño
+engañosamente
+engañoso
 engendrable
 engendracion
 engendrado
@@ -10204,10 +10713,12 @@ engoznar
 engraciar
 engrandecer
 engrandecimiento
+engrasar
 engravedar
 engreido
 engreirse
 engrifarse
+engrosar
 engrudado
 engrudador
 engrudar
@@ -10217,6 +10728,7 @@ enguijarrar
 enguirnaldado
 engullidor
 engurria
+engurruñarse
 enhambrecer
 enharinado
 enharinar
@@ -10368,10 +10880,16 @@ ensartar
 ensay
 ensayar
 ensenada
-ensenado
-ensenar
 ensevado
 ensevar
+enseña
+enseñadero
+enseñado
+enseñador
+enseñar
+enseñarse
+enseño
+enseñoreador
 ensilado
 ensilar
 ensillado
@@ -10393,6 +10911,7 @@ ensotarse
 ensuciado
 ensuciamiento
 ensuciar
+ensueño
 ensuyar
 entablacion
 entablado
@@ -10485,6 +11004,7 @@ entorpecido
 entorpecimiento
 entortadura
 entortar
+entosigar
 entradero
 entradilla
 entrado
@@ -10495,6 +11015,10 @@ entrapada
 entrapajar
 entraparse
 entrar
+entrañable
+entrañablemente
+entrañar
+entrañas
 entre
 entreabierto
 entreabrir
@@ -10528,6 +11052,8 @@ entremiso
 entreoir
 entreordinario
 entrepalmadura
+entrepañado
+entrepaño
 entrepiernas
 entreponer
 entreromper
@@ -10647,7 +11173,9 @@ enxerimiento
 enxerir
 enxugar
 enxundia
+enyesado
 enyesadura
+enyesar
 enzamarrado
 enzarzado
 enzarzar
@@ -10750,6 +11278,7 @@ erizar
 erizo
 ermar
 ermita
+ermitaño
 ermitorio
 erogar
 erotico
@@ -10898,6 +11427,7 @@ escatimado
 escatimar
 escatimosamente
 escaupil
+escaño
 escena
 escenico
 escenographia
@@ -10998,11 +11528,13 @@ escritor
 escritorio
 escritura
 escriturario
+escriño
 escrocon
 escrupulizar
 escrupulo
 escrupulosamente
 escrupuloso
+escrutiñador
 escucha
 escuchador
 escuchante
@@ -11018,6 +11550,9 @@ escudete
 escudilla
 escudillar
 escudo
+escudriñador
+escudriñamiento
+escudriñar
 escuela
 escuelas
 escuerzo
@@ -11045,6 +11580,10 @@ escurrir
 escusalin
 escutas
 esdruxulo
+ese
+esencia
+esencial
+esencialmente
 esgambete
 esgrima
 esgrimidor
@@ -11074,7 +11613,9 @@ esmerejon
 esmeril
 esmerilado
 esmero
+eso
 esophago
+esotro
 espabiladeras
 espaciamiento
 espaciarse
@@ -11084,6 +11625,7 @@ espacioso
 espada
 espadachin
 espadar
+espadañada
 espaderia
 espadero
 espadilla
@@ -11123,11 +11665,13 @@ esparrago
 esparrancado
 espartenero
 espartero
+esparteña
 espartizal
 esparto
 espasmar
 espatula
 espaviento
+españolizarse
 especeria
 especialidad
 especias
@@ -11170,6 +11714,10 @@ esperma
 espermatico
 espernada
 esperon
+espesar
+espeso
+espesor
+espesura
 espetado
 espetar
 espetarse
@@ -11320,6 +11868,7 @@ estala
 estalacion
 estallar
 estamenara
+estameña
 estamiento
 estampa
 estampado
@@ -11352,6 +11901,9 @@ estatuir
 estatura
 estatuto
 estay
+estañador
+estañar
+estaño
 este
 estela
 estelaria
@@ -11423,6 +11975,7 @@ estonce
 estopa
 estopada
 estoperoles
+estopeño
 estopilla
 estoposo
 estoque
@@ -11489,6 +12042,8 @@ estrenar
 estrenque
 estrenuo
 estrepito
+estreñido
+estreñir
 estriado
 estriar
 estrias
@@ -11614,6 +12169,7 @@ exceder
 excelencia
 excelente
 excelentemente
+excelentisimo
 excelso
 excentricamente
 excentricidad
@@ -11621,6 +12177,9 @@ excentrico
 excepcion
 excepto
 exceptuado
+excesivamente
+excesivo
+exceso
 excitar
 exclamacion
 exclamar
@@ -11738,6 +12297,9 @@ explayar
 explicar
 exploracion
 exponer
+expresamente
+expresion
+expreso
 exprimidera
 exprimir
 expuesto
@@ -11766,6 +12328,13 @@ extravenado
 extravenarse
 extraviado
 extraviar
+extrañado
+extrañamente
+extrañamiento
+extrañar
+extrañero
+extrañez
+extraño
 extremadamente
 extremado
 extremamente
@@ -11823,6 +12392,7 @@ fagina
 faisa
 faisan
 falacia
+falagueño
 falarica
 falaz
 falcar
@@ -11921,6 +12491,7 @@ fasces
 fascinacion
 fascinar
 fascona
+fasido
 fasoles
 fasquia
 fastidiado
@@ -11965,6 +12536,7 @@ faz
 fazaleja
 fazfirido
 fazoleto
+fañado
 fe
 fealdad
 feamente
@@ -12082,7 +12654,10 @@ ficticio
 fictura
 fidalgo
 fidedigno
+fideicomiso
 fidelidad
+fidelisimamente
+fidelisimo
 fideos
 fido
 fiebre
@@ -12259,6 +12834,7 @@ florecer
 florecido
 floreciente
 florecilla
+florentisimo
 floreo
 florero
 floresta
@@ -12390,6 +12966,7 @@ forrar
 fortaleza
 fortificacion
 fortin
+fortisimamente
 fortuitamente
 fortuito
 fortuna
@@ -12404,6 +12981,8 @@ forzosa
 forzosamente
 forzoso
 forzudo
+fosa
+foso
 fotula
 foxa
 fracasado
@@ -12568,6 +13147,7 @@ fuero
 fuerte
 fuertemente
 fuerza
+fuesa
 fuga
 fugaz
 fugir
@@ -12781,8 +13361,13 @@ garabatos
 garambainas
 garapita
 garapito
+garapiña
+garapiñado
+garapiñar
+garapiñera
 garatusa
 garavito
+garañon
 garba
 garbanzal
 garbanzo
@@ -12802,6 +13387,8 @@ garcero
 garces
 garceta
 garcetas
+garduña
+garduño
 garfa
 garfada
 garfio
@@ -12832,6 +13419,7 @@ garnacha
 garo
 garra
 garrafal
+garrafiñar
 garrama
 garrancha
 garrancho
@@ -12902,8 +13490,16 @@ gazetero
 gazetista
 gazies
 gazmoles
+gazmoñada
+gazmoñero
 gaznate
 gazuza
+gañan
+gañania
+gañiles
+gañir
+gañivete
+gañon
 ge
 gefe
 geliz
@@ -13035,6 +13631,10 @@ glorificador
 glorificar
 gloriosamente
 glorioso
+glosa
+glosado
+glosador
+glosar
 gloton
 glotonear
 glutinoso
@@ -13178,11 +13778,15 @@ granujado
 granzas
 grapa
 grapon
+grasa
+grasiento
+graso
 gratamente
 gratificacion
 gratificador
 gratificar
 gratis
+gratisimo
 gratitud
 grato
 gratuitamente
@@ -13218,6 +13822,8 @@ grephier
 gresca
 grevas
 grey
+greña
+greñudo
 grida
 grieta
 grillar
@@ -13230,12 +13836,19 @@ grita
 gritador
 gritar
 grito
+griñon
 gropos
 grosca
 grosella
+groseria
+grosero
+grosor
+grosura
 grua
 grueras
 gruero
+gruesa
+grueso
 gruir
 grulla
 grullada
@@ -13247,6 +13860,9 @@ grupera
 grupo
 gruta
 grutesco
+gruñido
+gruñidor
+gruñir
 gryllo
 guacamayo
 guachapear
@@ -13257,6 +13873,9 @@ guadamacileria
 guadamacilero
 guadapero
 guadarnes
+guadaña
+guadañero
+guadixeño
 guaipin
 gualderas
 gualdo
@@ -13315,6 +13934,7 @@ guiado
 guiador
 guija
 guijarral
+guijarreño
 guijarro
 guilla
 guillote
@@ -13343,6 +13963,9 @@ guiton
 guitonear
 guitoneria
 guizgar
+guiñada
+guiñapo
+guiñar
 gula
 gules
 gulloria
@@ -13374,6 +13997,7 @@ haberio
 habichuela
 habil
 habilidad
+habilisimo
 habilitacion
 habilitar
 habitable
@@ -13427,6 +14051,8 @@ halagador
 halagar
 halago
 halaguero
+halagueñamente
+halagueño
 halcon
 halconear
 halconera
@@ -13495,6 +14121,9 @@ hayal
 haz
 haza
 hazaleja
+hazañeria
+hazañero
+hazañoso
 hazcona
 hazme
 he
@@ -13613,6 +14242,7 @@ herren
 herreria
 herrero
 herreruelo
+herreñal
 herrojo
 herron
 herronada
@@ -13632,6 +14262,7 @@ hexaedro
 hexagono
 hexapeda
 hez
+heñir
 hi
 hicocervo
 hidalgamente
@@ -13709,6 +14340,7 @@ hocicudo
 hocino
 hociquillo
 hogar
+hogaño
 hoguera
 hoja
 hojaldrado
@@ -13894,6 +14526,7 @@ huerco
 huero
 huerphano
 huerta
+hueso
 huesped
 hueste
 huevar
@@ -13945,6 +14578,7 @@ hundir
 hundirse
 hura
 huracan
+huraño
 hurgar
 hurgon
 hurgonazo
@@ -14009,6 +14643,8 @@ hypothecar
 hypothecario
 hypothetico
 hypotiposis
+hysopada
+hysopear
 hysopo
 ibis
 icaco
@@ -14079,6 +14715,7 @@ ilustracion
 ilustrado
 ilustrador
 ilustremente
+ilustrisimo
 imagen
 imaginable
 imaginacion
@@ -14147,6 +14784,7 @@ impar
 imparcial
 impartible
 impartir
+impasible
 impavidamente
 impavido
 impecabilidad
@@ -14212,6 +14850,8 @@ importunamente
 importunar
 importunidad
 importuno
+imposibilidad
+imposibilitado
 imposicion
 imposta
 impostor
@@ -14222,6 +14862,11 @@ impracticable
 imprecacion
 imprenta
 imprescriptible
+impresion
+impresionado
+impresionar
+impreso
+impresor
 imprestable
 imprimacion
 imprimadera
@@ -14266,6 +14911,8 @@ imputado
 imputar
 in
 inacabable
+inaccesibilidad
+inaccesiblemente
 inaccion
 inadvertencia
 inadvertidamente
@@ -14274,6 +14921,7 @@ inafectado
 inagotable
 inaguantable
 inalienable
+inamisible
 inane
 inapagable
 inapeable
@@ -14304,6 +14952,7 @@ incentivo
 inceptor
 incertidumbre
 incesable
+incesablemente
 incesto
 incestuosamente
 incestuoso
@@ -14353,15 +15002,18 @@ incomodidad
 incomparable
 incomparablemente
 incompartible
+incompasivo
 incompatibilidad
 incompetencia
 incompetente
 incomponible
 incomportable
+incomposibilidad
 incomprehensibilidad
 incomunicable
 inconcerniente
 inconcusamente
+inconcuso
 inconfidencia
 incongruencia
 incongruente
@@ -14400,6 +15052,7 @@ incorregibilidad
 incorrupcion
 incorruptibilidad
 incorrupto
+incrasar
 incredibilidad
 incredulidad
 incredulo
@@ -14432,6 +15085,8 @@ indecente
 indecentemente
 indecible
 indeciblemente
+indecision
+indeciso
 indeclinable
 indecorosamente
 indecoroso
@@ -14493,6 +15148,7 @@ indisciplinable
 indisciplinado
 indiscrecion
 indiscretamente
+indisoluble
 indisponer
 indisposicion
 indispuesto
@@ -14565,6 +15221,7 @@ inexplicable
 inexpugnable
 inextinguible
 inextricable
+infacetisimo
 infacundo
 infaliblemente
 infamacion
@@ -14657,6 +15314,7 @@ ingraduable
 ingratamente
 ingratitud
 ingrato
+ingreso
 inguinario
 ingustable
 inhabil
@@ -14680,6 +15338,7 @@ inhumanamente
 inhumanidad
 inicial
 iniciarse
+inimicisimo
 inimitable
 ininteligible
 iniquamente
@@ -14839,9 +15498,13 @@ intercalacion
 intercalar
 interceder
 interceptar
+intercesion
 intercostal
 interdecir
 interes
+interesable
+interesado
+interesar
 interin
 interinario
 interior
@@ -14854,6 +15517,7 @@ interlocutorio
 interlunio
 intermedio
 interminable
+intermision
 intermitente
 intermitir
 internado
@@ -14872,6 +15536,7 @@ interponer
 interposicion
 interposita
 interprender
+interpresa
 interpretacion
 interpretar
 interpretativo
@@ -15031,6 +15696,7 @@ isla
 islan
 isleo
 isleta
+isleño
 islilla
 isogono
 isoperimetro
@@ -15288,6 +15954,8 @@ lagartera
 lagartero
 lagartija
 lagarto
+lagaña
+lagañoso
 lago
 lagotear
 lagrima
@@ -15319,6 +15987,7 @@ lamparilla
 lamparon
 lampazo
 lampion
+lampiño
 lamprea
 lampreado
 lamprear
@@ -15389,9 +16058,12 @@ largueros
 largueza
 laringe
 laro
+lasaña
 lascivamente
 lascivia
 lascivo
+lasitud
+laso
 lastar
 lastima
 lastimado
@@ -15417,6 +16089,7 @@ latinizado
 latinizar
 latino
 latir
+latisimo
 latitud
 lato
 laton
@@ -15466,6 +16139,7 @@ lazareto
 lazarillo
 lazdrado
 lazo
+lañar
 le
 leal
 lealmente
@@ -15514,6 +16188,7 @@ legamente
 legamo
 legar
 legatario
+legaña
 legendario
 legible
 legion
@@ -15603,6 +16278,11 @@ lexedumbre
 lexia
 ley
 leyenda
+leña
+leñador
+leñero
+leño
+leñoso
 lia
 liar
 liarlas
@@ -15779,6 +16459,7 @@ lixar
 lixo
 liza
 lizos
+liños
 llaga
 llagado
 llagar
@@ -15926,6 +16607,7 @@ ludibrio
 ludir
 luego
 luengamente
+lueñe
 lugar
 lugarcillo
 lugaron
@@ -16029,6 +16711,8 @@ madriguera
 madrina
 madriz
 madrona
+madroñal
+madroño
 madrugada
 madrugador
 madrugar
@@ -16040,6 +16724,7 @@ madurar
 madurativo
 madurez
 maduro
+maese
 maestra
 maestral
 maestralizar
@@ -16057,6 +16742,7 @@ maestro
 magacen
 maganto
 magarza
+magaña
 magestad
 magestuosamente
 magestuoso
@@ -16162,6 +16848,8 @@ malignante
 malignidad
 maligno
 malilla
+malisimamente
+malisimo
 malla
 mallar
 mallero
@@ -16262,7 +16950,6 @@ mandria
 mandron
 manducar
 manea
-manear
 manecilla
 manejable
 manejar
@@ -16359,6 +17046,9 @@ manual
 manubrio
 manucodiata
 manuella
+manumision
+manumiso
+manumisor
 manumitir
 manuscrito
 manutencion
@@ -16381,6 +17071,8 @@ maravilla
 maravillado
 maravillosamente
 maravilloso
+maraña
+marañado
 marbete
 marca
 marcado
@@ -16445,6 +17137,7 @@ marlotar
 marmiton
 marmol
 marmoleria
+marmoleño
 marmota
 maroma
 marques
@@ -16480,6 +17173,7 @@ marzal
 marzo
 mas
 masa
+masar
 mascada
 mascado
 mascar
@@ -16577,6 +17271,14 @@ mazonado
 mazoneria
 mazorca
 mazorral
+maña
+mañana
+mañanica
+mañear
+mañera
+mañero
+mañosamente
+mañoso
 me
 mea
 meada
@@ -16804,6 +17506,7 @@ meridiano
 merindad
 merino
 meritamente
+meritisimo
 meritorio
 merla
 merluza
@@ -16814,9 +17517,14 @@ mero
 mes
 mesa
 mesada
+mesado
+mesadura
 mesana
+mesar
+meseguero
 meseraicas
 mesero
+mesias
 mesilla
 mesmo
 mesnada
@@ -16827,6 +17535,7 @@ mesonero
 mesonista
 mesta
 mestal
+mesteño
 mestizo
 mesto
 mestura
@@ -16966,6 +17675,7 @@ miramiento
 mirante
 mirar
 mirasol
+miriñaque
 mirla
 mirlado
 mirlamiento
@@ -16973,6 +17683,10 @@ mirlarse
 mirlo
 miron
 mirrauste
+misa
+misacantano
+misal
+misario
 miscelanea
 miserable
 miserablemente
@@ -16982,6 +17696,8 @@ miseria
 misericordia
 misericordioso
 misero
+mision
+misionero
 mismo
 mitad
 mitan
@@ -17185,7 +17901,6 @@ montador
 montadura
 montages
 montanera
-montano
 montantada
 montante
 montantear
@@ -17195,6 +17910,10 @@ montaraz
 montas
 montazgar
 montazgo
+montaña
+montañes
+montañeta
+montañoso
 monte
 montea
 montear
@@ -17355,6 +18074,9 @@ mozarabe
 mozcorra
 mozo
 mozuelo
+moña
+moño
+moñudo
 mu
 muceta
 muchachada
@@ -17384,6 +18106,7 @@ muermoso
 muerte
 muerto
 muesca
+mueso
 muestra
 mufla
 muga
@@ -17458,6 +18181,8 @@ murria
 murrio
 murta
 musa
+musaraña
+musarañas
 musas
 muscicapa
 musco
@@ -17465,10 +18190,12 @@ musculo
 musculoso
 museo
 muserola
+musgaño
 musgo
 musica
 musical
 musico
+musitar
 muslo
 musmon
 mustela
@@ -17480,6 +18207,16 @@ mutilacion
 mutilar
 mutuamente
 mutuo
+muñeca
+muñeco
+muñequear
+muñequera
+muñequeria
+muñido
+muñidor
+muñir
+muñon
+muñones
 myrabolanos
 myrrha
 myrto
@@ -17534,9 +18271,11 @@ naranjal
 naranjazo
 naranjero
 naranjo
+narciso
 narcotico
 nardino
 nardo
+naricisimo
 narigon
 narigudo
 narigueta
@@ -17547,6 +18286,7 @@ narrativa
 narria
 narval
 naso
+nason
 nata
 natal
 natalicio
@@ -17587,12 +18327,19 @@ navegar
 naveta
 navichuelo
 navidad
+navideño
 navio
 nazula
 nebeda
 nebli
 necear
 necedad
+necesaria
+necesariamente
+necesario
+necesidad
+necesitado
+necesitar
 necio
 nefandamente
 nefando
@@ -17699,6 +18446,10 @@ nitroso
 nivel
 nivelado
 nivelar
+niñear
+niñeria
+niñero
+niño
 no
 noble
 noblecer
@@ -17793,6 +18544,8 @@ novillejo
 novillero
 novilunio
 novio
+novisimo
+novisimos
 noxa
 nubada
 nubado
@@ -17814,6 +18567,7 @@ nudrescedor
 nudrimiento
 nuegados
 nuera
+nueso
 nuestro
 nueva
 nuevamente
@@ -17925,6 +18679,8 @@ observancia
 observante
 observar
 observatorio
+obsesion
+obseso
 obsidiana
 obsoleto
 obstaculo
@@ -17949,6 +18705,7 @@ ocasionalmente
 ocasionar
 occidental
 occipital
+occision
 oceano
 ocha
 ochava
@@ -18103,6 +18860,8 @@ omega
 omental
 omento
 omicron
+omision
+omiso
 omitir
 omnimodo
 omnipotencia
@@ -18165,6 +18924,8 @@ oportuno
 oposicion
 oposito
 opositor
+opreso
+opresor
 oprimido
 oprimir
 optado
@@ -18212,6 +18973,8 @@ ordenante
 ordenanza
 ordenar
 ordenarse
+ordeñado
+ordeñar
 ordinal
 ordinariamente
 ordinario
@@ -18298,10 +19061,15 @@ osa
 osadamente
 osadia
 osado
+osamenta
 osar
+osario
 oscitancia
 osculo
+osera
+osesno
 osina
+oso
 ostension
 ostentacion
 ostentar
@@ -18311,9 +19079,11 @@ ostiatim
 ostracismo
 ostrera
 ostugo
+osudo
 osyride
 otacusta
 otar
+otañez
 oteador
 otear
 otero
@@ -18321,6 +19091,8 @@ othona
 oto
 otorgamiento
 otorgar
+otoñar
+otoño
 otra
 otramente
 otro
@@ -18690,6 +19462,7 @@ parcialmente
 parcidad
 parcionero
 parcir
+parcisimamente
 parco
 pardal
 pardeado
@@ -18701,6 +19474,7 @@ parear
 parecer
 parecido
 pared
+paredaño
 paredon
 pareja
 parejas
@@ -18798,14 +19572,45 @@ parto
 parturiente
 parvedad
 parvo
+pasa
 pasacalle
+pasada
+pasadera
 pasadero
 pasadia
+pasadillo
+pasado
+pasador
+pasados
+pasage
+pasagero
+pasagonzalo
+pasajuego
+pasamaneria
+pasamanero
 pasamano
+pasamiento
+pasaporte
+pasar
+pasarse
+pasatiempo
+pasavolante
+pasavoleo
 pasco
 pascua
 pascual
+pase
+paseadero
+paseador
+paseante
+pasear
+paseo
 pasibilidad
+pasible
+pasillo
+pasion
+pasionaria
+pasivo
 pasmado
 pasmar
 pasmarota
@@ -18872,12 +19677,14 @@ patilla
 patillas
 patin
 patio
+patitieso
 patituerto
 patizambo
 pato
 patochada
 patojo
 paton
+patraña
 patria
 patriarcha
 patriarchado
@@ -18944,6 +19751,15 @@ paxarota
 paxarraco
 payo
 paz
+pañalon
+pañero
+pañetes
+pañito
+paño
+pañol
+paños
+pañoso
+pañuelo
 peage
 peagero
 peal
@@ -18961,6 +19777,7 @@ pece
 pececillo
 pecezuela
 pecezuelo
+peceño
 pecha
 pechar
 pechazo
@@ -18999,6 +19816,7 @@ pedicox
 pedicular
 pedido
 pedidor
+pedigueño
 pedir
 pedo
 pedorrera
@@ -19077,6 +19895,7 @@ peligroso
 pelilargo
 pelillo
 pelinegro
+pelitieso
 pelito
 pelitos
 pelitre
@@ -19125,7 +19944,6 @@ penado
 penal
 penalidad
 penar
-penascal
 penates
 penca
 pencazo
@@ -19191,6 +20009,9 @@ pepitoria
 peplide
 peplo
 pepon
+pequeñez
+pequeño
+pequeñuelo
 pera
 perada
 peraile
@@ -19211,6 +20032,8 @@ percibir
 percnoptero
 percudido
 percudir
+percusion
+percusor
 perder
 perdicion
 perdida
@@ -19270,6 +20093,7 @@ perfume
 perfumeria
 perfumero
 pergamino
+pergeño
 pericardio
 pericia
 perico
@@ -19303,6 +20127,8 @@ perlongar
 permanecer
 permanencia
 permanente
+permision
+permisor
 permitido
 permitir
 permixtion
@@ -19447,9 +20273,11 @@ pesquerir
 pesquisa
 pesquisado
 pesquisidor
+pestaña
 peste
 pestillo
 pestorejo
+pesuña
 petaca
 petardear
 petardero
@@ -19477,6 +20305,14 @@ pez
 pezon
 pezonera
 pezpita
+peña
+peñasco
+peñascoso
+peñiscola
+peño
+peñol
+peñola
+peñon
 pia
 piache
 piada
@@ -19512,6 +20348,7 @@ picaro
 picaron
 picarse
 picazo
+picaño
 picea
 pichel
 pichola
@@ -19565,7 +20402,6 @@ pimpin
 pimpinela
 pimpollar
 pimpollo
-pina
 pinabete
 pinaculo
 pinas
@@ -19642,6 +20478,7 @@ pitanceria
 pitancero
 pitanza
 pitar
+pitaña
 pito
 piton
 pituitoso
@@ -19650,6 +20487,15 @@ pizarral
 pizarrero
 pizcar
 pizpereta
+pizpirigaña
+piña
+piñata
+piñon
+piñonata
+piñoncillo
+piñones
+piñorar
+piñuela
 placabilidad
 placable
 placacion
@@ -19722,6 +20568,9 @@ playa
 playazo
 plaza
 plazuela
+plañidera
+plañido
+plañir
 plebe
 pleca
 plectro
@@ -19744,6 +20593,7 @@ pleito
 plenariamente
 plenario
 plenilunio
+plenisimo
 plenitud
 pleno
 pleo
@@ -19895,6 +20745,7 @@ pontificado
 pontifical
 pontifice
 pontificio
+ponzoñoso
 popa
 popar
 popote
@@ -19946,6 +20797,7 @@ portage
 portal
 portalazo
 portalero
+portaleña
 portalico
 portalo
 portanario
@@ -19956,6 +20808,7 @@ portatil
 portazgo
 portazguero
 portazo
+portañolas
 porte
 portear
 portento
@@ -19972,6 +20825,14 @@ posado
 posar
 posas
 posdata
+poseedor
+poseer
+poseido
+posesivo
+posesorio
+posibilidad
+posibilitar
+posible
 posicion
 positivamente
 positivo
@@ -20083,6 +20944,9 @@ precipitarse
 precipitosamente
 precipitoso
 precipuo
+precisamente
+precisar
+precision
 preciso
 precito
 preclaro
@@ -20091,6 +20955,7 @@ preconizar
 preconocer
 precoz
 precursor
+predecesor
 predeterminado
 predicable
 predicacion
@@ -20153,6 +21018,7 @@ preparado
 preparar
 prepararse
 preparativo
+prepasado
 preponderar
 preponer
 prepositura
@@ -20195,6 +21061,7 @@ presidio
 presidir
 presilla
 presion
+preso
 prestadizo
 prestamente
 prestamera
@@ -20208,6 +21075,7 @@ presteza
 prestigiador
 prestigio
 prestimonio
+prestiños
 presto
 presumido
 presumir
@@ -20263,6 +21131,8 @@ previo
 prevision
 previsto
 prez
+preñada
+preñado
 priego
 priesa
 prieto
@@ -20288,6 +21158,7 @@ primicia
 primiclerio
 primigenio
 primilla
+primisimo
 primitivo
 primo
 primogenito
@@ -20343,6 +21214,13 @@ procedimiento
 proceloso
 procer
 proceridad
+procesado
+procesal
+procesar
+procesion
+procesional
+procesionalmente
+proceso
 procinto
 proclama
 proclamacion
@@ -20388,6 +21266,9 @@ profazador
 profazar
 profazo
 proferir
+profesar
+profesion
+profeso
 proficiente
 proficuo
 profligar
@@ -20399,6 +21280,8 @@ profundidad
 profundo
 progenie
 progenitor
+progresion
+progresivo
 prohibicion
 prohibido
 prohibir
@@ -20421,6 +21304,7 @@ prolusion
 promediado
 promediar
 promedio
+promesa
 prometedor
 prometer
 prometerse
@@ -20428,6 +21312,7 @@ prometido
 prometimiento
 promiscuamente
 promiscuo
+promision
 promisorio
 promontorio
 promotor
@@ -20694,9 +21579,17 @@ pustula
 puta
 putaismo
 putativo
+putañear
+putañero
 puteria
 putesco
 puto
+puñado
+puñal
+puñalada
+puñete
+puñetes
+puño
 quaderna
 quadernal
 quadrado
@@ -20766,6 +21659,7 @@ quaternidad
 quaternion
 quatorceno
 quatralbo
+quatrañal
 quatrega
 quatrero
 quatrin
@@ -20786,6 +21680,7 @@ quebramiento
 quebrantable
 quebrantado
 quebrantador
+quebrantahuesos
 quebrantamiento
 quebrantante
 quebrantanza
@@ -20864,7 +21759,9 @@ quinquilleria
 quinta
 quintado
 quintal
+quintaleño
 quintar
+quintañon
 quinteria
 quinterno
 quintero
@@ -20896,6 +21793,7 @@ quixones
 quixotada
 quixote
 quiza
+quiñon
 quodlibetico
 quodlibeto
 quoque
@@ -21013,6 +21911,8 @@ rapazada
 rapidamente
 rapido
 rapista
+rapiña
+rapiñar
 raposa
 raposeria
 raposuno
@@ -21029,6 +21929,7 @@ rascadura
 rascar
 rasco
 rascon
+rascuñar
 rasero
 rasgado
 rasgar
@@ -21036,6 +21937,7 @@ rasgo
 rasgon
 rasgueado
 rasguear
+rasguño
 rasilla
 raso
 raspa
@@ -21114,12 +22016,14 @@ rebaptizado
 rebatar
 rebatir
 rebato
+rebañadera
 rebelde
 rebenque
 rebien
 rebisavuelo
 rebiznieto
 reble
+rebociño
 rebosar
 rebotado
 rebotadura
@@ -21130,6 +22034,7 @@ rebotiga
 rebotin
 rebozar
 rebozo
+reboñar
 rebramar
 rebudiar
 rebujar
@@ -21276,6 +22181,7 @@ reconciliarse
 reconcomerse
 recondito
 reconduccion
+reconfesar
 reconocer
 reconocido
 reconocimiento
@@ -21344,6 +22250,7 @@ red
 redada
 redado
 redar
+redaño
 redecilla
 rededor
 redencion
@@ -21457,6 +22364,8 @@ refugiarse
 refugio
 refundido
 refundir
+refunfuñadura
+refunfuñar
 refutacion
 refutado
 refutar
@@ -21486,6 +22395,10 @@ regatoneria
 regatonia
 regazar
 regazo
+regañada
+regañar
+regaño
+regañon
 regencia
 regenerar
 regentar
@@ -21525,6 +22438,9 @@ regordido
 regostado
 regostarse
 regosto
+regresar
+regresion
+regreso
 reguarda
 reguardar
 regueldo
@@ -21668,6 +22584,9 @@ remendado
 remendar
 remendon
 remero
+remesa
+remesar
+remeson
 remeter
 remiendo
 remilgarse
@@ -21675,6 +22594,11 @@ remilgo
 reminiscencia
 remirado
 remirar
+remisamente
+remisible
+remision
+remiso
+remisorio
 remitido
 remitir
 remitirse
@@ -21771,7 +22695,10 @@ repartido
 repartidor
 repartimiento
 repartir
+repasado
 repasar
+repasion
+repaso
 repastar
 repasto
 repatriar
@@ -21785,6 +22712,8 @@ repente
 repentino
 repenton
 repercudida
+repercusion
+repercusivo
 repercutir
 repertorio
 repesar
@@ -21916,6 +22845,7 @@ reservacion
 reservado
 reservar
 reservarse
+reseña
 resfriado
 resfriarse
 resfrio
@@ -21991,11 +22921,16 @@ restallar
 restante
 restar
 restauracion
+restañado
+restañar
+restaño
 restituido
 resto
 restriccion
 restricto
 restringir
+restriñido
+restriñir
 resucitador
 resucitar
 resudar
@@ -22059,6 +22994,7 @@ retortijon
 retozar
 retozo
 retozon
+retoñar
 retrabar
 retraccion
 retranca
@@ -22160,9 +23096,12 @@ rezongador
 rezumado
 rezumarse
 rezura
+reñir
+reñon
 ria
 ribazo
 ribera
+ribereño
 ribete
 ribeteado
 ribetear
@@ -22196,10 +23135,12 @@ ripia
 ripiar
 ripio
 riqueza
+riquisimo
 risco
 risible
 ristra
 ristre
+risueño
 rito
 rival
 rixa
@@ -22207,6 +23148,9 @@ rixo
 rixoso
 riza
 rizo
+riña
+riñon
+riñonada
 roa
 roano
 rob
@@ -22357,6 +23301,8 @@ rozar
 rozarse
 roznar
 rozo
+roña
+roñeria
 rua
 ruano
 rubeta
@@ -22406,6 +23352,7 @@ ruindad
 ruinmente
 ruinoso
 ruiponce
+ruiseñor
 rular
 rulo
 rumbo
@@ -22424,6 +23371,7 @@ rusco
 rusticidad
 rustico
 ruta
+ruñar
 sabanilla
 sabatarios
 sabatico
@@ -22455,6 +23403,7 @@ sacabocado
 sacabuche
 sacado
 sacadura
+sacaliña
 sacamiento
 sacamuelas
 sacanabo
@@ -22472,6 +23421,7 @@ sacramentario
 sacramentarse
 sacramente
 sacramento
+sacratisimo
 sacre
 sacrificadero
 sacrificado
@@ -22562,6 +23512,7 @@ salmonete
 salmorejo
 salmuera
 salobre
+salobreño
 salon
 salpa
 salpicado
@@ -22570,6 +23521,8 @@ salpicon
 salpimentado
 salpimentar
 salpinga
+salpresado
+salpresar
 salpuga
 salsa
 salsafras
@@ -22678,6 +23631,8 @@ santiguarse
 santiguo
 santimonia
 santiscario
+santisimamente
+santisimo
 santo
 santon
 santoral
@@ -22769,6 +23724,9 @@ sazon
 sazonado
 sazonar
 sazonarse
+saña
+sañudamente
+sañudo
 se
 sea
 sebesten
@@ -22815,6 +23773,8 @@ sedentario
 sederia
 sedero
 sedevacante
+sedeña
+sedeño
 sedicion
 sediciosamente
 sedicioso
@@ -23042,6 +24002,7 @@ sesgadura
 sesgamente
 sesgar
 sesgo
+sesion
 sesma
 seso
 sesqui
@@ -23073,6 +24034,24 @@ sextario
 sextilla
 sexto
 sextula
+seña
+señal
+señalado
+señalamiento
+señalar
+señalarse
+señaleza
+señeramente
+señero
+señor
+señoreage
+señorear
+señorearse
+señoria
+señorio
+señorito
+señorizar
+señuelo
 si
 sibil
 siclo
@@ -23172,6 +24151,8 @@ sitio
 situacion
 situar
 so
+soasado
+soasar
 soba
 sobaco
 sobado
@@ -23206,6 +24187,10 @@ sobre
 sobreabundante
 sobreagudo
 sobrealzar
+sobreasado
+sobreasar
+sobreañadido
+sobreañadir
 sobrebeber
 sobrecargar
 sobrecarta
@@ -23220,6 +24205,7 @@ sobrecruces
 sobrediente
 sobredorar
 sobrefaz
+sobrehueso
 sobrehumano
 sobrelleno
 sobrellevar
@@ -23229,6 +24215,7 @@ sobremesana
 sobrenadar
 sobrenombre
 sobreparto
+sobrepaño
 sobrepelliz
 sobreponer
 sobreponerse
@@ -23405,7 +24392,6 @@ sompesado
 sompesar
 son
 sonado
-sonador
 sonajero
 sonante
 sonar
@@ -23483,6 +24469,7 @@ sorna
 sornaviron
 sorprehender
 sorprehendido
+sorpresa
 sorra
 sorrabar
 sorregar
@@ -23539,6 +24526,11 @@ sotillo
 soto
 sotoministro
 sotrozo
+soñado
+soñador
+soñar
+soñarrera
+soñoliento
 stachy
 su
 suadir
@@ -23614,6 +24606,11 @@ succion
 suceder
 sucedido
 sucedumbre
+sucesion
+sucesivamente
+sucesivo
+suceso
+sucesor
 suchicopal
 suciamente
 suciedad
@@ -23644,6 +24641,7 @@ suelto
 sueno
 suero
 suerte
+sueño
 suficiencia
 suficiente
 suficientemente
@@ -23692,6 +24690,7 @@ sumilleria
 suministrado
 suministrador
 suministrar
+sumision
 sumista
 sumo
 sumptuosamente
@@ -23748,6 +24747,7 @@ supositar
 supositorio
 supremamente
 supremo
+supresion
 suprimido
 suprimir
 supuesto
@@ -23855,6 +24855,9 @@ taburete
 taca
 tacamaca
 tacar
+tacañear
+tacañeria
+tacaño
 taceta
 tacha
 tachado
@@ -23886,6 +24889,7 @@ tagarote
 tagarotear
 tahali
 taharal
+taheño
 tahona
 tahonero
 tahulla
@@ -23951,6 +24955,9 @@ tamaras
 tamarindos
 tamarisco
 tamarrizquito
+tamañamente
+tamañito
+tamaño
 tambalear
 tambaleo
 tambesco
@@ -24034,6 +25041,7 @@ tarima
 tarja
 tarjar
 tarquin
+tarreñas
 tarro
 tarta
 tartalear
@@ -24048,6 +25056,10 @@ tartera
 taruga
 tarugo
 tas
+tasado
+tasador
+tasajo
+tasar
 tascado
 tascar
 tastara
@@ -24057,6 +25069,8 @@ tato
 taurete
 tauro
 tautologia
+tañedor
+tañido
 te
 tea
 teble
@@ -24152,6 +25166,7 @@ temulento
 ten
 tenacear
 tenacidad
+tenacisimamente
 tenallon
 tenaz
 tenaza
@@ -24241,6 +25256,8 @@ terneza
 ternezuelo
 ternilla
 ternilloso
+ternisimamente
+ternisimo
 terno
 ternura
 terquedad
@@ -24277,6 +25294,7 @@ terrontera
 terror
 terrosidad
 terroso
+terruño
 terso
 tersura
 tertil
@@ -24308,6 +25326,7 @@ testimonial
 testimoniales
 testimoniar
 testimonio
+testimoñero
 tetar
 tetilla
 tetona
@@ -24328,6 +25347,8 @@ textura
 teytral
 tez
 tezado
+teñido
+teñir
 thalamo
 tiara
 tibiamente
@@ -24394,6 +25415,7 @@ tiricia
 tirilla
 tiritaina
 tiritar
+tiritaña
 tiritona
 tiro
 tiron
@@ -24595,6 +25617,12 @@ torzuelo
 tos
 toscamente
 tosco
+tosecilla
+toser
+tosidura
+tosigar
+tosigo
+tosigoso
 tosquedad
 tostada
 tostado
@@ -24611,6 +25639,7 @@ toxo
 toza
 tozolada
 tozuelo
+toñina
 traba
 trabacuenta
 trabado
@@ -24733,6 +25762,7 @@ translaticiamente
 translaticio
 transmigracion
 transmigrar
+transmision
 transmitir
 transmutable
 transmutacion
@@ -24751,6 +25781,7 @@ transporte
 transposicion
 transubstanciacion
 transubstanciado
+transubstanciar
 transversal
 tranza
 tranzadera
@@ -24793,6 +25824,8 @@ trasegar
 trasera
 trasero
 traseros
+traseñalado
+traseñalar
 trasfundicion
 trasgo
 trasguear
@@ -24817,6 +25850,7 @@ trasluz
 trasmallo
 trasmano
 trasmatar
+trasmañana
 trasminar
 trasminarse
 trasmontar
@@ -24833,10 +25867,14 @@ trasoido
 trasoir
 trasojado
 trasordinario
+trasoñar
 traspalado
 traspalar
 traspapelado
 traspapelarse
+traspasamiento
+traspasar
+traspaso
 traspeinar
 traspie
 traspillado
@@ -24899,6 +25937,7 @@ trato
 traversas
 traves
 travesar
+travesaño
 travesear
 travesero
 travesia
@@ -24997,6 +26036,7 @@ trigonometria
 trigonometrico
 triguera
 triguero
+trigueño
 trilingue
 trilla
 trilladera
@@ -25317,7 +26357,6 @@ uniformemente
 uniformidad
 unigenito
 union
-unir
 universo
 univocacion
 univocado
@@ -25334,6 +26373,7 @@ untoso
 untura
 upar
 uracho
+uraño
 urbanidad
 urbano
 urca
@@ -25358,6 +26398,7 @@ usagre
 usanza
 usar
 usencia
+useñoria
 usier
 usitado
 uso
@@ -25390,6 +26431,11 @@ uvate
 uvea
 uvero
 uxier
+uña
+uñada
+uñas
+uñeta
+uñir
 vacacion
 vacada
 vacante
@@ -25439,6 +26485,7 @@ vaina
 vainazas
 vainica
 vale
+valentisimo
 valer
 valeriana
 valerosamente
@@ -25535,6 +26582,7 @@ veda
 vedegambre
 vedija
 vedijoso
+veduño
 veedor
 veeduria
 vega
@@ -25721,6 +26769,7 @@ verdear
 verdecer
 verdecillo
 verdemar
+verdemontaña
 verderon
 verdete
 verdevexiga
@@ -25745,6 +26794,7 @@ vergeteado
 vergonzante
 vergonzosamente
 vergonzoso
+vergoña
 verguear
 verguenza
 verguenzas
@@ -25840,6 +26890,7 @@ vicio
 viciosamente
 vicioso
 victor
+vicuña
 vid
 vida
 vidente
@@ -25850,6 +26901,7 @@ vidrieria
 vidriero
 vidrio
 vidrioso
+viduño
 vieja
 viejazo
 viejecito
@@ -25975,6 +27027,7 @@ vislumbrar
 viso
 visorio
 visorrey
+visoño
 vispera
 vista
 vistas
@@ -26031,6 +27084,8 @@ vizcacha
 vizcondado
 vizconde
 vizcondesa
+viña
+viñadero
 voace
 vocablo
 vocabulario
@@ -26106,6 +27161,9 @@ vuelco
 vuelo
 vuelta
 vuelto
+vuesa
+vueseñoria
+vueso
 vuestro
 vulgacho
 vulgado
@@ -26178,6 +27236,7 @@ xarabe
 xaraiz
 xaral
 xaramago
+xarameño
 xaramugo
 xarapotear
 xarcia
@@ -26288,6 +27347,7 @@ zagal
 zagalejo
 zaguan
 zaguero
+zahareño
 zaharron
 zaherimiento
 zahon
@@ -26332,6 +27392,7 @@ zambullida
 zampalimosnas
 zampar
 zampatortas
+zampoña
 zampuzar
 zanahoria
 zanca
@@ -26464,6 +27525,8 @@ zequi
 zequia
 zilorgano
 zitara
+zizaña
+zizañero
 zocalo
 zocato
 zoclo
@@ -26479,6 +27542,7 @@ zoma
 zompo
 zona
 zonzo
+zopisa
 zopo
 zoquete
 zoquetero
@@ -26547,3 +27611,4 @@ zurumbet
 zutano
 zuzar
 zuzon
+zuño

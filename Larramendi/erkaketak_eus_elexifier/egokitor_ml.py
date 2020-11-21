@@ -22,14 +22,14 @@ with open ('wikidata_basque_lexemes.txt', 'r', encoding='utf-8') as infile:
 #    print(wdlemlist)
 with open (home+'/Lab_LAR/OEH/oeh_lemak_egok.txt', 'r', encoding='utf-8') as infile:
     oehlemlist = infile.read().replace('_', ' ').split('\n') # reads list entries, converts "_" hyphen-or-space normalization into space
-    print(oehlemlist)
+#    print(oehlemlist)
 
 with open('rules.csv', encoding="utf-8") as csvfile:
     mapping = csv.reader(csvfile, delimiter=",") # reads replace rules
 
     mapdict = {}
     for row in mapping:
-        print(row)
+#        print(row)
         mapdict[row[0]]=row[1]
 
     sarmatches = ""
@@ -46,14 +46,14 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     print('\nWorking...')
 
     with open('egokitor_result_table.csv', 'w', encoding='utf-8') as outfile:
-        outfile.write('LAR_LEMMA\tUNIDECODE\tEGOKITUA\tSARASOLA\tSARASOLA1745\tWIKIDATA\tOEH\n') # csv header row
+        outfile.write('EGOKITUA\tUNIDECODE\tJATORRIZKOA\tSARASOLA\tSARASOLA1745\tWIKIDATA\tOEH\tOEHLINK\n') # csv header row
         for line in larlemlist:
             if re.match(r"[^\t]+\t", line): # if sarrera has a translation
                 splitline = line.split('\t')
-                print(splitline)
+#                print(splitline)
                 oldlem = splitline[0]
                 sarrera = splitline[1]
-                oldnorlem = unidecode(oldlem.rstrip())
+                oldnorlem = unidecode(oldlem.replace('ñ', '_')).replace('_', 'ñ').rstrip()
                 newlem = oldnorlem
                 nlsarrerakcsv += newlem+'\t'+sarrera+'\n'
                 for rule in mapdict:
@@ -130,14 +130,16 @@ with open('rules.csv', encoding="utf-8") as csvfile:
                     oehlem = newlem[:-3]
                 else:
                     oehlem = ""
+                    oehlink = ""
                 if oehlem != "":
                     oehlemmatch.append(oehlem)
                     oehmatches += oehlem+','+oldlem+'\n'
+                    oehlink = 'https://www.euskaltzaindia.eus/index.php?option=com_oehberria&task=bilaketa&Itemid=413&lang=eu&query='+oehlem
                 # no match >>> nomatchlist
                 if sarlem == "" and wdlem == "" and oehlem =="":
                     nomatches += oldlem+','+newlem+'\n'
 
-                outfile.write(oldlem.rstrip()+'\t'+oldnorlem+'\t'+newlem+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'\t'+oehlem+'\n')
+                outfile.write(newlem+'\t'+oldnorlem+'\t'+oldlem.rstrip()+'\t'+sarlem+'\t'+sarlarlem+'\t'+wdlem+'\t'+oehlem+'\t'+oehlink+'\n')
     # writes Sarasola matches unique
     sarlemmatchset = set(sarlemmatch)
     with open('egokitor_sarasolamatches_unique.txt', 'w', encoding='utf-8') as outfile:

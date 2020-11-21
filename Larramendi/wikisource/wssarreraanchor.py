@@ -22,14 +22,14 @@ for num in range(len(pagedict)):
     wikitext = pagedict[str(pagenum)]['parse']['wikitext']['*']
     wspage = pagedict[str(pagenum)]['parse']['title']
 
-    wikitext = re.sub(r'\{\{aingura[^\}]+\}\}', '', wikitext) # remove old 'aingura'
+    wikitext = re.sub(r'\{\{sarrera[^\}]+\}\}', '', wikitext) # remove old 'sarrera' anchor
     letters = alfdict[pagenum]
     for letter in range(len(letters)):
         alf = letters[letter]
         burukop = len(re.findall(r'\n:'+alf, wikitext))
         for buru in range(burukop):
             burua = re.findall(r'\n:('+alf+'[^,\.:; \']*)', wikitext)[0]
-            normburua = unidecode(burua)
+            normburua = unidecode(burua.replace('ñ', '_')).lower().replace('ss', 's').replace('_', 'ñ').rstrip()
             if normburua == homonym:
                 homcount += 1
                 sarburua = normburua+str(homcount)

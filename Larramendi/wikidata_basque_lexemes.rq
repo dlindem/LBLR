@@ -1,0 +1,13 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+#Lexemes in Basque: lemma and POSLabel and Sense and Definition
+#Example Query for demonstration (Lindemann/Alonso, UEU beka eskaera)
+select ?lexemeId ?lemma ?categoryLabel ?sense ?definition  WHERE {
+    ?lexemeId <http://purl.org/dc/terms/language> wd:Q8752;
+            wikibase:lemma ?lemma.
+			OPTIONAL {?lexemeId wikibase:lexicalCategory ?category;
+		    ontolex:sense ?sense.
+    ?sense skos:definition ?definition .}
+
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "eu". }
+ }
