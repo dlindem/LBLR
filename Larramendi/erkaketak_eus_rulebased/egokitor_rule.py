@@ -132,7 +132,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             elif len(newlem) > 3 and newlem[-3]+newlem[-2]+newlem[-1] == "rra" and newlem[:-2] in oehlemlist: # asks for match if r"-ra" is stripped off from EGOKITUA finishing with "-ak"
                 oehlem = newlem[:-2]
             elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in oehlemlist: # asks for match if "-k" is stripped off from EGOKITUA finishing with "-ak"
-                oehlem = newlem[:-2]
+                oehlem = newlem[:-1]
             elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in oehlemlist: # asks for match if "-ak" is stripped off from EGOKITUA
                 oehlem = newlem[:-2]
             elif len(newlem) > 3 and newlem[-4]+newlem[-3]+newlem[-2]+newlem[-1] == "rrak" and newlem[:-3] in oehlemlist: # asks for match if r"-rak" is stripped off from EGOKITUA
