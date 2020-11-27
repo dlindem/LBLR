@@ -26,7 +26,7 @@ gaizki,gaizqui
 utzi,vtzi
 utzi,vtzia
 barka,barca
-abark,abarcac
+abarka,abarcac
 abarka,abarcá
 artze,artzea
 berrizko,berrizco
@@ -196,7 +196,7 @@ aitona,aitona
 aitasaba,aitaſaba
 aitaso,aitaſoa
 aitagoi,aitagoya
-asab,aſabac
+asaba,aſabac
 o,o
 buelta,vuelta
 buiatu,buiatua
@@ -723,7 +723,7 @@ berariaz,berariaz
 jakinez,jaquinéz
 berariazko,berariazcoa
 aduana,aduaná
-txaol,chaolac
+txaola,chaolac
 zaldabai,zaldabaya
 arrazko,arrazcoa
 barruti,barrutia
@@ -875,7 +875,7 @@ itzuri,itzuri
 isats,iſatſ
 zintzilika,cincilica
 garbai,garbaia
-arr,arrac
+arra,arrac
 atzaparka,atzapárca
 atzeman,atzeman
 lotu,lotu
@@ -1387,7 +1387,7 @@ igara,igará
 zertegi,certeguia
 gorde,gordé
 bildu,bildu
-txirl,chirlac
+txirla,chirlac
 almena,almená
 almendra,almendra
 almidoatu,almidoatu
@@ -1464,7 +1464,7 @@ gora,gorá
 mintzatu,minzatu
 gelditu,guelditu
 mendiska,mendiſcá
-baberrum,baberrumac
+baberruma,baberrumac
 txingurri,chingurri
 txindurri,chindurri
 adierazo,adierazo
@@ -1538,8 +1538,8 @@ amarra,amarra
 marratu,marratú
 amarratu,amarratua
 lotu,lotuá
-amarr,amarrac
-bag,bagac
+amarra,amarrac
+baga,bagac
 damutu,damutua
 oratu,oratú
 oratu,oratuá
@@ -1583,7 +1583,7 @@ idor,idorrá
 mugarritu,mugarritu
 mugatu,mugatu
 marratu,marratu
-mug,mugac
+muga,mugac
 mugatu,mugatua
 molde,moldea
 moldakaitz,moldacaitzá
@@ -1597,7 +1597,7 @@ gaztigu,gaztigua
 mezu,mezuá
 dei,déiac
 montoi,montoya
-pil,pillac
+pila,pillac
 eta,eta
 metatu,metatua
 murru,murrua
@@ -1687,7 +1687,7 @@ tontotu,tontotú
 urpetu,urpetu
 urperatu,urperatu
 urpetu,urpétua
-angaril,angarillac
+angarila,angarillac
 belar,belarra
 aingerutar,ainguerutarra
 aingerutxo,aingueruchoa
@@ -1778,8 +1778,8 @@ gutiziatu,guticiatu
 guraritu,guraritu
 zale,zaleác
 gurari,guráriac
-gutizi,guticiác
-miser,miſerac
+gutizia,guticiác
+misera,miſerac
 aratuzte,aratuztea
 lasterka,laſterca
 goibeldu,goibeldu
@@ -1802,7 +1802,7 @@ zartu,zartua
 zar,zarrá
 urtetsu,urtetſua
 zati,zatiac
-pusk,puſcac
+puska,puſcac
 puskatu,puſcatu
 abarrakitu,abarraquitu
 urteberri,urteberria
@@ -2125,14 +2125,14 @@ arotz,arotzá
 harpa,harpa
 ilar,llar
 har,har
-bezint,becintac
+bezinta,becintac
 kutxazai,cuchazaya
 kutxatxo,cuchacho
 kutxatela,cuchatela
 arra,arra
 arra,arrá
 arras,arrás
-arrakad,arracadac
+arrakada,arracadac
 zirtzilu,circiluac
 zirtzilu,circilluac
 mordotu,mordotu
@@ -2768,7 +2768,7 @@ kiebra,quiebra
 kadira,cadirá
 sisilu,ſiſilua
 zizeilu,cicellua
-tost,toſtac
+tosta,toſtac
 meta,metá
 bandatu,bandatu
 banda,banda
@@ -2860,8 +2860,8 @@ buztintsu,buztintſua
 aska,áſca
 asnaska,aſnaſca
 goragale,goragaleac
-nazk,nazcac
-nag,nagac
+nazka,nazcac
+naga,nagac
 euskaldun,euſcaldunac
 eliza,eliza
 goragaletu,goragaletu
@@ -2912,7 +2912,7 @@ ule,ulea
 txitez,chitez
 bienabenturantza,bienaventuranza
 sendagarri,ſendagarriac
-sendagail,ſendagallac
+sendagaila,ſendagallac
 edan,edan
 eradan,eradan
 edan,edaná
@@ -3008,7 +3008,7 @@ betun,betun
 ederkiro,ederquiró
 bizar,bizarrá
 bi,bi
-alportx,alporchac
+alportxa,alporchac
 bizkotxo,bizcochoa
 mantar,mantarrá
 zuriko,zuricoa
@@ -3107,7 +3107,7 @@ baso,baſoa
 pota,potá
 pote,potea
 zato,zatoa
-bot,botac
+bota,botac
 txoro,choroa
 bote,botea
 botika,boticá
@@ -3130,8 +3130,8 @@ besakada,beſacada
 besaldi,beſaldia
 besakari,beſacaria
 besotxo,beſochoa
-frak,fracac
-galtz,galtzac
+fraka,fracac
+galtza,galtzac
 brageta,bragueta
 eltzagor,eltzagorra
 orrolari,orrolaria
@@ -3161,7 +3161,7 @@ abere,abereá
 errierta,erriertá
 otadi,otadiac
 lili,liliac
-gar,garac
+gara,garac
 labur,laburra
 laburtasun,laburtaſuna
 laburketa,laburqueta
@@ -3298,7 +3298,7 @@ abi,abia
 atzen,atzena
 oinorde,oñordea
 buruak eman,buruac eman
-kulusk,culuſcac
+kuluska,culuſcac
 hisiti,hiſitia
 burugogor,burugogorra
 burkoi,burcoia
@@ -3430,7 +3430,7 @@ irabiaka,irabiaca
 salgaizta,ſalgaizta
 beroki,beroqui
 zor,zorrá
-galtz,galzac
+galtza,galzac
 galtzerdi,galtzerdiac
 galtzada,galtzada
 sendotu,ſendotua
@@ -3439,8 +3439,8 @@ galtxuri,galchuriac
 oi,oya
 ganbara,gámbara
 lagun,laguna
-iskir,iſquirac
-zagit,zaguitac
+iskira,iſquirac
+zagita,zaguitac
 gameluzai,gameluzaya
 gamelu,gamelua
 miatu,miatu
@@ -3548,7 +3548,7 @@ kalamu,calamua
 kanibet,canibeta
 kanoi,canoya
 kanoi,canoyac
-sutunp,ſutumpac
+sutunpa,ſutumpac
 su,ſu
 kaoba,caoba
 azal,azala
@@ -3820,7 +3820,7 @@ murritu,murritua
 gutitu,gutitu
 urritu,urritu
 murritzaile,murritzallea
-zurd,zurdac
+zurda,zurdac
 gerezi,guereci
 kandelategi,candelateguia
 kandelagile,candelaguillea
@@ -4206,7 +4206,7 @@ ordaindu,ordaindua
 pozkida,pozquidá
 pozkidatu,pozquidatu
 usbetatu,usbetatú
-konplet,completac
+konpleta,completac
 bilgura,bilgurá
 konpontzaile,compontzallea
 zuzentzaile,zucentzallea
@@ -4358,7 +4358,7 @@ konbertitu,convertitua
 gomitatu,gomitatu
 goi,goi
 zepa,cepa
-kop,copac
+kopa,copac
 motodun,motoduna
 erabezta,erabezta
 bilgotu,bilgotu
@@ -4649,7 +4649,7 @@ dainu,dañua
 dainu,dainua
 kaltetsu,caltetſua
 igun,igun
-ele,eleac
+elea,eleac
 batre,batre
 artu eman,artu emanac
 dardo,dardoa
@@ -4676,7 +4676,7 @@ trenkatu,trencatu
 trenkatu,trencatua
 esale,eſalea
 esateko,eſateco
-err,errac
+erra,errac
 ei,ei
 hiztun,hiztuna
 azalde,azaldea
@@ -4726,8 +4726,8 @@ eskale,eſcalea
 eskatu,eſcatu
 otoiztu,otoiztu
 markatu,marcatu
-marr,marrac
-mark,marcac
+marra,marrac
+marka,marcac
 goitiko,goiticó
 gainerako,gañeracoac
 goitiko,goiticoac
@@ -4902,7 +4902,7 @@ igui,iguya
 gogabetu,gogabetu
 gor,gorra
 desgrazia,deſgracia
-burl,burlac
+burla,burlac
 altsi,altſiac
 lits,litſac
 orri,orria
@@ -5059,7 +5059,7 @@ jaspe,jaſpe
 hitz,hitza
 hiztegi,hizteguia
 ditxa,dicha
-esames,eſameſac
+esamesa,eſameſac
 ditxoso,dichoſoa
 lotazil,lotacilla
 disziplina,diſciplina
@@ -5182,7 +5182,7 @@ dontsu,dontſua
 don,dona
 urreztatzaile,urreztatzallea
 logale,logaleac
-logur,logurac
+logura,logurac
 loti,lotia
 lozorro,lozorroa
 loakartu,loacartu
@@ -5236,7 +5236,7 @@ etxatu,echatuac
 bereter,bereterra
 arge,arguea
 adina,adiná
-ide,ideac
+idea,ideac
 kide,quideac
 andeza,andeza
 ekida,equida
@@ -5258,7 +5258,7 @@ likistu,liquiſtua
 baira,baira
 bairatu,bairatu
 bairatu,bairatua
-lotur,loturac
+lotura,loturac
 bats,batſá
 zingira,cinguira
 eragotzi,eragotzi
@@ -5417,7 +5417,7 @@ upeleratu,upeleratua
 erpindu,erpindu
 erpindu,erpindua
 single,ſinglea
-adi,adiac
+adia,adiac
 erostari,eroſtaria
 adiakatu,adiacatu
 demoniatu,demoniatu
@@ -5547,9 +5547,9 @@ soberbia,ſoberbia
 ordurako,orduraco
 arka,arcaa
 barrenkoi,barrencoya
-errai,errayac
-errai,halſarrac
-entrain,entrañac
+erraia,errayac
+erraia,halſarrac
+entraina,entrañac
 zatartu,zatartu
 artean,artean
 bitartean,bitartean
@@ -5698,8 +5698,8 @@ bilakindu,billaquindu
 eskola,eſcolá
 eskola,eſcola
 ikasola,icaſola
-ikasol,icaſolac
-eskol,eſcolac
+ikasola,icaſolac
+eskola,eſcolac
 zapo,zapoa
 apo,apoa
 espia,eſpia
@@ -5847,7 +5847,7 @@ deungaro,deungaro
 ferekatu,ferecatu
 izartu,izartua
 astrologo,aſtrologo
-emaitz,emaitzac
+emaitza,emaitzac
 lengusu,lenguſua
 estribo,eſtribo
 euskaritxo,euſcarichoa
@@ -5882,7 +5882,7 @@ eskumiku,eſcumicua
 kakatsu,cacatſua
 eskusa,eſcuſa
 eskusatu,eſcuſatu
-eskus,eſcuſac
+eskusa,eſcuſac
 atxa,achá
 bertati,bertati
 biltoki,biltoquia
@@ -5975,7 +5975,7 @@ zoriondu,zoriondu
 felpa,felpa
 fenix,fenixa
 feria,feria
-feri,feriac
+feria,feriac
 jaiegun,jaieguna
 legamia,legamia
 sumindura,ſumindura
@@ -6000,8 +6000,8 @@ bozkario,bozcarioa
 jai,jaya
 egun,eguná
 askai,aſcayac
-fest,feſtac
-best,beſtac
+festa,feſtac
+besta,beſtac
 buztinki,buztinquia
 farragarri,farragarria
 fio,fio
@@ -6121,7 +6121,7 @@ freskura,freſcura
 lizardi,lizardia
 lizar,lizarrá
 igortzi,igortziac
-ferek,ferecac
+fereka,ferecac
 monje,monge
 mailar,maillarac
 orritsu,orritſua
@@ -6239,7 +6239,7 @@ antzutu,antzutua
 antzutu,antzutuac
 garbo,garboa
 gartza,garza
-kartzet,carcetac
+kartzeta,carcetac
 zeta,ceta
 gartzeta,garceta
 pitos,pitoſa
@@ -6677,10 +6677,10 @@ txindurri,chindurria
 labaldi,labaldia
 labazai,labazaya
 labezain,labezaina
-arbazt,arbaztac
-arbazt,abarrac
+arbazta,arbaztac
+arbazta,abarrac
 ortu,ortu
-izorr,izorrac
+izorra,izorrac
 libre,libre
 barazki,barazquia
 baratzai,baratzaya
@@ -6718,7 +6718,7 @@ umore,umorea
 ezabizi,ezabicia
 ore,orea
 tenple,temple
-hur,hurac
+hura,hurac
 laino,lañoa
 hur,hur
 mika,micá
@@ -6971,7 +6971,7 @@ lamia,lamia
 argiontzi,arguiontzia
 lanpa,lampá
 lapaz,lapaza
-lap,lapac
+lapa,lapac
 lanparda,lampardá
 ule,vlea
 iledun,illeduna
@@ -6986,7 +6986,7 @@ otarrain,otarraina
 otarraintxo,otarrainchoa
 linterna,linterna
 lan,lan
-lantz,lanzac
+lantza,lanzac
 laztan,laztaná
 adina,adiña
 arpoitu,arpoitu
@@ -6998,7 +6998,7 @@ lapiko,lapicoa
 koipatu,coipatu
 gantzutu,gantzutu
 koipatu,coipatua
-luzaer,luzaerac
+luzaera,luzaerac
 largo,largoa
 gaurko,gaurcoa
 largo,largo
@@ -7151,7 +7151,7 @@ leunkeria,leunqueria
 pleito,pleyto
 auzilari,aucilaria
 auzi,aucia
-birik,biricac
+birika,biricac
 biriki,biriquia
 gar,garra
 dei,deia
@@ -7243,7 +7243,7 @@ mailuki,mailluquia
 izorra,izorra
 flako,flaco
 makola,macola
-makol,macolac
+makola,macolac
 eskumen,eſcumena
 mantxa,mancha
 maka,macá
@@ -7360,7 +7360,7 @@ sagardi,ſagardia
 bitxilora,bichilora
 sagara,ſagara
 sagarrondo,ſagarrondoa
-main,mañac
+maina,mañac
 etzi,etzi
 etzidamu,etzidamu
 goiz,goizá
@@ -7424,7 +7424,7 @@ baino,baño
 baita,baita
 sobra,ſobra
 maskar,maſcar
-mast,maſtac
+masta,maſtac
 artzanor,artzanora
 anis,anis
 eia,eya
@@ -7451,7 +7451,7 @@ medaila,medalla
 metailu,metallua
 metal,metal
 metatu,metatu
-met,metac
+meta,metac
 kupula,cupula
 gauerdi,gauerdia
 adinon,adiñona
@@ -7701,7 +7701,7 @@ senatu,ſenatua
 altsi,altſia
 aintzatu,aintzatu
 aintzatu,aintzatua
-txirrit,chirritac
+txirrita,chirritac
 erabilkor,erabilcorra
 motor,motor
 koloka,colocá
@@ -7748,7 +7748,7 @@ murmuratu,murmuratu
 murmur,murmurra
 mus,mus
 musa,muſa
-mus,muſac
+musa,muſac
 musika,muſica
 musiko,muſicoa
 muker,muquer
@@ -7833,7 +7833,7 @@ notari,notaria
 notario,notarioa
 ezagun,ezaguna
 luberri,luberria
-berri,berriac
+berria,berriac
 bederatziurren,bederatziurrena
 azaro,azaroa
 bigaintxa,bigaincha
@@ -7947,7 +7947,7 @@ amaka,amacá
 txolarte,cholartea
 astorki,aſtorquia
 ontza,onzá
-obr,obrac
+obra,obrac
 obratu,obratu
 gaitziritzi,gaitziritzia
 auxilio,auxilio
@@ -8063,7 +8063,7 @@ estalgarri,eſtalgarria
 txotx,chochac
 kapa,capa
 zotz,zotza
-eskutad,eſcutadac
+eskutada,eſcutadac
 zurrun,zurruna
 beraki,beraquia
 uso,uſoa
@@ -8136,7 +8136,7 @@ antzeko,antzecoa
 pareta,pareta
 begira,beguira
 berdin,berdiñac
-ahaiko,ahaicoac
+ahaikoa,ahaicoac
 aidetasun,aidetaſuna
 ahaikoa,ahaicoa
 marmol,marmol
@@ -8511,7 +8511,7 @@ pozoi,pozoya
 pozoitsu,pozoitſua
 pozoindun,pozoinduna
 popa,popa
-pop,popac
+popa,popac
 gitxitasun,guichitaſuna
 gutxitasun,guchitaſuna
 gutitasun,gutitaſuna
@@ -8547,7 +8547,7 @@ postura,poſtura
 menpetu,mempetua
 posta,poſta
 postari,poſtaria
-post,poſtac
+posta,poſtac
 ondoko,ondocoac
 ondorengo,ondorengoac
 etorkizun,etorquizunac
@@ -8560,7 +8560,7 @@ azkeneko,azquenecoa
 zuku,zucua
 poto,poto
 poro,poroa
-almen,almenac
+almena,almenac
 ahaldun,ahalduna
 potro,potroa
 zaldikume,zaldicumea
@@ -8707,7 +8707,7 @@ puntada,puntada
 josketa,joſqueta
 gertu,guertu
 guziro,guciro
-epaitz,epaitzac
+epaitza,epaitzac
 zistatu,ciſtatu
 ahur,ahurra
 ahurka,ahurca
@@ -8834,7 +8834,7 @@ sen,ſena
 arratoi,arratoya
 erasti,eraſtia
 sagu,ſagua
-arrai,arraiac
+arraia,arraiac
 errainu,errañua
 oinaztarri,oñaztarria
 oinazkar,oñazcarra
@@ -8846,7 +8846,7 @@ berrartu,berrartu
 berrartu,berrartua
 basa,baſaá
 zerra,cerrá
-zerr,cerrac
+zerra,cerrac
 arbuiatu,arbuyatu
 gaineztu,gañeztu
 gaineztatu,gañeztatu
@@ -9330,7 +9330,7 @@ segurantza,ſegurantza
 gaindi,gaindi
 sei,ſei
 sei,ſeyac
-seir,ſeirac
+seira,ſeirac
 zigilu,ciguillua
 zigilu,ciguilua
 aste,aſteá
@@ -9443,7 +9443,7 @@ urguileria,urgulleria
 soberbio,ſoberbioa
 urguilutsu,urgullutſua
 sobre,ſobre
-erres,erreſac
+erresa,erreſac
 sobratu,ſobratu
 sobratu,ſobratua
 soberatu,ſoberatua
@@ -9621,7 +9621,7 @@ isil,iſilla
 trago,trago
 alatzar,alatzarra
 aitaita,aitaita
-banak,banacac
+banaka,banacac
 txal,chala
 taila,talla
 gara,gará
@@ -9685,11 +9685,11 @@ torpedo,torpedo
 bildur,bildur
 tinpano,timpano
 tenplantza,templanza
-lotsageri,lotſagueriac
+lotsageria,lotſagueriac
 tenplantza,templanzá
 aro,aroá
 giro,guiroá
-gart,gartac
+garta,gartac
 eraldi,eraldia
 ekaizte,ecaiztea
 goiz,goiz
@@ -9870,7 +9870,7 @@ taza,tazá
 espazio,eſpacio
 sareztatu,ſareztatua
 lera,lerá
-donaber,donaberac
+donabera,donaberac
 txirikorda,chiricorda
 txirikordatu,chiricordatu
 adastu,adaſtu
@@ -9889,7 +9889,7 @@ trinidade,trinidadea
 hirurtasun,hirurtaſuna
 trinkete,trinquetea
 buzkantz,buzcantza
-trip,tripac
+tripa,tripac
 estaki,eſtaquiac
 sabelandi,ſabelandia
 tripandi,tripandia
@@ -10194,7 +10194,7 @@ sare,ſareac
 arrantzale,arrantzalea
 salboin,ſalboina
 txalma,chalma
-zamuk,zamucac
+zamuka,zamucac
 ken,quen
 txara,chara
 txara,chará
@@ -10236,10 +10236,10 @@ zapatagile,zapataguillea
 zapatatxo,zapatachoa
 zapi,zapi
 zagi,zaguiá
-zaragoil,zaragollac
+zaragoila,zaragollac
 artzatu,artzatua
 zirtzilu,circillua
-zarp,zarpac
+zarpa,zarpac
 zarpatsu,zarpatſua
 zarri,zarri
 zerri,cerri

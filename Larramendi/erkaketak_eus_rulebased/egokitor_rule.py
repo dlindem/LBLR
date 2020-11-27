@@ -48,7 +48,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
 
     print('\nWorking...')
 
-    with open('egokitor_result_table.csv', 'w', encoding='utf-8') as outfile:
+    with open('egokitor_result_table_rulebased.csv', 'w', encoding='utf-8') as outfile:
         outfile.write('LAR_EUS_EGOK\tLAR_EUS_UNIDECODE\tLAR_EUS_ORIG\tSARASOLA\tSARASOLA1745\tWIKIDATA\tOEH\tOEHLINK\n') # csv header row
         for oldlem in reversedict:
             oldnorlem = unidecode(oldlem.replace('ñ', '_')).replace('_', 'ñ').rstrip()
@@ -72,7 +72,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             elif len(newlem) > 3 and newlem[-3]+newlem[-2]+newlem[-1] == "rra" and newlem[:-2] in sarlemlist: # asks for match if r"-ra" is stripped off from EGOKITUA finishing with "-ak"
                 sarlem = newlem[:-2]
             elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in sarlemlist: # asks for match if "-k" is stripped off from EGOKITUA
-                sarlem = newlem[:-2]
+                sarlem = newlem[:-1]
             elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in sarlemlist: # asks for match if "-ak" is stripped off from EGOKITUA
                 sarlem = newlem[:-2]
             elif len(newlem) > 3 and newlem[-4]+newlem[-3]+newlem[-2]+newlem[-1] == "rrak" and newlem[:-3] in sarlemlist: # asks for match if "-rak" is stripped off from EGOKITUA
@@ -92,7 +92,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             elif len(newlem) > 3 and newlem[-3]+newlem[-2]+newlem[-1] == "rra" and newlem[:-2] in sarlarlemlist: # asks for match if r"-ra" is stripped off from EGOKITUA finishing with "-ak"
                 sarlarlem = newlem[:-2]
             elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in sarlarlemlist: # asks for match if "-k" is stripped off from EGOKITUA
-                sarlarlem = newlem[:-2]
+                sarlarlem = newlem[:-1]
             elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in sarlarlemlist: # asks for match if "-ak" is stripped off from EGOKITUA
                 sarlarlem = newlem[:-2]
             elif len(newlem) > 3 and newlem[-4]+newlem[-3]+newlem[-2]+newlem[-1] == "rrak" and newlem[:-3] in sarlarlemlist: # asks for match if r"-rak" is stripped off from EGOKITUA
@@ -112,7 +112,7 @@ with open('rules.csv', encoding="utf-8") as csvfile:
             elif len(newlem) > 3 and newlem[-3]+newlem[-2]+newlem[-1] == "rra" and newlem[:-2] in wdlemlist: # asks for match if r"-ra" is stripped off from EGOKITUA finishing with "-ak"
                 wdlem = newlem[:-2]
             elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-1] in wdlemlist: # asks for match if letter "-k" is stripped off from EGOKITUA finishing with "-ak"
-                wdlem = newlem[:-2]
+                wdlem = newlem[:-1]
             elif len(newlem) > 3 and newlem[-2]+newlem[-1] == "ak" and newlem[:-2] in wdlemlist: # asks for match if letter "-ak" is stripped off from EGOKITUA
                 wdlem = newlem[:-2]
             elif len(newlem) > 3 and newlem[-4]+newlem[-3]+newlem[-2]+newlem[-1] == "rrak" and newlem[:-3] in wdlemlist: # asks for match if r"-rak" is stripped off from EGOKITUA
