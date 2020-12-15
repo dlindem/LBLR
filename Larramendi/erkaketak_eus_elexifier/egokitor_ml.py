@@ -48,6 +48,10 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     with open('egokitor_result_table_elexifier.csv', 'w', encoding='utf-8') as outfile:
         outfile.write('EGOKITUA\tUNIDECODE\tJATORRIZKOA\tSARASOLA\tSARASOLA1745\tWIKIDATA\tOEH\tOEHLINK\n') # csv header row
         for line in larlemlist:
+            sarlem = ""
+            sarlarlem = ""
+            wdlem = ""
+            oehlem = ""
             if re.match(r"[^\t]+\t", line): # if sarrera has a translation
                 splitline = line.split('\t')
 #                print(splitline)

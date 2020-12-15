@@ -51,6 +51,10 @@ with open('rules.csv', encoding="utf-8") as csvfile:
     with open('egokitor_result_table_rulebased.csv', 'w', encoding='utf-8') as outfile:
         outfile.write('LAR_EUS_EGOK\tLAR_EUS_UNIDECODE\tLAR_EUS_ORIG\tSARASOLA\tSARASOLA1745\tWIKIDATA\tOEH\tOEHLINK\n') # csv header row
         for oldlem in reversedict:
+            sarlem = ""
+            sarlarlem = ""
+            wdlem = ""
+            oehlem = ""
             oldnorlem = unidecode(oldlem.replace('ñ', '_')).replace('_', 'ñ').rstrip()
             newlem = oldnorlem
             for rule in mapdict:
