@@ -58,7 +58,7 @@ def lexicon_build(textname=None, doclink=None):
     lexicon = {"eu": {}, "es": {}, "la": {}}
     actual_aingura = ""
     for span in spans:
-        lang = span[0:2]
+        lang = span[0:2].lower()
         print(f"Atal honen hizkuntza: {lang}")
 
         span_content = re.search(rf'{lang}">(.*)</span>', re.sub(r'</ ?br>', ' ', span)).group(1)
