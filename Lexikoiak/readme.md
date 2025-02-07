@@ -1,6 +1,6 @@
 # Euskal testuetatik lexikoia ateratzeko
 
-Lexikoia: Testu batean agertzen diren formak ateratzea, ondorengo datuekin batera:
+Lexikoia: Testu batean agertzen diren formak, zerrenda batean, ondorengo datuekin batera:
 * Testu-hitza (tokena)
 * Testu-hitz egokitua, OEH-ko lemategiarekin konparatuko dena
   * Horretarako, `data/grafia_arauak` karpetan dauden arautegiak erabiltzen dira; autore bakoitzak bere arautegia izan dezake.
