@@ -62,9 +62,9 @@ def lexicon_build(textname=None, doclink=None):
         lang = span[0:2].lower()
         print(f"Atal honen hizkuntza: {lang}")
         try:
-            span_content = re.search(rf'{lang}">(.*)</span>', span).group(1)
+            span_content = re.search(rf'{lang}">(.*)</span>', span).group(1) + '  '
         except:
-            span_content = re.search(rf'{lang}">(.*)', span).group(1)
+            span_content = re.search(rf'{lang}">(.*)', span).group(1) + '  '
         print(f"\n*** Will process span: {span_content}")
 
         # find aingurak
@@ -88,7 +88,8 @@ def lexicon_build(textname=None, doclink=None):
             paragraph = re.sub(r'[\[\]]', '', paragraph)
             paragraph = re.sub(r'<[^>]+>', '', paragraph)
             tokens = word_tokenize(paragraph)
-            for token in tokens:
+            token_num = 0
+            while token_num:
                 if re.search(r"[^\w]", token) or re.search(r"\d", token):
                     print(f"\nSkipping token: {token}")
                     continue
@@ -102,23 +103,28 @@ def lexicon_build(textname=None, doclink=None):
                 else:
                     lemma_candidate = {'lemma': "", 'hitz_egok': "", 'lexeme': ""}
                     print(f"Got no lemma candidate for token: {token}")
-                aingura_link = doclink + "#" + actual_aingura
+                aingura_link = doclink + actual_aingura
 
                 # get contexts
-                contexts = re.findall(r'.{,45}'+token+r'[^\w].{,44}\.?', paragraph)
+                error = False
+                contexts = re.findall(r'.{,49}[^\w]'+token+r'[^\w].{,49}\.?', paragraph)
                 if len(contexts) == 0:
-                    contexts = ["***\t:::ERROR:::\t*** testuingurua ez dut topatu"]
+                    contexts = []
+                    error = True
                 print(f"Found {len(contexts)} contexts for token: {token}")
                 context_num = 0
                 while context_num < len(contexts):
                     # print(contexts[context_num])
-                    print_context = re.sub(r'\d+\}+', '', contexts[context_num]).strip()
-                    print_context = re.sub(rf'(.*)({token})(.*)', r'\1\t\2\t\3', print_context)
-                    print_context = re.sub(r'^[^ @]*', '', print_context)
-                    print_context = re.sub(r'@?[^ \.@]*$', '', print_context)
-                    print_context = re.sub(r'@', '', print_context)
-                    print_context = f"...{print_context}..."
-                    print(f"context in aingura #{actual_aingura}: '{print_context}'")
+                    if not error:
+                        print_context = re.sub(r'\d+\}+', '', contexts[context_num]).strip()
+                        print_context = re.sub(rf'(.*)({token})(.*)', r'\1\t\2\t\3', print_context)
+                        print_context = re.sub(r'^[^ @]*', '', print_context)
+                        print_context = re.sub(r'@?[^ \.@]*$', '', print_context)
+                        print_context = re.sub(r'@', '', print_context)
+                        print_context = f"...{print_context}..."
+                        print(f"context in aingura #{actual_aingura}: '{print_context}'")
+                    else:
+                        print_context = "***\t:::ERROR:::\t*** testuingurua ez dut topatu"
 
                     #save to document lexicon
                     if token.lower() not in lexicon[lang]:
@@ -129,9 +135,10 @@ def lexicon_build(textname=None, doclink=None):
     return lexicon
 
 lexicon = {"eu": {}, "es": {}, "la": {}}
-# documents = [("HHHT", "https://eu.wikisource.org/wiki/Hiztegi_Hirukoitzeko_hitzaurreko_testuak#"),
-#             ("LAZK", "https://eu.wikisource.org/wiki/Azkoitiko_Sermoia#")]
-documents = [("etxepare", "https://eu.wikisource.org/wiki/Linguae_vasconum_primitiae#")]
+documents = [("HHHT", "https://eu.wikisource.org/wiki/Hiztegi_Hirukoitzeko_hitzaurreko_testuak#"),
+            ("LAZK", "https://eu.wikisource.org/wiki/Azkoitiko_Sermoia#"),
+            ("SanAgustin_ainguratuta", "https://eu.wikisource.org/wiki/San_Agustin_Eguneko_Sermoia#")]
+# documents = [("etxepare", "https://eu.wikisource.org/wiki/Linguae_vasconum_primitiae#")]
 for document, baselink in documents:
     doc_lexicon = lexicon_build(textname=document, doclink=baselink)
     with open(f'data/{document}_lexicon.json', 'w') as file:
@@ -148,7 +155,7 @@ sorted_lexicon = {"eu": dict(sorted(lexicon['eu'].items())),
                   "la": dict(sorted(lexicon['la'].items()))}
 
 
-with open('data/etxepare_sorted_lexicon.json', 'w') as file:
+with open('data/larramendi_sorted_lexicon.json', 'w') as file:
     json.dump(sorted_lexicon, file, indent=2)
 
 
