@@ -33,12 +33,14 @@ Wikisourceko dokumentuetako edukiak lexikoia ateratzeko aintzat har daitezen, on
 ## Bildumaren parte diren Wikisource dokumentuak
 
 Lexikoia ateratzeko, testua Wikisource proiektua izan behar da.
-* Bi motako wikisource proiektuak daude:
-  * Wikisource orrian bertan testua dutenak (adib. Etxepare Linguae Vasconum Primitiae)
+* Hiru motako wikisource proiektuak daude:
+  * Wikisource orri bakar batean bertan testua dutenak (adib. Etxepare Linguae Vasconum Primitiae)
+  * Wikisource orri batzuetan bertan testua dutenak (kapituloka, adib. Axular Gero)
   * PDF baten transkripzioa direnak (PDF orrialde bakoitzak bere testu-orria du, adib. Larramendi Azkoitiko Sermoia)
 * `wikisource_proiektuak.csv` fitxategian dago proiektuen zerrenda
   * Beti:
     * Lehenengo zutabean: Wikisource proiektuaren orrialde nagusia
+    * Hainbat (kapitulu-)orrialde badira, orrialde nagusia jarri (aurkibidea duena)
   * PDF transkripzioa bada:
     * Bigarren zutabean: PDF fitxategiaren helbidea, orrialde zenbakirik gabe
     * Hirugarren zutabean: PDF-aren orrialde kopurua
