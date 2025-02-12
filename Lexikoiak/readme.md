@@ -27,6 +27,7 @@ Wikisourceko dokumentuetako edukiak lexikoia ateratzeko aintzat har daitezen, on
   * Paragrafo osoak izan behar dira (`<ins>...</ins>` aurretik eta ondoren lerro huts bat)
 * Oin-oharrak `<ref>...</ref>` elementuaren barruan egon behar dira, oin-oharrari dagokion tokian bertan
   * Lexikoia ekoizteko, ez dira aintzat hartuko, nahiz eta `<span lang="xx">` baten barruan egon
+* `<cite>...</cite>` jatorrizko egileak egiten dituen aipuentzako erreferentzia bibliografikoak, adib. `(Joan 19.)`
 * `<ref>...</ref>` `<ins>...</ins>` barruan egon daiteke: `<ins>...<ref>...</ref></ins>`.
 * `<ins>...</ins>` eta `<ref>...</ref>` ez diren bestelako html tag-ak eliminatu egingo dira lexikoia ekoitzi baino lehen; barruan eduki dezaketen testua, aldiz, ez.
 
