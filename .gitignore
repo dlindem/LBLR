@@ -1,2 +1,5 @@
 .idea/*
 *.csv#
+__pycache__/*
+*/config_private.*
+
