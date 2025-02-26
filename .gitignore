@@ -2,4 +2,5 @@
 *.csv#
 */__pycache__/*
 config_private.*
+*/config_private.*
 
