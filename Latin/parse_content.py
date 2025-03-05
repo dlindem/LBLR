@@ -15,6 +15,7 @@ tree = ElementTree.parse('content.xml')
 newroot = ElementTree.Element('root')
 element_types = {}
 mapped_types = {}
+entry_id = 0
 
 for entry in tree.findall("entry"):
     # entry_type = entry.attrib['type']
@@ -22,7 +23,9 @@ for entry in tree.findall("entry"):
     #     entrytypes[entry_type] = 1
     # else:
     #     entrytypes[entry_type] += 1
+    entry_id += 1
     newentry = ElementTree.Element('entry')
+    newentry.set('entry_id', str(entry_id))
     actual_lang = None
     for element in entry.findall("element"):
         element_type = element.attrib['type']
