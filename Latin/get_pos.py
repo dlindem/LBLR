@@ -42,6 +42,6 @@ for entry in tree.findall('entry'):
 
 
 with open('content_pos.json', 'w') as file:
-    json.dump(result, file, indent=2)
+    json.dump(result, file, indent=2, ensure_ascii=False)
 
 print(resultcount)
