@@ -35,7 +35,7 @@ for filename in os.listdir(wikitext_folder):
 			  bot=True,
 			  contentformat="text/x-wiki",
 			  recreate=True,
-			  summary="Orrialdea birsortua LBLR/upload-wikisource.py, DL2204",
+			  summary=f"Orrialdea birsortua LBLR/upload-wikisource.py, {config_private.wikisource_user}",
 			  text=wikitext,
 			  title=pagename,
 			  token=token)
