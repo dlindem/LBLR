@@ -34,7 +34,6 @@ for filename in os.listdir(wikitext_folder):
 		site.post('edit',
 			  bot=True,
 			  contentformat="text/x-wiki",
-			  # contentmodel="wikitext",
 			  recreate=True,
 			  summary="Orrialdea birsortua LBLR/upload-wikisource.py, DL2204",
 			  text=wikitext,
