@@ -72,12 +72,12 @@ for entry in tree.findall('entry'):
     if pos:
         pos['lemma'] = lemma
         pos['altlemma'] = altlem
-        pos['full_entry'] = ElementTree.tostring(entry, encoding="utf8").decode("utf-8")
+        pos['full_entry'] = ElementTree.tostring(entry, encoding="utf8").decode("utf-8").replace("<?xml version='1.0' encoding='utf8'?>\n","").replace("\n\t</entry>\n\t","</entry>")
         result[pos['pos']][entry_id] = pos
         resultcount['found_pos'][pos['pos']] += 1
     else:
         resultcount['not_found'] += 1
-        result['no_pos'][entry_id] = ElementTree.tostring(entry, encoding="utf8").decode("utf-8")
+        result['no_pos'][entry_id] = ElementTree.tostring(entry, encoding="utf8").decode("utf-8").replace("<?xml version='1.0' encoding='utf8'?>\n","").replace("\n\t</entry>\n\t","</entry>")
 
 
 
