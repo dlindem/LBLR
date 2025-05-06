@@ -1,0 +1,64 @@
+
+
+Query for "lila_best_matches.csv"
+
+PREFIX mwb: <https://monumenta.wikibase.cloud/entity/>
+PREFIX mdp: <https://monumenta.wikibase.cloud/prop/direct/>
+PREFIX mp: <https://monumenta.wikibase.cloud/prop/>
+PREFIX mps: <https://monumenta.wikibase.cloud/prop/statement/>
+PREFIX mpq: <https://monumenta.wikibase.cloud/prop/qualifier/>
+PREFIX mpr: <https://monumenta.wikibase.cloud/prop/reference/>
+PREFIX mno: <https://monumenta.wikibase.cloud/prop/novalue/>
+PREFIX lila: <http://lila-erc.eu/ontologies/lila/>
+
+
+SELECT distinct ?source_id ?lexeme ?lemma ?lila_id_st ?lila_id ?wd_lexemes WHERE {
+?lexeme mp:P6 [mps:P6 mwb:Q1284; mpq:P186 ?source_id]; wikibase:lemma ?lemma; mp:P185 ?lila_id_st. ?lila_id_st mps:P185 ?lila_id.
+  filter not exists {?lexeme mp:P185 ?lila_id_st_2. filter(?lila_id_st != ?lila_id_st_2)}.
+ #bind(iri(concat("https://lila-erc.eu/lodview/data/id/",?lila_id)) as ?lila_uri)
+  SERVICE <https://query.wikidata.org/sparql>
+     { select ?lila_id (group_concat(str(?wd_lexeme)) as ?wd_lexemes)  where
+     { ?wd_lexeme wdt:P11033 ?lila_id.  } group by ?lila_id ?wd_lexemes
+      }
+
+} order by xsd:integer(?source_id) ?lila_id
+
+14128 results
+1984: more than one WD lexeme per lila id
+12144: WD-lila one-to-one. Written to WB with note: batch #1 best matches
+
+***
+
+query that gets entries without WD alignment:
+
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX mwb: <https://monumenta.wikibase.cloud/entity/>
+PREFIX mdp: <https://monumenta.wikibase.cloud/prop/direct/>
+PREFIX mp: <https://monumenta.wikibase.cloud/prop/>
+PREFIX mps: <https://monumenta.wikibase.cloud/prop/statement/>
+PREFIX mpq: <https://monumenta.wikibase.cloud/prop/qualifier/>
+PREFIX mpr: <https://monumenta.wikibase.cloud/prop/reference/>
+PREFIX mno: <https://monumenta.wikibase.cloud/prop/novalue/>
+PREFIX lila: <http://lila-erc.eu/ontologies/lila/>
+
+
+SELECT distinct ?source_id ?sarreraburu ?lexeme ?lila_form ?lila_uri ?lila_lemma ?lila_pos ?lila_gender ?lila_inflectionType
+       (group_concat(distinct concat(str(?sense), " (",lang(?sense),")"); SEPARATOR=", ") as ?sense_translations)
+   WHERE {
+?lexeme mp:P6 [mps:P6 mwb:Q1284; mpq:P186 ?source_id; mpq:P187 ?sarreraburu]; wikibase:lemma ?lila_form; mp:P185 ?lila_id_st. ?lila_id_st mps:P185 ?lila_id.
+  filter not exists {?lexeme mdp:P1 ?wikidata}.
+ bind(iri(concat("http://lila-erc.eu/data/id/",?lila_id)) as ?lila_uri)
+
+     SERVICE <https://lila-erc.eu/sparql/lila_knowledge_base/sparql> {
+       select ?lila_uri ?lila_pos ?lila_lemma ?lila_gender ?lila_inflectionType ?sense
+                        where
+       {?lila_uri lila:hasPOS [rdfs:label ?lila_pos]; rdfs:label ?lila_lemma
+       optional {?lila_uri lila:hasGender [rdfs:label ?lila_gender].}
+       optional {?lila_uri lila:hasInflectionType [rdfs:label ?lila_inflectionType].}
+       optional {?dict_entry ontolex:canonicalForm ?lila_uri. ?dict_entry ontolex:sense [rdfs:label ?sense]. filter(lang(?sense)="es" || lang(?sense)="pt" || lang(?sense)="en" || lang(?sense)="fr")}
+       } group by ?lila_uri ?lila_pos ?lila_lemma ?lila_gender ?lila_inflectionType ?sense
+       }
+
+
+} group by ?source_id ?sarreraburu ?lexeme ?lila_form ?lila_uri ?lila_lemma ?lila_pos ?lila_gender ?lila_inflectionType ?sense_translations
+# order by xsd:integer(?source_id) ?lila_id
