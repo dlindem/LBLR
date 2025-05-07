@@ -1,0 +1,2049 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+                       "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+   <!ENTITY % TEI.prose    'INCLUDE' >
+   <!ENTITY % TEI.linking  'INCLUDE' >
+   <!ENTITY % TEI.analysis 'INCLUDE' >
+   <!ENTITY % TEI.figures  'INCLUDE' >
+   <!ENTITY % TEI.XML      'INCLUDE' >
+   <!ENTITY % TEI.extensions.ent SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.ent' >
+   <!ENTITY % TEI.extensions.dtd SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.dtd' >
+]>
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+     <titleStmt>
+        <title>El borracho burlado</title>
+        <author>Franzisko Xabier Munibe - "Peñafloridako Kondea"</author>
+        <respStmt>Ez dauka</respStmt>
+     </titleStmt>
+     <extent>9.014 hitz, 57.940 karaktere</extent>
+     <publicationStmt>
+        <publisher>Klasikoen Gordailua [http://klasikoak.armiarma.com/]</publisher>
+        <distributor>Estrata Liburuak S.L.</distributor>
+        <address type='email'>klasikoak@armiarma.com</address>
+        <idno type='ota'>MunibeBurlado</idno>
+        <availability status='free'>Erabilpen librekoa; honoko helbidean topa daiteke (HTML, RTF eta PDF formatuetan): http://klasikoak.armiarma.com/idazlanak/M/MunibeBurlado.htm</availability>
+        <date>2006</date>
+     </publicationStmt>
+     <sourceDesc>
+        <bibl>Iturria: Teatro zaarra. Gabonetako ikuskizuna. gabon-sariak. El borracho burlado, Pedro Barrutia, Sor Luisa, Xabier Munibe (Gabriel Arestiren edizioa). Auspoa, 1965</bibl>
+        <notesStmt><note>Iturburuen datazioa: 1764</note></notesStmt>
+     </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+     <projectDesc>Euskal literaturako testu klasikoen bilduma da KLASIKOEN GORDAILUA; testu hau berorren parte da</projectDesc>
+     <refsDecl>
+        <p>MENTIONED etiketa egilearenak ez diren hitzak markatzeko erabili da: hitzaurreak, aipuak, iruzkinak, e.a.</p>
+    </refsDecl>
+     <classDecl>
+        <taxonomy id='generoa'>
+            <category id='G-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='G-ANT'><catDesc>Antzerkia</catDesc></category>
+            <category id='G-BER'><catDesc>Bertsoak</catDesc></category>
+            <category id='G-ERL'><catDesc>Erlijioa</catDesc></category>
+            <category id='G-NAR'><catDesc>Narratiba</catDesc></category>
+            <category id='G-POE'><catDesc>Poesia</catDesc></category>
+            <category id='G-SAI'><catDesc>Saiakera, kronika, artikuluak...</catDesc></category>
+        </taxonomy>
+        <taxonomy id='garaia'>
+            <category id='M-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='M-16'><catDesc>XVI. mendea</catDesc></category>
+            <category id='M-17-1'><catDesc>XVII. mendea - 1. erdia</catDesc></category>
+            <category id='M-17-2'><catDesc>XVII. mendea - 2. erdia</catDesc></category>
+            <category id='M-18-1'><catDesc>XVIII. mendea - 1. erdia</catDesc></category>
+            <category id='M-18-2'><catDesc>XVIII. mendea - 2. erdia</catDesc></category>
+            <category id='M-19-1'><catDesc>XIX. mendea - 1. erdia</catDesc></category>
+            <category id='M-19-2'><catDesc>XIX. mendea - 2. erdia</catDesc></category>
+            <category id='M-20-1'><catDesc>XX. mendea - 1. erdia</catDesc></category>
+            <category id='M-20-2'><catDesc>XX. mendea - 2. erdia</catDesc></category>
+        </taxonomy>
+        <taxonomy id='euskalkia'>
+            <category id='E-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='E-BAT'><catDesc>batua</catDesc></category>
+            <category id='E-BIZ'><catDesc>bizkaiera</catDesc></category>
+            <category id='E-BNA'><catDesc>behenafarrera</catDesc></category>
+            <category id='E-ERR'><catDesc>erronkariera</catDesc></category>
+            <category id='E-GIP'><catDesc>gipuzkera</catDesc></category>
+            <category id='E-GNA'><catDesc>goi nafarrera</catDesc></category>
+            <category id='E-LAP'><catDesc>lapurtera</catDesc></category>
+            <category id='E-NAF'><catDesc>nafarrera</catDesc></category>
+            <category id='E-ZAR'><catDesc>zaraitzuera</catDesc></category>
+            <category id='E-ZUB'><catDesc>zuberera</catDesc></category>
+        </taxonomy>
+    </classDecl>
+  </encodingDesc>
+  <profileDesc>
+     <textClass>
+       <keywords scheme='generoa'>
+         <list><item>G-ANT</item></list>
+       </keywords>
+       <keywords scheme='garaia'>
+         <list><item>M-18-2</item></list>
+       </keywords>
+       <keywords scheme='euskalkia'>
+         <list><item>E-GIP</item></list>
+       </keywords>
+     </textClass>
+  </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>El borracho burlado -- Franzisko Xabier Munibe - "Peñafloridako Kondea"</docTitle>
+    </front>
+    <group>
+      <text>
+        <body>
+<p><foreign>EL BORRACHO BURLADO</foreign></p>
+<p><foreign>OPERA COMICA</foreign></p>
+<p><foreign>EN CASTELLANO Y BASCUENCE</foreign></p>
+<p><foreign>ESCRITA Y PUESTA EN MUSICA</foreign></p>
+<p><foreign>POR UN CABALLERO GUIPUZCOANO</foreign></p>
+<p><mentioned> Lenengo argitaraldia: 1764-garren urtean.</mentioned></p>
+<p><mentioned> Bigarren argitaraldia: «Revista Internacional de Estudios Vascos», 1907-1909, lenengoaren facsímil.</mentioned></p>
+<p><mentioned> Irugarren argitaraldia: Auspoa 48, 1965.</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>AL MUY ILUSTRE SEÑOR</p></head>
+        </front>
+        <body>
+<p><foreign><hi rend='Bold'>DON FRANCISCO XAVIER MARIA DE MUNIBE E IDIAQUEZ,</hi></foreign></p>
+<p><foreign><hi rend='Bold'>CONDE DE PEÑAFLORIDA...</hi></foreign></p>
+<p><foreign> Muy señor mío: Quisiera obligar el reconocimientu del público, y con nada espero lograrlo más universal y justamente, que con esta admirable obra, producción del ameno ingenio, del delicado gusto y de la incomparable aplicación de V.S.; y no la puego sacar ni más airosa, ni más dignamente, que bajo la protección de V.S. Ella es una pieza maestra del escogido numen poético y músico de V.S., y descubre a un mismo tiempo lo que alcanza aquella virtud enemiga irreconciliable del ocio. Ella hace un digno elogio de V.S. y una demostración de que la nobleza da realce a todas las obras del ingenio, y ellas le reciben del esplendor de su autor. Ella fue obsequio que hizo la cortesanía de V.S. a esta Muy Noble y Muy Leal Provincia de Guipúzcoa en su última asamblea general, y que me le hace a mí en las funciones que dedico a mi grande hijo S. Martín de Aguirre; y ella en fin, por todos estos títulos, dará perpetua materia a mi gratitud infinitamente obligada a tan particular demostración.</foreign></p>
+<p><foreign> Pero ¿qué mucho que yo me reconozca tan deudora a V.S. que se arrastra todo el mundo por la amabilidad inimitable de su persona, por su escogido talento, por su rara aplicación, y por la universalidad de sus conocimientos? </foreign></p>
+<p><foreign> Nada es desconocido a V.S. sino el ocio: leyes municipales de la Patria, música, física, matemáticas, geografía, historia, humanidad, poesía y, en suma, todas las ciencias que adornan a muchos caballeros juntos han ocupado la preciosa vida de V.S. y enriquecido ese bellísimo entendimiento con tan digna como universal admiración.</foreign></p>
+<p><foreign> Querer acreditar esta verdad con hechos prácticos y repetidos, fuera obra igualmente fácil que deliciosa; pero pedía campo más ancho que el de esta carta. Baste por todos aquel admirable plan de una Academia que para ciencias, artes, agricultura y comercio debe a V.S. esta Provincia.</foreign></p>
+<p><foreign> Lo basto de la obra, el bello orden con que está dividida, la prudencia y discreción con que está dictada, hacen una invencible demostración de que V.S. entiende con eminencia todos aquellos ramos que hacen tan magnífica la obra, y todos los medios que facilitan a reducirla a la práctica.</foreign></p>
+<p><foreign> Para cultura tan universal son menester dos cosas: un ingenio extraordinario y una aplicación continuada y seria. Debe V.S. al cielo la primera, y es deudora la tierra a V.S. de la segunda. Propuso a V.S. sin duda desde la cuna por modelos un Ciro el mayor, un Rey Demetrio, un Marco Aurelio, un Antonino Pío, y otros Príncipes y Señores, que dedicaron sus talentos a la agricultura, a la construcción, a la pintura, y a otras artes; pero igualándoles V.S. en el destierro del ocio, contra quien se dirigía el estudio de aquéllos, les aventaja en el fin y blanco de sus tareas, que es el beneficio público, a quien se dirigen los nobles pensamientos de V.S., que le han merecido tan singular aprecio de su Patria.</foreign></p>
+<p><foreign> Reconozca, pues, señor, todo el País a V.S. como a principio y perfección del Teatro Vascongado, como a propagador de su cultura, como a agente de su felicidad, como a móvil de su abundancia, que yo que soy la primera en confesarlo, debo serlo por multiplicados títulos en celebrarlo, esperando de su bondad que aun a costa de su modestia admitirá esta pequeña prueba de mi gratitud, si no como bastante a mi obligación, a lo menos como una prenda de la sinceridad con que ofrezco a la disposición de V.S. mis facultades.</foreign></p>
+<p><foreign> Nuestro Señor guarde a V.S. muchos años. De mi ayuntamiento, de 25 de Agosto de 1764.</foreign></p>
+<p><foreign> La N. y L. Villa de Vergara, y en su nombre, B.L.M. de V.S. sus más atentos servidores:</foreign></p>
+<p><foreign> Don Joaquín Ignacio de Moya y Ortega</foreign></p>
+<p><foreign> Don Ignacio María de Ozaeta y Berroeta</foreign></p>
+<p><foreign> Don Miguel Joseph de Oñaso y Zumalave</foreign></p>
+<p><foreign> Don Miguel Ignacio de Olaso y Uribarri</foreign></p>
+<p><foreign> Juan de Goribar</foreign></p>
+<p><foreign> Por la Noble y Leal Villa de Vergara, su escribano de Ayuntamientos,</foreign></p>
+<p><foreign> Pedro de Ascargorta Arana.</foreign></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>ADVERTENCIA DEL AUTOR</p></head>
+        </front>
+        <body>
+<p><foreign> Si toda esta pieza teatral desmerece —como dije hablando de mi traducción del <hi rend='Italic'>Marischal Ferrant— </hi>desde el Teatro a la prensa, es mucho más sensible esta pérdida en las óperas cómicas, pues éstas divierten más aún sobre las tablas mesmas por los embelesos de la música que por la representación, y, desnudándolas de toda aquella gracia y espíritu que las infundía la música, y hasta de la que las prestaba la representación, quedan enteramente frías y sin alma ninguna.</foreign></p>
+<p><foreign> Este motivo de cobardía —que aunque es el mesmo que insinué allá, es todavía acá de mayor fuerza— sube mucho de punto cuando hago reflexión del diferente interés que tengo en una y otra pieza. En la primera no tenía más parte que la del traductor, exponiéndome sólo a la crítica de poco hábil en este ejercicio; pero en ésta me confieso por su autor, y salgo por responsable de todos sus defectos.</foreign></p>
+<p><foreign> Conozco que estos son muchos: ella no tiene aquel interés que empeña comúnmente al auditorio, pues la falta el cebo del amor, agente tan socorrido en los teatros para atraer y fijar la atención de todos; la poesía parecerá tal vez lánguida y poco nerviosa, y, en fin, acaso no faltará quien la critique de que no se observa en ella el rígido precepto de las tres unidades.</foreign></p>
+<p><foreign> Para aquietar estos escrúpulos diré, no obstante, que, en cuanto al interés de esta ópera, creo puede prestarle bastante la expectación en que está el auditorio acerca del paradero del chasco que se previene a Chantan Garrote, que es el héroe principal de ella, y que si no he mezclado nada de amores, ha sido por las circunstancias de las personas que estaban destinadas para su representación, a cuyos caracteres he procurado acomodar los diferentes personajes que introduzco en ella; que, en lo que toca a la poesía, he puesto mi cuidado en que sea un romance llano, y un estilo que se acerque de la prosa, no debiendo extrañar los defectos que pueda haber en ella, de quien nunca ha tenido numen, ni menos le ha ejercitado; y, últimamente, que en las tres unidades es a mi parecer donde tiene menos irregularidad: pues aunque es cierto que se pueda decir se juntan varias acciones, la principal es la de dar un chasco a Chanton Garrote, haciéndole creer que se ha vuelto en un gran señor, poniéndole luego en el apuro de verse despojado de su grandeza y amenazado a una horca, y por fin hacerle una burla que le llena de confusión; y, siendo todas las acciones dirigidas a este fin, puede asegurarse que la acción es una y no más; en las unidades de tiempo y lugar hay todavía menos que tachar; pues si bien es verdad que desde la tienda del zapatero pasa la scena a los dos cuartos del Marqués, suponiéndose que el zapatero vivía en los cuartos bajos de este caballero, no se debe reputar por mutación del lugar.</foreign></p>
+<p><foreign> Muchos ejemplares y autoridades pudiera citar aquí para corroborar mis disculpas y sincerarme para con los críticos: pero no quiero añadir a la molestia de la pieza mesma la de un prólogo largo, y acabo con dos advertencias.</foreign></p>
+<p><foreign> La primera se dirige a aquellos que notarán la mezcla que se hace del vascuence y castellano, pareciéndoles más regular el que todo fuese en uno de los dos idiomas. Digo, pues, que mi primera idea fue de que toda esta ópera fuese en vascuence: pero luego me faltó la dificultad del dialecto de que me había de servir en ella. Si me valía del de Azcoytia, hubiera sido poco grato a todo el resto del País hasta la frontera de Francia, por la preocupación que tienen contra el vascuence o dialecto de Goi-erri; y, si quería usar del dialecto de Tolosa, Hernani, San Sebastián, etc., exponía a los actores a hacerse ridículos; pues sería difícil que todos pudiesen imitarle bien. Por esta razón, pues, me hube de contentar con reservar el vascuence para lo cantado, haciendo que todo lo representado fuese en castellano.</foreign></p>
+<p><foreign> La segunda advertencia es, que la traducción castellana que se ha puesto al lado del vascuence para la inteligencia de los que no entienden esta lengua, va en prosa, así porque no ha habido tiempo de disponerla de otro modo, como porque discurro sería muy dificultoso el que con la sujeción del metro pudiese hacerse la traducción con igual claridad.</foreign></p>
+<p><foreign> No me detengo en repetir lo que dije en la otra ópera para probar de que nunca fue mi intención el imprimir ni ésta ni aquélla; pues lo mucho que lleva de vascuence ésta, es una prueba evidente de ello, porque sería presentar al público una pieza poco recomendable, y esto no es regular en ningún autor.</foreign></p>
+<p><foreign>NOTA: Sé muy bien que hay una comedia —o no sé si ópera cómica— en francés, de una idea muy parecida a la de ésta: pero protesto que ni la he visto ni la he leído: y lo que más es, no sé con certeza su título, mucho menos su autor.</foreign></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>PERSONAS QUE HABLAN</p></head>
+        </front>
+        <body>
+<p><foreign><hi rend='Bold'>TXANTON GARROTE</hi></foreign><foreign>, hombre ordinario. </foreign></p>
+<p><foreign><hi rend='Bold'>MARITXO</hi></foreign><foreign>, su mujer.</foreign></p>
+<p><foreign><hi rend='Bold'>MARTINICO</hi></foreign><foreign>, zapatero, amigo de Txanton. </foreign></p>
+<p><foreign><hi rend='Bold'>MATXALEN</hi></foreign><foreign>, su mujer. </foreign></p>
+<p><foreign>Cuatro oficiales del zapatero.</foreign></p>
+<p><foreign><hi rend='Bold'>DON DIEGO</hi></foreign><foreign>, mayordomo de un caballero que vive en el cuarto alto de Martinico.</foreign></p>
+<p><foreign><hi rend='Bold'>DON PEDRO, DON ANTONIO</hi></foreign><foreign>: Pajes del mesmo caballero. </foreign></p>
+<p><foreign>Un hombre que vende manzanas.</foreign></p>
+<p><foreign> La Scena es la casa de un caballero, en cuyo suelo bajo tiene el zapatero su tienda.</foreign></p>
+        </body>
+      </text>
+      <text>
+        <body>
+<p><foreign>-e-<hi rend='Italic'>El teatro representa la tienda de un zapatero.</hi></foreign></p>
+<p><foreign><hi rend='Bold'>SCENA PRIMERA</hi></foreign></p>
+<p><foreign>-e-<hi rend='Italic'>Txanton Garrote con un jarro de tino en la mano cantando la siguiente</hi></foreign></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>CANZONETA</hi></hi></foreign></p>
+<p>Ai niri zer egin ote zat?</p>
+<p>Oñez ibilten aztu zat.</p>
+<p>Burra jaso ezin det.</p>
+<p>Lurra ediro ezin det.</p>
+<p>Triste dut biotza guztiz:</p>
+<p>Edan dezadan, ea, berriz.</p>
+<p><foreign>-e-<hi rend='Italic'>Mirando al jarro y acariciándole.</hi></foreign></p>
+<p>Edari eztitsu gozoa.</p>
+<p>Zerutik jatsitakoa.</p>
+<p>Zenbat eta ondorago.</p>
+<p>Anbait aiz gozoago!</p>
+<p>Jainkoak bedinka azala.</p>
+<p>Nik bedinkatze andan bezala!</p>
+<p>-e-<hi rend='Italic'><foreign>Lo mermo que en la copla antecedente.</foreign></hi></p>
+<p>Jarro onetan i ekustean.</p>
+<p>Poz artzen det biotzean:</p>
+<p>Emen begiraturik</p>
+<p>Banaukak txoraturik.</p>
+<p>Zer egingo ez dek barrunen?</p>
+<p>Sar akit bada, arren, len bait len.</p>
+<p>-e-<hi rend='Italic'><foreign>Bebe. Representa.</foreign></hi></p>
+<p><foreign>¿Si habrá desollado ya </foreign></p>
+<p><foreign>El cernícalo de anoche</foreign></p>
+<p><foreign>Mi amigo Martín?... ¡Hola! </foreign></p>
+<p><foreign>¡Martín... Martinico... oles! </foreign></p>
+<p><foreign>¡Ah el de como qué tienes! </foreign></p>
+<p><foreign>No me oye, no responde; </foreign></p>
+<p><foreign>Durmiendo debe de estar </foreign></p>
+<p><foreign>Como un lechón este pobre; </foreign></p>
+<p><foreign>Mas ya no puede tardar </foreign></p>
+<p><foreign>En bajar. Mientras asome. </foreign></p>
+<p><foreign>Túmbome en este rincón.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Tiéndese en un rincón del tablado, y, viendo entrar en él a su mujer, dice:</foreign></hi></p>
+<p><foreign>¿Quién vendrá aquí?</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Conócela.</foreign></hi></p>
+<p>¡Ah, Dios! ¡Pillóme!</p>
+<p><foreign><hi rend='Bold'>SCENA II</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Maritxo, muy afligida, y Txanton.</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Maritxo canta:</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIETA RONDEAU </hi></hi></foreign></p>
+<p>Ez da mundu onetan</p>
+<p>Pena andiagorik.</p>
+<p>Senar ordia,</p>
+<p>Alfer nagia,</p>
+<p>Izatea bezelakorik.</p>
+<p>Ez da mundu onetan</p>
+<p>Pena andiagorik.</p>
+<p>Ni baño iñor geiago</p>
+<p>Probaturik ez dago.</p>
+<p>Ai, Maritxo tristea!</p>
+<p>Ire zorigabea!</p>
+<p>Zerk bata induan</p>
+<p>Alakoarekin?</p>
+<p>Ez da mundu onetan</p>
+<p>Pena andiagorik.</p>
+<p>Beti, goiz ta gabean,</p>
+<p>Aura pitxer artean</p>
+<p>Tabernan sarturik,</p>
+<p>Ta ni aura billatzen,</p>
+<p>Nere burua urratzen,</p>
+<p>Ezin iñoz etxera</p>
+<p>Bere aurren aldera</p>
+<p>Biribillaturik.</p>
+<p>Ez da mundu onetan...</p>
+<p>-e-<hi rend='Italic'><foreign>Representa.</foreign></hi></p>
+<p><foreign>¡Ay, infelice de mí!</foreign></p>
+<p><foreign>Toda la noche he andado</foreign></p>
+<p><foreign>Tras mi vicioso marido, </foreign></p>
+<p><foreign>Una en una registrando </foreign></p>
+<p><foreign>Las tabernas del lugar; </foreign></p>
+<p><foreign>Y vendo a saber si acaso </foreign></p>
+<p><foreign>Está con Martín su amigo, </foreign></p>
+<p><foreign>Pues en parte alguna le hallo. </foreign></p>
+<p><foreign>¡Oh, cuán diferentes sois,</foreign></p>
+<p><foreign>Hombres crueles, hombres falsos, </foreign></p>
+<p><foreign>De lo que parecéis ser </foreign></p>
+<p><foreign>Cuando andáis tras engañarnos! </foreign></p>
+<p><foreign>Entonces todo es rendirse, </foreign></p>
+<p><foreign>Y, por los suelos echados, </foreign></p>
+<p><foreign>Suspiráis asegurando </foreign></p>
+<p><foreign>Que seréis nuestros esclavos; </foreign></p>
+<p><foreign>Mas no bien nos agarráis, </foreign></p>
+<p><foreign>No bien lográis nuestra mano, </foreign></p>
+<p><foreign>Cuando, olvidando la fe </foreign></p>
+<p><foreign>Que nos habíades jurado, </foreign></p>
+<p><foreign>Nos dejáis abandonadas. </foreign></p>
+<p><foreign>¡Oh, si Dios hubiera dado </foreign></p>
+<p><foreign>A las mujeres permiso </foreign></p>
+<p><foreign>De que fuéramos mudando </foreign></p>
+<p><foreign>Maridos como camisas! </foreign></p>
+<p><foreign>¡No nos despreciarais tanto!</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Reparando en su marido.</foreign></hi></p>
+<p><foreign>Mas ¿qué miro?... ¡El es; no hay duda!</foreign></p>
+<p><foreign>¡Gracias a Dios, le he hallado!</foreign></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIA A DUO </hi></hi></foreign></p>
+<p><hi rend='Bold'>MARITXO</hi></p>
+<p>Emen engoan i,</p>
+<p>Urde zikiñ ori.</p>
+<p>Ta ire ondoren ni</p>
+<p>Bart erri guziti!</p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p>Maritxo laztana,</p>
+<p>Zerk akar onara?</p>
+<p><hi rend='Bold'>MARITXO</hi></p>
+<p>Zerk? I billatzera!</p>
+<p>Goazen etxera!</p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p>Utzi mazan emen</p>
+<p>Poliki atsedeten.</p>
+<p><hi rend='Bold'>MARITXO</hi></p>
+<p>Eztiat nai.</p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p>Bai, bai, bai, bai.</p>
+<p><hi rend='Bold'>MARITXO</hi></p>
+<p>Ator laster.</p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p>Ez, ez, ez, ez.</p>
+<p><hi rend='Bold'>MARITXO </hi><foreign><hi rend='Italic'>(muy enfadada)</hi></foreign></p>
+<p>Ah, zikiña!</p>
+<p><hi rend='Bold'>TXANTON </hi><foreign>(riéndose) </foreign></p>
+<p>Ah, ah, ah, ah!</p>
+<p><hi rend='Bold'>MARITXO </hi><foreign><hi rend='Italic'>(como antes) </hi></foreign></p>
+<p>Ah, likitza!</p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(como antes)</hi></foreign></p>
+<p>Ah, ah, ah, ah!</p>
+<p><foreign><hi rend='Bold'>LOS DOS JUNTOS </hi></foreign><foreign><hi rend='Italic'>(como antes)</hi></foreign></p>
+<p>Farra egiten didak?</p>
+<p>Gogoango didak!</p>
+<p>Ah, ah, ah, ah, ah, ah, ah, ah,</p>
+<p>Ah, ah, ah, ah, ah, ah!</p>
+<p><hi rend='Bold'>MARITXO </hi><foreign><hi rend='Italic'>(como antes)</hi></foreign></p>
+<p>Nik salatuko aut</p>
+<p>Alkate aurrera;</p>
+<p>Sartuko erazoko aut</p>
+<p>Kartzela illunean.</p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(como antes)</hi></foreign></p>
+<p>Or konpon, Mari-Anton!</p>
+<p>Ajolarik etzat!</p>
+<p><hi rend='Bold'>MARITXO </hi><foreign><hi rend='Italic'>(como antes)</hi></foreign></p>
+<p>Ajolarik ez badek ik,</p>
+<p>Nik emango diat.</p>
+<p><foreign><hi rend='Bold'>LOS DOS JUNTOS </hi></foreign><foreign><hi rend='Italic'>(como antes)</hi></foreign></p>
+<p>Ajolarik ez badek ik,</p>
+<p>Nik emango diat.</p>
+<p>Or konpon, Mari-Anton!</p>
+<p>Ajolarik etzat!</p>
+<p>-e-<hi rend='Italic'><foreign>Repetida la primera parte, se retira Maritxo y queda Txanton solo.</foreign></hi></p>
+<p><foreign><hi rend='Bold'>SCENA III</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Txanton solo.</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Representa.</foreign></hi></p>
+<p><foreign>Son el demonio estas hembras. </foreign></p>
+<p><foreign>Ya estaba quasi rendido </foreign></p>
+<p><foreign>A un blando y amable sueño; </foreign></p>
+<p><foreign>Y con tanta gresca y ruido </foreign></p>
+<p><foreign>Me ha despabilado ya.</foreign></p>
+<p><foreign>¿Quién diablos le habrá metido </foreign></p>
+<p><foreign>En venir hasta aquí, cuando </foreign></p>
+<p><foreign>En mi vida yo la digo </foreign></p>
+<p><foreign>Palabra? Pues todo el día </foreign></p>
+<p><foreign>Ni la veo ni la oigo. </foreign></p>
+<p><foreign>¡Oh, y con cuánta razón </foreign></p>
+<p><foreign>Dijo aquel gran vizcaíno: </foreign></p>
+<p><hi rend='Italic'>Auntzak itxi baleio, </hi></p>
+<p><hi rend='Italic'>Akerrak itxi leio!</hi></p>
+<p><foreign>Mas ¡hola! De nuevo el sueño </foreign></p>
+<p><foreign>Viene picando un poquito. </foreign></p>
+<p><foreign>Recojámonos a ver </foreign></p>
+<p><foreign>Si puedo quedar dormido.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Txanton canta medio dormido la siguiente</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIA</hi></hi></foreign></p>
+<p>Ator, ator, Morfeo,</p>
+<p>Nere begietara</p>
+<p>Ta astundurik lotara</p>
+<p>Ezarri egiztak.</p>
+<p>Nere pena guziak</p>
+<p>amets alegreakin,</p>
+<p>Emaztea aurrakin,</p>
+<p>aztu-erazo egiztak.</p>
+<p>-e-<hi rend='Italic'><foreign>Después de repetida la primera parte queda dormido.</foreign></hi></p>
+<p><foreign><hi rend='Bold'>SCENA IV</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Don Antonio y Don Pedro.</foreign></hi></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> ¿A qué venimos aquí </foreign></p>
+<p><foreign> A estas horas?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Ya que el amo</foreign></p>
+<p><foreign> Nos ha hecho por su viaje </foreign></p>
+<p><foreign> Dejar las camas temprano, </foreign></p>
+<p><foreign> Y a despedirnos de él </foreign></p>
+<p><foreign> Al portal hemos bajado, </foreign></p>
+<p><foreign> Antes que subamos, quiero </foreign></p>
+<p><foreign> Ver si este cojo endiablado </foreign></p>
+<p><foreign> De Martín ha concluido </foreign></p>
+<p><foreign> Unos zapatos, que ha un año </foreign></p>
+<p><foreign> Le encargué, y que ayer tarde, </foreign></p>
+<p><foreign> A fuerza de estar lidiando </foreign></p>
+<p><foreign> Y riñendo con él, dijo </foreign></p>
+<p><foreign> Que los tendría acabados </foreign></p>
+<p><foreign> Para esta mañana.</foreign></p>
+<p><foreign><hi rend='Bold'>DON ANTONIO</hi></foreign></p>
+<p><foreign> Hombre,</foreign></p>
+<p><foreign> Y eres, di, tan mentecato, </foreign></p>
+<p><foreign> Que se lo creíste?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¿Pues qué?</foreign></p>
+<p><foreign> ¿No cumplirá su palabra?</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Los zapateros no están </foreign></p>
+<p><foreign> Obligados a guardarla, </foreign></p>
+<p><foreign> Como tampoco los sastres; </foreign></p>
+<p><foreign> Y está tan acostumbrada </foreign></p>
+<p><foreign> Esta gente a no cumplir</foreign></p>
+<p><foreign> Lo que ofrecen, que amenazas, </foreign></p>
+<p><foreign> Riñas, gritos, ni pendencias, </foreign></p>
+<p><foreign> No sirven para ellos nada. </foreign></p>
+<p><foreign> ¿Sabes tú cómo son estos?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Veamos: ¿a qué los comparas?</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Son como los sacristanes </foreign></p>
+<p><foreign> que repican a nublado.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¿Los sacristanes? ¿Pues cómo?</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Oye, y verás si te engaño.</foreign></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIA </hi></hi></foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p>Ostia sentitzean,</p>
+<p>Oi dia zorrera</p>
+<p>Sakristauba gatean</p>
+<p>Kanpaiak jotera.</p>
+<p>Kanpaiak asitzen dira</p>
+<p>Din, dan, din, dan, din, dan;</p>
+<p>Trumoiak aditzen dira</p>
+<p>Trrrum, trrrum;</p>
+<p>Guztiak bildurturik,</p>
+<p>Baña aura ya oiturik.</p>
+<p>Dago ardura bagerik.</p>
+<p>Alaxe dendariak</p>
+<p>Eta zapatariak,</p>
+<p>Ire erriertaakgatik,</p>
+<p>Milla itz emanagatik,</p>
+<p>Gogorik ez badute,</p>
+<p>Ezer egingo ez dute.</p>
+<p>Alper da Maria makillatu;</p>
+<p>Berdin berez bear du.</p>
+<p><hi rend='Bold'>DON PEDRO </hi><foreign><hi rend='Italic'>(representa)</hi></foreign></p>
+<p><foreign> La comparación no es mala; </foreign></p>
+<p><foreign> Vías, si de esta vez él piensa </foreign></p>
+<p><foreign> Engañarme, le aseguro </foreign></p>
+<p><foreign> Que buena tunda le espera.</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Amigo, no hay más remedio, </foreign></p>
+<p><foreign> Y desde luego a ayudarte </foreign></p>
+<p><foreign> Me ofrezco...</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Pues, si me ayudas, </foreign></p>
+<p><foreign> Brava zurra ha de llevarme.</foreign></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>DUO</hi></hi></foreign></p>
+<p><hi rend='Bold'>DON ANTONIO </hi><foreign><hi rend='Italic'>(canta)</hi></foreign></p>
+<p>Nai badek ik,</p>
+<p>Lagunduko diat,</p>
+<p>Peru, pozik.</p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p>Antontxo, nik</p>
+<p>Estimatzen diat</p>
+<p>Txit gogotik</p>
+<p><foreign><hi rend='Bold'>LOS DOS JUNTOS</hi></foreign></p>
+<p>Artzen badegu</p>
+<p>Bien artean,</p>
+<p>Egingo degu</p>
+<p>Aren soñean</p>
+<p>Trokeo-dantza</p>
+<p>Gure modura,</p>
+<p>Joten degula</p>
+<p>Zirt, zart, idizil batekin.</p>
+<p><hi rend='Bold'>DON PEDRO </hi><foreign><hi rend='Italic'>(representa)</hi></foreign></p>
+<p><foreign> Pero a todo esto ¿Don Diego, </foreign></p>
+<p><foreign> Dónde quedó?</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Ahí afuera</foreign></p>
+<p><foreign> En el portal lo detuvo </foreign></p>
+<p><foreign> Una mujer... Mas él llega.</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA V</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Don Pedro, Don Antonio y Don Diego.</foreign></hi></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> ¡Agur, muchachos!</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Sea V.M. muy bien venido, </foreign></p>
+<p><foreign> Señor Don Diego.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Creímos que V.M. </foreign></p>
+<p><foreign> Se nos había ido.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Al tiempo de entrar aquí </foreign></p>
+<p><foreign> Tras vosotros, me ha llamado </foreign></p>
+<p><foreign> Una conocida antigua, </foreign></p>
+<p><foreign> La que habiéndose casado </foreign></p>
+<p><foreign> Con un tal Txanton Garrote, </foreign></p>
+<p><foreign> Famosísimo borracho, </foreign></p>
+<p><foreign> Me ha estado contando cuitas </foreign></p>
+<p><foreign> Y pintando sus trabajos, </foreign></p>
+<p><foreign> De modo que no es decible </foreign></p>
+<p><foreign> La compasión que me ha dado. </foreign></p>
+<p><foreign> Ella, desde que amanece, </foreign></p>
+<p><foreign> Está siempre trabajando </foreign></p>
+<p><foreign> Para mantener a sus hijos; </foreign></p>
+<p><foreign> Y, entre tanto, el perdulario </foreign></p>
+<p><foreign> De su marido se está </foreign></p>
+<p><foreign> En la taberna jugando</foreign></p>
+<p><foreign> Y bebiendo; y, muchas veces, </foreign></p>
+<p><foreign> Se está en ella encerrado </foreign></p>
+<p><foreign> Tres y cuatro días seguidos, </foreign></p>
+<p><foreign> Sin dejarse ver un rato </foreign></p>
+<p><foreign> En su casa. Ultimamente </foreign></p>
+<p><foreign> Toda esta noche se ha estado </foreign></p>
+<p><foreign> Encerrado de ese modo,</foreign></p>
+<p><foreign> Sin que ella, que ha correteado </foreign></p>
+<p><foreign> Por todas esas tabernas, </foreign></p>
+<p><foreign> Haya podido encontrarlo. </foreign></p>
+<p><foreign> Hasta que viniendo aquí, </foreign></p>
+<p><foreign> Por si acaso averiguarlo </foreign></p>
+<p><foreign> Podía de Martín, su amigo, </foreign></p>
+<p><foreign> A su marido le ha hallado</foreign></p>
+<p><foreign> En esta tienda, hecho un zaque, </foreign></p>
+<p><foreign> Tendido como un marrano.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¿En esta tienda? </foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Cabal.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Mirando hacia el rincón donde está Txanton.</foreign></hi></p>
+<p><foreign> En aquella esquina veo</foreign></p>
+<p><foreign> A uno; voy a ver si es él.</foreign></p>
+<p><foreign><hi rend='Bold'>DON PEDRO Y DON ANTONIO JUNTOS</hi></foreign></p>
+<p><foreign> Vamos los tres.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Arrímanse a Txanton.</foreign></hi></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> En efecto,</foreign></p>
+<p><foreign> El es; que tal está el pobre. </foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> ¡Con qué gana está durmiendo! </foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi><foreign><hi rend='Italic'>(a Don Diego)</hi></foreign></p>
+<p><foreign> ¿Quiere V.M. que entre los tres </foreign></p>
+<p><foreign> Le peguemos un manteo? </foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Para que él escarmentase, </foreign></p>
+<p><foreign> Mejor fuera una paliza </foreign></p>
+<p><foreign> Que quedase bien impresa</foreign></p>
+<p><foreign> Por un tiempo en sus costillas.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> No. señores. Una idea</foreign></p>
+<p><foreign> Muy buena se me ha ofrecido </foreign></p>
+<p><foreign> Ahora mesmo. Ya sabéis </foreign></p>
+<p><foreign> Que el amo, habiéndose ido, </foreign></p>
+<p><foreign> Nos deja dueños de casa; </foreign></p>
+<p><foreign> Y, pues estamos solitos </foreign></p>
+<p><foreign> En ella. sin miedo alguno </foreign></p>
+<p><foreign> Podemos hoy divertirnos. </foreign></p>
+<p><foreign> Subamos, pues. a este hombre </foreign></p>
+<p><foreign> entre los tres, callandito, </foreign></p>
+<p><foreign> sin despertarlo.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¿A qué fin?</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> ¿Qué tiene V.M. discurrido?</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Subámosle una por una.</foreign></p>
+<p><foreign> Sin que él se despierte, y luego </foreign></p>
+<p><foreign> Un rato muy divertido </foreign></p>
+<p><foreign> Seguramente os prometo. </foreign></p>
+<p><foreign> En estando allí os diré </foreign></p>
+<p><foreign> Todo lo que hacer debemos </foreign></p>
+<p><foreign> Para lograrse la idea </foreign></p>
+<p><foreign> Que concebida acá tengo. </foreign></p>
+<p><foreign> Vamos, pues; acompañadme.</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Por mí vamos al instante.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Copio Vmds. me aguardaran </foreign></p>
+<p><foreign> A que Martinico baje </foreign></p>
+<p><foreign> Y le pida los zapatos </foreign></p>
+<p><foreign> Que me ofreció ayer tarde. </foreign></p>
+<p><foreign> Con mucho gusto también </foreign></p>
+<p><foreign> Les ayudara a llevarle.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Mas, si en ínterin que él baja, </foreign></p>
+<p><foreign> Este otro se nos despierta. </foreign></p>
+<p><foreign> No podremos hacer nada.</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Ayúdamos a subir,</foreign></p>
+<p><foreign> Y puedes bajarte luego.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Bien está; vamos allí.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Vamos, pues, mas con gran tiento.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Cantan</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>TRIO</hi></hi></foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p>Eldu bada irurok.</p>
+<p>Ik burutik, <hi rend='Italic'><foreign>(a Don Pedro) </foreign></hi></p>
+<p>Ik gerritik, <hi rend='Italic'><foreign>(a Don Antonio) </foreign></hi></p>
+<p>Eta nik oñ-aldetik.</p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p>Eldu bada irurok,</p>
+<p>Zuk oñetik. <hi rend='Italic'><foreign>(a Don Diego) </foreign></hi></p>
+<p>Ik burutik. <hi rend='Italic'><foreign>(a Don Pedro) </foreign></hi></p>
+<p>Eta nik gerri-aldetik.</p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p>Eldu bada irurok,</p>
+<p>Zuk oñetik. <hi rend='Italic'><foreign>(a Don Diego)</foreign></hi></p>
+<p>Ik gerritik. <hi rend='Italic'><foreign>(a Don Antonio)</foreign></hi></p>
+<p>Eta nik buru-aldetik.</p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p>Baña kontu es esnatu.</p>
+<p><hi rend='Bold'>DON ANTONIO </hi></p>
+<p>Juan geldirik.</p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p>Ots bagerik.</p>
+<p><foreign><hi rend='Bold'>LOS TRES JUNTOS</hi></foreign></p>
+<p>Txit, txit, txit, txit.</p>
+<p>Goazen ixil ixilik.</p>
+<p>-e-<hi rend='Italic'><foreign>Al acabar de cantar agarran a Txanton y lo llevan.</foreign></hi></p>
+<p><foreign><hi rend='Bold'>SCENA VI</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Matxalen con una escoba, y, mientras barre la tienda, canta la siguiente</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIA</hi></hi></foreign></p>
+<p>Iñunzi onekin</p>
+<p>Denda au</p>
+<p>Gaur garbituko det:</p>
+<p>ispillu bat bezin</p>
+<p>Garbi, lau</p>
+<p>Ta eder parako det,</p>
+<p>Aurkitzean loirik,</p>
+<p>Estropezu egiñik,</p>
+<p>Nere senar kojoa.</p>
+<p>Gixagajoa.</p>
+<p>Amildu ta banatu ez dedin.</p>
+<p>Aren bear gera,</p>
+<p>Bada bizi gera</p>
+<p>Bere bearrarekin.</p>
+<p>-e-<hi rend='Italic'><foreign>Representa.</foreign></hi></p>
+<p><foreign>A fe que quedó la tienda </foreign></p>
+<p><foreign>Limpia ya como un cristal.</foreign></p>
+<p><foreign>Bueno está; saquemos ahora</foreign></p>
+<p><foreign>Esta basura al portal.</foreign></p>
+<p><foreign>Que tengo que subir luego </foreign></p>
+<p><foreign>A disponer de almorzar </foreign></p>
+<p><foreign>Para Martín y sus mozos. </foreign></p>
+<p><foreign>Que bajan ya a trabajar.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Y mientras la orquesta toca el ritornelo de la Aria que sigue, vuelve a barrer, y se retira sacando la broza fuera de la tienda.</foreign></hi></p>
+<p><foreign><hi rend='Bold'>SCENA VII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Martinico canta</foreign></hi></p>
+<p>Nere erren guziarekin</p>
+<p>Banabil trik.. trak, trik, trak,</p>
+<p>Ogi puskatxo bat</p>
+<p>Irabaztekotzat.</p>
+<p>Eta orrez</p>
+<p>Txit nekez</p>
+<p>Bizi gera etxean.</p>
+<p>Ainbeste beargairekin</p>
+<p>Au ekusten badet nik,</p>
+<p>Zer egingo du alperrik</p>
+<p>Eztubenak langairik</p>
+<p>Iñoz esku-artean?</p>
+<p>-e-<hi rend='Italic'><foreign>Representa.</foreign></hi></p>
+<p><foreign>Este pajuncio de arriba </foreign></p>
+<p><foreign>Vino ayer tan arrogante, </foreign></p>
+<p><foreign>Que temo que, si no acabo</foreign></p>
+<p><foreign>Sus zapatos, ha de darme</foreign></p>
+<p><foreign>Algún mal rato;</foreign></p>
+<p><foreign>Vamos, pues, a despacharle... </foreign></p>
+<p><foreign>Tal es la tropa de encargos </foreign></p>
+<p><foreign>Que en mí vienen a cargarse, </foreign></p>
+<p><foreign>Que, aunque tengo yo en mi casa </foreign></p>
+<p><foreign>Cuatro buenos oficiales, </foreign></p>
+<p><foreign>Es fuerza faltar a algunos </foreign></p>
+<p><foreign>Por mucho que se trabaje. </foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Canta.</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>TONADILLA</hi></hi></foreign></p>
+<p>Nola naizan zapatari</p>
+<p>Fama andia dudana,</p>
+<p>Billatzen nauten guziak</p>
+<p>Serbitzen erraz ez da;</p>
+<p>Ta gure jente gaztea</p>
+<p>Txit oe zalea da.</p>
+<p>Ta ezin ingura leike</p>
+<p>Goizean goiz bearrera.</p>
+<p>-e-<hi rend='Italic'><foreign>Llama a los muchachos.</foreign></hi></p>
+<p>Ola, Juantxo!</p>
+<p>Ola, Antontxo!</p>
+<p>A, mutillak!</p>
+<p><foreign><hi rend='Bold'>SCENA VIII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Martinico y los cuatro oficiales</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Estos últimos cantan.</foreign></hi></p>
+<p>Zer nai digu, maixu jauna?</p>
+<p>Mutillak emen dira.</p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p>Betoz laster aulkiak</p>
+<p>Eta remienta.</p>
+<p>-e-<hi rend='Italic'><foreign>Los oficiales al irse.</foreign></hi></p>
+<p>Bagoaz, ta korrika</p>
+<p>Biurtuko gera.</p>
+<p><foreign><hi rend='Bold'>SCENA IX</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Martinico y dos oficiales</foreign></hi></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p>Ta zeren zai zaudete</p>
+<p>Zubek orrela?</p>
+<p><foreign><hi rend='Bold'>LOS DOS OFICIALES </hi></foreign></p>
+<p>Bagoaz, ta korrika</p>
+<p>Biurtuko gera.</p>
+<p><foreign><hi rend='Bold'>SCENA X</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Don Pedro y Martinico</foreign></hi></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p>Nere zapatak, Martintxo,</p>
+<p>Akabatu baziran?</p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p>Zarela ifini ezkero</p>
+<p>Bertatikan prest dira.</p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p>Begira: arrapatzen baaut,</p>
+<p>Martintxo, gezurretan,</p>
+<p>Gogoango dek betiko</p>
+<p>mokor ezuri orretan.</p>
+<p><foreign><hi rend='Bold'>SCENA XI</hi></foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p>Oi etxekoak! Oi etxekoak!</p>
+<p>Gizonaren panparroia.</p>
+<p>Dagoana diabruetan!</p>
+<p>Baña gure mutillak</p>
+<p>agiri eztira?</p>
+<p><foreign><hi rend='Bold'>SCENA XII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Martinico y dos oficiales que traen los banquillos</foreign></hi></p>
+<p><foreign><hi rend='Bold'>LOS DOS OFICIALES</hi></foreign></p>
+<p>La, la, la, la, la, la,</p>
+<p>Ez aserretu, emen da</p>
+<p>Bear degun guztia.</p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p>Ta beste diabru aiek</p>
+<p>Nun gelditu dira?</p>
+<p><foreign><hi rend='Bold'>SCENA XIII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Martinico y los cuatro oficiales.</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Los dos que entran ahora traen una mesa con varias remientas en ella, y cantan.</foreign></hi></p>
+<p>La, la, la, la, la, la,</p>
+<p>Ez aserretu, emen da</p>
+<p>Bear degun guztia.</p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p>Goazen, bada, orain, mutillak,</p>
+<p>Jar gaitezen bearrian;</p>
+<p>Bestela ez zaizute emango</p>
+<p>gosaririk gurean.</p>
+<p>-e-<hi rend='Italic'><foreign>Siéntanse todos a trabajar y cantan una jácara.</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>JACARA</hi></hi></foreign></p>
+<p><foreign>La lezna del zapatero </foreign></p>
+<p><foreign>Desuella vivos y muertos: </foreign></p>
+<p><foreign>Del zapatero la lezna</foreign></p>
+<p><foreign>Vivos y muertos desuella.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Acabada la jácara, se levantan uno en uno los oficiales a mostrar su obra al maestro.</foreign></hi></p>
+<p><foreign><hi rend='Bold'>UN OFICIAL</hi></foreign></p>
+<p>Au nola ete dijoan</p>
+<p>Begira beza.</p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p>Nere mutil gozoa,</p>
+<p>Orrela, onela.</p>
+<p><foreign><hi rend='Bold'>OTRO OFICIAL</hi></foreign></p>
+<p>Au nola ete dijoan</p>
+<p>Begira beza.</p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p>Nere mutil gozoa,</p>
+<p>Orrela, onela.</p>
+<p><foreign><hi rend='Bold'>OTRO OFICIAL</hi></foreign></p>
+<p>Au nola ete dijoan</p>
+<p>Begira beza.</p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p>Nere mutil gozoa,</p>
+<p>Orrela, onela.</p>
+<p><foreign><hi rend='Bold'>OTRO OFICIAL</hi></foreign></p>
+<p>Au nola eta dijoan</p>
+<p>Begira beza.</p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p>Nere mutil gozoa,</p>
+<p>Orrela, onela.</p>
+<p><foreign><hi rend='Bold'>SCENA XIV</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Martinico, los cuatro oficiales y Matxalen.</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Matxalen canta la siguiente</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>SEGUIDILLA</hi></hi></foreign></p>
+<p>Atozte, egin dezute</p>
+<p>Bearrikan asko;</p>
+<p>Zuben gosari ori</p>
+<p>Otzten oi dago;</p>
+<p>Ea, ea, zato,</p>
+<p>Zuben gosari ori</p>
+<p>Otzten oi dago.</p>
+<p>-e-<hi rend='Italic'><foreign>Martinico y los cuatro oficiales se levantan, y cantan todos juntos.</foreign></hi></p>
+<p>Goazen lasterka,</p>
+<p>Bearrak</p>
+<p>Eman digun</p>
+<p>Gosea, iltzera.</p>
+<p>-e-<hi rend='Italic'><foreign>(NOTA: Si se quiere dividir esta pieza en dos actos, puede acabar aquí el primero.)</foreign></hi></p>
+<p><foreign><hi rend='Bold'>SCENA XV</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>María y Don Diego</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>El teatro representa una sala o antecámara de un caballero.</foreign></hi></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Todo queda prevenido </foreign></p>
+<p><foreign> Para que demos el chasco</foreign></p>
+<p><foreign> Que te he dicho, a tu marido; </foreign></p>
+<p><foreign> Y sólo se está aguardando </foreign></p>
+<p><foreign> Para empezar con la fiesta, </foreign></p>
+<p><foreign> A que acá se hayan juntado </foreign></p>
+<p><foreign> Martinico, su mujer, </foreign></p>
+<p><foreign> Sus hijos y sus muchachos, </foreign></p>
+<p><foreign> Con otro gran picarón </foreign></p>
+<p><foreign> Que también tengo buscado </foreign></p>
+<p><foreign> Para el mismo fin.</foreign></p>
+<p><hi rend='Bold'>MARÍA</hi></p>
+<p><foreign> Muy bien</foreign></p>
+<p><foreign> Mas ¿piensa V.M. lograr algo </foreign></p>
+<p><foreign> Con su idea?</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Ya se ve;</foreign></p>
+<p><foreign> Y ha de quedar tan corrido </foreign></p>
+<p><foreign> Con esta burla, que espero </foreign></p>
+<p><foreign> no lo verás más bebido.</foreign></p>
+<p><hi rend='Bold'>MARÍA</hi></p>
+<p><foreign> Admirables tragaderas</foreign></p>
+<p><foreign> Tiene V.M., señor Don Diego, </foreign></p>
+<p><foreign> Si eso cree; en mi marido </foreign></p>
+<p><foreign> Este vicio es ya muy viejo. </foreign></p>
+<p><foreign> Y habrá echado tantas raíces, </foreign></p>
+<p><foreign> Que, por más que se haga, creo </foreign></p>
+<p><foreign> No será dable arrancarle </foreign></p>
+<p><foreign> Hasta que suelte el pellejo. </foreign></p>
+<p><foreign> Yo he usado de mil arbitrios: </foreign></p>
+<p><foreign> Primeramente de ruegos, </foreign></p>
+<p><foreign> De lágrimas y de quejas; </foreign></p>
+<p><foreign> Y, viendo que todo aquesto </foreign></p>
+<p><foreign> Era inútil, me he valido </foreign></p>
+<p><foreign> Del cura de nuestro pueblo,</foreign></p>
+<p><foreign> Sin que, por más que éste hiciese, </foreign></p>
+<p><foreign> Hubiese habido remedio. </foreign></p>
+<p><foreign> Finalmente recurrí </foreign></p>
+<p><foreign> A los medios más violentos, </foreign></p>
+<p><foreign> Quejándome a la justicia.</foreign></p>
+<p><foreign> Que con castigos severos</foreign></p>
+<p><foreign> Ha probado corregirle </foreign></p>
+<p><foreign> Muchas veces; mas todo esto </foreign></p>
+<p><foreign> —Como se suele decir—</foreign></p>
+<p><foreign> Fue predicar en desierto, </foreign></p>
+<p><foreign> Y jamás ha producido </foreign></p>
+<p><foreign> En él el menor efecto. </foreign></p>
+<p><foreign> Mire V.M. ahora, señor, </foreign></p>
+<p><foreign> Si lisonjearme yo puedo </foreign></p>
+<p><foreign> De que haga más impresión</foreign></p>
+<p><foreign> El chasco que V.M. ha dispuesto, </foreign></p>
+<p><foreign> Que las diferentes pruebas </foreign></p>
+<p><foreign> Que hasta aquí con él he hecho.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> ¿Por qué no? Lo que no alcanzan </foreign></p>
+<p><foreign> Las providencias más serias, </foreign></p>
+<p><foreign> Se suele lograr mil veces </foreign></p>
+<p><foreign> Con una gran friolera. </foreign></p>
+<p><foreign> El amor propio en el hombre </foreign></p>
+<p><foreign> Tiene tal poder y fuerza, </foreign></p>
+<p><foreign> Que puede decirse que es </foreign></p>
+<p><foreign> El alma de sus empresas; </foreign></p>
+<p><foreign> Y, en sabiendo manejar </foreign></p>
+<p><foreign> Todas sus ocultas ruedas, </foreign></p>
+<p><foreign> Se ven monstruosos efectos </foreign></p>
+<p><foreign> A costa de poca pena. </foreign></p>
+<p><foreign> La pasión más dominante </foreign></p>
+<p><foreign> En el hombre es la soberbia, </foreign></p>
+<p><foreign> Y esto de ser mayor que otros</foreign></p>
+<p><foreign> Es lo que a uno más le llena. </foreign></p>
+<p><foreign> Consiguientemente no hay</foreign></p>
+<p><foreign> Cosa que un hombre más sienta, </foreign></p>
+<p><foreign> Que el ver que, en vez de apreciarle. </foreign></p>
+<p><foreign> Le hacen burla y le desprecian; </foreign></p>
+<p><foreign> De suerte que más contiene </foreign></p>
+<p><foreign> El miedo que tal suceda, </foreign></p>
+<p><foreign> Que el temor de los castigos </foreign></p>
+<p><foreign> Y celo de recompensas.</foreign></p>
+<p><hi rend='Bold'>MARÍA</hi></p>
+<p><foreign> ¿A qué viene este retazo </foreign></p>
+<p><foreign> De moral?</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Oye un poquito.</foreign></p>
+<p><foreign> No es de aquellos más dispiertos, </foreign></p>
+<p><foreign> Como sabes, tu marido. </foreign></p>
+<p><foreign> Esto supuesto y las cosas </foreign></p>
+<p><foreign> Que habemos ya prevenido, </foreign></p>
+<p><foreign> El tendrá por realidad </foreign></p>
+<p><foreign> Cuanto nosotros fingimos. </foreign></p>
+<p><foreign> Después que un rato a su costa </foreign></p>
+<p><foreign> Nos hayamos divertido, </foreign></p>
+<p><foreign> Llegaremos a ponerle </foreign></p>
+<p><foreign> En un terrible conflicto, </foreign></p>
+<p><foreign> Del que sólo ha de salir </foreign></p>
+<p><foreign> Sabiendo que todo ha sido </foreign></p>
+<p><foreign> Invención, que, por burlarnos </foreign></p>
+<p><foreign> De él, habemos discurrido; </foreign></p>
+<p><foreign> Después de esto, como el chasco</foreign></p>
+<p><foreign> En el lugar hará ruido</foreign></p>
+<p><foreign> Y lo celebrarán todos, </foreign></p>
+<p><foreign> Así grandes como chicos, </foreign></p>
+<p><foreign> Al pasar por esas calles </foreign></p>
+<p><foreign> El verá que a sus hocicos </foreign></p>
+<p><foreign> Se ríe toda la gente, </foreign></p>
+<p><foreign> Publicando a voz en grito: </foreign></p>
+<p><foreign> «Este es aquel gran borracho </foreign></p>
+<p><foreign> Con quien tanto se han reído </foreign></p>
+<p><foreign> Dando aquel gracioso chasco». </foreign></p>
+<p><foreign> De lo cual él tan corrido </foreign></p>
+<p><foreign> Ha de quedar, que no dudo </foreign></p>
+<p><foreign> Que, escarmentado del vicio </foreign></p>
+<p><foreign> Que esta mofa le ha acarreado, </foreign></p>
+<p><foreign> Le veremos corregido.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>María canta la siguiente</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIA</hi></hi></foreign></p>
+<p>Nik ongi naiko nuke</p>
+<p>Ori iritxitzea,</p>
+<p>Nere galai maitea;</p>
+<p>Baña ori siñistea</p>
+<p>Orren erraz ez da.</p>
+<p>Ekusiko banuke</p>
+<p>Mirari orrelakorik,</p>
+<p>Ez, poz andiagorik</p>
+<p>Iñun izango ez da.</p>
+<p>-e-<hi rend='Italic'><foreign>Don Diego representa.</foreign></hi></p>
+<p><foreign>Pues tenlo por cierto, amiga; </foreign></p>
+<p><foreign>Y así vamos luego dentro...</foreign></p>
+<p><foreign>Mas aquí viene Antonito; </foreign></p>
+<p><foreign>Oigamos qué trae de nuevo.</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XVI</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Los dichos y Don Antonio</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Don Antonio riéndose a todo reir canta la siguiente</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIETA</hi></hi></foreign></p>
+<p>Ai ene! Ai ene!</p>
+<p>Farrak ito bear nau!</p>
+<p>Sekula gizon bizirik</p>
+<p>Ez dauka naski ekusirik</p>
+<p>Ain gauza farragarririk.</p>
+<p>-e-<hi rend='Italic'><foreign>Carcajada</foreign></hi></p>
+<p>Ah, ah, ah, ah, ah, ah, ah, ah,</p>
+<p>Nola guk dakusgun gaur.</p>
+<p><hi rend='Bold'>DON DIEGO </hi><foreign><hi rend='Italic'>(representa)</hi></foreign></p>
+<p><foreign> ¿Qué es eso? ¿Te has vuelto loco?</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Vengan Vmds., por Dios,</foreign></p>
+<p><foreign> Que es la cosa más graciosa </foreign></p>
+<p><foreign> Que hombre alguno jamás vio.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> ¿Se hizo ya esa mutación?</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Sí, señor; le hemos mudado</foreign></p>
+<p><foreign> Todo de pies a cabeza</foreign></p>
+<p><foreign> Sin que se haya despertado, </foreign></p>
+<p><foreign> Y vengo a decir a V.M. </foreign></p>
+<p><foreign> Que todo está preparado </foreign></p>
+<p><foreign> Y puede venir si gusta.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Y ¿han subido los de abajo?</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Sí, señor, y sólo esperan</foreign></p>
+<p><foreign> A que V.M. venga. Con tanto </foreign></p>
+<p><foreign> Y su licencia me voy, </foreign></p>
+<p><foreign> Porque me están aguardando.</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XVII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Don Diego y María</foreign></hi></p>
+<p><foreign> Ea. pues. no perdamos tiempo. </foreign></p>
+<p><foreign> Vamos allí, Mariquita.</foreign></p>
+<p><hi rend='Bold'>MARÍA</hi></p>
+<p><foreign> ¿Yo? No por cierto.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> ¿Por qué?</foreign></p>
+<p><hi rend='Bold'>MARÍA</hi></p>
+<p><foreign> ¿No ve V.M. que eso sería </foreign></p>
+<p><foreign> Echarlo todo a perder? </foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> ¿Por?</foreign></p>
+<p><hi rend='Bold'>MARÍA</hi></p>
+<p><foreign> Porque si mi marido</foreign></p>
+<p><foreign> Me ve, podrá discurrir</foreign></p>
+<p><foreign> Que es un chasco que yo he urdido.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> No nos verá, pues los dos </foreign></p>
+<p><foreign> Nos pondremos a atisbar </foreign></p>
+<p><foreign> Desde una pieza inmediata </foreign></p>
+<p><foreign> A ver lo que pasa allá.</foreign></p>
+<p><hi rend='Bold'>MARÍA</hi></p>
+<p><foreign> Siendo así, no me resisto. </foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Vamos a ver esta fiesta. </foreign></p>
+<p><hi rend='Bold'>MARÍA</hi></p>
+<p><foreign> Vamos, buen, y quiera Dios</foreign></p>
+<p><foreign> Que yo salga mal profeta.</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XVIII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Cuarto interior, donde ha de haber una mesa con una escribanía. Txanton Garrote, dormido sobre una silla, vestido con una bata decente, un gorro, guantes,... Don Antonio y Don Pedro junto a él de pie.</foreign></hi></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Ya podemos despertarle</foreign></p>
+<p><foreign> Pues Don Diego está atisbando. </foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¡Vamos allí!</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Agárranle los dos y lo zarandean para despertarlo.</foreign></hi></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(haciendo algunos esperezos)</hi></foreign></p>
+<p><foreign> ¡Ay, Dios mío!</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Ven, que ya se ha despertado.</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XIX</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Txanton solo prosigue en hacer esperezos, y canta el siguiente</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>RECITADO</hi></hi></foreign></p>
+<p>Ai ene!... Zer da au?</p>
+<p>-e-<hi rend='Italic'><foreign>Mirando a su mano</foreign></hi></p>
+<p>Au da nere eskuba?</p>
+<p>Nor naiz ni?</p>
+<p>Ni naiz Txanton Garrote?</p>
+<p>Noiz azkero</p>
+<p>Ni onen apainduba?</p>
+<p>Baña, dakustan, ea,</p>
+<p>Nere txapeltxo adobatuba!</p>
+<p>-e-<hi rend='Italic'><foreign>Echa la mano al gorro</foreign></hi></p>
+<p>Aren pasiua!</p>
+<p>Bazerurik ederrik!</p>
+<p>Ametsetan ote nago?</p>
+<p>Baña ez, begiak zabalik dauzkat.</p>
+<p>Nok, bada, jantzi nau</p>
+<p>Gisa onetan?</p>
+<p>Ezta posible;</p>
+<p>Edo nago zoratuba,</p>
+<p>Edo besiela nago gatutuba.</p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIA</hi></hi></foreign></p>
+<p>Sekula ez al da ekusi</p>
+<p>Iñun</p>
+<p>Onelako konturik?</p>
+<p>Eztakit, ez nor naizan,</p>
+<p>Ez nola aurkitzen naizan</p>
+<p>Egun</p>
+<p>Ainbeste mudaturik.</p>
+<p>Nere antzik ez dudala.</p>
+<p>Nerau onela ekustea</p>
+<p>Da zoratzeko bidea.</p>
+<p>Sekula ez al da ekusi...</p>
+<p>-e-<hi rend='Italic'><foreign>Representa</foreign></hi></p>
+<p><foreign> ¿Qué transformación es ésta? </foreign></p>
+<p><foreign> ¡Cada vez entiendo menos! </foreign></p>
+<p><foreign> ¿Cuándo me he vestido así? </foreign></p>
+<p><foreign> ¡Rara confusión, por cierto!</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Mirando a los lados del teatro</foreign></hi></p>
+<p><foreign> Mas ¿dónde estoy? Y ¿qué cuarto </foreign></p>
+<p><foreign> Es éste donde me encuentro? </foreign></p>
+<p><foreign> ¿Qué será aquello que brilla </foreign></p>
+<p><foreign> Sobre aquella mesa? Quiero </foreign></p>
+<p><foreign> Arrimarme a ver de cerca.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Acércase a la mesa</foreign></hi></p>
+<p><foreign> Este parece tintero;</foreign></p>
+<p><foreign> Y es de plata. ¡Qué hermosura! </foreign></p>
+<p><foreign> Esta otra pieza que veo </foreign></p>
+<p><foreign> Parece una campanilla.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Coge la campanilla y suena</foreign></hi></p>
+<p><foreign> ¡Cosa preciosa!</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XX</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Don Antonio y Don Pedro entran precipitadamente.</foreign></hi></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Señor.</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Mande Usía.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Txanton poniéndose de rodillas muy turbado</foreign></hi></p>
+<p><foreign> Caballeros...</foreign></p>
+<p><foreign> Yo... cuando... acá... por Dios. </foreign></p>
+<p><foreign> No sé...</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Señor, ¿qué hace Usía? </foreign></p>
+<p><foreign> Mande Usía a sus criados.</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Señor. ¿qué postura es ésa? </foreign></p>
+<p><foreign> Usía aún está soñando.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Lo levantan</foreign></hi></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(algo más sereno)</hi></foreign></p>
+<p><foreign> Señores míos, no sé</foreign></p>
+<p><foreign> Dónde estoy ni con quién hablo.</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO </hi></p>
+<p><foreign> Usía, señor...</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Usía...</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¡Usía yo!... ¿Yo? ¿Qué diablos </foreign></p>
+<p><foreign> Hablan Vmds. conmigo? </foreign></p>
+<p><foreign> ¿O es una burla?</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XXI</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Uno de los chicos del zapatero con una carta y los de antes</foreign></hi></p>
+<p><foreign><hi rend='Bold'>CHICO</hi></foreign></p>
+<p><foreign> Deo gratias.</foreign></p>
+<p><foreign> ¿Sabrán Vds. decirme </foreign></p>
+<p><foreign> Si vive en aquesta casa</foreign></p>
+<p><foreign> El Marqués de Trapisonda?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Sí, chico, si algo le quieres,</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Apuntando a Txanton</foreign></hi></p>
+<p><foreign> Ahí está su señoría.</foreign></p>
+<p><foreign><hi rend='Bold'>CHICO</hi></foreign></p>
+<p><foreign> ¿El Señor Marqués es éste?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi></p>
+<p>Sí.</p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Si me habré yo convertido </foreign></p>
+<p><foreign> En Marqués hoy de repente?</foreign></p>
+<p><foreign><hi rend='Bold'>CHICO</hi></foreign></p>
+<p><foreign> Un arriero, que me ha dicho </foreign></p>
+<p><foreign> Que de Trapisonda viene </foreign></p>
+<p><foreign> Con vino, me dio esta carta </foreign></p>
+<p><foreign> Para Usía.</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XXII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Txanton, D. Pedro y D. Antonio</foreign></hi></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(con la carta en la mano, aparte) </hi></foreign></p>
+<p><foreign> ¿Qué diablo es esto? </foreign></p>
+<p><foreign> ¿Se habrá visto confusión </foreign></p>
+<p><foreign> Como en la que yo me veo?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Más vale que Usía lea, </foreign></p>
+<p><foreign> Cuanto antes aquesa carta, </foreign></p>
+<p><foreign> Porque puede ser que sea </foreign></p>
+<p><foreign> un negocio de importancia.</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(dándole la carta)</hi></foreign></p>
+<p><foreign> Pues léala Vmd.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¿Yo? Y ¿si acaso </foreign></p>
+<p><foreign> Fuese cosa de secreto?</foreign></p>
+<p><foreign> ¿No ve, Usía, puede haber </foreign></p>
+<p><foreign> Gran inconveniente en ello?</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> No importa.</foreign></p>
+<p><foreign><hi rend='Italic'>(Aparte)</hi></foreign></p>
+<p><foreign> (Yo no sé leer.)</foreign></p>
+<p><foreign> Tengo mala la cabeza.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Ya que Usía me lo manda, </foreign></p>
+<p><foreign> La leeré con su licencia.</foreign></p>
+<p><foreign><hi rend='Italic'>(Abre la carta y léela)</hi></foreign></p>
+<p><foreign> Muy ilustre señor:</foreign></p>
+<p><foreign> He comunicado la orden que Usía se sirve</foreign></p>
+<p><foreign> darme en su apreciable carta del 20 del </foreign></p>
+<p><foreign> pasado a estos alcaldes, quienes quedan en </foreign></p>
+<p><foreign> ejecutarla con la puntualidad y veneración </foreign></p>
+<p><foreign> que se merecen todos los preceptos de </foreign></p>
+<p><foreign> Usía. cuya vida prospere el cielo muy </foreign></p>
+<p><foreign> dilatados años para el bien de este </foreign></p>
+<p><foreign> Marquesado. De Trapisonda, y Julio, primero.</foreign></p>
+<p><foreign> Muy Ilustre Señor.</foreign></p>
+<p><foreign> A los pies de Usía</foreign></p>
+<p><foreign> su más humilde criado:</foreign></p>
+<p><foreign> Andrés.</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(aparte)</hi></foreign></p>
+<p><foreign> ¿De Trapisonda y Marqués, </foreign></p>
+<p><foreign> Yo?... ¿Cómo... y desde cuándo </foreign></p>
+<p><foreign> Marqués?... ¡Digo ahí es nada </foreign></p>
+<p><foreign> El título que me han dado! </foreign></p>
+<p><foreign> ¡Señor! ¿Qué embolismo es éste?</foreign></p>
+<p><foreign><hi rend='Italic'>(A los pajes)</hi></foreign></p>
+<p><foreign> Caballeros, vamos claros: </foreign></p>
+<p><foreign> Si esto es burlarse de mí, </foreign></p>
+<p><foreign> Baste, por Dios, ya de chasco.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Sin duda que Usía quiere </foreign></p>
+<p><foreign> Divertirse a costa nuestra.</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Diga Usía a qué nos llama, </foreign></p>
+<p><foreign> Señor, y baste de fiesta.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Con que va de serio? Pues </foreign></p>
+<p><foreign> Díganme Vmds. quién son.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¿Usía no nos conoce?</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> ¿A estos sus fieles criados </foreign></p>
+<p><foreign> Desconoce Usía?</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Y Yo </foreign></p>
+<p><foreign> ¿Quién vengo a ser?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi><foreign><hi rend='Italic'>(riéndose)</hi></foreign></p>
+<p><foreign> Mi amo,</foreign></p>
+<p><foreign> Basta de zumba, y Usía </foreign></p>
+<p><foreign> Tenga, por Dios, compasión </foreign></p>
+<p><foreign> De nuestras pobres barrigas, </foreign></p>
+<p><foreign> Que aún están sin desayuno.</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Y si Usía quiere creerme, </foreign></p>
+<p><foreign> Trate también de tomar </foreign></p>
+<p><foreign> Su desayuno, que en breve </foreign></p>
+<p><foreign> Será ya hora de comer.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Qué es lo que podré almorzar?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¿Gusta Usía el chocolate?</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Chocolate? Me hace mal </foreign></p>
+<p><foreign> Y no puedo digerirle.</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO</hi></p>
+<p><foreign> Pues ¿quiere Usía que hagamos </foreign></p>
+<p><foreign> café con leche?</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Qué es eso?</foreign></p>
+<p><foreign> ¿Es acaso un buen bocado?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi></p>
+<p><foreign> Es bebida.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Más valiera</foreign></p>
+<p><foreign> Una cosa conocida,</foreign></p>
+<p><foreign> Como un trozo de jamón, </foreign></p>
+<p><foreign> Un chorizo o unas salchichas</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Pues, señor, Usía mande.</foreign></p>
+<p><foreign> ¿Gusta que traigan jamón?</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Sí, amigo.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Pues a buscarle </foreign></p>
+<p><foreign> Con su licencia nos vamos.</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XXIII</hi></foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(solo)</hi></foreign></p>
+<p><foreign> En todo caso yo pienso</foreign></p>
+<p><foreign> Poner muy bien mi bandullo; </foreign></p>
+<p><foreign> Y a fe a fe que bien tengo </foreign></p>
+<p><foreign> Necesidad... Mas ¿en qué </foreign></p>
+<p><foreign> Vendrá a parar este enredo? </foreign></p>
+<p><foreign> Yo no sé qué debo creer.</foreign></p>
+<p><foreign> Lo cierto es que esto no es sueño, </foreign></p>
+<p><foreign> Porque son cosas que palpo; </foreign></p>
+<p><foreign> Burla tampoco, pues creo </foreign></p>
+<p><foreign> Que de hacérsela a sí mesmo </foreign></p>
+<p><foreign> Regalándome a su costa </foreign></p>
+<p><foreign> Con vestidos, con almuerzos, </foreign></p>
+<p><foreign> Y otras cosas... Acabóse: </foreign></p>
+<p><foreign> Ciertamente voy creyendo </foreign></p>
+<p><foreign> Que, sin saber cómo o cuándo, </foreign></p>
+<p><foreign> Txanton Garrote se ha vuelto </foreign></p>
+<p><foreign> En Marqués. ¡Válgame Dios! </foreign></p>
+<p><foreign> Cuando llegare a saberlo</foreign></p>
+<p><foreign> Mi mujer ¿qué se dirá?</foreign></p>
+<p><foreign> No ha de caber de contento </foreign></p>
+<p><foreign> Cuando la llamen marquesa. </foreign></p>
+<p><foreign> ¡Pues no digo nada luego </foreign></p>
+<p><foreign> En yéndome a mi lugar! </foreign></p>
+<p><foreign> ¡Ese sí que será cuento!</foreign></p>
+<p><foreign> No hay remedio; en almorzando, </foreign></p>
+<p><foreign> Inmediatamente quiero </foreign></p>
+<p><foreign> Mandar que vayan por ahí </foreign></p>
+<p><foreign> A traerme un caballo bueno, </foreign></p>
+<p><foreign> Y, montado en él, me iré </foreign></p>
+<p><foreign> Arrogante, guapo y tieso.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Canta</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIA</hi></hi></foreign></p>
+<p>Jaun anditan sortu banaiz,</p>
+<p>Nere errira juaten banaiz,</p>
+<p>Naiz andiak,</p>
+<p>Naiz txikiak,</p>
+<p>Jauna esango didate.</p>
+<p>An agertu nadiñean,</p>
+<p>Jaun andi au ekustean,</p>
+<p>Suak, festak</p>
+<p>Ta zezenak</p>
+<p>Naski egingo diztate.</p>
+<p>Lara, lara, larara,...</p>
+<p>Toreadoreak emen dira</p>
+<p>Lasterka niri brindatzera:</p>
+<p><foreign>«Señor Marqués, Señor Marqués, </foreign></p>
+<p><foreign>A la salud de su merced».</foreign></p>
+<p>Eta ni erreal bikoa bota,</p>
+<p>Aiek berriz ura pozik artuta,</p>
+<p>Esango diote alkarri:</p>
+<p>«Auxen bai gizona, diabru-etxera!</p>
+<p>Ez dek, ez, onelako mutillik!».</p>
+<p>-e-<hi rend='Italic'><foreign>Al acabar la repetición del Aria entran los pajes con un plato de jamón, servilleta...</foreign></hi></p>
+<p><foreign><hi rend='Bold'>SCENA XXIV</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Don Pedro, Don Antonio y Txanton.</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Don Pedro con un plato de jamón; Don Antonio con otro cubierto con una servilleta.</foreign></hi></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Señor, aquí está el jamón. </foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Vamos allá.</foreign></p>
+<p><foreign><hi rend='Italic'>(A Don Antonio con gravedad)</hi></foreign></p>
+<p><foreign> Una silla.</foreign></p>
+<p><foreign> (¡Qué ganas tengo, Dios mío, </foreign></p>
+<p><foreign> De llenarme la barriga!)</foreign></p>
+<p><hi rend='Bold'>DON ANTONIO </hi><foreign><hi rend='Italic'>(Arrastrando una silla y tendiendo la ser-</hi></foreign></p>
+<p><foreign><hi rend='Italic'>villeta sobre la mesa)</hi></foreign></p>
+<p><foreign> Siéntese Usía, señor,</foreign></p>
+<p><foreign> Que todo está ya dispuesto. </foreign></p>
+<p><foreign><hi rend='Italic'>(A Don Pedro)</hi></foreign></p>
+<p><foreign> Que tal se reviste de amo,</foreign></p>
+<p><foreign> De risa me estoy muriendo.</foreign></p>
+<p><foreign><hi rend='Italic'>(Se va)</hi></foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(muy grave a Don Pedro)</hi></foreign></p>
+<p><foreign> Oyes: venga acá ese plato.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Permítame Usía que parta </foreign></p>
+<p><foreign> Primero, que es indecente </foreign></p>
+<p><foreign> Para un amo el partir.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Vaya.</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XXV</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Dos tenderas y los de antes.</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Al empezar a partir Don Pedro, entran dos chicas del zapatero, vestidas de tenderas, con varios géneros en unas cestas que traerán en la cabeza, y al entrar ellas suspende el partir Don Pedro. Las dos tenderas cantan.</foreign></hi></p>
+<p>Donostiatik gatoz</p>
+<p>Ongi nekaturik,</p>
+<p>Buruan karga eta</p>
+<p>Estomagoa utsik;</p>
+<p>Erosi nai duenak</p>
+<p>Izango du emen</p>
+<p>Erroana ta Krea.</p>
+<p>Ona eta merke.</p>
+<p>Ona Krea ta Erroana</p>
+<p>Ta gurbitxeta gai ederra.</p>
+<p><foreign><hi rend='Bold'>UNA TENDERA </hi></foreign><foreign><hi rend='Italic'>(representa)</hi></foreign></p>
+<p>Egun on Jaungoikoak dietela orien mesedeoi.</p>
+<p><hi rend='Bold'>OTRA TENDERA</hi></p>
+<p>Urte askotan egon ditezela orien mesedeok.</p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Quién diablos mandó subir </foreign></p>
+<p><foreign> A estas mozas a mi cuarto?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Señor, como Usía mandó </foreign></p>
+<p><foreign> Anoche, las ha llamado </foreign></p>
+<p><foreign> El mayordomo.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Qué? ¿Yo</foreign></p>
+<p><foreign> Mandé anoche de llamarlas?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Sí, señor. Habiendo dicho </foreign></p>
+<p><foreign> El mayordomo que en casa </foreign></p>
+<p><foreign> Se necesitaba lienzo </foreign></p>
+<p><foreign> Para añadir ropa blanca, </foreign></p>
+<p><foreign> Parecióle a Usía muy bien,</foreign></p>
+<p><foreign> Y mandó que esta mañana </foreign></p>
+<p><foreign> Trajesen a estas tenderas. </foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> (¡Lleve el diablo si me acuerdo!) </foreign></p>
+<p><foreign> Pues despacharlas prontico, </foreign></p>
+<p><foreign> Y dame luego mi almuerzo, </foreign></p>
+<p><foreign> Que estoy muriéndome de hambre. </foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Luego las despacharemos, </foreign></p>
+<p><foreign> Pero es preciso ver antes </foreign></p>
+<p><foreign> Si traen cosas de provecho.</foreign></p>
+<p><foreign><hi rend='Bold'>UNA TENDERA </hi></foreign><foreign><hi rend='Italic'>(a Txanton)</hi></foreign></p>
+<p><foreign> Jauna, ez digu ezer erosten? Ona nun </foreign></p>
+<p><foreign> duen, iñon ekusi badu-ta, lienzo preziatua. </foreign></p>
+<p>Begira:</p>
+<p>-e-<hi rend='Italic'><foreign>Muestra una pieza de lienzo, y se arrima D. Pedro a verla</foreign></hi></p>
+<p>Primeroko suertekoa da ala ere.</p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p>Ekusi dezagun, ea.</p>
+<p><foreign><hi rend='Bold'>LA OTRA TENDERA </hi></foreign><foreign><hi rend='Italic'>(a Txanton)</hi></foreign></p>
+<p>Nagusi jauna, berorrek estrenatu bear</p>
+<p>nau. Ona tabako ederra piparako, nai</p>
+<p>badu Habanako hoja lejitimo-lejitimoa;</p>
+<p>ta ala propio Holandako pikatua, ta autsa,</p>
+<p>berriz, naiz Habanakoa, ta naiz hoja Virginiakoa,</p>
+<p><foreign> a escoge.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p>Brasillik ez dezu?</p>
+<p><foreign><hi rend='Bold'>LA SEGUNDA TENDERA</hi></foreign></p>
+<p>Emen ez, jauna; baña or kalean adiskidetxo</p>
+<p>baten etxean laja dut; berorren mesedeak</p>
+<p>nai badu, saltotxo baten ekarriko dut.</p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p>Ara, nere emakumea; orain zer-egintxo</p>
+<p>bat daukat, ta gero biurtu zaitezke.</p>
+<p><foreign><hi rend='Bold'>LA SEGUNDA TENDERA</hi></foreign></p>
+<p>Jauna, berorren mesedeak agintzen duenean.</p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p>Emakumea, ez dago emen guk bear degunerako</p>
+<p>gauza dan lienzorik: fiñagoak bear ginduzke.</p>
+<p><foreign><hi rend='Bold'>LA PRIMERA TENDERA</hi></foreign></p>
+<p>Jauna, fiña bear badu, ez du orren mesedeak</p>
+<p>Donostia-Baionetan aurkituko, nik dudan</p>
+<p>baño Holanda fiñ-fiñ preziatuagorik.</p>
+<p>Nai du ekarri dezaiodan? Ortxe kalean utzi dut.</p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p>Andretxoa. orain presa degu, beste ordu baten atozke.</p>
+<p><foreign><hi rend='Bold'>LA PRIMERA TENDERA</hi></foreign></p>
+<p>Jauna, agindu biezagu: zer ordutan naiko du?</p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p>Atozke bazkal onduan.</p>
+<p><foreign><hi rend='Bold'>SCENA XXVI</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Un hombre y los de antes</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Mientras las tenderas doblan las piezas, sale un hombre vendiendo manzanas</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Canta</foreign></hi></p>
+<p><foreign><hi rend='Italic'>(Es una canción vascongada muy antigua </hi></foreign></p>
+<p><foreign><hi rend='Italic'>y muy común, que se pone aquí por ridícula.)</hi></foreign></p>
+<p>Arako aintxinako,</p>
+<p>Bioen kontuak,</p>
+<p>Ixil egonagatik,</p>
+<p>Ez dauzkat aztuak.</p>
+<p><foreign>Representa y grita </foreign></p>
+<p>Errege-sagarrak.</p>
+<p><foreign><hi rend='Italic'>(A las tenderas)</hi></foreign></p>
+<p>Jaungoikoak egun on digula, nere persona ondrabak.</p>
+<p><foreign><hi rend='Bold'>LAS DOS TENDERAS</hi></foreign></p>
+<p>Bai zuri ere. adiskidea.</p>
+<p><hi rend='Bold'>TXANTON </hi><foreign>(muy enfadado a Don Pedro)</foreign></p>
+<p><foreign> ¿Quién diablos es éste?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Señor, quien a Usía provee </foreign></p>
+<p><foreign> De manzanas para el postre.</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(como antes)</hi></foreign></p>
+<p><foreign> ¡Valga el diablo tanta gente!</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi></p>
+<p><foreign> Luego irá.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Pues mira: escoge </foreign></p>
+<p><foreign> Un par de las más maduras. </foreign></p>
+<p><foreign> Que es bueno enjuagar la boca </foreign></p>
+<p><foreign> Después que se desayuna.</foreign></p>
+<p><foreign><hi rend='Bold'>EL HOMBRE</hi></foreign></p>
+<p>Ai auek emakumetxoak!</p>
+<p><foreign><hi rend='Italic'>(A la primera tendera)</hi></foreign></p>
+<p>Aurra, Kristok bedeinka zaitzala!</p>
+<p><foreign><hi rend='Bold'>LA PRIMERA TENDERA </hi></foreign><foreign><hi rend='Italic'>(con desprecio)</hi></foreign></p>
+<p>Begira, etxekoak, gauza nun legokean!</p>
+<p>Urtikan! itxura gaizto ori!</p>
+<p><foreign><hi rend='Bold'>EL HOMBRE </hi></foreign><foreign><hi rend='Italic'>(a la segunda tendera)</hi></foreign></p>
+<p>Txikitxo, aurpegiera obea egingo al didazu zure</p>
+<p>laguntxo orrek baño?</p>
+<p><foreign><hi rend='Bold'>LA SEGUNDA TENDERA </hi></foreign><foreign><hi rend='Italic'>(con desprecio)</hi></foreign></p>
+<p>Urtikan, petral ori! Berealako praka narraxa</p>
+<p>zatozkigu!</p>
+<p><foreign><hi rend='Bold'>LAS DOS TENDERAS </hi></foreign><foreign><hi rend='Italic'>(se retiran cantando)</hi></foreign></p>
+<p>Donostiatik gatoz...</p>
+<p><foreign><hi rend='Bold'>SCENA XXVII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>El hombre de las manzanas, Txanton y Don Pedro</foreign></hi></p>
+<p><foreign><hi rend='Bold'>EL HOMBRE</hi></foreign></p>
+<p>Poliki baten kantatzen die, aren pasioa!</p>
+<p><foreign><hi rend='Italic'>(Hace como que repara en Txanton y Don Pedro)</hi></foreign></p>
+<p>Jaunak, barkatu ezate orien mesedeok; ez</p>
+<p>ditut ekusi orain artean. Ona non dituen</p>
+<p>sagar goapoak.</p>
+<p>-e-<hi rend='Italic'><foreign>Trata de ajuste con Don Pedro y Txanton, y mientras el ajuste va comiendo manzanas desde la cesta Txanton, hasta que, advirtiéndolo el dueño de ellas, retira la cesta, y, después de ajustado, queda Don Pedro con un par, y envía la cesta con el mozo, diciéndole la lleve abajo.</foreign></hi></p>
+<p><foreign><hi rend='Bold'>SCENA XXVIII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Txanton y Don Pedro</foreign></hi></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Gracias a Dios, que por fin </foreign></p>
+<p><foreign> Nos han dejado ya solos. </foreign></p>
+<p><hi rend='Bold'><foreign>A </foreign>DON PEDRO</hi></p>
+<p><foreign> Vamos, parte, parte luego,</foreign></p>
+<p><foreign> Y échame a este plato un trozo.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Don Pedro empieza a partir, y, entrando Matxalen de peregrina, deja de partir, y Txanton se impacienta.</foreign></hi></p>
+<p><foreign><hi rend='Bold'>SCENA XXIX</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Matxalen de peregrina y los de antes</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Matxalen canta</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>TONADILLA</hi></hi></foreign></p>
+<p><foreign> Vengo de peregrina </foreign></p>
+<p><foreign> En peregrinación, </foreign></p>
+<p><foreign> Sólo con la esclavina</foreign></p>
+<p><foreign> Y con este bordón;</foreign></p>
+<p><foreign> dénme limosna por amor de Dios. </foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(enfadado)</hi></foreign></p>
+<p><foreign> ¡Maldito sea, amén, el diablo! </foreign></p>
+<p><foreign> ¿A qué viene esta loca? </foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Es una pobre infeliz. </foreign></p>
+<p><foreign><hi rend='Italic'>(A la peregrina)</hi></foreign></p>
+<p><foreign> Adiós, peregrina hermosa.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Mientras la peregrina y Don Pedro hablan, hace Txanton varios gestos que indican su impaciencia.</foreign></hi></p>
+<p><hi rend='Bold'>MATXALEN</hi></p>
+<p><foreign> Perdonen sus mercedes, que, cierto, no </foreign></p>
+<p><foreign> había reparado que estuviesen ahí. </foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¿De dónde es Vmd., querida? </foreign></p>
+<p><hi rend='Bold'>MATXALEN</hi></p>
+<p><foreign> Señor, soy andaluza, para lo que su </foreign></p>
+<p><foreign> merced me quiera mandar.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Pues ¿qué borrasca le ha echado </foreign></p>
+<p><foreign> a Vmd. por acá?</foreign></p>
+<p><hi rend='Bold'>MATXALEN</hi></p>
+<p><foreign> Señor mío de mi ánima, ha de saber su</foreign></p>
+<p><foreign> merced, que he estado tan mala el verano </foreign></p>
+<p><foreign> pasado de resulta de unas tercianas, </foreign></p>
+<p><foreign> que consintieron todos en que me moría. </foreign></p>
+<p><foreign> Yo hice promesa de ir en peregrinación al Señor </foreign></p>
+<p><foreign> Santiago si me curaba, y, habiéndome puesto </foreign></p>
+<p><foreign> buena, vengo de cumplir lo que ofrecí. </foreign></p>
+<p><foreign> Vaya, señor: hágame su merced una caridad, </foreign></p>
+<p><foreign> que en el cielo lo hallará.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi><foreign><hi rend='Italic'>(a Txanton bajito)</hi></foreign></p>
+<p><foreign> ¿Quiere Usía darla algo </foreign></p>
+<p><foreign> O la despacharé yo?</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(muy impaciente)</hi></foreign></p>
+<p><foreign> Bien podías despacharla </foreign></p>
+<p><foreign> Sin tanta conversación. </foreign></p>
+<p><foreign> Echamela de mi cuarto </foreign></p>
+<p><foreign> Al instante.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi></p>
+<p><foreign> ¿Qué la daré?</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi></p>
+<p><foreign> Cualquier cosa.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¿La daré un real de vellón?</foreign></p>
+<p><foreign><hi rend='Italic'>(A Matxalen)</hi></foreign></p>
+<p><foreign> La generosidad de su Señoría se extiende </foreign></p>
+<p><foreign> a dar a Vmd. un real; pero es menester que </foreign></p>
+<p><foreign> Vmd. sea agradecida y nos divierta un rato </foreign></p>
+<p><foreign> con alguna chuscadita de su tierra.</foreign></p>
+<p><hi rend='Bold'>MATXALEN</hi></p>
+<p><foreign> Señor, cosa de chuscaditas no sé, ni tengo </foreign></p>
+<p><foreign> gracia para ello; pero soy un tantico aficionada </foreign></p>
+<p><foreign> a cantar, y, si sus mercedes son </foreign></p>
+<p><foreign> servidos, les cantaré una tonadillita donde </foreign></p>
+<p><foreign> hago relación de mi historia triste.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi></p>
+<p><foreign> Pues vaya.</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(levantándose de la silla muy enfadado)</hi></foreign></p>
+<p><foreign> ¿Cómo? ¿Qué? Para músicas estamos: </foreign></p>
+<p><foreign> Señora mía, tome Vmd. su dinero y váyase </foreign></p>
+<p><foreign> con Dios o con la trampa, que acá tenemos </foreign></p>
+<p><foreign> qué hacer.</foreign></p>
+<p><hi rend='Bold'>MATXALEN</hi></p>
+<p><foreign> Señor, Usía no se enfade, que yo sólo </foreign></p>
+<p><foreign> quería cantar por complacer a este señor.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi><foreign><hi rend='Italic'>(cogiendo del brazo a Txanton, bajito)</hi></foreign></p>
+<p><foreign> Mire Usía por su opinión. y un poquito </foreign></p>
+<p><foreign> de paciencia. ¿Qué dirán si esta mujer </foreign></p>
+<p><foreign> sale de aquí descontenta?</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Pues dame acá aquese plato, y más que cante.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Señor, fuera muy mal parecido; luego irá.</foreign></p>
+<p><foreign><hi rend='Italic'>(Lo hace sentar)</hi></foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(al sentarse)</hi></foreign></p>
+<p><foreign> ¡Voto a bríos!</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi><foreign><hi rend='Italic'>(a Matxalen)</hi></foreign></p>
+<p><foreign> Vamos con esa tonadilla.</foreign></p>
+<p><hi rend='Bold'>MATXALEN</hi></p>
+<p><foreign> Mas, señor, si su Señoría no quiere, </foreign></p>
+<p><foreign> como soy Paca, no quisiera disgustarle.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Sepa Vmd. que su señoría padece un </foreign></p>
+<p><foreign> poco de hipocondría, y que actualmente </foreign></p>
+<p><foreign> se halla con amago de ella; por lo cual puede</foreign></p>
+<p><foreign> importar mucho el que Vmd. nos divierta </foreign></p>
+<p><foreign> un rato.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Mientras toda esta conversación y la tonadilla, Txanton muestra su impaciencia</foreign></hi></p>
+<p><hi rend='Bold'>MATXALEN</hi></p>
+<p><foreign> Siendo así, no me retiro. </foreign></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>TONADILLA</hi></hi></foreign></p>
+<p><foreign>Sacóme de mi casa</foreign></p>
+<p><foreign>Un hermano traidor,</foreign></p>
+<p><foreign>Y a muy pocas jornadas </foreign></p>
+<p><foreign>Solita me dejó.</foreign></p>
+<p><foreign>Cuando le eché de menos</foreign></p>
+<p><foreign>Quise seguirle yo,</foreign></p>
+<p><foreign>Mas saber no fue dable </foreign></p>
+<p><foreign>Hacia dónde se marchó. </foreign></p>
+<p><foreign>Viéndome abandonada, </foreign></p>
+<p><foreign>Halléme en precisión </foreign></p>
+<p><foreign>De proseguir solita </foreign></p>
+<p><foreign>Mi peregrinación. </foreign></p>
+<p><foreign>Voyme, pues, publicando </foreign></p>
+<p><foreign>Por todo su traición, </foreign></p>
+<p><foreign>Divertiendo mis penas </foreign></p>
+<p><foreign>Con aquesta canción.</foreign></p>
+<p><foreign>¡Mala haya, amén, la mujer </foreign></p>
+<p><foreign>Que en los hombres fía, </foreign></p>
+<p><foreign>Y de sus falsedades </foreign></p>
+<p><foreign>No se guarda y se desvía! </foreign></p>
+<p><foreign>¡Fuego en ellos!</foreign></p>
+<p><foreign>Si un hermano se vale de engaños. </foreign></p>
+<p><foreign>¿Qué no harán los que sean extraños? </foreign></p>
+<p><foreign>Viva, pues, mi vida sola, </foreign></p>
+<p><foreign>Ya que estoy acostumbrada; </foreign></p>
+<p><foreign>Para mal acompañada, </foreign></p>
+<p><foreign>Solita me estoy mejor. </foreign></p>
+<p><foreign>Con mi bordón y esclavina, </foreign></p>
+<p><foreign>Y la calabaza al lado, </foreign></p>
+<p><foreign>Tengo menos cuidado </foreign></p>
+<p><foreign>Y gasto mejor humor, </foreign></p>
+<p><foreign>Y para que veáis </foreign></p>
+<p><foreign>Que no os engaña </foreign></p>
+<p><foreign>La peregrina,</foreign></p>
+<p><foreign>Si la escucháis.</foreign></p>
+<p><foreign>Cantará fina</foreign></p>
+<p><foreign>Unas seguidillitas </foreign></p>
+<p><foreign>Nuevas y extrañas.</foreign></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>SEGUIDILLAS</hi></hi></foreign></p>
+<p><foreign>El vivir solterita </foreign></p>
+<p><foreign>Es lo que vale,</foreign></p>
+<p><foreign>Pues dicen que el buey suelto </foreign></p>
+<p><foreign>Muy bien se lame.</foreign></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ESTRIBILLO </hi></hi></foreign></p>
+<p><foreign><hi rend='Italic'>Je veux rouler </hi></foreign></p>
+<p><foreign><hi rend='Italic'>Touta ma vie </hi></foreign></p>
+<p><foreign><hi rend='Italic'>Pelerinant; </hi></foreign></p>
+<p><foreign><hi rend='Italic'>J'irai contente </hi></foreign></p>
+<p><foreign><hi rend='Italic'>Et sans envie </hi></foreign></p>
+<p><foreign><hi rend='Italic'>Me promenant. </hi></foreign></p>
+<p><foreign>Caballerito,</foreign></p>
+<p><foreign>Y ¿qué os parece? </foreign></p>
+<p><foreign>¿No está bonito? </foreign></p>
+<p><foreign>Adiós, señores, </foreign></p>
+<p><foreign>Perdonad la locura </foreign></p>
+<p><foreign>De aquesta pobre. </foreign></p>
+<p><foreign><hi rend='Italic'>Je veux rouler... </hi></foreign></p>
+<p><foreign>Ya finaliza</foreign></p>
+<p><foreign>Su tonadilla extraña </foreign></p>
+<p><foreign>La peregrina. </foreign></p>
+<p><foreign><hi rend='Italic'>Je veux rouler...</hi></foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Bravo, bella peregrina;</foreign></p>
+<p><foreign> La tonada está muy buena.</foreign></p>
+<p><foreign><hi rend='Italic'>(La da limosna)</hi></foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(levantándose de la silla muy enfadado)</hi></foreign></p>
+<p><foreign> ¡Mal hayas tú, la cantora, </foreign></p>
+<p><foreign> Y toda su cantinela!</foreign></p>
+<p><foreign><hi rend='Italic'>(A Matxalen)</hi></foreign></p>
+<p><foreign> Señora, ya he dicho a Vmd. </foreign></p>
+<p><foreign> Que estoy bastante de priesa, </foreign></p>
+<p><foreign> Y así hágame el favor </foreign></p>
+<p><foreign> De coger luego la puerta.</foreign></p>
+<p><hi rend='Bold'>MATXALEN</hi></p>
+<p><foreign> Señor, ¿está Usía de camorra? Pues mire </foreign></p>
+<p><foreign> Usía que, aunque me ve ansina y soy una </foreign></p>
+<p><foreign> pobre, no me dejo pisar por nadie.</foreign></p>
+<p><foreign><hi rend='Italic'>(A Don Pedro)</hi></foreign></p>
+<p><foreign> Caballero, Vmd. viva mil años por su </foreign></p>
+<p><foreign> caridad, y Dios se lo pague.</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XXX</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Txanton y Don Pedro</foreign></hi></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(muy enfadado a Matxalen)</hi></foreign></p>
+<p><foreign> ¿Cómo? ¡Grandísima...!</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi><foreign><hi rend='Italic'>(cogiéndole del brazo)</hi></foreign></p>
+<p><foreign> Digo,</foreign></p>
+<p><foreign> Tenga Usía, por Dios, paciencia.</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(soltando el brazo)</hi></foreign></p>
+<p><foreign> Calla tú, que ya me enfadas. </foreign></p>
+<p><foreign> Echa la llave a esa puerta.</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XXXI</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Martinico, dos oficiales y los de antes</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Al tiempo de ir Don Pedro a cerrar la puerta, entra Martinico con dos oficiales. Martinico y los dos oficiales cantan</foreign></hi></p>
+<p><foreign> Vamos adentro</foreign></p>
+<p><foreign> Para que se nos pague </foreign></p>
+<p><foreign> Nuestro dinero, </foreign></p>
+<p><foreign> Cuti-lue, cuti-go, </foreign></p>
+<p><foreign> Luego, sin más tardar, </foreign></p>
+<p><foreign> Para que se nos pague</foreign></p>
+<p><foreign> Nuestro dinero.</foreign></p>
+<p><foreign> Que acá y en Roma </foreign></p>
+<p><foreign> Más que dos <hi rend='Italic'>te darés </hi></foreign></p>
+<p><foreign> importa un <hi rend='Italic'>toma.</hi></foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(muy enfadado)</hi></foreign></p>
+<p><foreign> ¿Otro diablo? Echa ese hombre, mas </foreign></p>
+<p><foreign> Que sea por la ventana.</foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Señor, a los pies de Usía.</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(conociéndole)</hi></foreign></p>
+<p><foreign> Martinico, en esta casa </foreign></p>
+<p><foreign> ¿Qué buscas? Amigo, dime...</foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> De suerte que yo venía </foreign></p>
+<p><foreign> A ajustar acá la cuenta </foreign></p>
+<p><foreign> De los zapatos de Usía. </foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(aparte)</hi></foreign></p>
+<p><foreign> (Usía me dijo. ¡Hola,</foreign></p>
+<p><foreign> Pues éste bien me conoce!) </foreign></p>
+<p><foreign><hi rend='Italic'>(A Martinico)</hi></foreign></p>
+<p><foreign> Mírame bien. Martinico,</foreign></p>
+<p><foreign> ¿Caes en cuenta quién soy, hombre? </foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Señor, pues no quiere Usía </foreign></p>
+<p><foreign> Que caiga en cuenta y conozca </foreign></p>
+<p><foreign> A mi amo y mi señor </foreign></p>
+<p><foreign> El Marqués de Trapisonda? </foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(aparte)</hi></foreign></p>
+<p><foreign> Ya no hay duda: soy Marqués </foreign></p>
+<p><foreign> Tanto como otro cualquiera; </foreign></p>
+<p><foreign> Y para que no se diga </foreign></p>
+<p><foreign> Que la mudanza de esfera </foreign></p>
+<p><foreign> Me hace olvidar mis amigos. </foreign></p>
+<p><foreign> Le convidaré a que venga </foreign></p>
+<p><foreign> A almorzar conmigo; pero </foreign></p>
+<p><foreign> ¿A un zapatero en su mesa </foreign></p>
+<p><foreign> Tendrá un Marqués? ¡Qué dirán!</foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Tengo cierta cosa urgente </foreign></p>
+<p><foreign> Que me llama, y así Usía </foreign></p>
+<p><foreign> Despácheme brevemente.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Quiero que almorcemos juntos.</foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Este honor no es competente </foreign></p>
+<p><foreign> A un pobre; pero le estimo </foreign></p>
+<p><foreign> Como si le recibiese. </foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> No hay que andar: ello es preciso.</foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Señor, viva Usía mil años; </foreign></p>
+<p><foreign> Hace rato que almorcé. </foreign></p>
+<p><foreign> Fuera de esto ahí abajo</foreign></p>
+<p><foreign> Me espera un sujeto, a quien </foreign></p>
+<p><foreign> Debo entregar unos cuartos </foreign></p>
+<p><foreign> Y es forzoso despacharle. </foreign></p>
+<p><foreign> Esta razón me ha obligado </foreign></p>
+<p><foreign> A pedir a Usía el que </foreign></p>
+<p><foreign> Me despache de contado </foreign></p>
+<p><foreign> Esta cuenta: pues, si no, </foreign></p>
+<p><foreign> Estoy expuesto a un trabajo.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Cuánto importará esa cuenta?</foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Veinte pesos y dos reales.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Veinte pesos?</foreign></p>
+<p><foreign><hi rend='Italic'>(A Don Pedro aparte)</hi></foreign></p>
+<p><foreign> ¿Tú los tienes?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Yo no, señor. Despacharle </foreign></p>
+<p><foreign> Y decir que vuelva luego.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Amigo, no tengo cambios, </foreign></p>
+<p><foreign> Y podrás volver mañana.</foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Señor, ¿qué cambios? En dándome </foreign></p>
+<p><foreign> Un doblón de a ocho luego, </foreign></p>
+<p><foreign> En dos reales no reparo.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Martinico, ten paciencia; </foreign></p>
+<p><foreign> Mañana irás despachado.</foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> A haber podido aguardar</foreign></p>
+<p><foreign> Hasta mañana, no hubiera </foreign></p>
+<p><foreign> Molestado a Usía hoy.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¡Válgame Dios, y qué priesa!</foreign></p>
+<p><foreign> Pues por hoy no puede ser, </foreign></p>
+<p><foreign> Y así, amigo, vete afuera, </foreign></p>
+<p><foreign> Que yo tengo acá qué hacer.</foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> ¿Irme yo sin mi dinero?</foreign></p>
+<p><foreign> ¡No hay que pensarlo! </foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Insolente, salte luego,</foreign></p>
+<p><foreign> Y, si la puerta no coges,</foreign></p>
+<p><foreign> Por un balcón te echaremos. </foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> ¿Porque pido a Usía lo mío, </foreign></p>
+<p><foreign> Me trata con tal desprecio? </foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Martín, en balde te cansas,</foreign></p>
+<p><foreign> No has de llevarme un cornado. </foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Pues si Usía no me paga. </foreign></p>
+<p><foreign> Yo sabré hacerme cobrado.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Echase sobre los platos de plata que vinieron con el almuerzo, y Txanton y Don Pedro sobre él forcejeando por quitárselos, aunque Don Pedro no hace más que fingir, lo mismo que Martinico.</foreign></hi></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(muy enfadado)</hi></foreign></p>
+<p><foreign> ¿Cómo, ladrón atrevido? </foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> ¡Suelta! </foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> ¡No he de soltar tal!</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¡Suelta, y, si no, acá mesmo </foreign></p>
+<p><foreign> El alma te he de arrancar!</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA XXXII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Don Diego y los de antes</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Don Diego entrando muy de priesa</foreign></hi></p>
+<p><foreign> ¿Qué bulla, qué gresca es ésta? </foreign></p>
+<p><foreign><hi rend='Italic'>(Martinico como admirado de verle)</hi></foreign></p>
+<p><foreign> Señor... ¿cómo es esto?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO </hi><foreign><hi rend='Italic'>(lo mesmo)</hi></foreign></p>
+<p><foreign> ¡Cielos! </foreign></p>
+<p><foreign> Mi amo se ha bilocado,</foreign></p>
+<p><foreign> Pues acá mesmo le veo</foreign></p>
+<p><foreign> En dos partes diferentes. </foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> ¿Qué haces aquí, Martinico? </foreign></p>
+<p><foreign><hi rend='Italic'>(Por Txanton)</hi></foreign></p>
+<p><foreign> ¿Quién es éste? </foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Debe ser</foreign></p>
+<p><foreign> Algún famoso bandido.</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(sin soltar la presa)</hi></foreign></p>
+<p><foreign> ¿Cómo se entiende, canalla? </foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Señor, habiendo venido</foreign></p>
+<p><foreign> A buscar a Usía en su cuarto,</foreign></p>
+<p><foreign> Le he encontrado así metido </foreign></p>
+<p><foreign> En esta bata de Usía,</foreign></p>
+<p><foreign> De modo que le he tenido </foreign></p>
+<p><foreign> Por Usía.</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Yo lo mesmo.</foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> ¡Con que habemos padecido </foreign></p>
+<p><foreign> Igual equivocación! </foreign></p>
+<p><hi rend='Bold'>DON DIEGO </hi><foreign><hi rend='Italic'>(a Txanton)</hi></foreign></p>
+<p><foreign> Vaya, dime sin tardanza </foreign></p>
+<p><foreign> Quién eres, dónde has tomado </foreign></p>
+<p><foreign> Aquese gorro, esa bata,</foreign></p>
+<p><foreign> Y en fin de dónde has habido </foreign></p>
+<p><foreign> Esos dos platos de plata. </foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(con autoridad)</hi></foreign></p>
+<p><foreign> Estos dos platos son míos,</foreign></p>
+<p><foreign> Y, en lo que es de mi persona, </foreign></p>
+<p><foreign> Baste deciros que soy </foreign></p>
+<p><foreign> El Marqués de Trapisonda.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> ¡Es cuanto puede llegar</foreign></p>
+<p><foreign> La osadía y la insolencia: </foreign></p>
+<p><foreign> Adjudicarse mi nombre</foreign></p>
+<p><foreign> Acá, en mis barbas mesmas!</foreign></p>
+<p><foreign><hi rend='Italic'>(A Txanton)</hi></foreign></p>
+<p><foreign> ¿Quién te ha hecho a ti Marqués?</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Yo no sé quién me haya hecho; </foreign></p>
+<p><foreign> Sólo sé que soy Marqués </foreign></p>
+<p><foreign> y se me debe respeto.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> ¡No se puede esto aguantar!</foreign></p>
+<p><foreign><hi rend='Italic'>(A Don Pedro y a Martinico)</hi></foreign></p>
+<p><foreign> ¡Muchachos, vaya, agarrarle </foreign></p>
+<p><foreign> Y asegurarle muy bien!</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Don Pedro y Martinico le agarran de los dos brazos, y Don Diego les da dos pañuelos que saca de los bolsillos para que lo aten.</foreign></hi></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Cómo se entiende? ¿A mí atarme?</foreign></p>
+<p><hi rend='Bold'>MARTINICO </hi><foreign><hi rend='Italic'>(con ironía)</hi></foreign></p>
+<p><foreign> ¡Qué ha!</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¡Protesto la violencia,</foreign></p>
+<p><foreign> Y he de veros en una horca, </foreign></p>
+<p><foreign> Aunque me cueste el estado </foreign></p>
+<p><foreign> Famoso de Trapisonda!</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Amigo, no hay más Marqués </foreign></p>
+<p><foreign> De Trapisonda en el mundo </foreign></p>
+<p><foreign> Que mi amo.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Muy en breve </foreign></p>
+<p><foreign> Sabré quién es este tuno.</foreign></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIETA</hi></hi></foreign></p>
+<p><foreign> Itxok, lapur </foreign></p>
+<p><foreign> Madarikatu gaizto </foreign></p>
+<p><foreign> Lotsarik gabea; </foreign></p>
+<p><foreign> Oraindik gaur</foreign></p>
+<p><foreign> Damu bait dek izango </foreign></p>
+<p><foreign> Alakoa izatea. </foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Representa</foreign></hi></p>
+<p><foreign> Ahora verás, picarón, </foreign></p>
+<p><foreign> Si eres tú Marqués.</foreign></p>
+<p><foreign><hi rend='Italic'>(A Don Pedro y a Martinico)</hi></foreign></p>
+<p><foreign> Muchachos, </foreign></p>
+<p><foreign> Entregarlo a la Justicia,</foreign></p>
+<p><foreign> Y deponed luego ambos </foreign></p>
+<p><foreign> Cómo acá se le ha cogido </foreign></p>
+<p><foreign> Con el hurto entre las manos; </foreign></p>
+<p><foreign> Y que, no contento aún </foreign></p>
+<p><foreign> Con haberme aquí robado</foreign></p>
+<p><foreign> Mi hacienda, mi mesmo nombre </foreign></p>
+<p><foreign> Quiso quitarme el malvado. </foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Así lo haremos, señor. </foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Deje Usía a nuestra cuenta. </foreign></p>
+<p><hi rend='Bold'>DON DIEGO </hi><foreign>(con ironía)</foreign></p>
+<p><foreign> Señor Marqués, hasta verle </foreign></p>
+<p><foreign> Entre el borrico y la penca. </foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¡Señor, éste es nuevo embrollo! </foreign></p>
+<p><foreign><hi rend='Italic'>(A Don Pedro y a Martinico)</hi></foreign></p>
+<p><foreign> ¿Con que yo no soy Marqués?</foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Hombre, deje esa locura </foreign></p>
+<p><foreign> Y diga claro quién es. </foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¿Pues Vmds. hasta ahora </foreign></p>
+<p><foreign> Por tal no me han conocido? </foreign></p>
+<p><hi rend='Bold'>DON PEDRO</hi></p>
+<p><foreign> Sí, porque nos engañamos</foreign></p>
+<p><foreign> Al verte con los vestidos </foreign></p>
+<p><foreign> De mi amo, y en su cuarto </foreign></p>
+<p><foreign> Con gran seriedad metido. </foreign></p>
+<p><foreign> Mas viendo a su Señoría</foreign></p>
+<p><foreign> De nuestro asno hemos caído. </foreign></p>
+<p><hi rend='Bold'>MARTINICO</hi></p>
+<p><foreign> Si tomaras mi consejo.</foreign></p>
+<p><foreign> Ya que el mal le cometiste, </foreign></p>
+<p><foreign> Te dijera que acá hicieses </foreign></p>
+<p><foreign> Una confesión humilde,</foreign></p>
+<p><foreign> Declarando ingenuamente</foreign></p>
+<p><foreign> Quién eres y a qué viniste.</foreign></p>
+<p><foreign> Con qué ardid hasta este cuarto </foreign></p>
+<p><foreign> Has podido introducirte, </foreign></p>
+<p><foreign> Y lo demás.</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(muy confundido)</hi></foreign></p>
+<p><foreign> Martinico.</foreign></p>
+<p><foreign> Nada puedo yo decirte, </foreign></p>
+<p><foreign> Porque no sé.</foreign></p>
+<p><hi rend='Bold'>DON DIEGO </hi><foreign><hi rend='Italic'>(a Don Pedro y a Martinico)</hi></foreign></p>
+<p><foreign> Ea, muchachos.</foreign></p>
+<p><foreign> Llevádmelo donde os dije.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Intentan llevarlo, y, mientras él anda haciendo esfuerzos para resistirse, toca la música el Ritornela de la siguiente</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIA</hi></hi></foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(canta)</hi></foreign></p>
+<p>Galdua naiz</p>
+<p>Sekulako.</p>
+<p>Txanton gajoa!</p>
+<p>Gizagajoa!</p>
+<p>Norako aiz</p>
+<p>Pena onetan?</p>
+<p>-e-<hi rend='Italic'><foreign>(Echase a los pies de Don Diego)</foreign></hi></p>
+<p>Zure oñetan</p>
+<p>Emen nago;</p>
+<p>Negarretan</p>
+<p>Urtzen dago</p>
+<p>Txanton tristea.</p>
+<p>A! Barkatzea</p>
+<p>Nere utsegiña</p>
+<p>Zer ondo egiña</p>
+<p>Litzakean!</p>
+<p><hi rend='Bold'>DON DIEGO </hi><foreign><hi rend='Italic'>(muy serio)</hi></foreign></p>
+<p><foreign> Amigo, ahora ya es tarde, </foreign></p>
+<p><foreign> Porque estoy determinado. </foreign></p>
+<p><foreign> Para que escarmienten otros, </foreign></p>
+<p><foreign> A que luego seas ahorcado.</foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Lo hace levantar</foreign></hi></p>
+<p><foreign><hi rend='Bold'>SCENA XXXIII</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Maritxo y los de antes</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Maritxo, fingiéndose muy afligida y echándose a los pies de Don Diego, canta</foreign></hi></p>
+<p><foreign><hi rend='Bold'><hi rend='Italic'>ARIETA</hi></hi></foreign></p>
+<p>Ez arren, jauna,</p>
+<p>Ez, ez urkatu,</p>
+<p>Arren barkatu</p>
+<p>Egiozu.</p>
+<p>Erruki zaitza,</p>
+<p>Bigundu zaitza</p>
+<p>Nere negarrak...</p>
+<p>Zer diozu?</p>
+<p><hi rend='Bold'>MARITXO Y TXANTON</hi></p>
+<p>Gizon triste bat</p>
+<p>Ondatutzea,</p>
+<p>Ta lurpetzea</p>
+<p>Erraz dezu.</p>
+<p>Baña ala galtzen</p>
+<p>Zer da irabazten?</p>
+<p>Arren barkatu</p>
+<p>Obe dezu.</p>
+<p><foreign><hi rend='Bold'>LOS TRES JUNTOS</hi></foreign></p>
+<p>Gizon andiak</p>
+<p>Barkatu oi dute</p>
+<p>Ta aztu oi dute</p>
+<p>Gaizki egiña.</p>
+<p>Besteak gero,</p>
+<p>Barkatu azkero,</p>
+<p>Ondutzen dira</p>
+<p>Alegiñaz.</p>
+<p><foreign><hi rend='Bold'>SCENA XXXIV</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Txanton, Maritxo y Don Diego</foreign></hi></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Alzaos los dos de este suelo:</foreign></p>
+<p><foreign> Basta, basta ya de chasco. </foreign></p>
+<p><foreign> Esta ha sido, amigo Txanton. </foreign></p>
+<p><foreign> Una burla que he pensado </foreign></p>
+<p><foreign> Para ver si de este modo </foreign></p>
+<p><foreign> Podemos corregir algo </foreign></p>
+<p><foreign> Este abominable vicio </foreign></p>
+<p><foreign> A que estás tan entregado.</foreign></p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(aparte)</hi></foreign></p>
+<p><foreign> Señor ¡cuántas mutaciones </foreign></p>
+<p><foreign> Este día he padecido! </foreign></p>
+<p><foreign> Sin saber cómo ni cuándo </foreign></p>
+<p><foreign> Heme visto convertido</foreign></p>
+<p><foreign> En Marqués: y, cuando en ello </foreign></p>
+<p><foreign> Estaba más engreído, </foreign></p>
+<p><foreign> Vea Vmd. que como a ladrón </foreign></p>
+<p><foreign> Me prenden, y con borrico, </foreign></p>
+<p><foreign> Penca y horca me amenazan; </foreign></p>
+<p><foreign> Y, si salgo del conflicto</foreign></p>
+<p><foreign> En que me hallo, es para verme </foreign></p>
+<p><foreign> Segunda vez reducido </foreign></p>
+<p><foreign> En Txanton Garrote mondo. </foreign></p>
+<p><foreign> ¿Quién tal confusión ha visto? </foreign></p>
+<p><foreign> ¡Oh desengaños del mundo! </foreign></p>
+<p><foreign> ¡Oh mundo, mundo, mundillo, </foreign></p>
+<p><foreign> Cuán poco puede fiarse </foreign></p>
+<p><foreign> En tus grandezas y hechizos!... </foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Después de un rato de suspensión dice a Don Diego</foreign></hi></p>
+<p><foreign> Pero, señor, ¿cómo o cuándo </foreign></p>
+<p><foreign> A esta casa me han traído?</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Ven a mudarte acá dentro, </foreign></p>
+<p><foreign> Donde encontrarás tu ropa, </foreign></p>
+<p><foreign> Y allá te lo diré todo.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¡Pobre de mí! Y ¡qué broma </foreign></p>
+<p><foreign> Me darán mis compañeros!</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> Todos están preparados </foreign></p>
+<p><foreign> Como que han sido testigos </foreign></p>
+<p><foreign> Muchos de ellos del petardo: </foreign></p>
+<p><foreign> Sobre todos Martinico.</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> ¡Ah bribón! ¿Con que sabía </foreign></p>
+<p><foreign> Quién era yo, y luego ha hecho </foreign></p>
+<p><foreign> Del que no me conocía?</foreign></p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p><foreign> No culpes a Martinico,</foreign></p>
+<p><foreign> Ni a tu mujer, ni a otro alguno; </foreign></p>
+<p><foreign> Quien toda esta trama ha urdido </foreign></p>
+<p><foreign> He sido yo; y te prevengo </foreign></p>
+<p><foreign> Que, si de ésta corregido </foreign></p>
+<p><foreign> No salieres, te he de echar </foreign></p>
+<p><foreign> A galeras. ¡vive Cristo!</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Tiene Vmd. mucha razón:</foreign></p>
+<p><foreign> En fin conozco mi yerro </foreign></p>
+<p><foreign> Y prometo en adelante </foreign></p>
+<p><foreign> Vivir de un modo diverso. </foreign></p>
+<p><foreign> Desde este día de hoy </foreign></p>
+<p><foreign> Nadie me verá sujeto </foreign></p>
+<p><foreign> A los horrendos vicios </foreign></p>
+<p><foreign> De la borrachera y juego,</foreign></p>
+<p><foreign> Que hasta aquí me han dominado.</foreign></p>
+<p><foreign><hi rend='Italic'>(A Maritxo)</hi></foreign></p>
+<p><foreign> Sí, Maritxo, te prometo</foreign></p>
+<p><foreign> Ser muy otro que hasta aquí: </foreign></p>
+<p><foreign> Quiéreme aunque no merezco.</foreign></p>
+<p><hi rend='Bold'>MARITXO</hi></p>
+<p><foreign> Si aun con tus tachas te quise </foreign></p>
+<p><foreign> ¿Qué será si tú te enmiendas?</foreign></p>
+<p><hi rend='Bold'>TXANTON</hi></p>
+<p><foreign> Acá viene Martinico. </foreign></p>
+<p><foreign> ¡Adiós, ya viene la gresca!</foreign></p>
+<p><foreign><hi rend='Bold'>SCENA ULTIMA</hi></foreign></p>
+<p>-e-<hi rend='Italic'><foreign>Que sirve de fin de fiesta</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Martinico con sus cuatro oficiales, y sucesivamente todos los personajes</foreign></hi></p>
+<p>-e-<hi rend='Italic'><foreign>Martinico y los oficiales cantan</foreign></hi></p>
+<p>Txanton Birigarro,</p>
+<p>Ametsetan dago;</p>
+<p>Txepetx bat izanikan</p>
+<p>Egin da karrastaro.</p>
+<p>Lakirikon pararirareña,</p>
+<p>Lakirikon</p>
+<p>Parariraron.</p>
+<p><hi rend='Bold'>DON PEDRO <foreign>Y </foreign>DON ANTONIO</hi></p>
+<p>Jaun Markes andia,</p>
+<p>Bai ala egia</p>
+<p>Ongi etorri dela</p>
+<p>Berorren Señoria</p>
+<p>Lakirikon...</p>
+<p><hi rend='Bold'>MATXALEN <foreign>Y LAS DOS CHICAS</foreign></hi></p>
+<p>O Markes noblea,</p>
+<p>Orren umildea,</p>
+<p>Nora bota dezu</p>
+<p>Lengo andi-ustea?</p>
+<p>Lakirikon...</p>
+<p><foreign><hi rend='Bold'>EL DE LAS MANZANAS</hi></foreign></p>
+<p>A Txanton tristea,</p>
+<p>Engañatu abea</p>
+<p>Nere sagarrakin</p>
+<p>Adam zarra bezela.</p>
+<p>Lakirikon...</p>
+<p><hi rend='Bold'>MARITXO</hi></p>
+<p>Direnak munduan</p>
+<p>Orditzeko usuban,</p>
+<p>Eskarmenta bitez</p>
+<p>Txantontxoren buruan.</p>
+<p>Lakirikon...</p>
+<p><hi rend='Bold'>DON DIEGO</hi></p>
+<p>Ezta, ez, ere andrerik</p>
+<p>Edate eztubenik,</p>
+<p>Naiz nafar, naiz klaret</p>
+<p>Ta naiz Endaiakotik.</p>
+<p>Lakirikon...</p>
+<p><hi rend='Bold'>TXANTON </hi><foreign><hi rend='Italic'>(al auditorio)</hi></foreign></p>
+<p>Banaiz ere ordia.</p>
+<p>Badut kortesia,</p>
+<p>Ta ala, arren, barkatu</p>
+<p>Nere zorakeria.</p>
+<p>Lakirikon...</p>
+<p><foreign>-e-FIN</foreign></p>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI.2>
+

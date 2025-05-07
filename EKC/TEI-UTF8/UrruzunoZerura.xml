@@ -1,0 +1,1629 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+                       "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+   <!ENTITY % TEI.prose    'INCLUDE' >
+   <!ENTITY % TEI.linking  'INCLUDE' >
+   <!ENTITY % TEI.analysis 'INCLUDE' >
+   <!ENTITY % TEI.figures  'INCLUDE' >
+   <!ENTITY % TEI.XML      'INCLUDE' >
+   <!ENTITY % TEI.extensions.ent SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.ent' >
+   <!ENTITY % TEI.extensions.dtd SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.dtd' >
+]>
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+     <titleStmt>
+        <title>Euskalerritik zerura eta beste ipui batzuk</title>
+        <author>Pedro Migel Urruzuno</author>
+        <respStmt>Ez dauka</respStmt>
+     </titleStmt>
+     <extent>11.072 hitz, 83.670 karaktere</extent>
+     <publicationStmt>
+        <publisher>Klasikoen Gordailua [http://klasikoak.armiarma.com/]</publisher>
+        <distributor>Estrata Liburuak S.L.</distributor>
+        <address type='email'>klasikoak@armiarma.com</address>
+        <idno type='ota'>UrruzunoZerura</idno>
+        <availability status='free'>Erabilpen librekoa; honoko helbidean topa daiteke (HTML, RTF eta PDF formatuetan): http://klasikoak.armiarma.com/idazlanak/U/UrruzunoZerura.htm</availability>
+        <date>2006</date>
+     </publicationStmt>
+     <sourceDesc>
+        <bibl>Iturria: Euskalerritik zerura eta beste ipuin batzuk, Pedro Miguel Urruzuno (Antonio Zavalaren edizioa). Auspoa, 1961</bibl>
+        <notesStmt><note>Iturburuen datazioa: 1898-1917, 1961</note></notesStmt>
+     </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+     <projectDesc>Euskal literaturako testu klasikoen bilduma da KLASIKOEN GORDAILUA; testu hau berorren parte da</projectDesc>
+     <refsDecl>
+        <p>MENTIONED etiketa egilearenak ez diren hitzak markatzeko erabili da: hitzaurreak, aipuak, iruzkinak, e.a.</p>
+    </refsDecl>
+     <classDecl>
+        <taxonomy id='generoa'>
+            <category id='G-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='G-ANT'><catDesc>Antzerkia</catDesc></category>
+            <category id='G-BER'><catDesc>Bertsoak</catDesc></category>
+            <category id='G-ERL'><catDesc>Erlijioa</catDesc></category>
+            <category id='G-NAR'><catDesc>Narratiba</catDesc></category>
+            <category id='G-POE'><catDesc>Poesia</catDesc></category>
+            <category id='G-SAI'><catDesc>Saiakera, kronika, artikuluak...</catDesc></category>
+        </taxonomy>
+        <taxonomy id='garaia'>
+            <category id='M-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='M-16'><catDesc>XVI. mendea</catDesc></category>
+            <category id='M-17-1'><catDesc>XVII. mendea - 1. erdia</catDesc></category>
+            <category id='M-17-2'><catDesc>XVII. mendea - 2. erdia</catDesc></category>
+            <category id='M-18-1'><catDesc>XVIII. mendea - 1. erdia</catDesc></category>
+            <category id='M-18-2'><catDesc>XVIII. mendea - 2. erdia</catDesc></category>
+            <category id='M-19-1'><catDesc>XIX. mendea - 1. erdia</catDesc></category>
+            <category id='M-19-2'><catDesc>XIX. mendea - 2. erdia</catDesc></category>
+            <category id='M-20-1'><catDesc>XX. mendea - 1. erdia</catDesc></category>
+            <category id='M-20-2'><catDesc>XX. mendea - 2. erdia</catDesc></category>
+        </taxonomy>
+        <taxonomy id='euskalkia'>
+            <category id='E-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='E-BAT'><catDesc>batua</catDesc></category>
+            <category id='E-BIZ'><catDesc>bizkaiera</catDesc></category>
+            <category id='E-BNA'><catDesc>behenafarrera</catDesc></category>
+            <category id='E-ERR'><catDesc>erronkariera</catDesc></category>
+            <category id='E-GIP'><catDesc>gipuzkera</catDesc></category>
+            <category id='E-GNA'><catDesc>goi nafarrera</catDesc></category>
+            <category id='E-LAP'><catDesc>lapurtera</catDesc></category>
+            <category id='E-NAF'><catDesc>nafarrera</catDesc></category>
+            <category id='E-ZAR'><catDesc>zaraitzuera</catDesc></category>
+            <category id='E-ZUB'><catDesc>zuberera</catDesc></category>
+        </taxonomy>
+    </classDecl>
+  </encodingDesc>
+  <profileDesc>
+     <textClass>
+       <keywords scheme='generoa'>
+         <list><item>G-NAR</item></list>
+       </keywords>
+       <keywords scheme='garaia'>
+         <list><item>M-20-1</item></list>
+       </keywords>
+       <keywords scheme='euskalkia'>
+         <list><item>E-GIP</item></list>
+       </keywords>
+     </textClass>
+  </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>Euskalerritik zerura eta beste ipui batzuk -- Pedro Migel Urruzuno</docTitle>
+    </front>
+    <group>
+      <text>
+        <front>
+          <head rend='Bold'><p>EUSKAL-ERRITIK ZERURA</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>—I—</hi></p>
+<p>Egun tristeak eldu zitzaizkan Bentura gaixoari. ainbeste maite zuan amona, beretzat amaraik onena izandu zana, ainbeste laztan gozo eman zizkana, zerurako bidea aiñ ondo erakutsi ziona, ill zan larogei ta amaika urterekiñ, gelditzen zala bera ogei urtekoa lurrean, jabe gabe.</p>
+<p>Atsekabe guzien artian bazuan atsegiñ bat. Berak egiñ zion al guzia amona gaixoari, ta ala ill zan kristau on bat bezela, ta gañera aterako zizkan al zituan Mezak, lenbailen zerura zediñ, lenagotikan ezpazegoan ere, ta amona gaixoak zerutik lagunduko zion.</p>
+<p>Andre Errosa etzan aztu Benturaz; bere jauregira ekarri ta alabatzat artua zeukala zirudian. Esan bearrik eztago, zeiñ ondo erantzuten zion Benturak bere ongilleari.</p>
+<p>Neguko arrats batean, errosaio santua esan, eguneko santuaren bizitza irakurri, ta lotaratzeko artian goiztxo zan, ta esan zion Andre Errosak Benturari:</p>
+<p>—Bai al dakizu ipuiren bat?</p>
+<p>—Ipuirik eztakit, baña bai ipuiaren antzeko beste gauza bat.</p>
+<p>—Zer ote da ba?</p>
+<p>—Amets bat.</p>
+<p>—Zedorrek egiña?</p>
+<p>—Bai, andria.</p>
+<p>—Polita al da?</p>
+<p>—Nere iritzian oso polita.</p>
+<p>—Esango al didazu?</p>
+<p>—Bai, andria, ta oso pozik bedorrek nai badu.</p>
+<p>—Aditu dezagun ba —esan zuan Andre Errosak, ta Bentura asi zan esaten onela:</p>
+<p>—Gau baten asi nintzan ametsetan, lo nengoala.</p>
+<p>—Bai alegia, lo egongo ziñala —esan zion Andre Errosak—. Esna dagoala eztu iñork ametsik egiten.</p>
+<p>—Barka beza —erantzun zion Benturak—, esna nagoala're egiñ oi det nik amets.</p>
+<p>—Benetan?</p>
+<p>—Bai, andria, bai, bene-benetan.</p>
+<p>—Beraz bi amets, bat lotan ta bestea esna egiñ dituzu.</p>
+<p>—Alaxe da, andria.</p>
+<p>—Gaur esan zaiguzu ba lenengoa, au da, lotan egiña, ta bigar esango dezu bestia.</p>
+<p>—Astera noa lenengoa esaten. Len asi naizen bezela, esaten diot berriz ere: lo nengoala agertu zitzaidan aingeru oso eder bat. Bi ego txikitxoak zekarzkian eskuetan.</p>
+<p>—Emakumea —esan zion Andre Errosak—, eskuetan eguak?</p>
+<p>—Bai, andria —erantzun zion Benturak—, baña oiek zekartzkian, bere ego andiaz gañera.</p>
+<p>Ezarri ziztan nere sorburuetan bi ego txikitxuok, eta esan zidan: «atoz nerekiñ», asi giñan biok egaka, ta laster eldu giñan illargia, eguzkia ta izarrak baño're gorago.</p>
+<p>—Eta begira —esan zion Andre Errosak—, ez al zenduten arkitu bidean oraingo aeroplano oietakorik?</p>
+<p>—Batzuek bai, andria; an zebiltzan, sagu-zarrak ziruditela, beiñ ara, beiñ ona, mozkorturik ibilli oi diran gizonak bezela, baña ez giñen jaramon andirik egiñ.</p>
+<p>—Eta gero? —galdetu zion Andre Errosak.</p>
+<p>—Gero —erantzun zion Benturak—, bereala eldu giñan zerura. An zer ikusi, zer aditu ta zer sentitu nuan, nik eziñ esan nezake. Iruritzen zitzaidan, edertasun gozo ta atsegiñ guziaz egindako itxaso bat zala, ta itxaso onen erdian nengoala. Goien-goienian ageri zan jargoi, izan diteken ederren bat, emakume bat, an jarria, aingeruak baño're askoz ederragoa, ta aingeruz inguratua. Nola enekiala, ega egiñ nuan bere oñetara, muñ egiñ naian, baña «ez» esan zidan. Artu ninduan bere besoetan, ta eman zidan laztan andi bat nere bekokiaren erdi-erdian. Zer zan ura! Arren gozotasunak pozaren pozaz ler eragiñ bear zidan, ta esnatu nintzan; nekez konturatu nintzan, nun arkitzen nintzan.</p>
+<p>—Pena izango zenduan ba gero —esan zion Andre Errosak.</p>
+<p>—Ez ba alaña're —erantzun zion Benturak—, amets ori oraindik egi biurtuko dalako esperantzan gelditu nintzan, ta Jaungoikoak ala izan dezala.</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>Bigaramon gabian ere, beti bezela, errosario santua esan, eguneko santuaren bizitza irakurri, ta esan zion Andre Errosak Benturari:</p>
+<p>—Ia nola esaten diguzun orain bigarren ametsa.</p>
+<p>—Esna nengoala egiña, edo maiz egiten dedana?</p>
+<p>—Bai.</p>
+<p>—Berealaxe —erantzun zion Benturak—. Nere amona maiteak, ill bear zuan aurretxoan, eman ziztan esonde edo konsejuen artian, bat gelditu zitzaidan biotzian oso itsatsia. «Eztezazula beñere Euskal erritik irten; Euskal erritik zerura; Euskal erritik zerura»; Euskal erritik zerura. Iru alditaraño esan zidan, eta nik badarabilt buruan asmo bat, esonde edo konseju ori egiteko, baña amets bat bezela.</p>
+<p>—Eta jakiñ dezaket nik asmo edo burutazio ori zer dan? —galdetu zion andre Errosak.</p>
+<p>—Bai, andria, bai —erantzun zion Benturak—. Berealaxe esango diot: mojen Elizan sartzen naizen bakoitzian, esaten det nere artian: «ni or barruan biziko banintz, juango nintzake Euskal erritik zerura...».</p>
+<p>—Eta juango ziñake moja? (Andre Errosak).</p>
+<p>—Bai, andria; baña...</p>
+<p>—Eta berak, au da, mojak, etzinduzteke artuko?</p>
+<p>—Bai, andria; baña...</p>
+<p>—Zer esan nai dute bi baña oiek?</p>
+<p>—Lenengoak esan nai du, diru edo doterik eztedala.</p>
+<p>—Eta bigarrenak?</p>
+<p>—Bedorren borondatea're bear dedala.</p>
+<p>—Eta dirua izanta're, nere borondate gabe etziñake juango?</p>
+<p>—Ez, andria.</p>
+<p>—Zergatik ez?</p>
+<p>—Asko ta asko zor diodalako, ta gañera lotsaren bat ematen badit ere esateak, esango diot; asko ta geiago ta esan eziñ ainbat bedori maite dedalako.</p>
+<p>—Eta nik nai izan ez arren, Jaungoikuak deitzen badizu?</p>
+<p>—Jaungoikoak nai du, ongilleai esker onez erantzutea: ta nik erregutuko nioke, bedorri borondatea mudatzeko, neri baimena eman degidan, ta iritxiko nuke mesede au: ala uste det.</p>
+<p>—Iritxia daukazu gaixo orrek —zion Andre Errosak bere biotzian; negar-malkoak asi ziran azaltzen bere begietan, ta Benturak igarri etzegion—.</p>
+<p>Bai, bai, bigar itzegingo degu —esan ta juan zan Andre Errosa—, gabon —esanik, bere gelara; baita Bentura're berera.</p>
+<p>Andre Errosa bere gelan sartu beziñ laster negar ugari egiñ eta asi zan bakarrizketan onela:</p>
+<p>—Ai Bentura, Bentura! Eztakizu oraindik, zenbat nai dizudan; aingeru bat zera, zure amona zanak esan oi zuan bezela, ta aingeruentzako bizi-lekua lurrian, zuk begiz jo dezun etxe santu orixe da. Zartu naiz, eta laister ill bear det; zugandik aldentzeak bizia laburtuko dit, baña ezagutzen det ondo, gaztearentzat gaur arrisku aundiak daudela, bakarrik gelditu ezkero. Zure amonak deitzen dizu «Euskal erritik zerura», ta biderik zuzenena berak gogoan jarri dizu; ni berriz pozik illko naiz; leku aiñ onian zu uzten zaitudalarik, nere animaz ere zu oroituko zerala gogoratzean.</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p>Eztitut gogaitu nai nere irakurleak: alik laburren amaitzera nua.</p>
+<p>Ama Birjiña Karmengoaren eguna izandu zan zorionekua ta gogoangarria Benturarentzat. Egun onetan egiñ zuan sarrera komentuan Andre Errosak lagundurik. Azkeneko laztana ematean Benturak bere ama-ordeko andre Errosari, esan zion: «Laztan au da, laster zeruan betikotasun guzian emango diodan laztan gozo aren asiera...».</p>
+<p>Denbora gutxiko sartu zan Bentura komentuan. Amasei illabete zeramazkian, ta gaixoturik, sendakiñak lenengo egunetik emen zion epai txarra. Bere gaitza biriteria zan, bere ama zanarena bezela.</p>
+<p>Oso triste zeuden mojak, baña ezagutzen zuten, Bentura aingeru bat zala, ta aingeruen lekua zerua zala. Gaixoa berriz gaitzaren indarraz eta zerura lenbailen juateko egarriaz, ondo prestatu ta eriotzara urreratuaz zijuan.</p>
+<p>Ai! Arnasa estua dauka gaixoak, izardi larretan dago; itzik egiten eztu.</p>
+<p>An dagokio Prai Juan ondo illtzen laguntzen... «Idiki bitez zeruak,... betor Gaoiaingeru Migel santua... betoz zure bidera Aingeru guziak, zerura eraman zaitzaten» esaten zuan Prai Juanek, eta gaixoak, begiak zabal-zabal egiñik, irri-parrezko arpegiarekiñ izketa asirik dio: «Ai, au aingeru-talde ederra, ai, auek kantu alaiak! <foreign>Veni sponsa Christi; </foreign>atoz Kristoren esposa, kantatzen dutela datoz, atoz Kristoren esposa».</p>
+<p>—Banatorkizue bai —erantzuten du gaixoak.</p>
+<p>Moja guziak negarrez zeuden bere inguruan, ta beren buru egiten zuanak galdetu zion: Nora zuaz gaixo ori?</p>
+<p>—Nora? —erantzun zion Benturak—. Euskal erritik zerura...</p>
+<p>Auek izan ziran bere azkeneko itzak.</p>
+<p><hi rend='Bold'>—IV—</hi></p>
+<p>Komentuko illerrian ageri da oraindik zurezko gurutze zartxo bat ondorengo idazki onekiñ:</p>
+<p>Ementxen dago obiraturik</p>
+<p>aizpa txit maite Bentura,</p>
+<p>aingeru baten antzera beti</p>
+<p>bizi izandu zan ura;</p>
+<p>baña aingeru bat bizitzeko</p>
+<p>diña ez izanik lurra,</p>
+<p>gorputza illik anima juan da</p>
+<p>Euskal-erritik zerura.</p>
+<p><mentioned><hi rend='Italic'>Euskal-Erria, </hi>1914</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>IJITUAK</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>—I—</hi></p>
+<p>—Ai Pauliñ! Guriak egin du.</p>
+<p>—Zer egin?</p>
+<p>—Juan giñan gu txakurraren salara.</p>
+<p>—Zergaitik?</p>
+<p>—Zergatik! Astotxo bat ere eztegu izango mozteko eta gure irabaziak juan ziran pikutara.</p>
+<p>—Eta zergatik eztegu izango astorik mozteko?</p>
+<p>—Oraingo tren eta automobillekin, ezta asto eta mando bearrik. A Kataliñ gaixoa! munduko berri oraindik eztakizu.</p>
+<p>—Zergatik diozu ori?</p>
+<p>—Sekulan aditu eztiran astakeriak, orain aditzen diralako.</p>
+<p>—Zer astakeri?</p>
+<p>—Egunero paperetan irakurtzen degu: automobil bat berreun milla puska egin dala; eta an zijoazenak ill edo zauritu egin dirala; lasto baten goraberagatik duelora, au da, alkar iltzera dijoazela, pistolaren kañoian edo ezpataren puntan arrazoia balego bezela, ta beste orrelako milla astakeri.</p>
+<p>—Oiek gure modukoen kontuak izango dira...</p>
+<p>—Ez, emakumea, ez; markes edo kondiak dira aurrenekoak.</p>
+<p>—Beraz anka biko astoak, ezta ala Pauliñ?</p>
+<p>—Orixe da. Oietako pare bat moztutzearekin, naikoa degu urtean.</p>
+<p>—Bai, eta zuk moztuko dituzu?</p>
+<p>—Bai, bai; ardura andi gabe.</p>
+<p>—Naizu apostu bat ezetz?</p>
+<p>—Baietz, famili guziaren bazkaria, nere egunerako.</p>
+<p>—Ollo ta guzikoa?</p>
+<p>—Bai ta txanpan ere.</p>
+<p>—Egiña dago.</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>—Ikusi al dezu Pauliñ ijitoaren ollarra?</p>
+<p>—Ikusi bear: erri guziak aotan darabill ta...</p>
+<p>—Bai, oraindik geiago adituko degu.</p>
+<p>—Zer ba?</p>
+<p>—Arrautzak egiten omen ditu. Or dabiltza arrautz oien ondoren andizki guziak; bañuak artzera etorri diran andizkiak ere arrautz oien kontu geiago omen dute bañuena baño.</p>
+<p>—Eztakit ezer ere.</p>
+<p>—Txorabil jente guziak eztu nunbait beste egitekorik.</p>
+<p>Eta egiaz, Markes de Txoriburuk eskeñi ziozkan ollarrari bi milla peseta; Konde Kirtenesek iru milla, eta oni eman zion Pauliñek.</p>
+<p>Damutxo zuan Txoriburuk lau milla ez eskeñia, eta Pauliñek jakitean, esan zion lau milla pesetan ura baiño ollar obia inguratuko ziola. Pozik eman zituan Txoriburuk lau milla peseta eta beregandu zuan ollar guziz panparroia.</p>
+<p>Biak kontuan jarri zituan, ollarrari egingo ziela nobedaderen bat leku aldatzeak, eta illebetetxo batean etzutela arrautzik egingo, mika aldi izango zutela, baiña gero izango zirala egunak bi ere egingo zituztenak. Sinistu zuten eta bapo (Pauliñ).</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p>Egun gutxi barru kimeratu ziran markexa ta kondea.</p>
+<p>Egia esateko, etzuten gauz andirik bear ortarako; bere izenen jabe ziran. Erri guzian jakin zan bi ollarrak (ez markesak) peliara, au da, burrukara zijoazela eta trabesak ere ondotxo egin ziran. (Etzuten zer egin andirik).</p>
+<p>Pauliñen eguna zan baña onek etzuan biotzik bere ollarrak burrukan ikusteko; eta erdi negarrez aldendu zan erritik.</p>
+<p><hi rend='Bold'>—IV—</hi></p>
+<p><hi rend='Bold'>Bazkaria</hi></p>
+<p>Bazan Soroetako zelaian jendea. Ijito arraza guzia an zan. Bazan antxen erlearen burrundara. Etzegoan ollarraren errukirik.</p>
+<p>—Baiña, Pauliñ, nola engañatu dituzu markesa ta kondia?</p>
+<p>—Iriburuko atxuak ekartzen zizkidan ixillik antzarren arrautzak erreal banan, eta gañerakoa badakizute.</p>
+<p>—Eta zazpi milla peseta atera diztezu?</p>
+<p>—Bai, bai; ona emen nun dauden.</p>
+<p>—Merezi luke ba orretxek bertso bat.</p>
+<p>—Emen dijoa ba:</p>
+<p>Emazteari nion</p>
+<p>egin nik apostu</p>
+<p>anka biko asto bi</p>
+<p>aurten baietz moztu;</p>
+<p>zazpi milla pesetaz</p>
+<p>egiñik kastuak,</p>
+<p>orra bi asto oiek</p>
+<p>ederki moztuak.</p>
+<p><mentioned><hi rend='Italic'>Argia</hi></mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>PRAKA BERRIAK</p></head>
+        </front>
+        <body>
+<p><hi rend='Italic'>Billa ezazute lenengo Jaungoikoaren </hi></p>
+<p><hi rend='Italic'>erreinua, eta beste gauza guziak </hi></p>
+<p><hi rend='Italic'>geigarritzat emango zaizkizute.</hi></p>
+<p>—Manuela, izan al zera elizan?</p>
+<p>—Bai ba, Martolo, izandu naiz.</p>
+<p>—Zer eman dizute?</p>
+<p>—Ematekorik asko ematen digu Jaungoikoak.</p>
+<p>—Zer ba?</p>
+<p>—Eguneroko ogia.</p>
+<p>—Bai, nik nekez irabazita.</p>
+<p>—Eta illabeteko uelga egin dezutenian, nork eman digu?</p>
+<p>—Ori... nik eztakit.</p>
+<p>—Nik bai, ordea. Zuk ezer ekarri ezagatik, maian beti jarri dizut eguneroko ogia.</p>
+<p>—Beraz...</p>
+<p>—Beraz... beraz, nagia pizkortzen ezta erraz.</p>
+<p>—Bapo. Enekian bertsolaria ziñanik; baña goazen lenera. Ni elizara juango nintzake ba, zerbait atera al banezake.</p>
+<p>—Otoitz egizu eta iritxiko dezu nai dezuna.</p>
+<p>—Orain praka berri batzuek palta egiten dirate ta...</p>
+<p>—Zere eskuan daukazu iristea.</p>
+<p>—Nola?</p>
+<p>—Egiozu bederatziurren bat San Antoniori.</p>
+<p>—Bai! Onik onenian sitsak jandako praka zarren batzuek...</p>
+<p>—Ez, gizona, ez.</p>
+<p>—Ondo da; baña iristen ezpadet, eztet geiago errezatuko.</p>
+<p>—Eztezu ba len baño gutxiago're egingo. Eta alegia; iristen badituzu praka berriak, zer egingo dezu?</p>
+<p>—Jantzi.</p>
+<p>—Eta errezatu?</p>
+<p>—Baita errosarioa ere.</p>
+<p>—Izena jakitea're ezta gutxi.</p>
+<p>—Zuk baño len ikasi nuan nik errosarioa errezatzen.</p>
+<p>—Bai aztu're neri baño len.</p>
+<p>—Nik ba, egingo det beñepeiñ bederatziurrena.</p>
+<p>—Eta gero errosarioa errezatu ere bai?</p>
+<p>—Praka berriak iristen baditut, bai.</p>
+<p>—Itz ematen didazu?</p>
+<p>—Baita milla itz ere.</p>
+<p>Martolok itz eman du</p>
+<p>egingo duela,</p>
+<p>baña alare ezta</p>
+<p>pio Manuela.</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>Askotxo kosta zitzaion Martolo'ri Aitagurea ikastea; «eguneroko ogia» eskatu bearrean, beti eskatzen zituan praka-berriak.</p>
+<p>Ametsetan ere beti bere praka berriak zebilzkian burutan.</p>
+<p>Anbrux maleta zarrak</p>
+<p>esaten duanez,</p>
+<p>gose danak artua</p>
+<p>egiten du amets.</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p>—Zer modu, Manuela?</p>
+<p>—Ondo, ta bedori?</p>
+<p>—Oso ondo Jaunari eskerrak.</p>
+<p>—Konde jaunaren berririk bai al du?</p>
+<p>—Bai; Habanatik bialdu dit eskutitza, eta dio, etorriko dala amabost egun barru.</p>
+<p>—Asko poztutzen naiz eta errezatuko diot ondo etorri dedin.</p>
+<p>—Eskarrik asko. Eta Martolo?</p>
+<p>Esan zion Manuela'k kondesari gertatzen zitzaion guzia. Kondesak erantzun zion, an zeuzkala bazterturik, kondiak utzitako erropa batzuek, eta juan zedilla arratsaldian txokolatia artuaz, nai zituan erropak aukeratzera.</p>
+<p>Etzuan izan kondesak bi aldiz esan bearrik.</p>
+<p>Txokolatia artu,</p>
+<p>erropak ekarri,</p>
+<p>Martolo'k eztu bear</p>
+<p>izan errukarri.</p>
+<p><hi rend='Bold'>—IV—</hi></p>
+<p>—Aizazu, Manuela.</p>
+<p>—Zer degu, Martolo?</p>
+<p>—Praka berrien berririk ezta?</p>
+<p>—Zenbat egun daramazkizu bederatziurrenean?</p>
+<p>—Zortzi.</p>
+<p>—Ba, egiñ ezazu bederatzigarrena eta orduan, eta ondo egiten badezu, prakak eta beste zerbait geiago're espero dezazuke. «Billa ezazute lenengo Jaungoikoaren erreinua eta bere justizia, eta beste gauza guziak emango zaizkizute geigarritzat» dio Jaungoikoak.</p>
+<p>—Zedorrek aditu diozu?</p>
+<p>—Utzi egiezu kontu oiei eta egizu ondo bederatziurrena.</p>
+<p>Gaberdira arte Manuela an aritu zan erropak moldatzen, eta gero ixill-ixillik utzi zituan silla batian, senarraren gelako ate aurrean.</p>
+<p>Zer esango ote du</p>
+<p>Martolo'k goizian</p>
+<p>gelatik irten eta</p>
+<p>sila topatzian ?</p>
+<p><hi rend='Bold'>—IV—</hi></p>
+<p>San Antonioren egunian jaiki zan goizian goiz Martolo, eta gelatik irtetzean illunetan, jo zuan belaunarekin silla eta esan zuan: «Praka berriak iritxi baño len apurtuko ditut nik zarrak». Idiki zuan leioa eta ikaraturik gelditu zan arkitzean praka berriak, txalekoa, gabana ta alkandora plantxatua, eta esan zuan: «Edo sorgiñak edo San Antonio dabill emen».</p>
+<p>Onetan arkitu zuan erropa artian San Antonio'ren iduri edo estanpa bat idazti onekiñ:</p>
+<p>Entzun ditut zerutik</p>
+<p>zure otoitzak,</p>
+<p>sinistuko didazu</p>
+<p>nik ala deritzat.</p>
+<p>Orra praka berriak</p>
+<p>jan gabiak sitzak,</p>
+<p>eta gañera ere</p>
+<p>zerbait geigarritzat,</p>
+<p>eta kunpli itzazu</p>
+<p>emandako itzak.</p>
+<p><hi rend='Italic'>POSDATAN. Martolo gizajoa, apainduta an emen dabill, ispillura begira, atzera ta aurrera, bere burua ezagutu eziñez Martolo ote dan edo ez.</hi></p>
+<p><mentioned><hi rend='Italic'>Euskal-Esnalea, </hi>1917</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>AOTIK-AORA</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>—I—</hi></p>
+<p>—Pedro Mari.</p>
+<p>—Zer degu, Patxi?</p>
+<p>—Bai omen dator Lontzio.</p>
+<p>—Ala diote.</p>
+<p>—Ondo samar etorriko da?</p>
+<p>—Ala bear luke; ogei ta amar urte badaramazki Amerikan ta...</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>—Zer berri, Patxi?</p>
+<p>—Larteietako Lontzio omen dator Amerikatik.</p>
+<p>—Ze demontre!</p>
+<p>—Bai, ala esan du bere anaiak, eta oso ondo datorrela.</p>
+<p>—Beraz erosi naiko du Larteieta.</p>
+<p>—Bai, ta eztu izan bear orixe oraingoxe ametsa.</p>
+<p>—Jabia're saldu naian ote dabillen nago.</p>
+<p>—Ba, laster izango du merkataria nere ustez.</p>
+<p>—Baliteke onuzkero zerbait elkarri eskutitzez adierazirik egotea.</p>
+<p>—Naiko ditu ba jabeak iru milla duro.</p>
+<p>—Lau millan ere eztet uste lagako duanik artu gabe Lontziok.</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p>—Zer berri, Andres?</p>
+<p>—Oraintxe aditu det ba, Lontzio Larteietako datorrela Amerikatik oso aberats, bere jaiotetxea erosteko asmoetan; eskutitzen bat egin diola jabeari, lau milla duro bear baditu're, emango dizkala.</p>
+<p>—Beraz panparroi dator.</p>
+<p>—Ala diruri. Len ere panparroi-samarra zan eta orain berriz zer esanik eztago.</p>
+<p><hi rend='Bold'>—IV—</hi></p>
+<p>—Aditu al dezu Joxepantoni, Lontzio Larteietako datorrenik?</p>
+<p>—Aditu det.</p>
+<p>—Ezagutuko zenduan.</p>
+<p>—Ez naiz ba oroitzen, noiz juan zan; ni artian umetxoa nintzan ta...</p>
+<p>—Zer ari dira ba esaten, zuk zaitu zenduala ura umea zanian ta...?</p>
+<p>—Ez, enetxoa, nik oraindik umea izan bear nuan ura juan zanian, jaioa banintzan ere... (neska zarraren gaitza beti gaztetu eziña).</p>
+<p><hi rend='Bold'>—V—</hi></p>
+<p>—Zer gertatzen da Larteietan?</p>
+<p>—Eztakit.</p>
+<p>—Gabero or dijuaz tertuliara errian diran emakume ezkongai edo ezkon-nairik dauden guziak ezpada're...</p>
+<p>—Geienak?</p>
+<p>—Geienak ezpada're...</p>
+<p>—Gazteenak?</p>
+<p>—Gazteenak ezpada're...</p>
+<p>—Ederrenak?</p>
+<p>—Beren usteetan.</p>
+<p>—Ezta izango ba Larteietako atsuaren edertasunagatik.</p>
+<p>—Eztakit, baña batak ollaskuak, bestiak usakumiak, bestiak bildotsa, besteak belarritakoak eta nik eztakit zenbat gauza, erregalo egiten omen dizkaten atsuari tertuliako jende orrek.</p>
+<p>—Eztute ba izan bear aiñ esku-zabalak.</p>
+<p>—Ez; zimelditartxoak izan bear dute; baña orain bere seme Lontzio omen datorkio Ameriketatik eta...</p>
+<p>—Larteietako atsuari?</p>
+<p>—Bai, eztezu entzun?</p>
+<p>—Ezta, dan gutxienik ere. Oraiñ ulertzen (entenditzen) det nik zerbait ere.</p>
+<p><hi rend='Bold'>—VI—</hi></p>
+<p>Lontzio ezkondurik ala ezkongai ote zetorren jakin-naia're bazegoan ba, baña nor atrebitu galdetzen? Aztiyagana juateko gogoak ere bati eman zion, baña ez.</p>
+<p><hi rend='Bold'>—VII—</hi></p>
+<p>—Andre Joxepa.</p>
+<p>—Zer da, Joxepantoni?</p>
+<p>—Norabuenako dago.</p>
+<p>—Zergatik ba?</p>
+<p>—Semeak andre oso aberatsa omen dakar.</p>
+<p>—Nik baiño geiago dakizu. Bi illabetez onuztik ezkondu ezpada bañepein, oraindik ezkongai dago. Antziñatxo baten esaten zidan, ia bera zetorreneko, bat edo bat begiz jotzen ote nuan.</p>
+<p>—(Orixe jakin nai nuan). Bai, jendeak, zer atera-eraziko esaten ditu orrelako gauzak... (jendea, bera, Joxepantoni zan noski).</p>
+<p><hi rend='Bold'>—VIII—</hi></p>
+<p>Beñére baño apaiñago zijoan gau artan tertuliako jendia. Joxepantoni zijoan apaiñena ta tokatu ere alaxe egiten zitzaion, zaarrena ezpazan ere, beñepein beste guziak bera baño gazteago ziran ta.</p>
+<p>Gau artan eldu bear zuan etxera Lontziok Santandertik bere anai Pedro Marirekiñ.</p>
+<p>Zalpurdi <foreign>(coche) </foreign>bat gelditu zan etxeko atarian, eta andre Joxepa jetxi zan lasterka, bere semea laztantzera. An ziran ondoren beste emakumeak ere.</p>
+<p>Jatxi zan Pedro Mari zalpurditik, eta onek besotik artu ta jetxi zuan Lontzio. Amari, laztandu ondoan, esan zion: «Bai ama; eztizut atsekaberik eman nai izan nere eskutitzetan, baña iru urte igaro ditut gaixotegian (ospitalean) beti gaixorik; aitu zaizkit diruak, eta lagunak limosnaz eman dirate, etxera etortzeko bear izan dedana, eta ezurrak uztera nator nere etxera».</p>
+<p>Bere amaren eta anaiaren laguntzaz nekez igo zuan, arnasaz bete eziñik, tertuliako salara eta iñortxo're etzan arkitzen bertan. Nora joan ziran ba ango emakumiak? Eztakigu. Mozorrotek esan zuanez, konjuroren bat, eta ez makala, egiñ bear izan zan sala artan, bada etzan atera emakume aien aztarranik.</p>
+<p>Gazte naikoak ziran</p>
+<p>izan arren zarrak,</p>
+<p>baña gañerakoan</p>
+<p>etziran ai txarrak;</p>
+<p>bildu dizkate beren</p>
+<p>buruai larrak,</p>
+<p>eraman eziñikan</p>
+<p>jendearen farrak.</p>
+<p><mentioned><hi rend='Italic'>Euskal-Esnalea, </hi>1913</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>PRAILLEA TA DON BURNO</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>IPUIA</hi></p>
+<p><hi rend='Bold'>—I—</hi></p>
+<p>Don Burno, bere ustez, gizon arrazoizkoa zan, antiklerikaltxoa bai, baña orretan ere bazituan bere arrazoiak.</p>
+<p>Prailleak noizean beiñ eskatu oi zion mandoa Don Burnori, eta, gogo onez ezpazan ere, ematen zion ibillaldiren bat egiteko.</p>
+<p>«Prailleak itz onak baña»... au zan Don Burnok beti bere aoan zeukan esaera, eta erri guziak ikasi zion.</p>
+<p>Jaun onek agindu zion egun batean bere morroiari, praille-jantzita, eman zegiola manduari astiñaldi on bat makillaz, prailleaganako gorrotoa manduari sartzeko; ala egin zuan morroiak.</p>
+<p>Egun batean, Prai Manuel, lego gizajoa, juan zan mandoren eske, beti bezela, eta Don Burnok agindu zion, okullotik artu zezala. Bazijuan artzera, baña mandua, praillea ikusteaz bat, asi zan ostikoka, urreratzen ere utzi gabe Prailleari, eta mando gabe biurtu zan etxera, esanaz, Don Burnok mandua antiklerikaldu zuala.</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>Don Burno bazijoan guziz apaiñ bere mandoaren gañean, eta praille-etxearen aurrean igarotzean, atera zan Praille bat komentutik, eta ura ikustean, mandua oso izutu, eta asi zan laisterka ta saltoka, jo bazter bat eta jo bestea, txapela kaleko parol baten katiatu zitzaion, estalkia edo kapotia urtara, pipa, betaurrekoak <foreign>(anteojos)</foreign>, euritakoa <foreign>(paraguas)</foreign> or emen banatu, ate-buru bat buruaz jo, eta azkenik lurrera eroririk, korde gabe gelditu zan.</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p>Jaso zuten komentura eta Prai Manuel an ari zitzaion, Ebanjelioko Samaritarraren antzera, ardo ta olioaz bere zauriak garbitu ta gozatzen; jendea're bildu zan, eta sumatu zuten, Prai Manuel'ek zerbait ere mur... mur... mur... aopean esaten zuala. Oleazio Santua ote zan? Baña nola, Prai Manuel Legoa da ta? Beste otoitzen bat izango da. Bai; ara zer esaten zuan: «Prailleak itz onak baña... Prailleak itz onak baña... Prailleak itz onak baña...».</p>
+<p>—Obrak ere bai —erantzun zion alako batian Don Burnok.</p>
+<p><hi rend='Bold'>—IV—</hi></p>
+<p>Eraman zuten jaun au bere etxera, eta bigamonean nola bait ere esku bat jakaren sakelean sartzean, arkitu zuan papertxo bat; ona zer zion:</p>
+<p>Konsejuren bat eman</p>
+<p>baño len iñori,</p>
+<p>kontu nola gelditu</p>
+<p>zindezken zedori;</p>
+<p>etzaitezen kontuan</p>
+<p>berandu erori,</p>
+<p>gaitz egin diozula</p>
+<p>zere buruari.</p>
+<p>Guzion begietan</p>
+<p>oraiñ da azaldu,</p>
+<p>nola mandua dezun</p>
+<p>antiklerikaldu;</p>
+<p>berriz bota etzaitzan</p>
+<p>eta oso galdu,</p>
+<p>obe dezu mandua</p>
+<p>alik lenen saldu.</p>
+<p>Don Burnok saldu zuan mandoa ta erosi zuan beste bat. Prai Manuelek bere esku zeukan mando au, eta biak oso adiskide dira. Ala izan ditezela urte on askoz.</p>
+<p><mentioned><hi rend='Italic'>Euskal-Esnalea, </hi>1912</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>GABON-GAU BATEKO OROIPENAK</p></head>
+        </front>
+        <body>
+<p>Ai ura eguna eta ura gaba!... Karlos bostgarrenaren guda, edo Karlos kintoren gerratea zan.</p>
+<p>Gipuzkoako bigarren batalloeko konpañian batzuek geunden Lesakan (Naparroan), elurra kanpoan eta gosea barruan giñuzela.</p>
+<p>Agintzen digu kapitanak zortzi soldaduri, jarraitzeko kabo bati eta aren esana egiteko. Arratsalde erdian baguaz errekondo batean aurrera eta aurrera. «Auxe dek auxe —esaten giñon soldaduak elkarri— gabon gaba, goseak, oñutsik, elurretan, nora ta zertara goazen eztakigula». Alako batian «alto» egiñ giñon kabuari.</p>
+<p>—Zer dezute, mutillak? —galdetu zigun berak.</p>
+<p>—Eztegula oinkada bat ere eman nai, jakiñ gabe nora eta zertara goazen —erantzun giñon.</p>
+<p>—Irungo baserri batean zeudek Muñagorriren mutill batzuek, eta aiek arrapatzera goazik —esan zigun kabuak.</p>
+<p>—Eta, eztegu ezer jatekorik?</p>
+<p>—Nonbait ere zerbait billatuko al diagu.</p>
+<p>Sartzen gera lenengo arkitzen degun baserrian eta artiriña beste jatekorik ez genduen arkitu.</p>
+<p>Alare talo mordo bat egiñ, jan eta zerbait ase ta bete giñanean, ez baserri batean, baizik gaztelu batean sartzeko ere prest giñan.</p>
+<p>Aurrera ba, mutillak.</p>
+<p>Urreratzen gera beste baserri batera, eta bazan antxe soñu, eresi edo kantu, dantza ta zarata. Agintzen digu kaboak jartzeko zortzi soldaduok etxe-inguruan, baionetak kalaturik, eta sartzen da bera etxe-barrura, bada Irundarra ta ango berri ondo zekiena zan. Laster ixildu ziran ango soñuak, eta asi zan jendea leioetatik saltaka.</p>
+<p>Gau oso illuna illuna zan, eta elurraren zuritasunak zerbait argitzen bazuen ere, etxe inguran zeuden zugatz edo arbolak naikoa illun egiten zuten.</p>
+<p>Arrapatu giñuzen bi Muñagorritar, baiña baita ere zauritu edo eritu genduen gerotako bat, itxumustuan eta illunpetan, arrapataka artan, Muñagorritarra zalakoan. Eta badakizute nola eraman bear izan nuen Lesakaraño bi aietako bat, iru ordu bidean? Lepazamarretik eskuz oratuta. Ikasle edo estudiantea omen zan, Ituiñdarra, au da, Ituiñ edo Ituren deitzen dan Naparroako erri batekoa; gizaseme gazte asko-asko ederragorik ikusi ere ezin diteken bezelakoa. Zeiñ pozik libre utziko nion nere eskuan egon balitz uztea, alako errukia ematen zidan gizaseme gazte ark! Baiña etzegoen nigan.</p>
+<p>Azaldu zan Lesakara emakume ondo jantzi bat, Ituiñdarraren Ama, egiñ zituen alegiñak bere semea libratzeko, baiño alperrik.</p>
+<p>Andik egun gutxiren buruan, ai! ez nuke esan nai, baiño, zergatik ez? Ai guda guda, zori gaiztoko guda! Afusilatua izan zan...!</p>
+<p>Igaro dira berrogei ta amazazpiren bat urte, baiño andik onerako gabon gau guztietan oroipen onek ekarri oi dizkit biotzera samintasuna, begietara malkoak eta mingañera erregu bat Ituiñdar estudiante aren animagatik.</p>
+<p>Martiñek 1894an</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>Badator gabon gaba, neretzat gogoangarria.</p>
+<p>Karlos bostgarrenaren guda, edo Karlos kintoren gerran, Naparruako amaikagarren batalloian, bagiñan askotxo Yantzitarrak, au da Yantzi deritzon errikoak, eta beste batzuekiñ batean andik iges egin eta joan giñan Muñagorrigana Yantzitar batzuek.</p>
+<p>Irungo Lastaolan geunden, eta jaietan joan oi giñan andik Endarlatzera bitartean zegoan baserri batera, dantza ta jolasean denbora ematera. Gabon illuntzian ere joan giñan, eta dantzan aspertu-aldi bat eginta laster etxeratu giñan. Obe izan genduen bai, orduan etxeratu giñan! Bada ustez uste gabe karlistak sartu ziran gu atera giñanetik ordu erdi baño len, eta an arrapatu zuten gure kabo furriela, Ituiñdarra, apaizetarako estudiantia, mutill oso ederra, eta izan ala ona. Ai zer atsekabea artu genduen! Anairik ere ez nuen nik aiñ maiterik. Aren amak eun ontzurre eskeintzen omen zituen ura libratzeagatik. Barkazio edo indultua etorri omen zen, baiño berandu. Ordu bete lenago etorri balitz, libre zan mutill gizajoa. Baiño ordurako afusillatu zuten Lesakan. A gizajo gizajoa!</p>
+<p>Geroztik beiñ baiño geiagotan igaro naiz Irundik Endarlatzara arrazkero egindako zalpurdi edo kotxe bidean; baita ikusirik bidearen gañeko aldean baserri ura, oroitu ere gau artako gertaeraz, Jaunari eskerrak emanaz, eriotzako arriskutik atera nindualako, eta erregutuaz Ituindar nere lagun maitearen animagatik.</p>
+<p>Igaro dira irurogei gabon gau, baiño bizirik dago oraindik nere gogoan Ituindar gizajoa, eta beragatik erregutzen.</p>
+<p>Batistak 1898an</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p>Martiñ ill zala badira iru edo lau urte: Batista bizi da oraindik 82 urterekin,</p>
+<p>eta egunik geienetan berarekin itz egin det.</p>
+<p>Bada Lesakan, Ola bat Biurgaraikoa deitzen dana (bi ur edo bi erreka artzen dituena) eta andik bertan zelai lau-lau bat Burtsoro deitzen dana (nonbait bi errekak elkartzen diralako, bi uren erdian dagoelako; bada bi errekak elkarturik, dijoa alde batetik eta bestetik olako aldapara dijoan ura, eta erdian zelaia edo soroa, bada guk zelaia deitzen diogunari an deitzen zaio soroa).</p>
+<p>Zelai artan bazan orain berrogei urte, burnizko gurutze bat, gaztaiñ zugatz edo arbola bati josita. Zenbat aldiz aren aurrean igaro izan nintzan (oraindik mutill gaztetxoa), beldur santu batekin, txapela erantzi, Aitaren egiñ, eta Aita gure eta Abe Maria arrendu edo errezatuaz! Bai, beldur santu batekin! An ill zuten Ituindar estudiantea aiñ ona gizajoa!... Eta aren ama?</p>
+<p>Eztakit amagatik ala semeagatik adierazi oi zuten errukitasun geiago Lesakarrak, gertaera au kontatzean.</p>
+<p>Cuba eta Filipinetako gerratean ill dira mutill asko eta berakgatik erregutu degu. Ama askok negar egin dute, eta aurrerakoan eztakigu zer ikusteko gauden, bada zerua goibeldurik agiri da... Badator gabon eguna, badator gabon gaba. Zer egin genezake? Beste erregu bat.</p>
+<p>O Jesus, gure Salbatzalle maitea! Belenen jaio ziñanean, aingeruak erestu edo kantatu zuten: Gloria zeruan Jaungoikoari eta pakea lurrean gizonai. Iguzu arren pake ori; pake egiazkoa; pakean eta elkar maitatzen bizi, eta pakean eta zure amorean ill gaitezen, erestu edo kantatu deiogun: Gloria zeruan Jaungoikoari.</p>
+<p>1898ko Lotazillaren 16an</p>
+<p><mentioned><hi rend='Italic'>Euskalzale, </hi>1898</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>IJITOAK LUMERO ZINKOAN</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>—I—</hi></p>
+<p>—Nola dezu izena?</p>
+<p>—Nik, Juez Jauna, izen ederra det; nik merezi baiño obea; ez naiz lotsa esaten, bada guziz onradua da nere izena.</p>
+<p>—Eztizut nik galdetzen izen ona dezun ala eztezun, baizik nola dezun izena.</p>
+<p>—Bedorrek eztit galdetzen izen ona dedan ala ezdedan; baiño neronek esaten diot. Jakin beza, zerutar guziak nere tokaioak dirala.</p>
+<p>—Utziozu zeruari geldi, eta erantzu iozu nere galderari.</p>
+<p>—Utzi deiogun bada; baiño lurrean tokaio gutxi izango ditut.</p>
+<p>—Beiñ edo beiñ esan ezazu, nola dezun izena, edo bestela bazoaz bereala prisiondegira.</p>
+<p>—Nerau prisiondegira? Bai ederki eman ere alajaiña, euskal-errian dan gizonik onraduena izanta. Ez, ez; naiago det esan nere izena, eta da... bataiatzean jarri zidatena.</p>
+<p>—Gizona...</p>
+<p>—Itxedon beza, Juez jauna, apurtxo bat, gosalduta badago, ni baiño obeki dago ta; nere izena da Santos.</p>
+<p>—Eta izengoiti edo apellidua?</p>
+<p>—Ezta orixe ere bertan beerakoa. Españiako zenbait aundiki-naikok, artuko luketena da.</p>
+<p>—Esan ezazu ba beiñ, eta akabo.</p>
+<p>—Beiñ ta berriz eta milla aldiz esateko eztaukat lotsarik, Juez Jauna.</p>
+<p>—Nola da ba?</p>
+<p>—Baldes.</p>
+<p>—Baldes?</p>
+<p>—Baldes; eta bedori neri galdez? Bertsolaria ere puskatxo bat banaiz, eta bedorrek apiziorik balu, paretxo bat bertso alkarri botako genizkio.</p>
+<p>—Koplak alde batera utzi ta esan ezazu: ostu al dezu oillorik?</p>
+<p>—Ai Jauna! Ni baiño esku garbiagokorik eztauka lurrak gaiñean; berez aurretikoetatik datorkigun grazia degu ori.</p>
+<p>—Eztizut ori esaten, baizik oillorik ostu dezun.</p>
+<p>—Ez Jauna; ez oraiñ, ez len, eta ez eun ta santa sekulan.</p>
+<p>—Gizona, alperrik ukatuko dezu.</p>
+<p>—Zergaitik?</p>
+<p>—Or daudielako bi testigu, oillo ostutzen ikusi zaituztenak.</p>
+<p>—Zer dira bi testigu? Bi milla ere badaude ikusi enautenak. Sinistu beit, Juez Jauna. Zer ote da pama galtzea! Gure aurretikoak kantatu oi zuten, eta errazoi aundiarekiñ onela:</p>
+<p>Zabaldurikan daukagu pama</p>
+<p>ollo-zaleak gerala,</p>
+<p>salda onaren zale besterik</p>
+<p>iñor ezpalitz bezela,</p>
+<p>ollorik iñun faltatzen bada</p>
+<p>ijitoentzat kartzela</p>
+<p>edo makillaz porrokatuta</p>
+<p>erritik joan ditezela...</p>
+<p>—Ai Pilatos, Pilatos! zu ere baziñan bat-txo, baiño oiñordekoak ere...</p>
+<p>—Utzi itzazu kontu oiek, eta aditu ezazu; testigu onek dio ikusi ziñuzela zu, ollo bat eskuetaratzen Aristegiko atarian.</p>
+<p>—Izan diteke. Berak etorri izan nai bazuen nigana...</p>
+<p>—Beraz artu zenduen.</p>
+<p>—Izan diteke.</p>
+<p>—Baiño artu zenduan ala ez?</p>
+<p>—Artu, bai Jauna; ostu, ez.</p>
+<p>—Nola da ori?</p>
+<p>—Ara nola, guk badegu eskubidea, bakoitzako ost kuarto artzeko egunero nun-nai.</p>
+<p>—Nork eman dizute eskubide ori?</p>
+<p>—Ama Santisimak, bere semea Ejiton gorde genduelako.</p>
+<p>—Ba neri Aita Eternoak eman zidan eskubidea, kartzelan sartzeko besteren gauza jabearen borondatearen kontra artzen zuena.</p>
+<p>—Izan diteke.</p>
+<p>—Izan ditekeala diozu?</p>
+<p>—Obeitzen diot, Jauna, baiño...</p>
+<p>—Zer baiño?</p>
+<p>—Baiño... sinistu... um!... Kredo ta artikulu pedekoak... bai...</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>—Nungoa zera?</p>
+<p>—Leku askotakoa, Jauna.</p>
+<p>—Nun jaio ziñan?</p>
+<p>—Ni ba... Jauna... jaio... ara... amak argitaratu ninduan lekuan.</p>
+<p>—Zeiñ erritan?</p>
+<p>—Pijo, pijo esateko ere ez nago, baiño... Urnietan jaio ote nintzan...</p>
+<p>—Nun bizi zera?</p>
+<p>—Ez nau ikusten emen bizirik?... Oi ke ateraldi!</p>
+<p>—Nun zenduen zure bizi lekua onera etorri baiño len?</p>
+<p>—A! Mendaron.</p>
+<p>—Zeiñ kaletan?</p>
+<p>—Kaille eternidad.</p>
+<p>—Kale luzea da?</p>
+<p>—Luzea ere... ez... edo bai; ara Jauna, luze adiña labur. Bedorren enterrotarioa beziñ luzea ezta beintzat.</p>
+<p>—Zer numero du zure etxeak?</p>
+<p>—Lumeroa ba, Jauna, an ezta beste lumarik ikusten, olloenak baiño ta...</p>
+<p>—Eztet esaten zer plumero, baizik zer numero.</p>
+<p>—A bai! Loteria esan naiko du; ba Jauna, loteriarako jende otz-txoa gera.</p>
+<p>—Or lumerorik onena au da <hi rend='Italic'>(eskuiko bost beatzak kurkurtuaz), </hi>zinko.</p>
+<p>—Zuentzat izango da ori.</p>
+<p>—Bai Jauna; gu probiak gera ta guretzat ori naikua da. Berok bezelakoentzat berriz onako beste au <hi rend='Italic'>(bi eskuetako beatzak kuzkurtuaz), </hi>dies.</p>
+<p>—Begira; kopla oiei utzita, ezpadiezu erantzuten bear dan errespetoarekiñ nere galdeai, berealatik zoaz kalabozora.</p>
+<p>—Bai Jauna, bai, ura ere gizonentzat egiña da ta, ezta izango lenengo aldia: eztedilla izan azkenekoa ere.</p>
+<p>—Ezkondua zera?</p>
+<p>—Ezkondua izana.</p>
+<p>—Beraz andrea illa zitzaizun.</p>
+<p>—Ez Jauna.</p>
+<p>—Ezkondua ziñan?</p>
+<p>—Bai Jauna.</p>
+<p>—Beraz, andrea ill ezpazaizu, oraiñ ere ezkondua zera.</p>
+<p>—Ez Jauna.</p>
+<p>—Nola da ba ori?</p>
+<p>—Ai Jauna; bedori Jueza da baiño eztakizki lege guziak. Ni naiz des-ezkondua. Bedori?</p>
+<p>—Zoaz berealatik kalabozora.</p>
+<p>—Korriente; ura ere gizonak egon oi diran lekua da ta gizonak eztu lotsarik bear ara juateko.</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p><foreign> —Ola compadre!</foreign></p>
+<p><foreign> —Ola kartzelador.</foreign></p>
+<p><foreign> —Qué vientos te traen por aquí?</foreign></p>
+<p><foreign> —Vientos no; pies. Inquilino que palta uste aqui y...</foreign></p>
+<p><foreign> —Traes recomendación?</foreign></p>
+<p><foreign> —Encomendación sí, viva libertad y viva lúmero zinko.</foreign></p>
+<p><foreign> —Pues bien, en la celda número 5 vivirás libremente encerrado.</foreign></p>
+<p><foreign> —Lúmero zinko?</foreign></p>
+<p><foreign> —Sí; número 5.</foreign></p>
+<p><foreign> —Josus hombre! Que asuertao soy con lúmero zinko. Es pelisidat.</foreign></p>
+<p><hi rend='Bold'>—IV—</hi></p>
+<p>—Aizazu, Santos.</p>
+<p>—Zer nai dezu, Anisete?</p>
+<p>—Egia al da iru illebetean preso egon zerala?</p>
+<p>—Bai, Anisete, bai; oraingo legiak Kaipasen denborakoak dirudite.</p>
+<p>—Nik sinistu. Eta zergatik artu zinduzten preso?</p>
+<p>—Aita eta ama onratzeagatik; berak erakutsia egiteagatik.</p>
+<p>—Ori ere bai? Ai au mundua!</p>
+<p>—Bai adiskidea; baiño Jaungoikoa bere bidez dabill.</p>
+<p>—Zergatik diozu ori?</p>
+<p>—Ara zergatik. Oraintxe iru urte emateagandik aldendu nintzan, eta prisiondegian elkartu gera berriz, ustez uste-gabean.</p>
+<p>—Ura ere an zegoan?</p>
+<p>—Ez; ni sartu ta irugarren egunian ekarri zuten.</p>
+<p>—Zer egin zuen? Aita ta ama onratzea?</p>
+<p>—Aita ta ama ez, baizik ama ta aita. Ollo zaletxoa izatea beste paltarik gabeko emakumea.</p>
+<p>—Eta geiagoko gabe preso?</p>
+<p>—Badakizu gure aurrekoak zer kantatzen zuten:</p>
+<p>Ollorik iñun paltatzen bada</p>
+<p>ijitoentzat kartzela...</p>
+<p>—Ba, ba, oiek utzi eta goazen beste gauza batera.</p>
+<p>—Goazen, ba, goazen, Anisete maitia.</p>
+<p>—Orain berriro ezkondu bearrean zerate noski e?</p>
+<p>—Bai, baiño badegu alako diperentzi apurtxo bat.</p>
+<p>—Zer dala ta?</p>
+<p>—Nik nai nuke ezkondu lege zarrean, au da, lapikozar-legean, eta Premiñak berriz apaiz-aurrean, edo Elizaz, eta orixe erabaki-zai gaude.</p>
+<p><hi rend='Bold'>—V—</hi></p>
+<p>Ai, au mundua! Pozik aundienaren ondoren atsekaberik aundiena. Santos gaxotu da ta Premiña or dabill beldurrez, ezkondu baiño len alargunduko ote dan. Baiño bai zera! Jaungoikoa bere bidez zebillen, eta sendaturik Santos maitia, ezkondu nai izan zuen, baiño benetan, Elizaz; qq lapiko-zarrez.</p>
+<p><hi rend='Bold'>—VI—</hi></p>
+<p>—Ara berriz ateraldia! Eztezula nai, Santos, eztei-aparian ollorik jartzia?</p>
+<p>—Eztedala nai, Premiña, ez; eta milla bider ez.</p>
+<p>—Orixe kontu polita degu alajaiñetan. Noizko dira ba olloak?</p>
+<p>—Asko dauzkazu eskintokian?</p>
+<p>—Eskintoki asko dago munduan, eta olloak ere bai eskintokietan; gerok ere berriz mundukoak gera; eguneroko bost kuartoak era aspalditxoan artzeko dauzkagu ta... lumero zinkoak sortu eztitezen geldi egonean, lanerako beti prest daude, eta beragatik olloak premiazkoak dira okasio onetan; bestela esango dute, burutik nastua zeudela.</p>
+<p>—Len ere esan zenduten.</p>
+<p>—Egon ere baziñan, gaixo izan ziñanian.</p>
+<p>—Ez, emakume, ez; orduan nik ikusi nuen saloi andi bat ate askorekiñ; aietako batek zeukan lumero zinko; idiki nuen, eta arkitu nuen bide zabal eder bat; baiño ollo ezurrez eta lapiko zar apurtuz betea, guzia aldaz beera, eta an beerenian lañua, kia ta suzko itxasua, eta an bañu-artzalle asko.</p>
+<p>—Baiño zer? Suzko bañuak?</p>
+<p>—Suzko bañuak.</p>
+<p>—Eta nor ote ziran bañistak?</p>
+<p>—Geienak gutarrak, Mañex, Pello, Batist, Errosa ta konpañia, eta beste ollo-zale eta lapiko zar zale asko.</p>
+<p>—Aizazu Santos gizajoa! Bazegoan bide artan uso-ezurrik?</p>
+<p>—Eztakit ba orixe. Zergatik galdetzen dirazu ori?</p>
+<p>—Es ke... trukada egingo genduke, olloak utzi ta usuak ekarriaz...</p>
+<p>—-Ez, ez; ez gaitezen jarri bañu aietarako arriskuan.</p>
+<p><hi rend='Bold'>—VII—</hi></p>
+<p>Saskiak egiñ eta saskiak saldu izandu zan ezkondu ziranetik aurrerakoan, Santos eta Premiña'ren bizimodua. Ollorik iñun gutxitzen zanik etzuen iñork esaten; geitzen zanik ere ez; baiño orduantxe ere, geitu baiño gutxitu obeki egiten ziralako errezeloa... baiño... bai zera!... Errezelua? ka! Auntza beti mendira; baiño ijitoak eztu aldaparik igo nai; ez, ijitoa beti ibilliko da leku lauan. Lauan esan det? Bai, edo oraindik obeki bostean; au da, lumero zinkoan.</p>
+<p>1902'ko Illbeltzaren 20'an.</p>
+<p><mentioned><hi rend='Italic'>Ibaizabal, </hi>1902</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>ERRETRATUA</p></head>
+        </front>
+        <body>
+<p><hi rend='Italic'>Obe zukean Baxilik </hi></p>
+<p><hi rend='Italic'>egondu bazan ixilik.</hi></p>
+<p><hi rend='Bold'>—I—</hi></p>
+<p>—Zer berri, Baxili?</p>
+<p>—Emen nago ernegatzen aste guzian.</p>
+<p>—Zergatik ba?</p>
+<p>—Erretratuaren zai; erri guziak badaki bialtzeko didatela, beti galdeka daukat jente guzia, eta eskribitu egiñ bearko diot nere nagusiari, egiñ dezala mesede bialdu eraztiaz Jose Palluri, agindu zidan erretratua.</p>
+<p>—Ondo egingo dezu.</p>
+<p>Egia esateko, erri guzia gortuta zeukan Baxilik bere jardunarekiñ, bere erretratua gora, eta erretratua beera.</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p><foreign> «Muy Siñor mío: Un pabor de suplicación para Jose Pallu, para amandar a mi el erretrato que me está prometerri, porque estoy ernegando con tanto tardamiento».</foreign></p>
+<p>Andik iru egunera Baxili zegoan beste amar lagunekiñ, eta an dator korrioa Baxilirentzako karta andi batekiñ. Idiki zuan baña etzetorren erretratorik baizik paper andi bat, inprentatua, eta nola etzeukan aldian antiojorik, agindu zion aizpari irakurri zezala; baña sermoia bezela, guziak ondo aditu zezaten. Ala irakurri zuan aizpak:</p>
+<p>«Baxiliren erretratua, solpan:</p>
+<p>Ille beltz eder eta mardula</p>
+<p>artuko luke baleuka,</p>
+<p>baztartutzeko beti-betiko</p>
+<p>oraiñ daraman peluka;</p>
+<p>ederra ere izan diteke</p>
+<p>iñork ezingo du uka,</p>
+<p>edertasuna erosten balitz</p>
+<p>itxustasunaren truka.</p>
+<p>Agiñ guziak osorik dauzka</p>
+<p>baña betilliak urdiñ,</p>
+<p>arrigarria, persona baten</p>
+<p>ona bi gauza desberdiñ;</p>
+<p>badiote're Bilbon ipiñi</p>
+<p>dituala ogei agiñ,</p>
+<p>betille oiek belztutzen berriz</p>
+<p>badu naikua zeregiñ.</p>
+<p>Kejatutzen da buruko miñaz</p>
+<p>daukala ille geiegi,</p>
+<p>agiñaz ere esaten ditu</p>
+<p>orrelako zenbait egi,</p>
+<p>al balituzke siñisterazi</p>
+<p>itz bakoitzean gezur bi,</p>
+<p>damuko luke kontzientzian</p>
+<p>eziñ esana bi t'erdi.</p>
+<p>Gazeta batek baño geiago</p>
+<p>eguneroko berriak,</p>
+<p>berak asmatu eta esanak</p>
+<p>gutxienian erdiak;</p>
+<p>egun batian gezur diranak</p>
+<p>bestean ditu egiak,</p>
+<p>baña gauz ona, guziak dauzka</p>
+<p>prezio baten jarriak.</p>
+<p>Egun geiena igarotzen du</p>
+<p>ixpilluan jai ta aste,</p>
+<p>luzitu naia ezta milagro</p>
+<p>dagoalarik aiñ gazte;</p>
+<p>ogei bat urte aitortzen ditu</p>
+<p>gorderik beste ainbeste,</p>
+<p>sekreto oien berririk iñork</p>
+<p>dakienik, eztu uste.</p>
+<p>Onen ustean mundu guzia</p>
+<p>dago berari begira,</p>
+<p>baña guziak ikuste utsaz</p>
+<p>beingoan aspertzen dira,</p>
+<p>ibilli arren erromeri ta</p>
+<p>plazatan jira ta bira,</p>
+<p>saldu ezin dan prenda bezela</p>
+<p>atzera dator errira.</p>
+<p>Dantza-leku ta plaza danetan</p>
+<p>bera da beti aurrena,</p>
+<p>lanik asko du disimulatu</p>
+<p>eziñik bere errena,</p>
+<p>guziak gandik aditzia nai</p>
+<p>bera dala ederrena,</p>
+<p>bere burua edertu naia</p>
+<p>da daukan gaitzik zarrena.</p>
+<p>Senargaiak bi izandu ditu</p>
+<p>baldin bada're gaztia,</p>
+<p>barkillerua lenbizikua</p>
+<p>soldadu zarra bestia,</p>
+<p>baña diote: zertako degu</p>
+<p>pelukadun emaztia ?</p>
+<p>aurrera ere obeko degu</p>
+<p>len bezelaxe uztia.</p>
+<p>Apainduririk eztuala nai</p>
+<p>baña bai ondo jaztia,</p>
+<p>piper miña da onentzaz iñor</p>
+<p>apaiñago ikustia;</p>
+<p>fed-esperantzak zerbait baditu,</p>
+<p>baña arako bestia,</p>
+<p>apurtxoren bat badauka ere</p>
+<p>bera ondotxo kostia.</p>
+<p>Pazientzia asko bear du</p>
+<p>gure Baxili tristiak,</p>
+<p>auek entzunta ez botatzeko</p>
+<p>tripan dituan estiak;</p>
+<p>lertu eztediñ eziñ nitzake</p>
+<p>esan gaurkoan guztiak,</p>
+<p>urrengo baten bere baimenaz</p>
+<p>esango ditut bestiak.</p>
+<p>Zurkaizturik gelditu zan Baxili bertso oiek aditzian. Baña noizpait ere, arnas andi bat botata, esan zuan: Ka! Ka!. Karta bat egiñ bear diot Jose Palluri.</p>
+<p><foreign> «Muy Señor mío: El ertrato solpa no es así para mí, sino para Caxill Mortzill Tarabilla, como a mi parecido, y digamúste si es kibocasion para ermediar deskuido».</foreign></p>
+<p>Baña, miruste y que preskura! Jose Palluk etzion erantzun kartari.</p>
+<p>Auzoan bizi ziran Baxiliren bi adiskide, Kaxill ta Zizili, aizpak. Pentsatu zuan Baxilik, bere izena borratu bertso aietatik, onen lekuan Zizilirena ipini eta Kaxilli bialtzea, esanaz kartestalki edo sobrean Baxiliren izena etorri zala, baña barruan Zizilirena zetorrela, eta por si akaso, begiratzeko bere aizparentzat ote zan erretrato ura.</p>
+<p>Baxilik bialdu zuan ba bere ama karta edo solpako erretratuarekiñ. Leku onera!</p>
+<p>Amak jo zuan atea Kaxillen etxean deadar egiñaz: Kaxiiiiill...! Baña...</p>
+<p><hi rend='Italic'>Erantzun zuan Zizilik</hi></p>
+<p><hi rend='Italic'>emen eztago Kaxilik; </hi></p>
+<p><hi rend='Italic'>obe zukean Baxillik</hi></p>
+<p><hi rend='Italic'>egondu bazan ixillik.</hi></p>
+<p>1902'ko Bagillaren 16'an.</p>
+<p><mentioned><hi rend='Italic'>Ibaizabal, </hi>1902</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>ERRETRATO BERRIA</p></head>
+        </front>
+        <body>
+<p><hi rend='Italic'>Errazoiagaz diardun</hi></p>
+<p><hi rend='Italic'>baña ez eiñ alperrikan jardun.</hi></p>
+<p><hi rend='Bold'>—I—</hi></p>
+<p>—Baxili; piperra jan al dezu?</p>
+<p>—Bai ta... oso miña.</p>
+<p>—Ezagun dezu.</p>
+<p>—Zergatik ba?</p>
+<p>—Mingaiñ erre, biotz erre, esan oi da ta.</p>
+<p>—Eta zer?... Nere biotza errea al dago?</p>
+<p>—Bai orixe! esango nuke, kia dariola dago ta... badakizu... sua dagoan lekutik ateratzen da kia, eta suak erre egiten du; Jose Pallu ibilliko da or, Jose Pallu.</p>
+<p>—Jose Palluk artu du onuzkero karta ederra, eman bearko dit satispasioa; bestela an juango zaio enbargua. Esaten nion kartan: satispasion o embargasion.</p>
+<p>—Eta zer kenduko diozu Jose Palluri?</p>
+<p>—Beste gauzarik ezpada, larrua, pellejo.</p>
+<p>—Pellejo zaagia ezta ba? Amaika zaagi-azal egongo dira ark baño ardo gutxiago barruan iduki dutenak.</p>
+<p>—Jainkoak gorde bearko du ba neri satispasioa ematen ezpadit.</p>
+<p>—Estutuko dala uste det urdalletik.</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>Andik iru egunen buruan korrioak ekarri zuan Jose Palluren</p>
+<p><hi rend='Bold'>Satispasioa</hi></p>
+<p>Pekatu bada fama</p>
+<p>norbaiti kentzia</p>
+<p>atzera biurtzia</p>
+<p>da penitentzia;</p>
+<p>ala eman dirate</p>
+<p>oraiñ sententzia,</p>
+<p>Baxilirekiñ bear</p>
+<p>da pazientzia.</p>
+<p>Ez omen da egia</p>
+<p>nik lendik esana,</p>
+<p>señorita Baxili</p>
+<p>neska zarra zana;</p>
+<p>ala izan dedilla,</p>
+<p>esan, nai dan dana,</p>
+<p>baña gutxienaz da</p>
+<p>len gazte izana.</p>
+<p>Oraindik ezpadago</p>
+<p>osoro zartua,</p>
+<p>urteetan dago bai</p>
+<p>aurrera sartua,</p>
+<p>baña iñola ere</p>
+<p>ez da pekatua</p>
+<p>izatea mundura</p>
+<p>antziña sortua.</p>
+<p>Orain zar izan edo</p>
+<p>lenago gaztia</p>
+<p>diferentiak dira</p>
+<p>bata ta bestia,</p>
+<p>baña ez da konbeni</p>
+<p>disputan astia</p>
+<p>eta betozkoturik</p>
+<p>iñor ikustia.</p>
+<p>Emakume oberik</p>
+<p>eztaukala lurrak,</p>
+<p>azal zuriagorik</p>
+<p>ezta ere elurrak,</p>
+<p>lodi eta mardulik</p>
+<p>bakarrik ezurrak,</p>
+<p>eta gañerakoak</p>
+<p>guziak gezurrak.</p>
+<p>Oso gaitz izan bear</p>
+<p>du beltzak zuritzen,</p>
+<p>alperrik nabillela</p>
+<p>zait gaur iduritzen,</p>
+<p>naiz Tximiñua jantzi</p>
+<p>modara Parisen,</p>
+<p>tximiñua beti da</p>
+<p>tximiñu gelditzen.</p>
+<p>Edertasunik saltzen</p>
+<p>iñun balegoke,</p>
+<p>kostako dana kosta</p>
+<p>garesti naiz merke,</p>
+<p>zuretzat pozikan nik</p>
+<p>erosiko nuke,</p>
+<p>erregalatutzeko</p>
+<p>pelukaren truke.</p>
+<p>Nere borondatea</p>
+<p>ona da izatez,</p>
+<p>erregiña ziñake</p>
+<p>nere borondatez,</p>
+<p>baita ere Santa andi,</p>
+<p>biak bide batez,</p>
+<p>orra fama biurtu</p>
+<p>bertsoen bitartez.</p>
+<p>Egiñ bearko dezu</p>
+<p>oraiñ esamiña</p>
+<p>erretratu au ondo</p>
+<p>dagoan egiña,</p>
+<p>edo egiten ote</p>
+<p>dizun sabel-miña,</p>
+<p>bada egia maiz da</p>
+<p>izaten samiña.</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p><foreign> «Muy Señora mía: Ahí ba un poco de porrusalda para templar nervios, que son guitarra-cuerdas paresidos. Si esta gazipunto, echuste agua, y si esta gezatxo, sal. Ahí esta errestitusion de pama quitao, y bertsos ni tienen aitzakia: no hay que pegar illetas. Si no estan de gusto mandemuste molde, y mañana mejor.—<hi rend='Italic'>Jose Pallu.</hi></foreign></p>
+<p>Baxilik etzekian, ez non zegoan, ez zer esan, eta ez zer egiten zuan. Alper, gaizto, lotsagabe, ordi, zikiñ, lapur, gezurti, Barrabasa. Auek ziran itzikan onenak. Aotik txinparta eta kia botatzen zituan, eta begietatik su-garra.</p>
+<p>Bizkaitar atso lodi eskale batek aditu zuan Baxiliren errosarioa, eta galde zuan nola zuan izena emakume ark. Erantzun zioten Baxili zuala eta esan zuan ondo zetorkiola.</p>
+<p>—Zergatik ba?</p>
+<p>—Basilisko erderaz, da euskeraz ersugea, eta Baxili ere zerbait ala izango da, dirurienez; bestela ipiñi bearko zitzaion Martinika.</p>
+<p>—Zergatik?</p>
+<p>—Su asko ematen dualako.</p>
+<p>Ari zan ixildu ere gabe Baxili aoak ekarri alian, eta esan zion Bizkaitar atsoak:</p>
+<p>—Errazoiagaz diardun, baña ez eiñ alperrikan jardun.</p>
+<p>1902'ko Bagillaren 30'an</p>
+<p><mentioned><hi rend='Italic'>Ibaizabal, </hi>1902</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>DON SIMON</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>—I—</hi></p>
+<p>Etzan ba aiñ itxusia gure Simona; baiña aiñ ederra ere etzan. Berak uste beziñ ederra etzuan izan bear. Bere ustetan an inguruko miñgaiñ berritxuak zioten beiñ itxusia, beiñepeiñ Braulia ainbatekoa etzan. Badakizue nor zan Braulia? Ispillura begira negarrez oi zegoan emakume bat. Eta zergatik negar egiten zuen? Itxusia zalako. Emakumea eta bere iritzian itxusia! Oraindiño ere aditu eztan gauza. Nolakoa ote zan! <hi rend='Italic'><foreign>Qué poco</foreign></hi> orrelakorik bere buruaz uste zuan Simonak. Ispilluak etzion ematen ainbeste <hi rend='Italic'>satisfazio </hi>ere bere edertasunaz, baiña ematen zion beste gauza batek, au da, auzoko beste gazteen mormorretak, zergatik eze, bazeukakioten bere ikusi eziñ puskatxua; edo, obeki esateko, zati ez txikia. <hi rend='Italic'>Ikatz-gilletzat, </hi>errementaritzat, <hi rend='Italic'>perro-karrilleko makinistatzat </hi>ona zitzakiala, eta onelakoxe esamesak zebiltzan bere lagunen artean; baiña zergatik? Zergatik zan esan bearrik eztago; emakume artean zebillen guzia, eta Simonak antziña ikasi zuan zer zan <hi rend='Italic'>inbiria. </hi>Barre egiten zien guziai eta or konpon. Baiña ala guziz ere bazuan Simona gureak arantza zorroztxo bat biotzan: Zergatik berari deitu bear zion Simon eta Simon, Parrategiko Premiñek? Beste neskatx ergelak edozer gauza esanta ere, gutxi ardura zion, baiña Premiñek uraxe esatea... bai, eztakit... eztakit zergatik. Beste bastanga pikatuak zerbait esan ote dio? Biak ere gero nerekiñ kontuan ibilli ditezke. Erdera apurtxo bat baneki, nai dedan guzia esateko muturrera, berak <hi rend='Italic'>entenditzeko </hi>beldur gabe; baiña utzi, utzi; etorriko da denbora; Burdiostik atzera biurtu nadiñean...</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>—Ama, ona emen karta.</p>
+<p>—Norena?</p>
+<p>—Mari-Manurena.</p>
+<p>—Burdiostik?</p>
+<p>—Bai, ama, bai.</p>
+<p>—Zer dio?</p>
+<p>—Ill onen ogeirako joateko.</p>
+<p>—Eta <hi rend='Italic'>dultzeña </hi>izateko?</p>
+<p>—Eztu esaten, baiña dultzeña edo koziñera, bietatik bat izango da. Agur nere abarka zarrok!</p>
+<p>—Noiz joango ote zera ba?</p>
+<p>—Biar atera nindeke.</p>
+<p>—Bakarrik?</p>
+<p>—Emen bialtzen dit paper bat eta onekin baliatuko naiz; erakutsiaz batari ta besteari, zuzenduko naute.</p>
+<p>Zumarragako geltoki edo <hi rend='Italic'>estazioan </hi>gutxigatik etzioten eman Burdeoserako txartel edo billetea, Burgoserakoaren lekuan. Esker, erakutsi zuan paperari.</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p>Etzan asarre Simonaren ama goiz artantxe; alabaren eskutitza izan zuan, eta esaten zion nagusi etxekoandreak Donostiarako asmoan zirala udan, eta aste bete bada ere etxean igaroko zuala, erderaz ikasi zuala eta batzu batzuen lepotik barre egingo zuela bere ustetan. Su eman eta erretzeko ark etxean utzi zituan abarka zar ta erropak.</p>
+<p><hi rend='Bold'>—IV—</hi></p>
+<p>Salluente San Lorenzo eguna zan <hi rend='Italic'>siñaladamente. </hi>Simona amaren baserrietxetik kaleruntz zijoan txuri txuri jantzirik. Nori buruak emango zion ura Simona zanik? Eta ara zer kazulekaakarea! Kasualidadea Premin zetorren onuntz eta nai-ta-nai ez alkarganatu bear zuten; baiña etzuen Premiñek ezagutuko; bai zera!</p>
+<p>—<hi rend='Italic'><foreign>Muy güenas, </foreign></hi>erantzun zion Simonak, barreari eutsi eziñik, tonto zar aren <hi rend='Italic'><foreign>güenos dias-</foreign></hi>a aditzean; baiña <hi rend='Italic'><foreign>mamos,</foreign></hi> ainbeste jakitea ere etzan gutxi arentzat. <hi rend='Italic'><foreign>Qué poco </foreign></hi>esan zion <hi rend='Italic'>Simón!</hi></p>
+<p>Eta orra emen ere oraiñ beste kazuelakara bat. Orra or nun datorren bastanga pikatua. Itz egin bear diot, ez nau ezagutuko ta.</p>
+<p><hi rend='Italic'><foreign>—Señorito, qué hora es?</foreign></hi></p>
+<p><hi rend='Italic'><foreign>—Las bederatzias, señora.</foreign></hi></p>
+<p><hi rend='Italic'><foreign>—Bien; gracias; adios.</foreign></hi></p>
+<p>—Agur.</p>
+<p>Orra emen berriz ere beste <hi rend='Italic'>kazuelakarea. </hi>Kontxesi ta Patxika datoz. Eluteke merezi jaramonik egitea; baiña benturaz ezagutuko naute, eta baita esan ere arrotxo nabillela. Ez, eztegu asarrerik bear, itz egingo diet.</p>
+<p>—Ola gaztetxoak! zer berri aspaldian?</p>
+<p>—Nor degu gero berau? Ai, ai! Simona... ondo ta zu.</p>
+<p>—<hi rend='Italic'>Bastante </hi>ondo Jaungoikoari graziak.</p>
+<p>—Eta Burdios aldian oitu ziñan noski?</p>
+<p>—Enintzan joan Burdios'era; bidean nijoala gogoak eman zidan Burgosera joatea, eta ara joan nintzan.</p>
+<p>—Eta zer deritzozu lengo zure leku zarrari?</p>
+<p>—Tristetxoa... baiña bertakoak gera ta... Ikusten dedanez jendea zerbait <hi rend='Italic'>atrasatua </hi>dago emen.</p>
+<p>—Badakizu ba, bazter onetan ez gera Burgos'en bezela.</p>
+<p>—Ez nunbait, ez. Badakizute Premiñek ez nauala ezagutu?</p>
+<p>—Ezta arritzeko; gerok ere etzinuzagun ezagutuko zedorrek itz egin ezpaziguzun.</p>
+<p>—Lontziok berriz (au zan bastanga pikatua) itz eginta ere ez nau ezagutu.</p>
+<p>—Itz egin dezu Lontziorekiñ?</p>
+<p>—Bai, galdetu diot: <hi rend='Italic'><foreign>Ke ora es?</foreign></hi> eta erantzun dit: <hi rend='Italic'><foreign>Las bederatzias, señora</foreign></hi>.</p>
+<p>—Eta zer esan nai du <hi rend='Italic'>Koras</hi>ek.</p>
+<p>—Ze ordu dan.</p>
+<p>—Eta bazekian Lontziok nola erantzun? Ezta gutxi.</p>
+<p>—Eztit ordea ondo erantzun; ark erantzun bear zidan, <hi rend='Italic'><foreign>la nubes</foreign></hi>, zergatik eze, bederatzi da <hi rend='Italic'><foreign>nube</foreign></hi>.</p>
+<p>—Bai baiña, guk zer naizu ba jakitea? neronek ere enizun gauza zuzenik esango; qq odeiak ziralakoan nengoan.</p>
+<p>—Bai zera! Ori <hi rend='Italic'>iñorantzia!</hi></p>
+<p>—Zer naizu ba...! egia al da, serbitzen aspertuta bizipide berria artzera zoazena?</p>
+<p>—Zerbait ere izan bear du. Nik oraindik ere enuen nai baiña besteak presa du ta...</p>
+<p>—Eta nungoa da? Burgoskoa?</p>
+<p>—Ez; Galitziakoa.</p>
+<p>—Gallegoa beraz.</p>
+<p>—Ala da, baiña oso <hi rend='Italic'>piña.</hi></p>
+<p>—Zer <hi rend='Italic'>opizio </hi>du?</p>
+<p>—<hi rend='Italic'>Sententziadorea.</hi></p>
+<p>—Jueza?</p>
+<p>—Zerbait ere orrelakoxea da.</p>
+<p>—Demontretan eztezu kolpe txarra egin! Atsegin degu orrelaxe ikusteaz, eta urte on askotako izan zaiteztela.</p>
+<p>—Eskerrik asko,eta orain meza nagusira noa, eta belutxo izango ote dan beldur naiz.</p>
+<p>—Ez; garai onean zoaz.</p>
+<p>—Agur bar.</p>
+<p>—<hi rend='Italic'>Ario.</hi></p>
+<p><hi rend='Italic'><foreign>(Trágala trágala</foreign></hi> zioan Simonak bere artean).</p>
+<p><hi rend='Bold'>—V—</hi></p>
+<p>Ordu erdi baiño len elkarrekin zeuden Premiñ, Lontzio, Kontxesi ta Patxika. Beren mingaiñak etzeuden geldi. <hi rend='Italic'>Galitziako Juezaren Señora Don Simon!... </hi>bai noski, ederki eman ere! Baiña egiaz, ematen zien ardura apurtxo bat, Simona beltza <hi rend='Italic'>sententziadore </hi>edo <hi rend='Italic'>Juezarekin </hi>ezkonduta ikusi bearrak. Zer izango ote zan? Nola? Ziriren bat sartu ote zien? Bai; ziria sartu ziena, eta seiren bat illabetean gogortxo iraun zien ziri onek.</p>
+<p>Lasaitu ziran beren barruak Simonaren berriak, ziran bezela, jakitean.</p>
+<p>Bizi zan ezkondurik Galiziako erri batean, eta bere senarra zan <hi rend='Italic'>Tio Tumbeiro</hi>, ez <hi rend='Italic'>sententziadorea, </hi>baizik <hi rend='Italic'>sustantziadorea. </hi>Jai egunetan ateratzen zan kalez kale, urdai zatitxo bat, listariarekin lotuta, eskutik zintzilik zuela, eta deadar egiñaz: <hi rend='Italic'><foreign>el sustanciador</foreign></hi>. Ondo bizi ziran <hi rend='Italic'>etxadi </hi>edo familiak deitzen zioten. Joaten zan, eta sarturik urdai zatia lapikoan, asten zan <hi rend='Italic'>Abe-Mariak </hi>errezatzen. Ateratzean, Abe-Mariarik ainbat ardit ematen zioten, eta au zan bere ogia irabazteko bidea. Orra zer zan Galiziako jueza, ainbeste burukomiñ ematen ziena, ez aren <hi rend='Italic'>kastiguren </hi>bildur ziralako, baiña bai Simona beltza Señora biurturik ikusteak emango zeikien arraren beldurrak.</p>
+<p><hi rend='Bold'>—VI—</hi></p>
+<p>Andik bi urtera, Urkiolan San Antonio egun batean, Elizatik eta bide-erreal bitarteko une batean gazte batzuek zebiltzan dantzan itxu-soñuan. Gizaseme zaartxo itxu edo gutxienaz beiñepeiñ lausoa zan bat zerrabetarekiñ, eta emakume luze argaltxo bat, baiña ez zarra ere, <hi rend='Italic'><foreign>tumbada </foreign></hi>edo <hi rend='Italic'>panderua </hi>jotzen, aurtxo bat bizkarrean loturik zuela. Bi senar-emazte gazte-aldia ziran dantzan zebiltzanak. Bakarrik emakume aurdunak kantatzen zuan, ara nola:</p>
+<p><hi rend='Italic'><foreign>Toca toca muñeira</foreign></hi></p>
+<p><hi rend='Italic'><foreign>que este son gente nolbe</foreign></hi></p>
+<p><hi rend='Italic'><foreign>bailadores hermosos</foreign></hi></p>
+<p><hi rend='Italic'><foreign>que pagan dolbe.</foreign></hi></p>
+<p>Badakizute nor edo nortzuk ziran dantzariak? Premiñ eta bere emazte Kontzesi; Lontzio eta bere emazte Patxika. Eta soiñu-joilleak? <hi rend='Italic'>Sustantziadorea </hi>eta Simona.</p>
+<p>Eta soiñu-joilleak eta dantzariak ez ote zuten alkar ezagutu?</p>
+<p>Eztakigu; baiña dantzaldia amaitzean Lontziok egiñ zuen ujuju edo lekaio aundi bat, eta Premiñek deadar egin zuen: <hi rend='Italic'><foreign>Viva Don Simón</foreign></hi>.</p>
+<p><mentioned><hi rend='Italic'>Ibaizabal, </hi>1902</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>ANDRE GAZTEA ETA NESKA ZARRA</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>—I—</hi></p>
+<p>Sagardotegiko atian azaldu zan igande goizean erdarazko iragarri edo anunzio bat, era onetan:</p>
+<p><foreign> «Gran puntzion de bertsolaris mujeres. Un bieja sin kasar, y una joben sin biejar, casara. Materia sakatrapus. En las kuatropunto tarde. Entrada de kompiantza, sin pagar».</foreign></p>
+<p>—Krixan , zer esan nai du iragarri orrek?</p>
+<p>—Eztezu ulertzen edo entenditzen, Uxabi?</p>
+<p>—Ez nik.</p>
+<p>—Ba esan nai du, gaur arratsaldeko lauretan bertsoetan jokatzera dijoazela.</p>
+<p>—Nor ote dira?</p>
+<p>—Bi emakume: bat andre ezkondua, eta bestea neska zarra.</p>
+<p>—Izenik eztu jartzen?</p>
+<p>—Ez: baña omen dira, andre ezkondua Baxakatua; eta neska zarra Zirauna.</p>
+<p>—Ai zer pariak muserako!</p>
+<p>—Ederrak.</p>
+<p>—Nor dute Juez?</p>
+<p>—Don Braulio.</p>
+<p>—Ara bestia!</p>
+<p>—Bestia al da ura?</p>
+<p>—Diot ba...</p>
+<p>—Kontu gero; um! erdalzaletua dago aberastu zan ezkerokoan ta, «bestia» deitzen badiozu, eta berak erderazkotzat artzen badizu...</p>
+<p>—«Bestia» esanta're ba, eztakit gezur andi-andirik esango ote diodan; anka biko bestiak ere izan oi dira ta...</p>
+<p>—Ba, kontuz ibilli zindezke.</p>
+<p>—Eta nork ipiñi du iragarri ori?</p>
+<p>—Don Brauliok.</p>
+<p>—Ba, ba, beraz izena jarria dauka: anka biko «bestia».</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>Arratsaldean an zeuden sagardotegian, upelaren ondoan, Don Braulio, Baxakatua (andre ezkondua) eta neskazarra (Zirauna). Iruren artian bazeramaten upela maria-beran. <hi rend='Italic'>Sin-pagarreko entradarekiñ </hi>ere jende asko sartu zan. Lauren trangadan, asi ziran bertsolariak:</p>
+<p>Andre ezkonduak neska zarrari:</p>
+<p>Enpleatzen ez bada</p>
+<p>gazterikan neska,</p>
+<p>pasa bearko ditu</p>
+<p>makiña bat kezka;</p>
+<p>burua txoraturik</p>
+<p>senargairik ezta,</p>
+<p>orra azkenerako</p>
+<p>neska zarren pesta.</p>
+<p>Neska zarrak andre gazteari:</p>
+<p>Gazterik ezkonduak</p>
+<p>ikusten ditut nik</p>
+<p>beren bizimoduaz</p>
+<p>ondo asperturik;</p>
+<p>senarraren maleta</p>
+<p>eziñ eramanik,</p>
+<p>neska zarrak ez dute</p>
+<p>orrelako lanik.</p>
+<p>Estimazio gabe</p>
+<p>dago neska zarra,</p>
+<p>askok egiten dio</p>
+<p>burla eta farra,</p>
+<p>bera ona bada're</p>
+<p>izena du txarra,</p>
+<p>konsolatzeko badu</p>
+<p>zerbaiten bearra.</p>
+<p>Ardurarikan eztit</p>
+<p>ematen izenak,</p>
+<p>kontua daukakigu</p>
+<p>gauzaren izanak;</p>
+<p>ezkonduak sarritan</p>
+<p>dituzte zezenak,</p>
+<p>konsolatutzen naute</p>
+<p>orla dabiltzanak.</p>
+<p>Beti ezkondu naian</p>
+<p>ta beti alperrik,</p>
+<p>emaztetzat eztu nai</p>
+<p>iñork neska zarrik;</p>
+<p>zergatik eztan bear</p>
+<p>etxean alperrik,</p>
+<p>bizi bearko dute</p>
+<p>gaixoak bakarrik.</p>
+<p>Ezkondu eta ondo</p>
+<p>izanik lenengo,</p>
+<p>osoro aspertua</p>
+<p>urte bigarrengo:</p>
+<p>—Or konpon zaite, gizon,</p>
+<p>igesi naiz juango,</p>
+<p>ai Jaungoiko maitea</p>
+<p>neskazar banengo!</p>
+<p>Libertadian dabiltz</p>
+<p>aizia bezala,</p>
+<p>baña beti argal ta</p>
+<p>zimurra azala:</p>
+<p>oso beltza da neska</p>
+<p>zarraren itzala,</p>
+<p>argandik Jaungoikoak</p>
+<p>libratu gaitzala.</p>
+<p>Libratu naita ere</p>
+<p>uztarria gogor,</p>
+<p>nai ta nai ez dezu zuk</p>
+<p>egon bearko or:</p>
+<p>andrea ai-ai-ai!ka</p>
+<p>eta gizona gor,</p>
+<p>neska-zarrik orrela</p>
+<p>eztaukazu iñor.</p>
+<p>Gauza danetan berak</p>
+<p>nai luke nagusi,</p>
+<p>besteren onik berriz</p>
+<p>eziñ du ikusi:</p>
+<p>beti beria eta</p>
+<p>al bezela bizi,</p>
+<p>oraindik eztu iñork</p>
+<p>neska zarrik ezi.</p>
+<p>Emazte gazte asko</p>
+<p>daude ikasiak</p>
+<p>artzen jipoi eder ta</p>
+<p>ondo mereziak;</p>
+<p>neska zarrak ez gaude,</p>
+<p>Jaunari graziak,</p>
+<p>ezkondu oiek beziñ</p>
+<p>ederki eziak.</p>
+<p>Apaintzeko egingo</p>
+<p>ditu alegiñak,</p>
+<p>ondo orraztu eta</p>
+<p>garbitu agiñak:</p>
+<p>beztuaz betilliak</p>
+<p>ta ille urdiñak,</p>
+<p>lanak ematen dizka</p>
+<p>edertu eziñak.</p>
+<p>Senar alporja baten</p>
+<p>zera emaztia,</p>
+<p>txima arroak eta</p>
+<p>arpegi tristia:</p>
+<p>soñeko oso zar bat</p>
+<p>doi-doian jaztia,</p>
+<p>zure apainduria</p>
+<p>ori da guztia.</p>
+<p>Inbidiaz erretzen</p>
+<p>dauzkazu erraiak,</p>
+<p>ia urtuan berriz</p>
+<p>zauzka errabiak;</p>
+<p>dote ta arrioa</p>
+<p>dira oiek biak,</p>
+<p>usai txarra dizute</p>
+<p>sumatzen galaiak.</p>
+<p>Ezkonduen inbidiz</p>
+<p>dauden neska zarrak</p>
+<p>eztakizkite ondo</p>
+<p>oien sasi-larrak;</p>
+<p>zelo ta aserreak,</p>
+<p>suak eta garrak,</p>
+<p>pagatzen dute andre</p>
+<p>gaixoen bizkarrak.</p>
+<p>Jakiñ-miñez dauzkate</p>
+<p>biotzak erriak</p>
+<p>ibiltzeko mingañez</p>
+<p>auzoko berriak:</p>
+<p>batzuetan gezurrak</p>
+<p>bestetan egiak,</p>
+<p>neskazarrak onetan</p>
+<p>dira geiegiak.</p>
+<p>Gizona zurrutian</p>
+<p>trabenan zorretan,</p>
+<p>ura etxera nairik</p>
+<p>andrea lorretan;</p>
+<p>eta gero makilla</p>
+<p>onen ezurretan,</p>
+<p>ezta ikusten neska</p>
+<p>zarrik lan orretan.</p>
+<p>Zure bizimoduaz</p>
+<p>kontentu bazera,</p>
+<p>naikua edan degu</p>
+<p>ta guazen etxera;</p>
+<p>biurtutzeko bigar</p>
+<p>goizian atzera,</p>
+<p>beste dozen erdi bat</p>
+<p>bertso botatzera.</p>
+<p>Puntzio au izan da</p>
+<p>osoro luzia,</p>
+<p>baña gure autua</p>
+<p>dago ikusia;</p>
+<p>nola nik irabazi</p>
+<p>dizudan auzia,</p>
+<p>biba Don Braulio ta</p>
+<p>lagundi guzia.</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p>Neska zarrak, «biba Don Braulio» esatean, jo zuan goitik bera Jaun au, eta sartu zion sorbaldetaraño bere kapela, tximiñia zirudiena, eta gizajoak, argia itzali zalakoan, esan zuan «Gabon, Jaunak».</p>
+<p>Uxabik bazter batetik erantzun zion: «A, gizajo-gizajoa... anka biko bestia!».</p>
+<p>Krixanek berriz kantatu zuan:</p>
+<p>Bata Baxakatua,</p>
+<p>bestea Zirauna,</p>
+<p>oien Jueza berriz</p>
+<p>Don Braulio Jauna.</p>
+<p>Uxabik:</p>
+<p>Bi Bertsolari egiñ</p>
+<p>dutenak batzarra,</p>
+<p>dira andre gazte bat</p>
+<p>eta neska zarra.</p>
+<p>1902'ko Abenduaren 14'an</p>
+<p><mentioned><hi rend='Italic'>Ibaizabal, </hi>1902</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>AITONA TA BILLOBA</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>ASMO BERRIA</hi></p>
+<p>—Ez nauk ba egongo aurtengo udan tren orixe ikusi gabe. Zer derizkiok, Joxe Mari?</p>
+<p>—Gazteago zeralarik eztezu ikusiko.</p>
+<p>—Larogei ta sei urteko gizona Euskal-errian bizi, ta trenik ikusi gabe?</p>
+<p>—Beste larogei ta seian ere bizitzeko papera egingo nuke nik, trenik ikusi gabe izanta're, bizi al banedi.</p>
+<p>—Ni ba enatxiok ondo iltzeko're, eta dana dala, ik laguntzen badirak, datorren astian juango gaituk Donostia'ra.</p>
+<p>—Bai, aitona, bai; baña beste lagun bat ere bear degu.</p>
+<p>—Zer lagun?</p>
+<p>—Poltsa.</p>
+<p>—Ontzurre bat beñepeiñ badiat eta...</p>
+<p>—Naikua da; biok juango gera, diozun bezela, datorren astian.</p>
+<p>—Etzetorren Joxe Mari'k nai beziñ laster <hi rend='Italic'>datorren aste </hi>uraxe.</p>
+<p>—Ontzurre uraxe aldentziak miñ ematen zion aitonari, baña beti ari begira ez egoteagatik, erabaki zuan, bi egun barru Donostia'ra juatia.</p>
+<p>Aitona ta billoba</p>
+<p>bigaramonian,</p>
+<p>sartu ziran Arrua'n</p>
+<p>lenengo trenian;</p>
+<p>arriturik aitona</p>
+<p>trena eldu zanian...</p>
+<p>gutxigatik gelditu</p>
+<p>etzan andenian.</p>
+<p><hi rend='Bold'>TRENIAN</hi></p>
+<p>—Aizak, Joxe Mari, zer esan nai dik botoi orrek?</p>
+<p>—Alarma.</p>
+<p>—Etziok ondo.</p>
+<p>—Nola bear du ba?</p>
+<p>—A las armas.</p>
+<p>—Ixillik zaude.</p>
+<p>—Eu ago; ni soldadu izana nauk, eta <foreign>«a las armas» </foreign>agintariak esatean, soldaduak armak artu ta prest jartzen dituk.</p>
+<p>—Eztezazula orrelakorik esan, barre egiñ ezteizuten.</p>
+<p>—A gizajoa! I oraindik umea aiz, baña ni zarra, eta i jaio orduko banitxekizkian nik gauz auek.</p>
+<p>Onetan eta orretan, aitonak estutu zuan botoia, gelditu zan trena, eta bi guardia zibill zetozen kotxez-kotxe, galdetuaz, tinbria nork jo ote zuan, eta aitonak esan zion Joxe Mari'ri:</p>
+<p>—Ikusten dek nola datozen gizon oiek beren armarekin?</p>
+<p>—Zergatik ote datoz ba?</p>
+<p>—Nik <foreign>«a las armas»</foreign>ko botoia jo dedalako; orregatik esaten diat <foreign>«alarma»</foreign>ren lekuan <foreign>«a las armas» </foreign>jarri bear litzakiala. Sinistu zak orain aitonaren esana.</p>
+<p>Eldu ziran guardia zibillak aitona zegoan kotxera, eta onek aitortu zuan berak jo zuala tinbria.</p>
+<p>—Zertako? —galdetu zioten guardiak.</p>
+<p>—Mutill koxkor oni erakusteko gauzak nola diran —erantzun zuan aitonak.</p>
+<p><foreign>—Merecía este viejo... </foreign>(guardiak).</p>
+<p><foreign>—Meretziña a mí; gracias. No kiero jiringaciones. Tengo buen salut.</foreign></p>
+<p>Barre egin zioten guardiak, eta orduan aitonak esan zien:</p>
+<p><foreign>—Erreñir antes y erreir agora? Asi es promalidat? </foreign>Pazientzia're anditxoa bear det zuekin —zion aitonak, eta toxatik pipa belarrez beteaz asi zan kantari:</p>
+<p>Berriketa asko ta</p>
+<p>gauz onikan gutxi,</p>
+<p>txorakeri oriek</p>
+<p>bear dira utzi.</p>
+<p>Aiton zar onek ditu</p>
+<p>gauz asko ikusi,</p>
+<p>buek baño obeki</p>
+<p>daki nola bizi.</p>
+<p><hi rend='Bold'>DONOSTIAN</hi></p>
+<p>—Aizak, mutiko, pipak eztik sabelik betetzen.</p>
+<p>—Zer esan nai dezu, aitona?</p>
+<p>—Zerbait jango nukela.</p>
+<p>—Ostaturen batera juan bearko degu ba.</p>
+<p>—Bai, ta onenera.</p>
+<p>—Ezkurra'nera juango ote gera?</p>
+<p>—Zer? Donosti'ra etorri ta ezkurra jatera? Zer uste dek, txerriak gerala?</p>
+<p>—Ezkurra, ostatuaren izena da.</p>
+<p>—Izenaren modukoa bada, eztek izango gaiñ gañekoa.</p>
+<p>—Ezkurrik eztigute jaten emango, baña gerok atera bearko degu ezkurra.</p>
+<p>—Nundik?</p>
+<p>—Ontzurretik; bera urtu bearko degu.</p>
+<p>Ontzurrea urtzea</p>
+<p>ezta atsegiña,</p>
+<p>baña gastatzeko da</p>
+<p>ura're egiña;</p>
+<p>txarragoa litzake</p>
+<p>gastatu eziña...</p>
+<p>Jaunak emango digu</p>
+<p>bizitzeko diña.</p>
+<p><hi rend='Bold'>AGUR!</hi></p>
+<p>Ondotxo bazkalduta bazijoazen aitona ta billoba trenera, eta aitonak esan zion billobari:</p>
+<p>—Donostiari agur egin bear zeoat.</p>
+<p>—Eta ontzurreari ez?</p>
+<p>—Ontzurrea juan uan.</p>
+<p>—Baña Donosti barruan egongo da oraindik.</p>
+<p>—Biei egingo diet ba —esan, eta bota zuan ondorengo bertso au:</p>
+<p>Antziñatik nai nuan</p>
+<p>nik zu ikustia,</p>
+<p>eta orain pena det</p>
+<p>ain laster uztia.</p>
+<p>Ederra bazera, bai,</p>
+<p>baña gareztia...</p>
+<p>agur, ontzurrea, ta</p>
+<p>agur, Donostia.</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>MARIATXOREN LOREAK</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>—I—</hi></p>
+<p>Mariatxo zan sei urteko neska txiki eder bat, azal zuri-gorria larrosaaren antzera, begi urdiñak eta urre-kolorezko illea zituana, eta auzo guziak maite zuana. Bere aita ta ama illak ziran, eta amonarekiñ bizi zan. Eztago esan bearrik zenbat maiteko zuan amonak.</p>
+<p>Egun batean egiñ zion umeak amonari, onek asko uste etzuan galde bat, esanaz:</p>
+<p>Amona: ez al degu guk amarik, Josetxok, Martiñak, Pilipek eta Juakiñak bezela?</p>
+<p>—Amona, ustez-ustegabeko galdeera onekiñ gelditu zan zer erantzun etzekiala; baña ixil-une baten ondoren, bi malkobegietatik ixuriaz eta laztan bat bekokian emanaz, erantzun zion:</p>
+<p>—Bai, enetxoa; zuk ere badezu ama, gaixo orrek.</p>
+<p>—Eta nun da ba?</p>
+<p>—...zeruan.</p>
+<p>—Noiz etorriko da?</p>
+<p>—Zer nai zenikio?</p>
+<p>—Asko maite dedala esan, eta laztan asko eman.</p>
+<p>—Ezta etorriko zerutik, baña gerok ara juango gera.</p>
+<p>—Noiz ordea?</p>
+<p>—Noiz nai zenduke?</p>
+<p>—Nik, laster.</p>
+<p>—Eska zaiozu ba Ama Birjiñari.</p>
+<p>—Ermitatxoko aldarean dagoanari?</p>
+<p>—Bai, aritxi.</p>
+<p>—Eskatuko diot bat.</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>Beiak zaitu, eta galtzerdia egiñ: ori zan Mariatxoren lanik andiena.</p>
+<p>Amonak ikusten zuan, aspalditxoan umeak etzuala lenago ainbat galtzerdi egiten.</p>
+<p>—Zertan igarotzen ote zuan ba denbora?</p>
+<p>Egun batian zaitu nai izan zuan. Juan zan beiak zebiltzan belar-zelaira, eta etzuan arkitu umerik; juan zan andik urrean zegoan ermitatxora, eta an arkitu zuan Mariatxo belaunikaturik bi eskuak bular-aurrean bildurik, begiak itxi ta burua makurturik, Ama Birjiñaren aurrean. Ikusi ezpalu bezela, amona etxeratu zan, esaten zuala bere biotzean: auxe da gure aingerutxua, gure premi-aldietan bear ditugun laguntzak iristen dizkiguna.</p>
+<p>Sortu zan reboluzioa; Euskalerrian ere izan ziran baliente batzuek eta Ermitatxoak ere izan zituan bere etsaiak. Tellatu ta ate berria egiñ bear zitzaizkiolako aitzakiarekiñ, zarrak kendu ta berririk egiñ ez, gelditu ziran lau paretiak, eta andik laster sasia ta larra.</p>
+<p>Baña Mariatxok egiten zituan bere erreguak betiko lekuan, lau pareten erdian, sasi artian izanta ere. Emezortzi urterekiñ ill zan gaixoa aingerutxo bat bezela bularreko gaitzarekin, bere amaren moduan. Andik zortzi egunera ill zan amona ere, eta biak juan ziran, bata bere ama laztantzera, eta bestea bere alaba eta illobatxoaren ondoan betiko zorioneko izatera.</p>
+<p>Ermitatxo sasiak eta larrak artu zuten, baña an erdi aldian azaldu ziran lore zuri-urdiñ oso polit batzuek, eta «Mariatxoren Loreen» izena ematen asi ziran ango jendeak, eta gaur ere ala deitzen diete, au da, «Mariatxoren loreak».</p>
+<p>Eta zergatik? Mariatxo zanaren begiak eta lore aiek kolore berdiña dutelako, eta ume, edo obeki esateko, aingeru ark ixuritako negar malkoak lore biurturik erne ziralako. Ala diote. Birraldaturik lore aiek, beren aziak gorde ta ereiñik, Mariatxoren loreak ugaritu ziran auzoera guzian, eta ezta an etxerik bere baratzaren ertzen baten lore oietakorik eztuenik.</p>
+<p>Ermitatxo berritu zan, Ama Birjiña berri oso eder bat ekarri ere bai, eta Maiatzeko jai-artsaldetan an oi dijuaz neska gaztetxo guziak lore oiekiñ egintako sotak Ermitatxoko Ama Birjiña berri ederrari eskeintzera.</p>
+<p>Juaten bazerate Maiatzaren azkeneko igandean Ermitatxora, adituko dezute nola neska gaztetxo aiek kantatuko dioten Ama Birjiñari.</p>
+<p>Orra, Ama maitea,</p>
+<p>Maiatza amaitu,</p>
+<p>gogorazio onek</p>
+<p>samindutzen gaitu</p>
+<p>zaizkigulako egun</p>
+<p>ain ederrak aitu,</p>
+<p>emen etsai gaiztoak</p>
+<p>ez gaitzan garaitu,</p>
+<p>arren, ama maitea,</p>
+<p>zuk gaiztzazu zaitu;</p>
+<p>eta gure biotzen</p>
+<p>tristurak alaitu,</p>
+<p>zuganako jaiera</p>
+<p>emen dediñ geitu;</p>
+<p>zu alabatzen gera</p>
+<p>egunero oitu,</p>
+<p>zuri nai genikizu</p>
+<p>lurrean obeitu,</p>
+<p>eta zure ejenplo</p>
+<p>ederrak jarraitu,</p>
+<p>eztezagun anima</p>
+<p>pekatuaz loitu;</p>
+<p>Ai, al bazinduzkegu</p>
+<p>nai adiña goitu</p>
+<p>eta Mariatxoren</p>
+<p>loreaz koroitu !</p>
+<p>Agur, Ama maitea,</p>
+<p>alabaz oroitu.</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>IJITO BATEN TESTAMENTUA ETA KONSEJUAK</p></head>
+        </front>
+        <body>
+<p>—Ai, Maixepa! Gaizki nago; testamentua egiñ bear det; ekarri ezazu Eskribaua.</p>
+<p>—Zertarako? Zer dezu testamentuan uzteko?</p>
+<p>—Benturaz berak utziko dit neri.</p>
+<p>—Nork? Domeniñok?</p>
+<p>—Diot ba... benturaz...</p>
+<p>—Ez al dakizu zer esaten zuen Erramona zarrak?</p>
+<p>—Zer esaten zuen ba?</p>
+<p>—Domeniño, bei antzua bezela zala.</p>
+<p>—Ai, Maixepa, Maixepa! beia jeisten eztakienarentzat, bei guziak dira antzuak. Datorrela datorrela lenbaitlen Eskribaua.</p>
+<p>—Ondo da... aizak, mutiko; ua eskribauagana eta esaiok etorri dedilla agudo.</p>
+<p>—Tan... tan... tan...</p>
+<p>—Nor da or? Zer nai dek mutill?</p>
+<p>—Bedori da Eskribaua?</p>
+<p>—Bai.</p>
+<p>—Betor ba agudo testamentu bat egitera kaballero batengana.</p>
+<p>—Ago puxka batian, eta beriala nauk or.</p>
+<p>Kaballeroaren izena aditzean, bereala apainduta abiatu zan Eskribaua, mutikoa aurrean giari zuela; baño egia esateko, arlotetxoa iritzi zion etxeari, kaballero batena izateko: estalpe nolabaiteko bat, zuma batzuek, saski bat edo beste, lapiko bat sutan, an bazter batean, eta mando aska batean, manta batzuekiñ bildurik, gizon beltz aundi bat.</p>
+<p>—Badator Eskribau Jauna?</p>
+<p>—Bai, banator ba.</p>
+<p>—Ongi etorria izan dedilla, Jauna, etxe santu onetara.</p>
+<p>—Eskerrik asko.</p>
+<p>—Testamentua egiñ nai nuke ta esango diot itz gutxitan nere deseoa; zaldi bat, asto bat eta aizturra guraizak), artazixak) pare bat dira nik dedan guzia: zaldia emaztearentzat, eta aizturrak bedorrentzat, testamentua egite-aldera.</p>
+<p>—Zertako ditut nik aizturrak?</p>
+<p>—Ara, Jauna; beatz-azkalak moztu ta orrelako lanetarako oso politak ditu.</p>
+<p>—Ba eztitut bear.</p>
+<p>—Zenbat nai du ba bedorren nekeagatik?</p>
+<p>—Amar peseta.</p>
+<p>—Eztet ba ardit bat ere nerekiñ, baño artzeko batzuek baditut.</p>
+<p>—Onak badira artzeko oiek...</p>
+<p>—Bai, Jauna, bai; besterik ezpada, berotzeko bada ere...</p>
+<p>—Nun dauzkazu?</p>
+<p>—Ataunen.</p>
+<p>—Otra!... De Herodes a Pilatos...</p>
+<p>—Y de Eskribaus a Pariseos... e?</p>
+<p>—Tira ba, tira; guazen aurrera.</p>
+<p>—Ara ba, Jauna; ba'itut artzeko berreuntxo bat.</p>
+<p>—Zer berreun?</p>
+<p>—Berreun... eztakit ba bedorrek naiko ote dituan...</p>
+<p>—Gizona: txanponak izanta ere, berreunera ezkero, zerbait izango da.</p>
+<p>—Esango diot ba, Jauna, argiro. Ataunen dauzkat artzeko berreun palo. Bedorrek artu nai balitu...</p>
+<p>—Nik? Zer dala ta?</p>
+<p>—Diot ba... nai balitu...</p>
+<p>—Zergatik eztituzu artu zedorrek?</p>
+<p>—Lotsaz; orra esan egia; beste erri baten izan balitz ere... baño Ataunen, ainbeste senide dauzkagun errian...!</p>
+<p>—Etzaude zu kaballero txarra.</p>
+<p>—Kaballeroa? Bedori adiñakoa bai beñepeiñ.</p>
+<p>—Nundik?</p>
+<p>—Ara nundik. Nere denbora guzian kaballo-tratuan bizi izandu naiz, beragatik uste det ondo merezia dedala kaballero-tituloa.</p>
+<p>—Banua berealaxe emendik, baño pagatuko didazu.</p>
+<p>—Ez bedi aserretu, Jauna, amar peseta gora bera. Emango diozkat konseju batzuek, ez amar baizik eun peseta baño geiago balioko diotenak, ondo gordetzen baditu.</p>
+<p>—Guazen ba, guazen orretara ere.</p>
+<p>—Betor nere ondo-ondora.</p>
+<p>—Ona emen nun naukazun.</p>
+<p>—Lenengo konsejua. Ez bedi beñere piatu ijitoakiñ nerau aurrengo naizala.</p>
+<p>—Zuk esan bearrik eztet orretan.</p>
+<p>—Beldur naiz ba, esanta ere, premian arkituko ez ote dan berriz esateko.</p>
+<p>—Ia beste konseju bat.</p>
+<p>—Bigarrena. Ijitoak ezer ostutzen badiote, ez joan aien ondoren.</p>
+<p>—Zergatik ez?</p>
+<p>—Ostua ez du eskuratuko, eta gañera kastatu egingo du.</p>
+<p>(Emen oso ixilik eman zizkion beste konseju batzuek ere bost edo sei miñutuan; baño eztakigu zer. Gero galdetu zion Eskribauak:)</p>
+<p>—Beste konsejurik badezu?</p>
+<p>—Ez, Jauna. Gorde bitza ondo oiek, eta asko ditu oraingo.</p>
+<p>—Agur ba.</p>
+<p>—Ario, ondo bijua.</p>
+<p><hi rend='Bold'>—II—</hi></p>
+<p>Etxeratu zan Eskribaua, eta oartu zan urrezko erlojua palta zitzaiola; eta suak arturik, juan zan kaballeroaren Palaziora, eta itzik egiñ gabe, ari zan kaballeroaren oia errekistatzen; onetarako makurtzian, bere arpegia jarri zitzaion kaballeroarenaren gañian, baño puska bat goraxeago, eta gorbatarekiñ jotzen zuan kaballeroaren aoa. Gorbatan zeukan urrezko orratz eder bat, eta kaballeroak ortzakin oratu oso kurioso, eta atera zion orratz ura miñik egin gabe. Eskribau Jauna etxeratu zan len baño ere txarrago.</p>
+<p><hi rend='Bold'>—III—</hi></p>
+<p>Kaballeroak ikusi zion Eskribauari eraztun eder bat beatz baten, eta zai zegoan berriz agertuko ote zan uraxe eskuetaratzeko deseoz, baño etzan geiago agertu; bada damutan omen zegoan kaballeroaren konsejuak berandutxo ikasi zitualako. Kaballeroa berriz penaturik, berak nai baño len ikasi zitualako.</p>
+<p><hi rend='Bold'>—IV—</hi></p>
+<p>Liburu azal guziz ederdun bat ageri zan Eskribauaren etxean, gañean izkira edo letra ederretan zeukana: ijito baten testamentu eta konsejuak.</p>
+<p>Lenbiziko orrialdian berriz zeukan eskribiturik:</p>
+<p>Ijitoaz piatzen</p>
+<p>diraden gajuak,</p>
+<p>eramango dituzte</p>
+<p>petardo bapuak,</p>
+<p>baten testamentua</p>
+<p>eta konsejuak,</p>
+<p>kosta zaizkit urrezko</p>
+<p>orratz-erlojuak.</p>
+<p>1902'ko Jorraillaren 6'an</p>
+<p><mentioned><hi rend='Italic'>Ibaizabal, </hi>1902</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>ZEZENKETA</p></head>
+        </front>
+        <body>
+<p><hi rend='Italic'>Euskal-esnalea: </hi>eztezu istillu txarra jarri mutil-zarren artean zure zezenketa orrekin. Onak dabilz ba! Lengo egunian bildu ziran Txingor, Tximista, Bakallo, Kakutei, Belarri, Tropel, Tripa, Pipermin, Bizkaño, Muxugorri, Saieski, Trapu, Lepoluze, Aketo, Paxano, Malatrasa, Ollargi, Esteluze ta Belarriepel, ta berebiziko batzarra egin zuten.</p>
+<p>Bildu zituzten erri guztiko makilla ta kolorezko paperak banderillak egiteko; atera zituzten oietatik oe-gañeko gorriyak; lapurtu zituzten ikulluetatik zaldi zar guziyak, eta an ziaztik toriatzalle sartu biar dutela ta toriatzalle sartu biar dutela.</p>
+<p>Batzarre bat egin zuten; banekian nik arontz joan ezkero, zer aditua ta zer esana izango zala, ta ara joan nitzan ponografo eder bat besapian artuta ta Illunpe potograpistea nerekin nuala.</p>
+<p>An izan giñan biyok, batzarrean eta gero zezenketan. Toki aietan zer gertatu zan nai badezu jakin, irakurri esatera nuana.</p>
+<p><hi rend='Bold'><hi rend='Italic'>Mutill-zarren batzarra</hi></hi></p>
+<p><hi rend='Italic'>Txing.— </hi>Jaunak!</p>
+<p><hi rend='Italic'>Tximist.— </hi>Nun ikasi ote du Txingorrek orren piñ itzegiten «Jaunak» guri deituaz?</p>
+<p><hi rend='Italic'>Txing.— </hi>Gobiernua kontribuzioa botatzera dijoakigu.</p>
+<p><hi rend='Italic'>Tximist.— </hi>Bota bear, gu bezelako Jaun batzuei.</p>
+<p><hi rend='Italic'>Txing.— </hi>«Jaunak» geralako ez.</p>
+<p><hi rend='Italic'>Tximist.— </hi>Zergatik ba?</p>
+<p><hi rend='Italic'>Txing.— </hi>Mutill-zar gaudelako.</p>
+<p><hi rend='Italic'>Kakuteik.— </hi>Ezkondu ta kittu.</p>
+<p><hi rend='Italic'>Txing.— </hi>Norekiñ?</p>
+<p><hi rend='Italic'>Kakut.— </hi>Or eztaude ba dozenaka, Joxepa Txepel, Mari Txori ta beste amaika milla neska zar?</p>
+<p><hi rend='Italic'>Txing.— </hi>Mari Txorik esan omen zuan juan dan igandian, gutako edozeiñekin ezkondu baño lenago, prakak jantzi ta soldadu juango zala.</p>
+<p><hi rend='Italic'>Trapuk.— </hi>A tonto zarrak!</p>
+<p><hi rend='Italic'>Tripak.— </hi>Nork eta Trapuk esan bear guri «tonto zarrak».</p>
+<p><hi rend='Italic'>Trapuk.— </hi>Bai esango're. Ez al dezute irakurten EUSKAL-ESNALEA?</p>
+<p><hi rend='Italic'>Beste guziak.— </hi>Zer da EUSKAL-ESNALEA? Lo dagoana esnatzeko asmazioren bat?</p>
+<p><hi rend='Italic'>Trapuk.— </hi>Bai.</p>
+<p><hi rend='Italic'>Beste guziak.— </hi>Gu ez gaude lo.</p>
+<p><hi rend='Italic'>Trapuk.— </hi>Ez esna're. Or dabil albistari ori bazter danetan esaten, urte berriz ezkondu nai duten mutill-zar guziai dotia ematera dijoala. Eta ori eztakiten mutill-zarrak, esna daude?</p>
+<p><hi rend='Italic'>Txing.— </hi>Egia ote da ori?</p>
+<p><hi rend='Italic'>Trapuk.— </hi>To; irakurri zak EUSKAL-ESNALEA'ren azkenengo zenbaki edo numeroa.</p>
+<p><hi rend='Italic'>Txing.— </hi>Arraiye arraiyia! Egia dek; zezenketa edo korrida andi bat ematera dijoala: orixe dala alderdirik egokiena diru asko ta errez irabazteko, eta mutill-zarrentzat dotia ateratzeko, korrida ori eman nai lukeala.</p>
+<p>Guziak, txalo joaz: Abeajondeiola EUSKAL-ESNALEA'ri eta protxu on degiela Joxepa Txepel, Mari Txori ta beste amaika milla neskazarrai!</p>
+<p>Txingor, Tximista eta Kakutei,</p>
+<p>Trapu, Tripa eta Tropel,</p>
+<p>ardo zaleak, edateko laiñ</p>
+<p>aste batian bi upel.</p>
+<p>Muxu-gorria, Pipermiñ, eta</p>
+<p>gañera berriz Saieski,</p>
+<p>oiek orrela ondo badabiltz</p>
+<p>mundua eztabill gaizki.</p>
+<p><hi rend='Bold'><hi rend='Italic'>Mutill-zarrak eta EUSKAL-ESNALEA</hi></hi></p>
+<p><hi rend='Italic'>Mutil-zarrak.— </hi>Irakurri degu zuk argitaratu dezun idaztia.</p>
+<p><hi rend='Italic'>Euskal-Esnaleak.— </hi>Zer iritzi diozute?</p>
+<p><hi rend='Italic'>Mutil-zarrak.— </hi>Oso ondo; baña gerok egingo genduke toriadoretza, geiago irabaztearren.</p>
+<p><hi rend='Italic'>Euskal-Esnaleak.— </hi>Eta badezazukete?</p>
+<p><hi rend='Italic'>Mutil-zarrak.— </hi>Bai, egiñ degu aproba.</p>
+<p><hi rend='Italic'>Euskal-Esnaleak.— </hi>Nun?</p>
+<p><hi rend='Italic'>Mutil-zarrak.— </hi>Donostian. An esan digute, antziñako Kotxarasen kuadrilla diña bagerala.</p>
+<p><hi rend='Italic'>Euskal-Esnaleak.— </hi>Nork esan dizute ori?</p>
+<p><hi rend='Italic'>Mutil-zarrak.— </hi>Korridan begira egon zan toriadore batek; gero apaitan ari giñala, esan zigun.</p>
+<p><hi rend='Italic'>Euskal-Esnaleak.— </hi>Erderaz ala euskeraz?</p>
+<p><hi rend='Italic'>Mutil-zarrak.— </hi>Erderaz: estos trabajar bien kon kutxaras.</p>
+<p><hi rend='Italic'>Euskal-Esnaleak.— </hi>Ondo da. Nik ekarriko ditut ba zezenak, eta gañerakoak zuen kontu.</p>
+<p><hi rend='Italic'>Mutil-zarrak.— </hi>Ondo da.</p>
+<p>Ekarriko ditugu</p>
+<p>zezen beltz naparrak,</p>
+<p>laster astindutzeko</p>
+<p>gure mutill-zarrak.</p>
+<p><hi rend='Bold'><hi rend='Italic'>Zezen-plazan (I)</hi></hi></p>
+<p>—Gobernadoria al degu jaun ori?</p>
+<p>—Gobernadoria? Bai ederki eman ere.</p>
+<p>—Nor da ba?</p>
+<p>—Ez dizut, ba, lenago ere esan? Txingor da ori, Txingor.</p>
+<p>—Nork esango zukean udaren erdian txingorra ikusiko genduela plazan!</p>
+<p>—Oraindik gauza arrigarrigoak ikusiko dituzu gaurko zezenketa ontan.</p>
+<p>—Ara, ara Txingor toreatzen. Gezurra zirudik Mendaron jaio ta ainbeste jakitea.</p>
+<p>—Jakin, jakin... bazterretik ari da toriatzen. Bildur pixka bat izan egingo du orregatik e?</p>
+<p>—Bazterretik... al bezela. Zuk ere, bi adar zorrotz oiek gertu ikusi ezkero, billatuko zenduke baztarra.</p>
+<p>—Eta ez al dituzu aditzen jendearen deadarrak?</p>
+<p>—Zer diote, ba?</p>
+<p>—Ara gizona. A la kartzel, a la ka... a... rtzel.</p>
+<p>—Zergatik ba?</p>
+<p>—Erdira ateratzen eztalako.</p>
+<p>—Badijoa...</p>
+<p>—Viva salao...! <hi rend='Italic'>(Jendeak).</hi></p>
+<p>—Baña nora dijoa gizajoa?</p>
+<p>—Zer ba? Erdira. Bestela.</p>
+<p>—Bestela zer?</p>
+<p>—Zer? Jendearen deadarrak...</p>
+<p>—Eta zezenaren adarrak?</p>
+<p>—Ara, ara... arrapatu du gizajoa... Garraxika dijoa.</p>
+<p>—Zer dio, zer dio?</p>
+<p>—Ia, ia, ixo...</p>
+<p>Kartzelan asko daude</p>
+<p>oie ederretan,</p>
+<p>zezenak narabill ni</p>
+<p>larri adarretan.</p>
+<p><hi rend='Bold'><hi rend='Italic'>Zezen-plazan (II)</hi></hi></p>
+<p>—Orixe da gizon lerdena. Gaztañak biltzera ote dijua? Arbolara igo gabe jetxiko ditu gaztañak, aga luze orrekin.</p>
+<p>—Ixillik zaude, emakumea. Orrelako gizon apañik ikusi al dezu gaztain-biltzen?</p>
+<p>—Apaña, apaña... Apainduria bai, baña pitxi utsezkoa; aizia buruan eta ibilli munduan.</p>
+<p>—Ezteritzazu aberatsa dala?</p>
+<p>—Aberatsa? Gaurko eguneko aberatsak praka luzetxoagoak ibilli oi dituzte, galtzak atzian zulorik badute estaltzeko're, baña orrek, gizajo orrek, ezingo du.</p>
+<p>—Baña ori pikadoria da.</p>
+<p>—Bai zezena ere. Aren adarrak atzetik pikatzen badu...</p>
+<p>—Ordia ori zaldi gañian joango da zezenagana.</p>
+<p>—Zaldiak nai badu.</p>
+<p>—Nai bearko. Bestela... Ara, ari zaio makilladaka xankame ura. Emango nioke nik orri illunduta gero gure etxe aldian arrapatuko banu.</p>
+<p>—Zer egingo du, ba, zaldiak joan nai ezpadu?</p>
+<p>—Bera juango al litzake pikadoria gañian duala zezenaren adarretara?</p>
+<p>—Bera ez da zaldia, ortarako.</p>
+<p>—Astua bai ordia.</p>
+<p>—Ara, ara, igo da pikadoria. Polliki ari da... Mutillak! Ori indarra! Makilla batekin zezenari atzera eragin...</p>
+<p>—Ez lizuke zuri eragingo, gauza bat buruan sartzen zaizunian.</p>
+<p>—Zuri berriz etzaizu beiñere buruan ezer sartzen, eta kito.</p>
+<p>—Zezenari sartu zaio ba pika... Oi, oi... Asi zaite <hi rend='Italic'>Aita guria </hi>esaten.</p>
+<p>—Zertako?</p>
+<p>—Asi zaite beñepiñ.</p>
+<p>—Baña zertako?</p>
+<p>—Eztet esan zu bezelako buru-gogor gutxi izango dirala?</p>
+<p>— Tira ba, tira... Aita guria... nola zeruan ala...</p>
+<p>—Naikua da. Gañerakua ara an.</p>
+<p>—Nun?</p>
+<p>—Lurrean.</p>
+<p>—Bai, zeruan baña geiagotan ibilliko dituk lurrean oiek ere.</p>
+<p>—Gu bezela.</p>
+<p>—Ara, ara... orain gauza pollita.</p>
+<p>—Zer?</p>
+<p>—Ez al dezu ikusten bizikletan datorren ori?</p>
+<p>—Zertara?</p>
+<p>—Zezena pikatzera.</p>
+<p>—Obe zukean automobillean etorri. Zer ari dira jende oiek?</p>
+<p>—Patata-jaurtika.</p>
+<p>—Nori?</p>
+<p>—Bizikletako pikadoreari.</p>
+<p><hi rend='Italic'>Jendeak.— </hi><foreign>Fuera ese cobarde, ladrón, jitano, bandido, fuera, fuera...!</foreign></p>
+<p>Auek ziran jendearen deadarrak, eta etzuan izan geiago esan bearrik; an zijoan tximista bezela plazatik kanpora; baña arri batek jo, eta eraman zuten ori ere gaixotegira.</p>
+<p><hi rend='Bold'><hi rend='Italic'>Zezen-plazan (III)</hi></hi></p>
+<p>—Ara emen Trapu. Planta asko zezenari urrutitik.</p>
+<p>—Bai ttentte jarri dala e?</p>
+<p>—Egaka asiko ote dan nago.</p>
+<p>—Zezen mutur-motz orrek arrapatzen badu bai, egin bearko du egaka.</p>
+<p>—Aurreskua dantzatzen ari dala esan liteke, oñak biurtuta.</p>
+<p>—Bildurrak egiten dio ori, bildurrak. Eztezu ikusten <hi rend='Italic'>dar dar </hi>nola dagon?</p>
+<p>—Zu ere orrela egongo ziñake an beian bazeundeke.</p>
+<p>—Ni? Zurekin ezkontzean ez nintzan ikaratu, ta zezenak ikaratuko nau? Ederki eman ere!</p>
+<p>—Ara bestia berriz. Zer nuan ba nik ikaratzeko? Orain damutu al zaizu? Nere atzetik ibilli ziñanian etzenduan orrelakorik esaten.</p>
+<p>—Begiak itxita ibiltzen da orduan eta...</p>
+<p>—Eta zer?</p>
+<p>—Begiak itxita dabillenian, nork daki nun erori litekean?</p>
+<p>—Jolasean esaten dituzula ez baneki...</p>
+<p>—Ara, ara, begira.</p>
+<p>—Zer da?</p>
+<p>—Ez dezu Trapu ikusten? Bi banderillak zezenari jarri bearrean, bat jarri dio.</p>
+<p>—Ta bestea?</p>
+<p>—Bestea bere buruari.</p>
+<p>—Bere buruari ala bere bizkarrari?</p>
+<p>—Ederra dek!</p>
+<p>—Bi banderillak zezenarentzat ekarri, ta bat bere bizkarrean sartu. Ondo! Orrela ikasiko dute piku oiek aragi-barruan burniak nolako miña ematen duan.</p>
+<p>—Zezena poztuko da beintzat.</p>
+<p>—Poztu? Ara dantzan nola dabillen burla egiteagatik.</p>
+<p>—Bai, Tripa lagun duala, galtzak ia erorian.</p>
+<p>—Adarra tripatik sartzen badio, betiko kenduko dizkio Tripari izeneko miñak.</p>
+<p>—Nungo miñak?</p>
+<p>—Izenekuak, emakumia: tripakuak.</p>
+<p>—Zezen mantxoegiak ekarri dituzte iñori adarra sartzeko.</p>
+<p>—Orain pizkortuko du Tripak.</p>
+<p>—Nola?</p>
+<p>—Tripa-barruan su eginda.</p>
+<p>—Triparen tripa barruan?</p>
+<p>—Zezenaren zezen barruan?</p>
+<p>—Ez, emakumia, ez. Entendituko ote dezu ainbeste aldiz esanda: zezenaren tripa barruan. Begira, begira, suzko banderillak sartu dizkio.</p>
+<p>—Astua, alako astua... Zezen gixajua. Berari sartuko niozke nik zeretik...</p>
+<p>Zezenak berak baño</p>
+<p>mutill-zar kuadrillak</p>
+<p>bearrago dituzte</p>
+<p>suzko banderillak.</p>
+<p><hi rend='Bold'><hi rend='Italic'>Zezen-plazan (IV)</hi></hi></p>
+<p>—Et, et, et...</p>
+<p>—Zer degu, emakumia?</p>
+<p>—Ez al dezu Tximista zibiri-zaburuan ikusten? Eroriko da gizajua... Ara... et... et...</p>
+<p>—Bai, larri dago, ezin luzaroan iraungo du. Zezenak pazientzi apurtxo bat balu, laster luke Tximista adar artean.</p>
+<p>—Zezen gaxua...</p>
+<p>—Tximista gaxua esan naiko dezu.</p>
+<p>—Ez, ez ,zezen gaxua esan nai det.</p>
+<p>—Eztakit ba zergatik.</p>
+<p>—Ia. Zezenari bi adarren tartean tximista erortzen bazaio, ia, nor izango da urrikarri, zezena ala tximista?</p>
+<p>—Ez nuen uste orrenbeste zekizunik.</p>
+<p>—Emakumiak beti dakigu gizonak uste baño geigo.</p>
+<p>—Nai bai. Ara, ara, erori zaigu Tximista. Arrapauko du... arrapauko du zezenak.</p>
+<p>—Bai ederki eman ere. Zezenak tximista arrapatu? Oñ ariñak biar ditu.</p>
+<p>—Ba izkutuan sartu ezpalitz larri ibilliko zuan.</p>
+<p>—Zer ari da beste ura berriz?</p>
+<p>—Oi! Trapu anka-makillak jartzen.</p>
+<p>—Jarri ditu. Orain trapu gorria ta ezpata artu ditu. Orain <hi rend='Italic'><foreign>brindis </foreign></hi>egitera dator Trapu.</p>
+<p>—Trapu gorria itzeitera?</p>
+<p>—Ez, trapua ez. Trapu. Ixo... ix... o...</p>
+<p>—<hi rend='Italic'>(Trapuk). </hi><foreign>Siñor presidente: brindo por tú, por todo el konpañia de polka, de palko; por los buapos mutil zarrrez de </foreign><hi rend='Italic'>Euskal-Euskalea, </hi><foreign>de </foreign><hi rend='Italic'>Euskal-Esnalea, </hi>ene!; <foreign>por la Joxpa-Mari. mi puttura marida, y por toros los del plubico, del pu... blico... del publico, arrayoa!, menos de Marichori, que en allá arriba se está erriendo todo el arratsalde de mi... de mi... mototsa; no, no, de mi... cómo es pues?... de mi coleto..</foreign></p>
+<p>—Ederki itzegiten du gero e?</p>
+<p>—Oso. Mingaiñ ariña du Trapuk.</p>
+<p>—Bai, trapuzkoa.</p>
+<p>—Ia, ia, ankak ere ariñak dituan. Asi da zezena pasatzen.</p>
+<p>—Orduan usai txarra banatuko du.</p>
+<p>—Muletaz pasatzen esan nai det.</p>
+<p>—Esan zazu ba esan nai dezuna. Nik ere pasako nuke or goitik makil gañetik. Mendaroko kontua bezela da ori.</p>
+<p>—Nola da, nola kontua?</p>
+<p>—Bein xexenak izan omen ziran plazan, eta Galtzaundi'k ikusi nai, ta joan omen zan. Baña bildurtia izan, eta beetik ikusten atrebittu ez, goraxegotik ere ez, zezena etorriko zalakoan goragotik ere ez, ta tellatura joan omen zan. An exeri zan ankak plaza aldera zintzilik zituala, ta zezena azpitik pasatzen zanian... ankak igo egiten zituan Galtzaundi'k, zezenak arrapatuko ote zizkion bildurrez.</p>
+<p>—Komedi pollita izango zan. Ara, orain dijoa ezpata sartzera... eup! kale!... Berriz... tira tira... e... up!... uts! Gizajua izarditan dabil. Ia berriz... oraingoan... rau! Ederki motell, lenengoan!</p>
+<p>—Zuti gero ezpata utzi're.</p>
+<p>—Bai agudo iges egin ere. Begira nola dijuan egiñ-alan, zezena atzetik duala.</p>
+<p>—Botako du...</p>
+<p>—Ez, ia erorian dabil zezena... Ara... ilko da... il da.</p>
+<p>—Bien, Trapu, portatu aiz.Urrengo zezenketa Madrillen emen dute.</p>
+<p>—Madrillen? Diru gutxi aterako dute andik EUSKAL-ESNALEA'rentzako. Dana dala, dijoazela beintzat urruti, emen eztegu orrelako astakeririk bear da. qq.</p>
+<p>—Zu ere erderaz Trapu bezela?</p>
+<p>—Ez, ni euskeraz ta bertsoz.</p>
+<p>Orra gure kuadrilla</p>
+<p>zer moduz dabillen,</p>
+<p>urrengo korrida du</p>
+<p>emango Madrillen.</p>
+<p>Bijuaz eta bitez</p>
+<p>ondo izan beti,</p>
+<p>baña ibilli bitez</p>
+<p>gugandik urruti.</p>
+<p>Ainbat egoki gera</p>
+<p>izango gu emen,</p>
+<p>zenbat urrutiago</p>
+<p>oiek gandik, Amen.</p>
+<p><mentioned><hi rend='Italic'>Euskal-Esnalea, </hi>1914</mentioned></p>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI.2>
+

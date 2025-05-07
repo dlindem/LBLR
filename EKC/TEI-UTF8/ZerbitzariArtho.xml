@@ -1,0 +1,546 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+                       "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+   <!ENTITY % TEI.prose    'INCLUDE' >
+   <!ENTITY % TEI.linking  'INCLUDE' >
+   <!ENTITY % TEI.analysis 'INCLUDE' >
+   <!ENTITY % TEI.figures  'INCLUDE' >
+   <!ENTITY % TEI.XML      'INCLUDE' >
+   <!ENTITY % TEI.extensions.ent SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.ent' >
+   <!ENTITY % TEI.extensions.dtd SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.dtd' >
+]>
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+     <titleStmt>
+        <title>Artho-xuritzetan</title>
+        <author>Jean Elizalde - "Zerbitzari"</author>
+        <respStmt>Ez dauka</respStmt>
+     </titleStmt>
+     <extent>5.584 hitz, 39.369 karaktere</extent>
+     <publicationStmt>
+        <publisher>Klasikoen Gordailua [http://klasikoak.armiarma.com/]</publisher>
+        <distributor>Estrata Liburuak S.L.</distributor>
+        <address type='email'>klasikoak@armiarma.com</address>
+        <idno type='ota'>ZerbitzariArtho</idno>
+        <availability status='free'>Erabilpen librekoa; honoko helbidean topa daiteke (HTML, RTF eta PDF formatuetan): http://klasikoak.armiarma.com/idazlanak/Z/ZerbitzariArtho.htm</availability>
+        <date>2006</date>
+     </publicationStmt>
+     <sourceDesc>
+        <bibl>Ez dauka</bibl>
+        <notesStmt><note>Iturburuen datazioa: 1921-1922</note></notesStmt>
+     </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+     <projectDesc>Euskal literaturako testu klasikoen bilduma da KLASIKOEN GORDAILUA; testu hau berorren parte da</projectDesc>
+     <refsDecl>
+        <p>MENTIONED etiketa egilearenak ez diren hitzak markatzeko erabili da: hitzaurreak, aipuak, iruzkinak, e.a.</p>
+    </refsDecl>
+     <classDecl>
+        <taxonomy id='generoa'>
+            <category id='G-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='G-ANT'><catDesc>Antzerkia</catDesc></category>
+            <category id='G-BER'><catDesc>Bertsoak</catDesc></category>
+            <category id='G-ERL'><catDesc>Erlijioa</catDesc></category>
+            <category id='G-NAR'><catDesc>Narratiba</catDesc></category>
+            <category id='G-POE'><catDesc>Poesia</catDesc></category>
+            <category id='G-SAI'><catDesc>Saiakera, kronika, artikuluak...</catDesc></category>
+        </taxonomy>
+        <taxonomy id='garaia'>
+            <category id='M-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='M-16'><catDesc>XVI. mendea</catDesc></category>
+            <category id='M-17-1'><catDesc>XVII. mendea - 1. erdia</catDesc></category>
+            <category id='M-17-2'><catDesc>XVII. mendea - 2. erdia</catDesc></category>
+            <category id='M-18-1'><catDesc>XVIII. mendea - 1. erdia</catDesc></category>
+            <category id='M-18-2'><catDesc>XVIII. mendea - 2. erdia</catDesc></category>
+            <category id='M-19-1'><catDesc>XIX. mendea - 1. erdia</catDesc></category>
+            <category id='M-19-2'><catDesc>XIX. mendea - 2. erdia</catDesc></category>
+            <category id='M-20-1'><catDesc>XX. mendea - 1. erdia</catDesc></category>
+            <category id='M-20-2'><catDesc>XX. mendea - 2. erdia</catDesc></category>
+        </taxonomy>
+        <taxonomy id='euskalkia'>
+            <category id='E-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='E-BAT'><catDesc>batua</catDesc></category>
+            <category id='E-BIZ'><catDesc>bizkaiera</catDesc></category>
+            <category id='E-BNA'><catDesc>behenafarrera</catDesc></category>
+            <category id='E-ERR'><catDesc>erronkariera</catDesc></category>
+            <category id='E-GIP'><catDesc>gipuzkera</catDesc></category>
+            <category id='E-GNA'><catDesc>goi nafarrera</catDesc></category>
+            <category id='E-LAP'><catDesc>lapurtera</catDesc></category>
+            <category id='E-NAF'><catDesc>nafarrera</catDesc></category>
+            <category id='E-ZAR'><catDesc>zaraitzuera</catDesc></category>
+            <category id='E-ZUB'><catDesc>zuberera</catDesc></category>
+        </taxonomy>
+    </classDecl>
+  </encodingDesc>
+  <profileDesc>
+     <textClass>
+       <keywords scheme='generoa'>
+         <list><item>G-NAR</item></list>
+       </keywords>
+       <keywords scheme='garaia'>
+         <list><item>M-20-1</item></list>
+       </keywords>
+       <keywords scheme='euskalkia'>
+         <list><item>E-LAP</item></list>
+       </keywords>
+     </textClass>
+  </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>Artho-xuritzetan -- Jean Elizalde - "Zerbitzari"</docTitle>
+    </front>
+    <group>
+      <text>
+        <body>
+<p>—Ikusi-mikusi...</p>
+<p>—Zer ikusi?</p>
+<p>—Ikusi-i-i... Gu...!</p>
+<p>—Etsi, etsi, etsi.</p>
+<p>—Ikusi «Gure Herria».</p>
+<p>—Eta zer da hori?</p>
+<p>—Ilabetekari berri bat, egun hautan lehen aldikotz agertu dena. Estalgiarentzat berarentzat balio luke erostea; bainan axala baino hobea du oraino mamia...</p>
+<p>—Ongi ethorri dela segurki eta Jainkoak eman dezola bizi luze bat: aspaldi bazen holako zerbeiten beharra Eskual-Herrian!</p>
+<p>—Errazu, Mañaña! Ikhusten duzu hantxet, landa haren muthurrean, haitz eder bat?</p>
+<p>—Zaude Ganix: zer duzu orai ere, ni atxemateko atheraldi zenbeit?</p>
+<p>—Batere, Mañaña!</p>
+<p>—Ikhusten dut beraz haitz hura. Ederskoa da egiazkii.</p>
+<p>—Ongi da. Orai, emazu haitz haren puntan badirela hamar etxe-xori. Tiro batez hirur lurrerat botatzen ditutzu hilak. Zenbat gelditzen zaizkitzu puntan?</p>
+<p>—Zazpi...</p>
+<p>—Ez, ezen, tiroa aditu duteneko, zeruetan barna airatu dira bertze zazpiak!</p>
+<p>Duela zenbeit urthe, Akhelarreko herrian bazen Xanti izena zuen gizon tresna bat. Lanari aspaldi tiro emanik, jikutriaka bizi omen zen: arraintzatik, ihizitik eta jokotik. Deabruak berekin baitzituen, uretik edo zubitik bere doia biltzen zuen: goserik etzeramakan, gose handirik bederen. Are gutiago egarririk...</p>
+<p>Goiz batez eguerdiri buruz, galtza iphurdi-tarratatu pare bat soinean, espalakoinekin, terren terren arraintzarat zoan. Bidean norbeitek erraten dio bazkari handi bat badela jauregian.</p>
+<p>—Noiz?</p>
+<p>—Egun.</p>
+<p>—Ba othe! Eta jaunak ez dautala gonbidu bat igorri! Ez duk haatik gisa hek oilasko jaten eta arno xahar edaten ari eta Xanti, tripa zimurrik, arrainean eta urean egotea!</p>
+<p>Eta lasterrago heltzeko, espalakoinak eskuetan harturik, taka-taka jauregirat badoa. Portaletan, oihuka hasten da sehi bati.</p>
+<p>—Erran no, Gazuza, nausia nun dun?</p>
+<p>—Xanti, zaude othoi ixiltxago. Nausiak jende kanpokoak baditu eta oren erdi huntan mahainean dire, bazkaltzen hasiak.</p>
+<p>—Zer ixilik eta mixilik! Erron Xantik baitezpada mintzatu nahi duela: ager dadien berehala atheraino.</p>
+<p>Hainbertzenarekin nausiak leihoak idekitzen ditu, Xanti oihuka aditurik, eta keinu batez sar dadin erraten dio, irrialdi bat ederra bazkaltierreri egin-arazi behar diotela oraikoan.</p>
+<p>Xantik etzuen bertzerik nahi. Sartzen da agur erranik. Mahainaren buru batean xutik, ez da harek atheratzen ez duen bitxikeriarik. Denbora badoa: jatekoak ere ba: eta nihork ez dio Xantiri deusik eskaintzen. Denak karkaraka.</p>
+<p>—Hori duzue, xoriak! Etzaizte nitaz gehiago urrikaltzen! dio bere baitan gizagaizo gizonak. Etzaio eder jaterat galdetzea: eta zozo da mahain eder baten aldean goserik egotea! Hauxe gogoratzen zaio orduan:</p>
+<p>—Errazu, nausia, badakizu zer gertatu den doidoia bidean?</p>
+<p>—Eta zer bada?</p>
+<p>—Ahuntx batek hirur ume egin dituela!</p>
+<p>—Ah!</p>
+<p>—Ba bainan badakizu lanean ikusi dutala ahuntxama!</p>
+<p>—Nola?</p>
+<p>—Dakizun bezala, bi titi ditu... eta hirur ume. Bi pitika berehala lotu zaizko eta hirurgarrena... Hemen irriz kurkurkur hasten da Xanti bertzalderat itzulirik.</p>
+<p>—Zer ari zen hirugarrena?</p>
+<p>—Ori, jauna, ni zueri bezala bazterretik beha hura ere!</p>
+<p>Gerlatik lekhora, amerikano gerlarietarik bia Eskual-Herriko hiriska batean gelditu dire. Berek dakite zertako. Egun gehienez elgar ikusten dute. Arrats batez, bati iduritzen zaio laguna gogoetan ari zaiola.</p>
+<p>—Zer duk hik egun? Herriko mina lothu zaik jadaneko?</p>
+<p>—Ez muthikoa. Ez nauk eta herriaz orhoitzen ere. Zer nahi duk hau baino lakhet-lekuago?</p>
+<p>—Baina hik baduk egun zerbeit!</p>
+<p>—To, ez duk egia bezalakorik. Ezkontzeko xedea nikek.</p>
+<p>—Aski duk ezkontzea. Hori lana!</p>
+<p>—Bi neskatxa ezagutzen ditiat. Bat sosduna, bainan itsusia; bertzea izarra bezen ederra, baina pilik ez dik. Etzakiat zoin hauta.</p>
+<p>—Hauta zat izarra benen ederra dena eta bertzea... utzak neretzat!</p>
+<p>Behin bi Mugertar baziren Tolosan soldado: Martin eta Petri. Martinek aita-amak hilak zituen: herriko jaun erretora zuen berrikitari. Maiz berriak izaten zituen Martinek. Eta hain xeheki!</p>
+<p>Asteazken batez, Petri heldu zaio Martini:</p>
+<p>—Martin, badakik berria?</p>
+<p>—Zer?</p>
+<p>—Gure Jaun erretor ona hil dela!</p>
+<p>—Ez diat sinhesten.</p>
+<p>—Egia duk bizkitartean!</p>
+<p>—Ez diat sinhesten.</p>
+<p>—Sinhesten ahal duk!</p>
+<p>—Ez eta ez. Ezen erretor gaizoak gaztigatzen baitaizkit herriko berri ttikienak, hori ez ahal zikan ahantziko!</p>
+<p>Behin Pauen zen egiteko zerbeitez Oxobi. Hantxe gauak atxemaiten du eta nihundik ere ezin etxerat itzul lo egiteko. Badoa ostaturat.</p>
+<p>—Oherik baduzue gau batentzat?</p>
+<p>—Segurki.</p>
+<p>Afari bat ederra egiten du: egunkari bat irakurtzen eta lo egiterat abiatzen da. Gelan sartzean, sehiari:</p>
+<p>—Errazu: bihar lau orenetako ethorriko zare othoi nere atzar-arazterat?</p>
+<p>—Bai, jauna bainan hiruak eta erdietan xilintxa joko dautazu?</p>
+<p>Hitz bat makurskoa aiditzea aski dute zenbeit gizonek berehala tentutik atheratzeko. Huna froga bat, bertzeak bertze.</p>
+<p>—Ganitx? Zaren bezalakoa zu! Atzoko bi arrain saltzaile hekieri zertako erran zinioten aberatsa naizela?</p>
+<p>—Anton, nik ez diotet holakorik erran...</p>
+<p>—Ez duzu zeren uka: ber-berek salatua dautet.</p>
+<p>—Gezur bat ederra sakatu dautzute.</p>
+<p>—Zer erran diozute bada.</p>
+<p>—Buru baino diru gehiago duzula. Ez da gauza bera.</p>
+<p>Nor nahi izan zaitezen, irakurtzailea, hitz hauk sarzatzu buru-bihotzetan:</p>
+<p>Datorkizula aberatsa, egiten duzu agurra:</p>
+<p>Erromesari gibeletik igortzen duzu zakurra...</p>
+<p>Miriku eskualdun batek bazuen behin muthil kaskoin bat. Etzion pikorik egin nahi muthilak. Eta futxo norbeit behar, etxerat heldu zitzaizkonen sar-arazteko baizik etzela ere, atxikitzen zuen. Eta sosaren puntan oraino!</p>
+<p>Goiz batez, mirikua deitzen dute eri batetarat: mugitzeko othoi, eria arras txar zela. Euria ari zurrutan. Muthilari galdetzen diozka zapata lodiak. Hau heldu zaio, noizbeit.</p>
+<p>—Zer, denboraren buruan, zikhinak dekarzkidatzu, zapatak? Atzotik hunat etzinioten lohi handiena bederen khentzen ahal? Zertako ez duzu egin?</p>
+<p>—Ori, Jauna, egun bardin zikhindu behar-eta, etzuela balio!</p>
+<p>Mirikua badoa. Bide guzian, zer egin behar duen, buruan: ez duela ba kaskoin batek gisa hortan eskualdun batez irri egin behar. Miatuaren bortxaz, atxematen du zer egin behar dion kaskoinari. Eta eguerditan etxerat itzuli delarik, ederki bazkaldu eta jateko guziak gordetzen ditu gakhoz. Bi orenak alderat, kaskoina heldu zaio, gosea dagola; eguerditan ez duela jatekorik izan.</p>
+<p>—Ori, gero ere gosetu behar-eta, etzinuela jan nahi eguerditan egin dut!</p>
+<p>Jaunskila bat arizana zen ostatuan herriko jaun erretoraren kontra zer-nahi erranka: ba eta deusik etzakiela, enganatzeko errexen-errexenetarik zela; behinik behin harek nahi zuenean zakuan sartuko zuela. Norbeitek erretorari salatu.</p>
+<p>—Datorla beraz: ikusiko dugu nork eginen duen azkenik irri!</p>
+<p>Hain xuxen arrats hartan berean jaunskila badoa aphez etxerat. Agur eta agur. Jaunskilak berea gogoan: aphezak ere ba.</p>
+<p>—Zer nahi duzu adixkidea?</p>
+<p>—Jaun erretora, atzo gauerdi alderat, elizako ondoan halako itzal handi bat ikusi dut! Deus onik etzen hura!</p>
+<p>—Ez othe?</p>
+<p>—Ez, ifernutik ethorri norbeit zitaken?</p>
+<p>—Zeren planta eman diozu?</p>
+<p>—Asto larri batena!</p>
+<p>—Etzaitela lotsa beraz: zure itzala zinuen!</p>
+<p>Ez dut uste gehiago ahorik ideki zuen arrats hartan gure jaunskilak: ez-eta berritz itzalik ikusi zuela elizako ondoan...</p>
+<p>Eskualdun bat nihundik etzitakeen mozkortu gabe Elizaldeko ostatuan sar. Larunbat batez kofesatzen da eta aphezari hitzemaiten dio sekulan gehiago ez duela Elizaldean zangorik sartuko. Eta atheratzen da elizatik.</p>
+<p>Urruntxago, Elizaldea. Eta futxo gure gizona egarri.</p>
+<p>—Ez diat ba gelditu behar...</p>
+<p>Bainan hurbilduago eta barneko kalda handiago. Gogor egiten du halere. Elizaldeko aintzinean, edateko errabia ikharragarri batek hartzen du. Bainan gaizo gizona azkar bere xedean: ez diola segurki aphezari bere hitza janen. Eta aintzinat badoa, burua itzulirik.</p>
+<p>Haratxago, bertze ostatu bat: Ostaleria. Han iragaitean gure gizonak:</p>
+<p>—Hau haatik bertzerik duk. Nere barnea ederki garhaitu baitut hantxet, hemen pinta bat irabazia dik. Ostaleria ez da Elizaldea, jaun erretor maitea. Zertako ez dautazu hau ere debekatu!</p>
+<p>Eta sekulako mozkorra biltzen du Ostalerian...</p>
+<p>Eskualdun bat bazen konkorra eta okherra. Denetan badire holakoak. Debruak berekin zituen eta nihork etzuen sekulan tentutik athera-araziko.</p>
+<p>Behin badoa besta batetarat. Bainan sartzeko ordaindu (pagatu) behar eta sosik aski ez izaki gure Eskualdunak. Norbeitek erraten dio:</p>
+<p>—Etzare sartuko: bizkarreko bultu horrengatik, bi aldiz gehiago ordaindu behar zinuke, zuk!</p>
+<p>Orduan Eskualdunak:</p>
+<p>—Izatekotz ere, erdia ba; nik begi batekin ikusten baitut bakharrik!</p>
+<p>Mundu guzia irriz hasi eta... urririk sartu orduan gure Eskualduna. Dena ere on.</p>
+<p>Mozkor bat urerat erortzen da. Beharrik ez du ithotzeko aski ondo. Xutitu nahi eta behin, bietan, hiruetan lerratzen. Berritz abia eta berritz urak eror-arazten, ahoa beheti. Nardatua azkenekotz, bizkarrez itzultzen da urari eta han mugitu gabe dagoelarik:</p>
+<p>—To, debruen ergela, ez dik berdin balio: ez haut maite eta ez haut edanen!</p>
+<p>Muthil gaizo bat bazuten etxe batean. Nausiak, astirik ez izanez, muthil hori igortzen du merkaturat zaldi gei bat pollita eros dezon. Arratsean muthila heldu zaio asto ttiki bat sokatik.</p>
+<p>—Burutik egin zauk naski Pello?</p>
+<p>—Zertaz hori?</p>
+<p>—Nik zaldi gei bat pollita erosteko eta, asto bat dakarrak?</p>
+<p>—Gaztea da.</p>
+<p>—Zer erran nahi dik!</p>
+<p>—Hainitz erran nahi. Adin hortan holako beharriak dituenaz geroz, munduko zaldirik ederrenak baino ederrago egin behar du asto hunek...</p>
+<p>Bethi balio du burua behar ordu txarretan ez galtzeak. Huna behin nola baliatu zitzaion Saratar bati eta nola enganatu zituen menttako inguruetan bi ohoin.</p>
+<p>Kantaz, bidean zoan arratseko hamarrak alderat. Bi ohoin heldu zaizko.</p>
+<p>—Bizi ala moltsa.</p>
+<p>Saratarrak ihardesten diote:</p>
+<p>—Zer den haatik! Nik ere gauza bera galdegin gogo nautzuen!</p>
+<p>Eta han deus egitekorik ez dutela, bi ohoinak berritz oihan beltzean sartzen dire...</p>
+<p>Halako neska bulunbasko bat, kaskoina, sehi sartu da Baionako jaun aberats baten etxean. Arratsean jaunak bere zapatak ematen ditu athe gibelean, garbi detzon sehiak. Bainan biharamun goizean hek hala-hala. Kexatzen da nausia: oihu egiten dio sehiari:</p>
+<p>—Zapata horiek ez dituzu gau huntan unkitu?</p>
+<p>—Bertzeak bertze, jauna, ez naiz ohoina!</p>
+<p>Mahain saindurat hurbilduak dire ezkontzeko amerikano zahar bat eta neskatxa gazte bat, izarra bezen ederra. Itsusi da errateko, bainan burhasoek alaba saldu diote amerikanoari bere sosarentzat.</p>
+<p>Hurbiltzen zaiote apheza eta ezkontzako sakramenduaz erraten diozkate ezkont-geieri behar diren guziak.</p>
+<p>Eta gero amerikanoari, ohi den bezala:</p>
+<p>—Nahi duzu hartu...</p>
+<p>Amerikanoak, laster-lasterra:</p>
+<p>—Bai, jauna.</p>
+<p>Aphezak orduan neskatxari:</p>
+<p>—Nahi duzu hartu...</p>
+<p>Neskatxak:</p>
+<p>—Ori, jauna, nihork ez daut egundaino galde hori egin!</p>
+<p>Berritan, Frantzia barne hortan hil zaiote deputatu bat, aski aiphatua. Parisen, maiz haren aldi zen mintzatzeko. Deputatuetan hamarretarik zortzi ahate mutuak baino ixilago baitaude, harek egun gehienez bazuen bere hitza errateko. Ez dakit eskas handirik egiten duen Frantzian. Dena dela, bertze bi deputatu, heriotze hori ikasi duteneko, hasten dire hilaz elheketa.</p>
+<p>—Eta, errazu, zoin zaitzu hilaren denboran entzun duzun mintzaldirik ederrena?</p>
+<p>—Elizan aphezak egin diona!</p>
+<p>Eskualdun bat sartu zen behin Miarritzeko ostaturik ederrenan eta han oilasko bat nolakoa jan. Gero ziren lanak: deusik erran gabe atheratzeko barneak ez ematen eta pilik ez zarpan. San Antoni othoitz bat eginik, nausiari oihu egiten dio:</p>
+<p>—Zenbat dautzut orai zor?</p>
+<p>—Berrogoi-ta hamar libera.</p>
+<p>—Baduzu naski burutik?</p>
+<p>—Froga dezadazut burutik badutala eta kito gare.</p>
+<p>—Errexki frogatuko dautzut. Burutik ez duenak ez da, diru hori balio duen oilaskorik, hiltzen!</p>
+<p>Huna hitz pollit bat; bainan irakurtuko duten mirikueri ez gaitzitzekotan ematen dut, mila gogoeta egin eta. Den gutieneko gaixtakeriarik gabe errana da bertzalde.</p>
+<p>Donapaleoko edo ez dakit nongo karrikan gizon bat zabal-zabala erori zen behin, hotzak jorik. Mundua biltzen da berehala. Apheza urruntxago lasterka heldu, hatsa galdua. Oihu egiten du:</p>
+<p>Hila da?</p>
+<p>Norbeitek orduan:</p>
+<p>—Ez, jauna, ez: mirikua ez da oraino ethorria...</p>
+<p>Bere auzo batekin makurturik, Milafrangar bat badoa Baionako lege-gizon baten ganat eta othoitzen du haren alde mintza dadien. Ezetz.</p>
+<p>—Zertako bada jauna?</p>
+<p>—Ori, ez da egia bezalakorik: zure partidari hitzemana diot. Eta bizkitartean, afera ona duzu, damu da beransko ethorri baitzare nere ganat.</p>
+<p>—Baina, jauna, nik afera ona balinbadut, nere partidak ez du hala?</p>
+<p>—Hori, ondoko egunetan ikusiko duzu...</p>
+<p>Zoazte gero zuek lege-gizonetarat!</p>
+<p>Xuhurrenerat sehi ethorri zen goiz batez debruak berekin zituen neskatxa bat. Ongi-ethorri pollita baino pollitagoa egiteko, etxeko-andreak erraten dio:</p>
+<p>—Nahi bezala izanen zare gure etxean. Hemen sehiek nausien arno bera edaten dute.</p>
+<p>Sehi berriak:</p>
+<p>—Andrea, ni beldur berritz nausiek dutela sehien arno bera edaten...</p>
+<p>Ez da dudarik noiz nahi gure mihia zaindu behar dugula. Hain errex da adixkide minenari uste gabean konplimendu txar baten egitea. Beha bada.</p>
+<p>Behin, Mugertar bat Baionan bazoan herriko-etxeari buruz, auzaphezari zerbeit galdetu behar ziola edo ez dakit zertako. Hain xuxen herriko etxean mende hartan ikusia etzuen adixkide bat kausitzen du. Hasten dire elheketa, soldadogoaz, gerlaz eta denetaz.</p>
+<p>—Eta, errak, Mugerre, orhoitzen haiz Tolosan ezagutu ginuen Landibartar neskatxa hartaz?</p>
+<p>—Katixa? Neskatxa pollit bat, bainan bera bezen ergela. Zenbatetan ez diat nere buruari erran urrikari izanen dutala haren senharra!</p>
+<p>—Nere emaztea duk atzo zortzitik...</p>
+<p>Hau da gezurti baten ederki atxematea! Hola egiten baginiote guk ere guzieri, menturaz ixil litazke.</p>
+<p>Behin Pantxika Mihiluz ari zen, bidearen gainean, Gaxuxa Zorrotzi erran eta erran. Bazarion hitz bezenbat gezur: hatsa ere gezurra zuen naski.</p>
+<p>—Badakin, Gaxuxa, gure Beñat ttikiari bi hortz galdu kausitu diozkatala?</p>
+<p>Hirur ilabete zituen Beñatek.</p>
+<p>—Harritzeko dun! Badakin zer kausitu nion nik, sortu zenean gure Maiteri?</p>
+<p>—Eta zer?</p>
+<p>—Urhezko hortz faltsu bat...</p>
+<p>Donibane-Lohitzuneko jauregi batean bazuten sehi bat Senperekoa ala ez dakit Sarakoa. Etxeko-andrea gaizoa bezen ernea neskatoa. Estakuru baten ondotik zabilan jauregitik atheratzeko: laster ezkondu beharra zen bertzalde. Egun batez badoa etxeko-andrearen ganat:</p>
+<p>—Zer nahi duzu orai ere?</p>
+<p>—Andrea, ikatz pikorrik ez da gehiago.</p>
+<p>—Zer darasazu, ikatzik ez dela?</p>
+<p>—Ez, andre.</p>
+<p>—Eta zertako egon zare orai arte horren errateko? Zertako etzare lehenago mintzatu?</p>
+<p>—Lehenago bazelakotz...</p>
+<p>Behin muthiko gazte bat ezkondu zen auzoko neskatxa batekin. Hau sosduna zen, bainan itsusia. Handik zenbeit egunen buruan, norbeitek erraten dio muthiko gazteari:</p>
+<p>—Adixkidea, harritua nago nola ezkondu zaren zu neskatxa horrekin. Uste nuen begi hobea zinuela!</p>
+<p>Muthikoak orduan, den gutienekorik kexatu gabe...</p>
+<p>—Ez dut begirat hartu, ...bainan pisurat.</p>
+<p>Ganixek Piarresi:</p>
+<p>—Harrigarri duk haatik hire zinkurinak zer diren! Bizkitartean hire emazteak berrogoi-ta-hamar mila libera ekharri daizkik bere moltsattoan...</p>
+<p>Piarresek Ganixi:</p>
+<p>—Ba, gizona, eta moltsaz ez nauk den gutienekorik errenkura: emazteaz ditiak bakharrik erratekoak!</p>
+<p>Errana da emaztekiak ez direla aise ixiltzen eta guti aski dutela orenak eta orenak elheketa galtzeko. Bainan ez da erran behar, hiltz pollitik ere atheratzen dute. Huna bat galtzerat utzi nahi ez dutana. Itsasun entzuna dut.</p>
+<p>—Erran, Manana, hire senharrak maiz badin ahoan jaun erretorak igandean aiphatu dituen hitz gizen hetarik!</p>
+<p>—Ba, ba, Kattalin.</p>
+<p>—Eta zoin zabilkan maizenik?</p>
+<p>—«Ihurtzuria».</p>
+<p>—Jesus, Maria eta Josepe! zer «ximixtak» ahal dituen orduan begietan!</p>
+<p>Amak alabari:</p>
+<p>—Zer eman hezake, haurra, ni bezen ederra izateko.</p>
+<p>Alabak amari:</p>
+<p>—Zuk ni bezen gaztea izateko eman zinezakena!</p>
+<p>Baionan elkarrekin soldado ziren bi aspaldiko ezagun: bat Pausukoa eta bertzea Biriatuarra. Alde-aldean egiten zuten lo. Gau batez, oihu egiten dio Biriatuarrari Pausuarrak:</p>
+<p>—Errak to, Biriatu, lo hago?</p>
+<p>—Eta zer nahi huke, lo ez banindago?</p>
+<p>—Zor ttiki bat egin diat egun hirian eta bihar ordaintzeko (pagatzeko) pilik ez zarpan. Ez huke bortz liberako txar bat, hik?</p>
+<p>—Adixkidea, lo nagok oren huntan.</p>
+<p>—Ez hago lo, kuia, ihardesten dukanaz geroz!</p>
+<p>—Muthikoa, ametsetan ari nauk...</p>
+<p>Kofesatzerat zoan, Umiasaindu bezperan herri bateko muthiko gazte bat, mendia bezen zabala eta haga bezen handia. Mugazain kixkila batek oihu egiten dio ostatutik:</p>
+<p>—Norat hoa tenore huntan, Ganix?</p>
+<p>—Kofesatzerat.</p>
+<p>—Nahi duk hunat sartzen haizela, pinta bat huts dezagun! Handiegi haiz hi hemendik goiti, kofesatzeko!</p>
+<p>—Handiskoa nauk egiazki; bainan nola belhauniko emaiten bainauk kofesatzeko, ez duk den gutieneko makhurik...</p>
+<p>Azkaindar batek ihardesteko ederki ihardetsia hori! Ohore Azkaindarrari.</p>
+<p>Nihundik ere elizan sarthu nahi meza sainduko denboran, bere nausiaren ondotik, zakhur zuri alimale batek eta aintzinean emaiten zaio elizako giltzaina. Zakhurrak, klask, aztaletik ausiki egiten.</p>
+<p>Erhortzen da gure giltzaina eta, eman ahala eman, muthurrean ostiko bat emanik, han-harat igortzen du zakhurra, marrumaka.</p>
+<p>Nausiak orduan, itzulirik:</p>
+<p>—Zaren bezalako bihotzgabea: zakhur hori ez othe zitzaitzun urrunduko ostikoa buztanaren gainean emanik ere, muthurrean eman gabe?</p>
+<p>—Ori, jauna, ez da dudarik buztanaren gainean emanen niola, ...buztanarekin ausiki banindu.</p>
+<p>Donibane Lohitzuneko inguru-herri batean bazen laborari bat gerlan okhertua. Ez dute, segurki eta halere, holakoek trufarik merezi, bainan bethi badire gizon bihotz gabeak. Eta guziz kaskoin horietan. Horra nun, egun batez ostatuan jaunskila kaskoin bat laboriari hasten zaion trufaka. Hau etzaio den gutienekorik kexatzen.</p>
+<p>—Adixkidea nahi dituzu barne huntan diren lagun guzien hameketakoak jokatu nik begi batekin ikusten dutala zuk biekin ere ikusten ez duzunik?</p>
+<p>Ezetz. Baietz. Hameketakoak jokatzen dituzte, lau lekuko harturik. Orduan Eskualdunak:</p>
+<p>—Nik ikusten dauzkitzut bi begi. Eia zuk ikusten dauzkidatzun? Galdua duzu...</p>
+<p>Halere merke atheratu zen kaskoina. Hogoi liberako bat baizik etzitzaion gosta Eskualdunaz trufatzea. Utz gaitzatela gure uliekin!</p>
+<p>Behin astekari «Eskualdunak» galdatu zuen langile bat, diru kondatzeen eta egiteko. Buruzagiari heldu zaio gizon adineko bat.</p>
+<p>—Badakizu lan hortan?</p>
+<p>—Bai aspaldi.</p>
+<p>—Badakizu barnean egon beharko duzula goizean lau oren eta arratsaldean bertze hainbertze?</p>
+<p>—Aise egin ditake hori.</p>
+<p>—Lehen ere egon zare naski hola?</p>
+<p>—Ba eta gehixago ere: zortzi urthe presondegian egona bainaiz, behinere atheratu gabe...</p>
+<p>Herri bateko auzapheza ohartu zen herri hartan emaztekiak ere ostatuan zabiltzala eta ostalerek maiz arno eskasa zutela etxean. Galde hemen, han galde, auzaphezak ikasten du bospasei emazteki dituela herriko edale pizkorrenak eta naski pinta... keta handisko batek ere ez dituela doña horiek losatzen.</p>
+<p>Orduan etzen orai bezala sosaren puntan. Ikusi behar duela beraz eia famaren araberako obrak dituzten emazteki horiek, bat deitzen du bere etxerat: Kattalin Zintzur.</p>
+<p>—Erran no, Kattalin: diru puska bat norbeitekin jokatu dinat bi lagunekin husten ditunala ehun pinta arno argitik argirat. Hiri zer zaun?</p>
+<p>—Bai jauna, ez da ezin egina.</p>
+<p>—Nor hartuko ditun laguntzat?</p>
+<p>—Zuk nahi ditutzunak, jauna.</p>
+<p>—Maria Mamutsa, bat.</p>
+<p>—Bai jauna: aski barne ona du.</p>
+<p>—Eta Mikaela Zorrobeltz, bertzea?</p>
+<p>—Mikaela, jauna! Ez segurki. Zure dirua galdua zinuke: dozena bat pinta edan orduko, elhea nausitzen zaio!</p>
+<p>Gerlan ibili direnek badakite aleman aintzindarien urguiluak etzuela neurririk eta itsasoa bera bezen handia zela. Denez trufatu beharrak ziren. Bainan uste etzuten lekuan, kausitu baitute zenbeit aldiz erbia lo, hek ere!</p>
+<p>Egun batez, hamahirur-hamalau urtheko beljikano muthil koxkor bat bazoan Gand deitzen den hiri ederreko karriketan gaindi asto gainean. Oihu egiten dio aleman kapitain buru eta begi zuri batek:</p>
+<p>—Errak to, nola dik asto horrek izena?</p>
+<p>—Ez du izenik.</p>
+<p>—Izenik ez badu, Albert deithuko duk hemendik goiti.</p>
+<p>Albert Beljikako errege onaren izena zen. Haurrak ez du holakorik nahi segurki:</p>
+<p>—Jauna ez diot sekulan izen hori emanen nere astoari. Hori egiteko, sobera maite dut nere erregea!</p>
+<p>—Bainan hire erregea ez duk gehiago Albert. Hire erregea orai, Guillaume gure enperadore handia duk!</p>
+<p>Haurrari orduan halako irri zuri maltzur bat ezpainetan ikusirik, berehala kapitainak, kexu-kexua, erraten dio:</p>
+<p>—Eta hire onetan ez duk gero Guillaume deithuko beharri luze hori!</p>
+<p>—Etzazula beldurrik izan, jauna: hori egiteko, sobera maite dut nere... astoa!</p>
+<p>Eskual-Herriko xokho pollit batean nonbeitko jaunskila bixarduna hautatua dute auzapez bezala. Zertako? Herritarretan nihor ez delakotz ohore gose edo jaunskilak bere xapel xuriarekin denak xoratu dituelakotz. Dena dela, hau erran ditake: auzaphez berriari xapelak ez diola burua hanbat bethetzen eta orai lehen bezela bidea luze... bezen asto dagola. Bainan badakizue zer den holakoetan gertatzen: gutiena dakitenek dute gehienik jakintsun agertu nahi!</p>
+<p>Egun batez, delako auzapheza badoa beraz herriko eskolarat, haur guziak bere jakitateaz harritu behar dituela. Eta galde hau egiten diote:</p>
+<p>—Eia nork dakien zer den «deusere»? — Hori galdea egiteko! Zer den «deusere»?</p>
+<p>Haur batek ihardesten dio, ahotik athera dueneko:</p>
+<p>—Ori, jauna, egun hoitan zure zaldia atxiki eta eman dautazuna!</p>
+<p>Euskalzainburua izentzat harturik, duela urthe pare bat Donostian egin dute gure mintzaira paregabearen alde lan egiteko batasun bat. Han biltzen diren hamabi jaunek badute jada zerbeit eginik eta zerbeit egin gogo oraino. Hitz berri bat egiten dute ba, gutiz gehienak orroaz hasten dire ez dugula hitz berri beharrik. Eta Eskuara emeki emeki galtzerat doa. Bi gauzentzat, hitz bat. Hala nola, erretreta. Zer da erretreta? Aphez arrotzak herri batean zortzi, hamar, hamabortz egunez egiten dituen mintzaldi sarkorrak... eta ere asko besta arratsetan argi batzu makhilen puntan, musikarekin egiten den karriketako itzulia.</p>
+<p>Makhur bidea hori ere. Huna froga. Azkaingo jaun erretor zenak Uztailaren zazpian bere populuari erran zion ondoko astean eman-araziko zuela lehen komunioneko erretreta: handiek ere ongi eginen zutela erretretari jarraikitzea.</p>
+<p>Uztailaren hamaulauean bazen bertze erretreta hura ere. Neska tzar bat han zabilan musikarien ondotik, puttinka. Amak ikusten du.</p>
+<p>—Erran, no, horiek ditun manerak? Adin hortan?</p>
+<p>—Ama, bainan jaun erretorak manatu dauku-eta handiak ere jarraik gaitezen ahal bezenbat erretretari: adin guzietan zerbeit ikas ditakela!</p>
+<p>Paristarrek uste dute zer-nahi badakitela. Hangoa izatea aski. Hanbatik hanbatean, Eskual-Herrirat bizpahirur asterentzat heldu direlarik sinhesten balituzte, Eskualdunek bizitzeko molde berri batzu hartu behar lituzkete deus onik egitekotz. Zer den haatik!</p>
+<p>Zer dakite Paristarrek, Eskualdunek baino gehiago? Othe dakite Eskualdunek bezenbat ere?</p>
+<p>Uda huntan, Donibaneko inguruetan, laborari bat ari zen baratzeko alhor batean ongarri hedatzen. Paristar bat heldu zaio, espartin xuritan.</p>
+<p>—Zer ari zare hor, gizon maitea? Ez duzu ikusten ongarri horrek zure lur guzia usteldu behar dautzula!</p>
+<p>Egiazko ametsetako lukainka!</p>
+<p>Laphurdiko herrixka batean bazen mugazain kaskoin bat. Urtheak baitzuen harat ethorria zela, arras egina zen herriko. Eskuara ere guti edo aski ikasia. Bainan kaskoina bethi kaskoin: aho betheka zerabilkan espantua: pilotan ere kasik herriko hoberenaren kontra ariko. Nihork etzion bada partidarik egin nahi; paperak xuri nahi dituzte Eskualdunek.</p>
+<p>Delako kaskoinari artzain batek bazion hartzeko puskatto bat. Demuntreari nola khen ordean sos bat ere! Galdetzea ikusi eta merezi zuen bezala inharrosteko barneak ez ematen! Lanean zen segurki artzain gaizoa. Igande goiz batez haatik xoria ederki eskurat ethorri eta, etzuen eskapatzerat utzi.</p>
+<p>Kaskoinak nihundik ere buruz-buruka ari nahi, artzaina ezker xoilaz. Artzainak etzela bi eskuekin ere ariko.</p>
+<p>—Zer zare beraz galtzea beldur?</p>
+<p>—Ez, jauna, ez naiz galtzea beldur... bainan irabaztea!</p>
+<p>Oraiko haurrek zazpi izpiritu badituztela ez da dudarik. Hamar urtheko nexka bat nigar eta nigar gelatik sukalderat heldu zaio amari. Lekhornen holakorik gerta ditakela ere ezin sinhetsia da.</p>
+<p>—Zer duzu maitea?</p>
+<p>—Ama, bazinaki...</p>
+<p>—Etzazu nigarrik egin othoi. Zer da?</p>
+<p>—Gelako mirail handia nere panpinak hautsi duela!</p>
+<p>Senharrak emazteari:</p>
+<p>—Harrigarri da, Ganaxume, nik erranetarik bat ez duzula zuretzat atxikiko; herri guziak jakin behar denak!</p>
+<p>Emazteak senharrari:</p>
+<p>—Piarres maitea, nik aise atxik nezake; bainan aski dut hauzoko hirur emazteki mihi luze horieri erratea, horiek berehala hedatzeko.</p>
+<p>Zozoak beleari beltza dela...</p>
+<p>Behin bazen Miarritzeko ostatu handi batean sehi eskualdun bat: Luxina. Uste dut Bidarraitarra zen. Dena dela, Eskualduna zelakoan, hura zabilkaten sehi lagunek mahain batetik bertzerat jende mindusko norbeit heldu zitzaioten guzietan. Luxinari bardin zitzaion: bazakien denekilakoaren egiten eta behar orduan, bakhotxaren bere lekhuan ematen.</p>
+<p>Egun batez heldu zaio halako jaunskila zango luze bat bergako muthurrarekin eta jaterat galdetzen du. Sehi batek erematen diozka lehenik salda, gero oiloa aza egosiekin, hirurgarrenekorik saltsa. Gure jaunskilak ez ditu mihi puntaz baizik unkitzen, tzarrak direla. Bertzerik ez dela, ekhar detzotela bederen bi arroltze.</p>
+<p>Zer gerta ere sehi lagunak Luxinari ematen diozka bi arroltzeak jaunskilari ereman detzon. Eta badoako Luxina, haya-haya.</p>
+<p>Arroltzeak ikusi ditueneko, jaunskilak:</p>
+<p>—Ongi arroltze ttikiak ditutzu hauk!</p>
+<p>Luxinak batere kexatu gabe:</p>
+<p>—Jauna ez da harritzeko: doidoia goizean sortuak dire eta...</p>
+<p>Bergako muthurra bazuen sartzean jaunskila zango luzeak, atheratzean berga bat eta erdikoa zuen gutien-gutienetik!</p>
+<p>Eskualdunak zozo batzu garela baitiote kaskoin zenbeitek, hekientzat hitz hauk, Eskuararik balinbadakite bederen...</p>
+<p>Etxeko-andrea baratzean lur-sagar atheratzen ari zen denboran, sukaldeko manka gainetik pastiza puska bat eskastu zitzaion behin.</p>
+<p>Ohartu orduko, oihu egiten dio etxeko mutilari: hamar urthe zituen doidoia hunek.</p>
+<p>—Pettan, Pettan?</p>
+<p>—Zer nahi duzu, etxeko-andrea?</p>
+<p>—Nun da mankaren gainean utzia nuen pastiza puska?</p>
+<p>—Ori, goseak hila zagon mutiko bati jan-arazi diot.</p>
+<p>—Ah, halere ez da gaizki hori! Bainan nun da mutiko hura hamar soseko bat eman dezodan?</p>
+<p>—Emadazu beraz neri: ni nintzen hala gosetua!!!</p>
+<p>Egun batez bi Eskualdun mahain baten puntan bi pinta jokaturik zoinek bertzea ixil-araz ari ziren, erran eta erran.</p>
+<p>Batek — Nere aita 95 urthetan hil zukan eta ama 102-etan.</p>
+<p>Bertzeak — Hori duk? To, nereak ez dituk oraino hilak!</p>
+<p>Bi Mehaindar Hazparneko merkatuan, Mayi-ren ostatuko athean tente.</p>
+<p>—Nik ez diat gehiago zangorik sartu nahi ostatu hortan.</p>
+<p>—Zertako?</p>
+<p>—To, azken merkatuan nere gapelua hartu baitzautan norbeitek eta berea utzi!</p>
+<p>—Hortako eta bereko sartu behar duk ba! menturaz egun atxemanen duk hire gapelua!</p>
+<p>—Ez nikek nahi ere: nerea zaharra zukan eta... utzi dautatena berria!!!</p>
+<p>Kalixtro eta Xiriku elheketa ari dire, bidearen erdi-erdian.</p>
+<p>—Ez diat gehiago ahaide hurbilik.</p>
+<p>—Zer dituk hil?</p>
+<p>—Ez: aberastu!</p>
+<p>—Errazu, Ganix, ehun liberako bat, duela urthe bat eta erdi, eman bainautzun, urthe batentzat, ez ahal duzu ahantzi?</p>
+<p>—Orhoitzen naiz segurki.</p>
+<p>—Orai behar nuke. Itzuliko dautazu othoi zortzi egun gabe? Eskualdunak ez du hitz bat baizik!</p>
+<p>—Ori, Pettan, nik ere ez dut bertzerik!</p>
+<p>Milafrangar bati behin gain-gainetik Baionako lege-gizon gazte bat aiphatu zioten, lastersko auzi zerbeit bazuelakotz. Kaskoina zen lege gizon hori.</p>
+<p>—Jakintsuna da?</p>
+<p>—Ez duzu jakintsunagorik!</p>
+<p>Eta Milafrangarrari ez iduritzen halere kaskoinetan bazela jakintsunik, bera badoa taka-taka haren ganat, ikusi behar duela ba.</p>
+<p>—Jauna, auzi bat badut ondoko egunetan eta zuk zer-nahi badakizula aditua dut.</p>
+<p>—Ez, ez zer nahi! Bainan zuretzat aski ba naski.</p>
+<p>—Erradazu beraz hau: nere gapoinak hauzoko etxean egiten du arroltze bat. Norena da arroltzea, nerea ala auzoarena?</p>
+<p>—Zurea.</p>
+<p>—Segur zare hortaz, jauna?</p>
+<p>—Arras segur.</p>
+<p>—Ni ez berritz!</p>
+<p>—Zertako? Ala legeak nik baino hobeki ezagutu nahi ditutzu, zuk?</p>
+<p>—Legerik ez dakit nik, bainan hau badakit: arroltzea ez dela nerea.</p>
+<p>—Zertako bada?</p>
+<p>—Ori, jauna, gapoinak ez baitu arroltzerik egiten!!!</p>
+<p>Ihiztaria eta emakumea: hirur-lau lerrotako ixtorioa.</p>
+<p>—Beha zozu othoi atzo hil dutan azeri eder huni: eskualde hautan behinere ez nuen ikusi mota huntakorik.</p>
+<p>—Ai, Jainko maitea, nere xakurra hil duzu...</p>
+<p>Aski gaizki erraten dute jaun mirikuentzat, noizetik noizerat ongi pixka bat ere erran dezagun «Gure Herrian». Behinik behin aitortu behar da ederki badakitela jaun horiek zauriaren gaineko pikoaren ematen. Beha bada.</p>
+<p>Gaxinak.— Bainan, jaun mirikua, nitaz trufatu nahi othe duzu bederen?</p>
+<p>Mirikuak.— Zertako hori, Gaxina?</p>
+<p>Gaxinak.— Arras eri naizela erraiten dautzut nik eta zuk... aski dutala pausatzea...</p>
+<p>Mirikuak.— Hala da eta.</p>
+<p>Gaxinak.— Hala dela eta ez dautazu ahoa idekarazi ere mihiaren ikusteko!</p>
+<p>Mirikuak.— Zertako zure mihiari beha? Ikusi gabe badakit, Gaxina, harek ere pausatzea on izanen duela!</p>
+<p>Aintxitxarburuko emazteki bat Baionako jaun jujearen aintzinean da, zerbeit ohointza larri eginik. Ez du lehen aldia.</p>
+<p>Jujeak.— Zer adin duzu?</p>
+<p>Emaztekiak.— Hogoi-ta zortzi urthe.</p>
+<p>Jujeak.— Hogoi-ta zortzi urthe ditutzula? Duela sei urthe hementxe berean hogoi-ta zortzi urthe zintuela erran zinuen.</p>
+<p>Emaztekiak.— O Jauna, ez naiz ni egun bat eta bihar bertzea erraiten dutenetarik!</p>
+<p>Bi mugazain kaskoin Ezpeletako beribil handi hartan sartuak jada, Eskualdun bat alderat heldu zaiote: hau lodiskoa naski.</p>
+<p>Kaskoin batek orduan.— Hau duk kamelua alderat heldu zaikuna!</p>
+<p>Eskualdunak berehala.— Bai egiazki, Ezpeletako beribil hunek Noe zenaren untzia iduri du orai.</p>
+<p>Bi Kaskoinek.— Zertako?</p>
+<p>Eskualdunak.— Noeren untzian abere mota guzietarik baitzen eta hemen orai baitire kamelu bat eta... bi asto...!</p>
+<p>Ederki hori!</p>
+<p>Ganden udan gure eskualdetako errekak agorturik ere, ez zuten errota-zain guziek beren omore ona galdu. Ikus-azue othoi.</p>
+<p>Norbeitek errota-zainari.— Holako erreka ederra baduzu hemen eta nolaz ez duzu urik?</p>
+<p>Errota-zainak irriz-irri: — Ez harri, adixkidea: hemengo ura hain ona zen nun den-dena lurrak edan baitaut!</p>
+<p>Badire haatik guti balio duten nausiak mundu zabalean eta ez da harritzeko zenbeit etxetan sehiek ez badute laketzen! Huna froga bat. Ez da Eskual-Herrian gertatua.</p>
+<p><hi rend='Italic'>Etxeko-andreak</hi>.— To, huna sagar bat usteldua...</p>
+<p><hi rend='Italic'>Nausiak</hi>.— Emozu sehiari.</p>
+<p><hi rend='Italic'>Etxeko-andreak</hi>.— Ez eiki: ez da aski usteldua hortako...</p>
+<p>Bi nausi-muthil behi deizten ari ziren behin Senperen, heia eder batean. Hotz ari zuen. Nausiak oihu egiten dio mutilari doan laster athearen hesterat, hotza ez dadin sar.</p>
+<p>Mutilak orduan:</p>
+<p>—Gakoz hetsi behar da, jaunak?</p>
+<p>Emaztekiaren bihotza!</p>
+<p>Sehia lasterka heldu zaio etxeko-andreari xayako zurubietarik erori dela nausia, goraskotik naski eta zango bat hautsi dukeela.</p>
+<p>—Beheiti zoan ala goiti heldu zen?</p>
+<p>—Beheiti zoan, etxeko-andrea.</p>
+<p>—Hobe, hobe! hola bederen botoilak hautsi baditu hutsak zituen!</p>
+<p>Huna hitz laburrez nolakatuak diren oraiko anderexkila kaskoin batzu. Egiazki irri egingarriak dire.</p>
+<p>Bat xapel saltzaile baten etxean, xapelak negur eta negur. Noizbeit:</p>
+<p>—Zenbatetan hau?</p>
+<p>—Hori, bortz ehun libera.</p>
+<p>—Kariosko da, bainan ederra baita hartzen dautzut halere.</p>
+<p>—Ai, barkatu, nere neskatxa maitea: ez du horrek ehun eta berrogoi-ta hamar libera baizik balio...</p>
+<p>—Fu zikhin! laster ikus-azu beraz hunat ederragoko bat...</p>
+<p>Beharrik ez dugu oraino holakorik Eskual-Herrian!</p>
+<p>Zure haurrek zerbeit ebasten dautzutenean, eta ez badautzute zoin den ohoina aitortu nahi, amatto maitea, huna zer eginen duzun. Hori eginik behin, ongi heldu nintzen ni.</p>
+<p>Pilota bat norbeitek ebatsi zautan eta haur zenbeiten beldurra nuen. Bati galde, galde bertzeari, eta denek timoin ukatzen. Andana bat bil-arazi nuen orduan eta hitz xoil-xoil hauk erran niozkaten:</p>
+<p>—Haurrak, xori urden batek erran daut beharri xilorat haur batek ebatsi dautala nere pilota, aski ditudala biltzea eta zoin den aise ikusiko dutala: sudurraren puntan harek luma ttiki gorri bat landatua diola...</p>
+<p>Hori erran nueneko batek erhiak luzatzen ditu luma gorria han othe duen. Eta nik orduan: — Hi haiz, to, nere ohoina: xori urdinak salatu hau. Haizen bezalakoa! Apho txarra! Emadak laster nere pilota eta hoakit begien bixtatik!</p>
+<p>Norbeitek ohoin baten atxemateko deus hoberik balin badaki, laster hel-araz dezola «Gure Herriari». Hemen bada guzien toki eta hameka ameri baliatuko zaiote.</p>
+<p>Herri batean, ez dakit nun, gizon bat bazen arras gisakoa: langilea zen, mihi garbia eta arras elizatiarra. Bainan aski aberatsa izanagatik gure gizona, nihork ez zuen behinere behardunari sos baten ematen ikusten. Harrituak zauden herritarrak.</p>
+<p>Behin herriko erretorarekin elheketa ari zelarik, jaun horrek erraten dio beraz:</p>
+<p>—Errazu: zu holako gizon ona, zertako ez duzu bada sekula santan amoina bat egiten?</p>
+<p>—Ori, jauna, zure gatik!</p>
+<p>—Nere gatik? Zertako nere gatik?</p>
+<p>—Ori, jauna, igande gehienez predika-alkitik hauxe errepikatzen baitaukuzu, orroaz: Ez zozuela bertzeri egin hek zueri egitea nahi ez zinduketena...</p>
+<p>Eskualdun mariñel bat herrirat heldu zaiote denboraren buruan, Chinan eta denetan ibilirik eta herritarrek galdetzen diote zeri ohartu den gehienik bere itzulietan.</p>
+<p>—Oi, guziz Chinan jendeak gu bezala bizi direla!</p>
+<p>—Ba othe?</p>
+<p>—Ba segurki. Mukua ere mokanesik gabe, erhiekin kentzen dute... Zuek eta nik bezala!</p>
+<p>Ez da egia bezalakorik: oraiko mendean denetan, bada denetarik. Aithor dezagun beraz lañoki Eskualdunetan ere badirela... bertze asko bezen erneak ez direnak. Froga bat huna.</p>
+<p>Behin Eskualdun horietarik bat ari zen putzu handi batetarik untzixka batekin bere panderuaren bethetzen, gero hartan lur sagarrak egosteko. Horra nun betbetan ilhargia urean ikusten duen.</p>
+<p>—Jesus, ilhargia urerat erori duk! Ez dik ba nihork erran behar Eskualdun batek ithotzerat utzi duela!</p>
+<p>Eta hasten da ura har eta bazterrerat ixur, putzua hustu arte. Eta futxo! orduan ilhargirik han ez gehiago ikusten, begiak zerurat altxatzen ditu.</p>
+<p>—Eskerrak Jainkoari, ilhargia berritz han duk zeruan! Zer lana egin dutan haatik!</p>
+<p>Eta bihotza halako gozo batez bethea, orduan etxerat badoa, untzian urik gabe eta galtzak iphurdiraino bustiak, tuku-tuku.</p>
+<p>Gaizo Jainkoaren ardia, zer katixima eman zion arrats hartan bere amak!</p>
+<p>Jugearen aintzinean, Kalixtro eta Xiriku: bi orga belhar ebatsi diozka Kalixtrok Xirikuri. Jaun jujeak:</p>
+<p>—Errazu, Kalixtro, Xirikuri zertako ebatsi diozkatzu bi orga belhar?</p>
+<p>—Jaun jujea, gosez hil nahi ez denean zerbeiti lotu behar baita!</p>
+<p>Bidarraiko ostatu batean, aintzinerat emana zioten amorroina zaharskoa iduriturik, gure adixkide Oxobi eta Anxuberrok sehiari galdetu zioten fede hoberenean nausiak noiz erosia zuen amorroin hura.</p>
+<p>—Jaunak, nik ez dakit: sei egun ditu doidoia hemen sehi sartua naizela!</p>
+<p>Batzuek merke dute espantua.</p>
+<p>Bi ama beraz karrikaren erdian dagozi, nunbeitko hirixkan, batek bere lau ilabeteko haurra besoetan.</p>
+<p>—Hori haur ederra!</p>
+<p>—Berrogoi liberaz goiti baditu jada...</p>
+<p>—Eta laur ilabetetako zer ile beltz paregabeak!</p>
+<p>—Ba, eta gehiago dena, atzo hirur zorri atxeman baitiozkat, mendia bezen handiak...</p>
+<p>Kalixtro espantuka ari zen behin ostatuan adixkide bat bazuela sekulako kantari ederra, menturaz munduko ederrena zela: damurik zela pekada bezen gogorra. Nihork ez zuen sinhesten.</p>
+<p>Norbeitek Kalixtro ixildu orduko:</p>
+<p>—Bainan, gizona, pekada bezen gogorra bada zure adixkidea, nola ohartzen da bere kanta akhabo duenean?</p>
+<p>Kalixtro den gutienekorik durduzatu gabe:</p>
+<p>—Nola ohartzen den? Nik egiten diot keinu...</p>
+<p>Gizon gaztesko bat eske zabilan. Buruz buru egiten du Eskualdun aphez batek eta hogoi soseko bat ematen dio.</p>
+<p>—Milesker jaun apheza.</p>
+<p>—Ez da zeren, bainan errazu, adixkidea: gaztea zare oraino, baduzu bertze batek bezenbat indar: ofizio hori utzirik, bertze bat har bazineza!...</p>
+<p>—Gogotik hartuko dut, jaun apheza, bat irakusten badautazu hoin guti eginik hoinbertze ematen duenik!</p>
+<p>Eta hala ditake naski, ezen emendatuz doatzi gure herrietan barna ere eskaleak!</p>
+<p>Bi pilotari behinere oraino elkarrekin arizanak etzirenak Donibaneko bestarat bazoazin, elhe eta elhe. Ni, bazterretik entzuten.</p>
+<p>—Zertako habilkate hola plazaz plaza?</p>
+<p>—Besoz baino gehiago buruz ari naizelakotz pilotan.</p>
+<p>—Errex duk beraz hire kontra jokatzea?</p>
+<p>—Zertako?</p>
+<p>—Omenak dionaz, iduritzen baitzaiat ez dukala beraz beso handirik...</p>
+<p>Eskualdunari hitzka irabazi nahi dion Kaskoinak berritz sortu beharko du. Ala ez othe?</p>
+<p>Kaskoin bat sartzen da nunbeitko ostatuan eta esne xorta bat galdetzen du, bero-beroa. Sua phizteko eta esnearen berotzeko denbora eta mahainerat aski laster ekhartzen dio ostatuko mutilak. Hau, erran gabe doa, Eskualduna.</p>
+<p>—Ordu zuen, adixkidea: oren huntan beha nago!</p>
+<p>—Zure falta da, jauna.</p>
+<p>—Nola da nere falta?</p>
+<p>—Aski zinuen oren bat lehenago manatzea!</p>
+<p>—Kalixtro, iguzki eder hunekin denak sutan atheratuko dituk lurretik.</p>
+<p>—Ez balinba! nere amainarreba duela zortzi egun ehortzia diat!</p>
+<p>Bederatzi orenak ziren doidoia eta bere ohean zen jada kaskoin bat. Lokhartzerat zoan. Athetik oihu egiten dio norbeitek anaia betbetan txarturik hiltzen ari zaiola.</p>
+<p>Zer egin? Itzultzen da bertzalderat, bere buruari hau erranik:</p>
+<p>—Gaizo anaia! Zer bihotzmina behar dutan bihar goizean iratzartzen naizelarik.</p>
+<p>Nere beharriz entzuna hau, iduri ez duelarik...</p>
+<p>Bi Uztariztar neskatxa kanporat abian ziren behin, arratseko bederatzieri buruz, aire hartzerat.</p>
+<p>—Erran, Katalin, ilhun dun kanpo hortan?</p>
+<p>—Ez zakinat, Maria, ez dinak ikusten, argiak ez ditun oraino phiztuak!</p>
+<p>Ezkondu eta hirur urtheren buruko.</p>
+<p><hi rend='Italic'>Emazteak</hi>.— Badakizu beldurtzen hasia naizela nere dotearentzat hartu ninduzula!</p>
+<p><hi rend='Italic'>Senharrak</hi>.— Aithortuko othe duzu ez dutala segurki ebatsia.</p>
+<p>Uruski ez da behinere holakorik Eskual-Herrian entzuten!</p>
+<p>Muthiko bat ostaturat badoa pinta bat arnoren galdez.</p>
+<p>—Norentzat duk?</p>
+<p>—Nere nausiarentzat.</p>
+<p>—Xuritik ala gorritik?</p>
+<p>—Ez du munta: nausia itsua dut...</p>
+<p>Berritan Donapaleoko inguruetan bazen bere gisako sasi-miriku bat, inguru herrietako gaixoez ederki baliatzen zena... ongi bizitzeko. Horra nun egun batez Oraarren etxe batean eritzen zaioten aitaso. Deitzen dute berehala delako mirikua eta hau taka-taka heldu zaiote, liburu handi bat galtzarrean.</p>
+<p>—Ai, jauna, aldi huntan akhabo dugu aitaso!</p>
+<p>—Emazue hortik! Nere othoitzekin sendatuko dautzuet oraino! Eta mar-mar-mar hasten zaiote bere liburu handia idekirik irakurtzen.</p>
+<p>Debruak berekin zituen muthikoxka bat hurbiltzen zaio artean, zer liburu mota duen ikusi nahiz, eta horra nun azpikoz gora daukala ohartzen zaion.</p>
+<p>—Zer duzu irakurtzeko molde hori zuk, jauna?</p>
+<p>—Emak bakea hortik, apho txarra.</p>
+<p>—Bainan zure liburua gain-beheiti daukazu!</p>
+<p>—Gaitz mota hunek hala behar dik! Habil hortik!</p>
+<p>ZERBITZARI</p>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI.2>
+

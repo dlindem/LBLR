@@ -1,0 +1,372 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+                       "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+   <!ENTITY % TEI.prose    'INCLUDE' >
+   <!ENTITY % TEI.linking  'INCLUDE' >
+   <!ENTITY % TEI.analysis 'INCLUDE' >
+   <!ENTITY % TEI.figures  'INCLUDE' >
+   <!ENTITY % TEI.XML      'INCLUDE' >
+   <!ENTITY % TEI.extensions.ent SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.ent' >
+   <!ENTITY % TEI.extensions.dtd SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.dtd' >
+]>
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+     <titleStmt>
+        <title>Euskal lanak</title>
+        <author>Arturo Kanpion</author>
+        <respStmt>Ez dauka</respStmt>
+     </titleStmt>
+     <extent>5.683 hitz, 43.814 karaktere</extent>
+     <publicationStmt>
+        <publisher>Klasikoen Gordailua [http://klasikoak.armiarma.com/]</publisher>
+        <distributor>Estrata Liburuak S.L.</distributor>
+        <address type='email'>klasikoak@armiarma.com</address>
+        <idno type='ota'>Kanpion</idno>
+        <availability status='free'>Erabilpen librekoa; honoko helbidean topa daiteke (HTML, RTF eta PDF formatuetan): http://klasikoak.armiarma.com/idazlanak/K/Kanpion.htm</availability>
+        <date>2006</date>
+     </publicationStmt>
+     <sourceDesc>
+        <bibl>Iturria: Leiendak (1879-1891), Askoren artean (Ana M. Toledoren edizioa). Euskal Editoreen Elkartea, 1990.</bibl>
+        <notesStmt><note>Iturburuen datazioa: 1878-1909</note></notesStmt>
+     </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+     <projectDesc>Euskal literaturako testu klasikoen bilduma da KLASIKOEN GORDAILUA; testu hau berorren parte da</projectDesc>
+     <refsDecl>
+        <p>MENTIONED etiketa egilearenak ez diren hitzak markatzeko erabili da: hitzaurreak, aipuak, iruzkinak, e.a.</p>
+    </refsDecl>
+     <classDecl>
+        <taxonomy id='generoa'>
+            <category id='G-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='G-ANT'><catDesc>Antzerkia</catDesc></category>
+            <category id='G-BER'><catDesc>Bertsoak</catDesc></category>
+            <category id='G-ERL'><catDesc>Erlijioa</catDesc></category>
+            <category id='G-NAR'><catDesc>Narratiba</catDesc></category>
+            <category id='G-POE'><catDesc>Poesia</catDesc></category>
+            <category id='G-SAI'><catDesc>Saiakera, kronika, artikuluak...</catDesc></category>
+        </taxonomy>
+        <taxonomy id='garaia'>
+            <category id='M-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='M-16'><catDesc>XVI. mendea</catDesc></category>
+            <category id='M-17-1'><catDesc>XVII. mendea - 1. erdia</catDesc></category>
+            <category id='M-17-2'><catDesc>XVII. mendea - 2. erdia</catDesc></category>
+            <category id='M-18-1'><catDesc>XVIII. mendea - 1. erdia</catDesc></category>
+            <category id='M-18-2'><catDesc>XVIII. mendea - 2. erdia</catDesc></category>
+            <category id='M-19-1'><catDesc>XIX. mendea - 1. erdia</catDesc></category>
+            <category id='M-19-2'><catDesc>XIX. mendea - 2. erdia</catDesc></category>
+            <category id='M-20-1'><catDesc>XX. mendea - 1. erdia</catDesc></category>
+            <category id='M-20-2'><catDesc>XX. mendea - 2. erdia</catDesc></category>
+        </taxonomy>
+        <taxonomy id='euskalkia'>
+            <category id='E-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='E-BAT'><catDesc>batua</catDesc></category>
+            <category id='E-BIZ'><catDesc>bizkaiera</catDesc></category>
+            <category id='E-BNA'><catDesc>behenafarrera</catDesc></category>
+            <category id='E-ERR'><catDesc>erronkariera</catDesc></category>
+            <category id='E-GIP'><catDesc>gipuzkera</catDesc></category>
+            <category id='E-GNA'><catDesc>goi nafarrera</catDesc></category>
+            <category id='E-LAP'><catDesc>lapurtera</catDesc></category>
+            <category id='E-NAF'><catDesc>nafarrera</catDesc></category>
+            <category id='E-ZAR'><catDesc>zaraitzuera</catDesc></category>
+            <category id='E-ZUB'><catDesc>zuberera</catDesc></category>
+        </taxonomy>
+    </classDecl>
+  </encodingDesc>
+  <profileDesc>
+     <textClass>
+       <keywords scheme='generoa'>
+         <list><item>G-NAR</item></list>
+       </keywords>
+       <keywords scheme='garaia'>
+         <list><item>M-19-2</item></list>
+       </keywords>
+       <keywords scheme='euskalkia'>
+         <list><item>E-GIP</item></list>
+       </keywords>
+     </textClass>
+  </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>Euskal lanak -- Arturo Kanpion</docTitle>
+    </front>
+    <group>
+      <text>
+        <front>
+          <head rend='Bold'><p>ORREAGA</p></head>
+        </front>
+        <body>
+<p><foreign><hi rend='Italic'>Balada escrita en el dialecto guipuzcoano por D. Arturo Campión.</hi></foreign></p>
+<p>1878</p>
+<p><hi rend='Bold'>I.</hi></p>
+<p>Gaberdia da. Karlomano Errege Auritz-berrin dago bere ekerzito guziarekin. Zeru illunean ez da ageri, ez illargirik, ta ez izarrik; urrutira sugar andiak distiatzen dute menditartean; Frantzesak kantatzen ari dira errian; Altabizkarko inguruetan sentitzen dira otsoen izugarrizko marruak, eta Euskaldunak zorrozten dituzten bitartean beren dardo ta aizkorak Ibañetako aitz eta arrietan.</p>
+<p><hi rend='Bold'>II.</hi></p>
+<p>Antsiarekin Karlomanok ezin du loa bereganatu; oyaren ondoan bere pajetxo batek irakurtzen du amoriozko kondaira bat; urrutitxiago, Erroldan indartsuak garbitzen du bere Durandarte ezpat famatsua, eta Turpin arzepizpiku onak errezatzen dio Jaungoikoaren Ama santubari.</p>
+<p><hi rend='Bold'>III.</hi></p>
+<p>Pajetxo neria —dio Karlomano Erregek—, zer da gabazko isilltasuna austen duen ots ori! —Jauna —erantzuren dio pajeak—, Iratiko, itsasoa bañon andiyagoko basoaren ostoak dira, aiziak mugitubak. —A! gazte maitiya, eriotzaren deadarra diruri, eta nere biyotza beldur da.</p>
+<p><hi rend='Bold'>IV.</hi></p>
+<p>Gaba oso illuna da. Ez da zeruban ageri illargirik, ez izarrik; urrutira sugar andiak diztiatzen dute menditartean; Frantzesak lo daude Auritz-berrin; Altabizkarko inguruetan otsuak marruaz dira, eta Euskaldunak zorrotzen dituzte beren dardo ta aizkorak Ibañetako aitzetan.</p>
+<p><hi rend='Bold'>V.</hi></p>
+<p>Zer da ots ori? —galdetzen du berriro Karlomanok, eta pajeak, errendituba loaz, ez dio erantzuten. —Jauna —dio Erroldan indartsuak—, mendiko ujola da, Andresaroko ardi-taldeen beadia da. —Intziri bat diruri —erantzuten du Errege Frantsesak. —Egiya da, Jauna —dio Erroldanek; erri onek negar egiten du gugaz oroitzen danean.</p>
+<p><hi rend='Bold'>VI.</hi></p>
+<p>Larritazunarekin Karlomanok ezin du loa bereganatu; lur eta zeruak argigabe daude; otsoak ari dira marruan Altabizkarren; Euskaldunen aizkorak eta dardoak diztiyatzen dute Ibañetako ariztartean.</p>
+<p><hi rend='Bold'>VII.</hi></p>
+<p>A! —suspiratzen du Karlomanok—. Ezin det loa nereganatu; sukarrak erretzen nau. Zer da ots ori? —Eta Erroldanek, loak arturik, erantzun ez zion. —Jauna —dio Turpin onak—, errezatu zazu, errezatu zazu nerekin. Abarrots au Euskal-Erriko gerra-kantuba da, eta gaur da gure aomenaren azkeneko eguna.</p>
+<p><hi rend='Bold'>VIII.</hi></p>
+<p>Eguzkiak argitzen ditu mendiak. Karlomano garaitua iges dijoa, «bere luma beltz, ta bere kapa gorriyarekin». Aur eta andreak, danzatzen dira pozkidaz beterik Ibañetan. Arrotzarik ez da Euskal-Erriyan, eta menditarren irrintziyak eltzen dira zerubetaraño.</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>DENBORA ANTXIÑAKOEN ONDO-ESANAK</p></head>
+        </front>
+        <body>
+<p><hi rend='Italic'>Octaviano, </hi></p>
+<p><hi rend='Italic'>Munduko jauna,</hi></p>
+<p><hi rend='Italic'>Lekobidi </hi></p>
+<p><hi rend='Italic'>Bizkaikoa.</hi></p>
+<p><hi rend='Italic'>(LELO KANT)</hi></p>
+<p>Nere ama eta amona andre A. de J. eta G. de J. maiteai</p>
+<p>Gaba zan. Egun argan berean lege gogor, kaltegarri eta bidegabe batek zoriontasun eta onorea Euskaldunai kendu izan ziezten. Ni, etxe-balkoian sostengatua, Kastillako zelai latzari begira nengoen. Negar-malkoak nere aurpegiya bustitzen zuten, eta biotz gaisoak, miñaren ezpat zorrotzaz zulatua, oiuka eta aiezka bere aserre biziya agertzen zuben. Ah! zeiñ ederrak ikusten ziran illargi ta izarrak zeru garbi urdiñean! eta bitartean, zenbat suspiriyo, atsekabe eta illuntasun Euskal-erri maitearentzat! Ai! —nigan esaten nuben tristiro— gaur dena galdu da; danbolin-soñuak, artzai-irrintziak, neskatx-panderoak, erromeri-tuntunak, ola-dunbotsak, betiko ixildu dira Euskal-erriko mendietan. Onen ordez, ama guziyak ikustean beren semeak urteoro lapurtu dizaieztela, esango dute:</p>
+<p>—Nun dira oraiñ fueroak? —Eta nik, orregatik, galdetzen det orain: Nola salbatuko gera, Jaun-Jaungoikoa, gu Euskaldunok?</p>
+<p>Bat batetan, zuriz jantziya, lorez koroatua, eguzkia baño dizdizariagoa, etorri zan Aingeru bat, zeruko usoa bezala, nere aldera, esanaz: —Ez ikaratu; atoz nerekin: denpora antxiñakoen Aingerua naiz; nik erakutsiko dizut tranze estu ta larrietan zer egin oi zuten zure asabak. Nai dezu, ori ikustera, nerekin etorri?</p>
+<p>Baietz, nik erantzunik, aingeruak, ama batek bere aurtxoa artzen duen bezala, artu ninduen, eta zabaldurik bere egal zuriak asi zan egaka autsirik zeru urdiñaren zabaltasuna.</p>
+<p>Goiz errañuak mendi tontorrak urreztatzen dituztenean, txoriandra, lur illuna utzita, igotzen da zeruraño argiaren billa; eta gu ere, txoriandra baño ariñago, gijoazen antxiñako denporai bere goarpea ateratzera. Ez det iñoiz aztuko Aingeruak neraman bitartean ikusi nubena! Nere buru-gañean, zeru izarratua, Jaungoiko almentsuaren lanik ederrena; azpiyan, lurra, gizonen ziega eta glori betikoerako bide negargarriya. Emen zillarrezko ibai bat: an mendi goi batzuek; piska bat urrutixiago arkaitz idorrak, baso larratsuak, ujol apartsuak, ibar beltzak eta beste asko gauza naspillatuak, eta urruti urrutiago ere itxaso zabal ekaizdun eta mugikorra.</p>
+<p>Bost ordu eta geiago egatu ezkero, tximista odoietatik erortzen dan moduan, jetxi giñan gu ere lurrera. Lanbro lodi batek inguruko leku guziyak estaltzen zituen, baño aize mee, garbi eta lurrinduak, esaten zidan: —Poztu zaite, Euskal-errian gaude.</p>
+<p>Aingeruak, bere bi eskuak zerura altxaturik, ots egin zuben: —Euskaldun illak, esna zaitezte; zuen obietatik jaiki zaitezte; atozte kanpora.</p>
+<p>Itz aiek esan bezain laster, lanbroa urratu eta bereala agertu zan zelai bat basoz eta mendiz ingurutua. Orra, orduan ikusi nubena!</p>
+<p>Jende talde batek, aritz adartsu eta azkar bat ingurutzen zuben; an gizon, emakume, mutill, neskatx eta aurrak ikusten ziran, denak abere basatarren larruz estaliyak. Gizonak, Kantabroen ezpatak zinzilika soñeko beltzen gañean, ille luzea lotu gabe bizkargañean, eta oñ zabalak abarkaz estaliyak; emakumeak berriz soñeko zuriyakin, ille txirikordatuak bizkarretik bera eta oñ utsean.</p>
+<p>Gizon eldu aritz itzalpean zegoen batek arbola-sustraiak eserlekutzat zituen. Bere soñeko, zai-makill eta abarkak artzaienak dirade; baño bere aurpegi eta era jakintsuarenak dira.</p>
+<p>Agurearen aurrean, Erromatar gerrari bat beste askoz ingurutua, zegoen zutik, beren urrezko arma eta lantzak diztiatzen zutela. Gizon arrotz aiek, beren jantzi eta arma baliotsoakin Erregeak ziruditen Euskaldunen ondoan.</p>
+<p>Agure eta gerran ark luzaro mintzatu zuten latiñez elkarrekin, eta azkenean, arrotzak bilorruski bat agertu zuen, esanaz: —«Ara, Erromako buruak zer dion», eta asi zan irakurtzen bereala era onetan:</p>
+<p>«Octaviano, munduko Jabe eta Erromako Enperadoreak, Utxin-Tamaio, Begaiñ-Arrakill, Lekobidi, Lartaun, Zara, eta euskaldun buruzagi eta andizki gañerakoai, osasuna. Jano jainkoaren elizateak beindik betiko itxitzeko ordua etorri da. Jainkoak nai dute Enperadore jainkozkoen aginte-pean bizi dedilla mundu osoa. Asia, Afrika, Europak, badaramate erromatar uztarria, baño Hispaniako bazter urrutietan, berari zor diona pagatu eta eman gabe, dierri txiki bat batek bakanik betirauten du. Ni, jainkoen gogoak betetzeko jaio naiz. Orretarako, soldadu talde oñez eta zaldizko aundi bat bildu det Kantabriako itxas-kostetan. Ala ere, mundu osoari agertu nayian nere kupida, guda asi baño len bialtzen dizutet oliboaren erramua.</p>
+<p>»Luzio Serjio, gizon argi eta txit jakintsu, nere mandatariak, esango dizute nola iritxi daiteken Erromaren adiskidetasuna. Nik eskeintzen dizutet bakea; ar zazute bada, o Euskaldunak! Bestela, ez dira ikusiko Euskalerrian ilkintz izugarri eta ondamen negargarriya baizik.</p>
+<p>»Jupiter Kapitolinok gorde ditzala zuen biziyak. Portu-Victorian Martxoaren iduetan, gure Konsuladuaren zortzigarren urtean. Cesar Augusto, Enperadoreak».</p>
+<p>—Zer? Utxin Tamaio, eskutitz zital ori irakurtzeko bildu gaituzu?, —otsegin zuben gizon azkar batek—. Tximist eta turmoiak! Ni eta nere guraso eta aurrekoak beti bizi izan gera uztarririk gabe mundua mundu danetik, eta nik, era berean, nai det ill.</p>
+<p>—Bai, bai, Begaiñ Arrakill. Guk ere zuk bezala uztarririk gabe nai degu bizi ta ill, —deadar egin zuten batzarrekoak.</p>
+<p>Utxin Tamaiok, keñu bat esku eskuikoarekin egin da, esan zuben:</p>
+<p>—Adi nazazute, anaiak: oraindik ez det bukatu. Euskaldun gaiztoa ote naiz?</p>
+<p>—Ez, jauna, ez; barka zaguzu.</p>
+<p>—Nik itzegin det Erromako mandatariyarekin, eta orra zer dion:</p>
+<p>«Euskaldunak Erromako Enperadoreari emango dizkiote urteoro zortzireun mutill azkar eta berreun neskatx eder: Mutillak, indartsuak diralako, Enperadore jainkozko gorputzaren soldadu zaitzat, eta neskatxak berriz, Enperadorearen emaztearen zerbitzaritzat. Batzuek, Erromako nagusiaren bizi estimagarriya gordetzen, besteak jauregiko zikinkeriak garbitzen, artuko dute —Erromatarrak dionez— lurrean dan onorerik aundiena.</p>
+<p>»Nola, Euskaldunak, ez zerate poztutzen berri onekin?».</p>
+<p>Orduan iskanbill aundi bat sortu zan jende artetik, eta denak oiuka, irrintzika eta txistuka asi ziran. Jendea isildu zanean, Utxin Tamaiok itz egin zuben onela:</p>
+<p>—Adi zazute, arren, anaiak, Erromatarrak diona. Orrez gañera, Enperadoreari eman bear dizkiogu, urteoro ere, sei milla zillarrezko diru, eta bosteun idi, eta bi milla ardi, eta laureun bei, eta zortzireun urde, eta...</p>
+<p>—Eta illargia edo eguzkirik ez? —galdetu zion artautsirik Begaiñ Arrakillek.</p>
+<p>—Geiago, geiago ere, anaia, (eta au, eskatzen du beindik betiko); eman bear diogu gure arbola beneragarriya.</p>
+<p>—Zergatikan gizon bidegabe orrek ez dizkigu eskatzen gure bularreko biotzak eta gure sabeleko erraiak? —esan zuben Lekobidik.</p>
+<p>—Kanpora Erromatarra, kanpora, —deadar egin zuten batzarrekoak.</p>
+<p>—Oraindaño entzun dituzute leoiaren itzak: orain datoz azeriarenak; aurki otsoarenak. Gu, Erromatarren agintepean jarri ezkero, izango gera txit zorionekoak, mandatariyak dionez. Gaur bizi gera basurdeen gisan mendietan, bigar biziko gera aberats eta aldunak urietan; gaur, larruz jantziyak gabiltza, bigar ibilliko gera sedaz ederki apainduak; gaur txaboletan bizi gera, bigar jauregietan; gaur jakiñezak gera, bigar jakintsuak. Sar gaitezen bada urrezko kaiol orren barruan!</p>
+<p>Bestela, Cesar Augusto etorriko da bere soldadu-talde aundiakin, eta gizon-emakumeak illaz, aur-neskatxak salduaz, txaolak erreaz, landariak ateriaz, Euskal-erri guziya ondatuko duela bere izena borratu arteraño! Esan zadazute oraiñ, lagun maitiak, zer egin bear degun.</p>
+<p>—Ill, ill —denak deadar egin zuten, eskuak zerura altxatuaz.</p>
+<p>Itz au zartatu zan turmoi burrunbadaren antzean; oiarzunak esnatu, mendiak dardaratu, arriak zarrakatu, basoak ikaratu eta ibaiak Pirineo zurietatik itxasoronz saltoka amildu ziran, esanaz: «Ill, ill, Euskaldunak».</p>
+<p>Utxin Tamaiok, altxaturik orduan, latiñez esan zion Erromatarrari:</p>
+<p>—Erdalduna, zoaz emendik ta esan zaiozu zure nagusiari, mutill, neskatx, diru, idi, ardi, bei, urde eta gañerakoen billa etorri daitekela; guk itxedoten diogu gure mendietako burniak eskuetan arturik.</p>
+<p>Erromako mandatariyak, biziro aserraturik, orzkatu zituen bere ezpañak, eta:</p>
+<p>—Itzuliko gera, o zorigaiztoak —esanik— joan zan bere soldaduaz jarraitua.</p>
+<p>Ez da erraz esatea zenbat Euskaldunak poztu ziran Erromatarren joatearekin. Ordea, Utxin Tamaioren bekokia illundu zan.</p>
+<p>—Agintari ohoragarriya, esan zaguzu zerbait; danok nai degu zure boza aditu —esan zuben Begaiñ-Arrakillek.</p>
+<p>—Ene semeak, erantzun zion Utxin Tamaiok, ez dezaket, nastua nago; atsegiñak itotzen nau ta oñazeak biotza erdiratzen dit. Badakit Euskaldun onak zeratela... baño Euskal-erri doakabea!</p>
+<p>Eta agureak, itz oiek esanda, bere soñekoak urratu zituen.</p>
+<p>—Esan zaguzu, arren, zerbait, —askok berriz esan zioten—. Zergatik zure begiai malkoak dariote?</p>
+<p>—Nigar egiten det, ikusten dedalako Euskal-erriaren ondamena datorrela. Elkarterik gabe indarrik ez da. Kanpotikako etsaia txit aundiya izanik, oraindikan ere etxe barruan besterik daukagu. Denbora batean, Euskaldun guztiyak anaiak ziran; bake gozoan bizitzen zan gure mendietan; gaur etsaiak gera, ura eta sua bezala. Eta nik, zartu ta erdi-illik, ikusiko det nere erri maitiaren galera, ala nola artzai gal batek ikusten duen bere artaldea otso lapurragatik triskatua .</p>
+<p>—Ez orrelakorik, ez, jauna, ni bizi naizen artean; esan zuen agure urtetan txit aurreratutako batek, irtenik jende talde artatik eta joanik Utxin Tamaioren ondora. Gorputz makurra eta bizar luze zuri-zuri gerrirañokoa zituen; segurki etzan Euskal-erri osoan beste gizon bat hura bezin zarra eta tristiagorik.</p>
+<p>—Atoz, atoz, Zara, baldiñ badezu biotza, —ots egin zuben.</p>
+<p>Itz oek adituta, denak ikaratu eta isildu ziran.</p>
+<p>—Salba gaitzazu, Jaungoikoa! —esan zuben beregan Utxin Tamaiok.</p>
+<p>—Zara, Zara, atoz! —ots-egin zuben berriro agureak; nik Lekobidi, Leloren aitak, itz egin nai dizut erri guziaren aurrean.</p>
+<p>Orduan, gizon alai eta ornitu bat, ogei ta amar urtekoa bezelatsu, alderatu zitzaion, eta besoak gurutzeturik, esan zion:</p>
+<p>—Emen nago, itz-egin zazu, jauna.</p>
+<p>Lekobidi, Zara ikusi zubenean asi zan ikaratzen, eta lurrera ez bazan eroriko, Utxin Tamaioren zai-makillan bere gorputza sostengatu bear izan zuben; baña gero doi-doia susperturik, itz-egin zion onela:</p>
+<p>—Antxiñako oroipen belzak, atozte laster gogora, ez lurrak, izutzeko, ezpada etorkizunaren onerako! Adi nazazu, Zara.</p>
+<p>—Lelo nere seme kutuna eta zu, adiskidetasun aundian bizitzen ziñaten. Bein batean, joan ziñaten biak Urbasako mendietara eizera, eta gabean, agitz nekatuak eta edurrez bustiyak, Arañazko gazteluaren ateetan jo zenduten ostatu eske. Begaiñ-Arrakill gazteluko jaunak agindu zuben ateak idiki zizazkizutela, neguko gau otz hura estalpean igarotzeko. Sartuta sukaldean, nun arbola osoak erretzen zeuden, ezagutu zenduten Begaiñ-Arrakill jauna txit altsu eta aberatsa zala, jende asko an zalako. Menditar aien artean, neskatx eder lirañ bat, illargiya baño zuriago eta eztiya baño gozoagoa, zegoen iruñten. Eseri ziñaten su alboan soñekoak legortzeko, ta orduan neskatxak, ontzi bat arturik alderatu zitzaizuten, eta «ongi etorriak, jaunak» esanaz, garbitu zizkizuten oñak.</p>
+<p>Begien itxi-idiki batian, biak erokiro maitatu zenduten. Amore negargarriya, ainbeste ondamen ekarri zubena!</p>
+<p><hi rend='Italic'>Usoa </hi>zeritzon neskatx arek Lelori eman ziozkan bere biotz eta eskua.</p>
+<p>Orduan, orduan bai, Zara, zure animan gorroto eta inbidiya sortu ziran. Eztaien pesta aundiak bukatu baño len, gabaz nere semearen etxean sartu ziñan, eta bera lo zegoela, ill zenuen eta ebatsi zenion bere emaztea. Legautsi izugarriya!</p>
+<p>Lelo Bizkaiko Jaun zan orduan bi urterako, Batzarrak kondenatu zinduen iltzera; baña zuk, aide eta adiskidearen laguntzarekin, mezprezatu ziñituen batzarrearen lege guztiyak. Ordu ezkeroztik etorri dira gure gain ainbeste kalte.</p>
+<p>Nik, menderatzeko Lelo nere semearen eriotza, bildu nituen nere zerbitzariyak, eta zure etxea erre, zure artaldeak lepo-moztu, zure alorrak desegiñ, zure basoak ebaki, eta azkenean, zure bost anai itsasita urkatu nituen bere amaren etxe-aurrean. Egite negargarriya, zurea baño txikiagoa, aundia izanik ere.</p>
+<p>Berri oiek aditurik, Euskal-erri osoa nastu zan. Zure alde Araba Ipuzkoa eta Bizkai-erdia; nere aide, beste Bizkai-erdi, Naparroa eta gañerako euskaldunak, armak artu zituzten. Orduandanik, gure artean alkar-arteko gerrak badirau. Madarikatua izan zaite Leloren erallea!</p>
+<p>Baña ez; eroa nago. Barka nazazu, arren. Euskal-erriaren onerako aztu gaitezen egun igarotakoaz. Nik ere, bidegabeak egin dizkitzut... barka nazazu, arren, Euskal-erriaren izenean. Eman zadazu eskua; musu eman nai dizut, eta nere semearen odola balu, nere negar malkoak garbituko dute.</p>
+<p>Eta Lekobidi belaunikatuta asi zan Zara-ren eskuari musu ematen.</p>
+<p>Ikusgarri miragarriya! bere semearen erallearen eskua musu ematen duen aita bat!</p>
+<p>Batzarreko guztiak negar egiten zuten, eta zerua, odolez illundu zan, hura ez ikusteagatik.</p>
+<p>Zarak, bere bi eskubaz aurpegiya estali zuben; bere bularra zizpuruka gora eta beera zebillen, ola baten auspoa bezela. Azken azkenean, deadar egin zuben:</p>
+<p>—Barka nazazute, Euskaldunak. Ni errudunik aundiena naiz. Baño zu, aita gaisoa, jaiki zaite autsetatik, ez da on zure lekua, eta utzi zadazu zure oñai musu ematen.</p>
+<p>Zara makurtu zan auspez jartzeko, baño Lekobidik, altxaturik, eragotzi zion, esanaz:</p>
+<p>—Atoz nere besoetara, ene semea! Elkar gaitezen denok Erromatarren kontra.</p>
+<p>Eta bi etsaiak laztandu ziran.</p>
+<p>—Elkar gaitezen denok, elkar gaitezen, pozez beterik ots egin zuten batzarrekoak, eta etsaitasunari azken agurrak emanda, baita ere laztandu ziran.</p>
+<p>Ber-berean, emakume eder gazte bat arkaitz gañera igo zan, eta urrezko arpa bat jotzen asi zan;</p>
+<p>—Ixo, ixo —esan zuben Utxin Tamaiok—: adi dezagun Aitorren alabaren kantua.</p>
+<p><hi rend='Bold'>I</hi></p>
+<p>—«Otsoak —Aitorren alabak kantatu zuben— otsoak basoetan biltzen dira; gosiak datoz janariaren billa, eta beren marruaz inguruko oiarzunak esnatzen dituzte. Gaur gabean, arzaiak lo egingo balute, artalde guziyak ondatuak izango lirake. Baña etxeko jauna, bere atearen aurrean zutik ernai dago, iriki ditu belarriak, eta zorrozten ditu aizkor eta geziak Gorbeako aitz eta arrietan otsoak iltzeko. Ez dira, ordea, otsoak eldu diranak, ezpada Erromatarrak».</p>
+<p><hi rend='Bold'>II</hi></p>
+<p><hi rend='Italic'>«Zer nai dute gizon arrotz oriek gure mendietan? </hi>Etortzen dira gure ondra eta libertadea apurtzera. Aiek diote gure neskatxak ederrak eta gure mutillak indartsuak dirala; orregatik mundu jabearen zerbitzorako eraman nai dituzte. Euskal libertadeen arbolak munduari esaten dio: "agitz beldurtia zera", orregatik nai dute ebaki. Atzera, Erromatarrak! Jaungoikoak mendiak egin dituenean nai izan du gizonak etzitzatela irago».</p>
+<p><hi rend='Bold'>III</hi></p>
+<p><hi rend='Italic'>«Eldu dira! eldu dira! zer lanzazko sasia! Aien kontzatzea denboraren galtzea litzake! </hi>Gu gitxi gera, baño batasuna egiñezkeroztik, ez diogu iñori bildurrik».</p>
+<p><hi rend='Bold'>IV</hi></p>
+<p>«Erromatarrak burniz estaliyak gorputzak dakazkite, gureak billosak daude. Igo gaitezen goietara. <hi rend='Italic'>Errotik atera ditzagun arkaitz oriek; amildu ditzagun mendio beera, beren buruen gañera. Lertu ditzagun, eriotzaz jo ditzagun. </hi>Eta gero, Erromatarrak iges egiten dutenian, jatxi gaitezen zelaitara eta jo ditzagun gure ezpat laburraz sabelean, gogor sabelean!».</p>
+<p><hi rend='Bold'>V</hi></p>
+<p>«Begira, Euskaldunak; illargiya, bere argi zillarreztua dariola ageri da zeru urdiñean; eska zaiogun Jaun Jaungoikoari, salba dezala Euskal-erriya elkartasunaren bidez».</p>
+<p>Belaunikatu ziran denok eta auspez jarririk, igo zan zeru goitsuetaraño otoitz bat, itxasoaren surmurraren gisan.</p>
+<p>Orra emen, Aingeruak erakutsi didana.</p>
+<p><hi rend='Italic'>«Aditzeko belarririk dituenak, aditu dezala».</hi></p>
+<p>Iruñen, Abenduaren 14-garren egunian, 1881-garren urtian</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>OKENDOREN ERIOTZA</p></head>
+        </front>
+        <body>
+<p><hi rend='Italic'>«Euskal-erriaren alde»</hi></p>
+<p><hi rend='Italic'>Ainbeste seme eman zituzan </hi></p>
+<p><hi rend='Italic'>Itxasorako zoliak,</hi></p>
+<p><hi rend='Italic'>Liorrerako ez gitxiago </hi></p>
+<p><hi rend='Italic'>Gerrari bildurgarrrak.</hi></p>
+<p><hi rend='Italic'>ARRESE</hi></p>
+<p><hi rend='Bold'>I</hi></p>
+<p>Dama Maria de Lazkano, leioaren ondoan zegoen.</p>
+<p>Maiatzak, zelaiak loraz eta arbolak ostoz estali izan zituen, baño oraindik oztxo egiten zuen; orregatik sukaldea zegoen egur igarrez eta lodiz ondo ornitua.</p>
+<p>Egun ortan asi zan goizean goiz euria, istan bat atertu gabe. Uli-mendiko tontorretatik errekak amiltzen dira saltoka; zerugoiean, argiya iltzen ari da; lurrean laño ubelak eta itzal beltzak ibarretatik eta ibai ertzetatik geldi geldi igotzen dira, lurreko osoaren zuritasun eta urdintasun guziyak borratu naiez. Gau eta egun, batak bestearen kontra gogorkiro jazartu dute noski, eta eguna, bere etsaia garaitu diolako mundu onetatik ote badijoa, bere lots aundiya eskutatzeko. Argi-gutxitu arrek, argitasunaren azken agurra dirudi; etxea, aizeak erabillia dardaratzen da, eta leio zabaletatik sartzen dira gelara itxaso aserretuaren orroi izugarriyak.</p>
+<p>Bat batetan, neskame gazte batek atea idikita, itz egin zuen onela:</p>
+<p>—Andrea, andrea, berri onak dakarzkit, berri onak...</p>
+<p>—Zer den, Praska, burutik jauziya aizan?</p>
+<p>—Ez, andrea, ez; berri onak dakarzkit...</p>
+<p>—Noiz arte, emakumea, egongo aiz esanaz «berri onak dakarzkit?» Esan itzan, bein betiko, berri oriek, nik jakin ditzadan.</p>
+<p>—Nagusiya eldu da; <hi rend='Italic'>La Capitana </hi>eldu da; portua, jendez betea dago; ango deadarrak! ango txaloak eta pozgarrizko oiuak! denak, atsegiñez zoratuak, dirudite...</p>
+<p>—Bai ote? Ene Andre Birjiña Maria! nere senar maitea eldu da? Donostiyan dago? eta biotzak ez zidan ezer esaten! Zorionekoa milla eta milla bider gaurko eguna. Uste nuen, ez nuela iñoiz ikusiko! Urtetan aiñ aurreratua, eta beti itxasoan! beti etsai amorratuen artean! Baño, egiya da, Praska aditu dedana? Nola, noiz artu den berri maitagarri ori?</p>
+<p>—Ni neronek ikusi det, andrea. Joana nintzan Donostiara aurrak eskolatik ekartzera, eta ikusi nuen jende asko Portu-alderontz joaten zala. Eskuadra Errealaren ontzi bat, jendearen iritziyan, abiatzen zan Portu-barrura. —Goazen, esan nien aurrai, ikus-zaletua, goazen ontzi on ikustera. —Gu portura eldu baño lenago, ontziyak aingurak botarik zeuzkan. Mariñel batzuek, aurrak nork ziran ezaguturik, eskutik kendu zizkidaten, esanaz: —Oien aitona oraintxe dator. Ots, eraman ditzagun ontzira; ongietorri obeagorik ezta izango segurki munduan On Antoniorentzat. —Ala egin zuten, eta jendeak ikusi zituenean aurrak ontzi-barrura sartzen, txaloka eta oiuka asi zan. Ni berriz, etorri naiz etxera berorri berri oiek emateko.</p>
+<p>Bazirudien zerbitzari leialak denborarik bidean galdu etzuela. Bere kopeta izerdiz eta euriyaz arras bustiya, eta asnase estutua zeuzkan; gonak ura txirrian zeriotela, aztal eta oñ narru-gorriyak loiaz zikinduak egon arren, zearo agertzen zuten Praskak etxera lenbaitlen itzultzeko, naiz nekeari, naiz bide txanari etziola kasorik egin.</p>
+<p>—Uste det, esan zuen Dama Mariak, nere biotza pozez lertzera dijoala. Diotenez, atsegiñak iltzen du; nola ni, bada, oraintxe niteke bizi? Baño... zer egin bear det? Portura joango naiz? Itxedongo diot emen? Itxedoten badiot, zenbat oñaze datorren bitartean! joaten banaiz, jende guziaren aurrean laztanduko gera... Zer lots aundiya neretzat, atso gaixo bat naizelarik! Zer erbaltasuna arentzat, humanta bat dala... Emen gelditzen naiz; estutu zaite, biotza!</p>
+<p>Gaba da; odeitzarrak goiean, laño beltzak lurrean ikusten dira; illuntasuna alde guzietan. Leio zabaletatik sartzen dira barrura euri-jasaren txirristak eta itxaso aserratuaren orro izugarriyak!</p>
+<p>Etxeko andreak agindu zion neskameari leioak itxi eta argiyak piztu zitzala, baño eginbear on bukatu baño lenago, Dama Mariak esan zuen:</p>
+<p>—Ago ixillik, Praska; ezten entzuten ots aundi bat urruti? Gizonen irrintzi, oiu eta kantak dirudite. Begira, Donosti-aldera, begira!</p>
+<p>Donosti-aldetik, argiera bizi bat ikusten zan; argiera hura geldi-geldika aurreratzen zan <hi rend='Italic'>Manteo-tolareko </hi>baserrirontz, eta argi-elkarrekin, oi-ezbezalako iskanbilla bat zetorren; ala nola turmoia oñaztarrekin.</p>
+<p>—Uste det, esan zuen neskameak, nagusiya datorrela eta jendeak atzetik darraikiola.</p>
+<p>—Bai, ori da, Praska; ezten entzuten nola oiu egiten duten <hi rend='Italic'>«bizi dedilla Okendo?»</hi></p>
+<p>Ikusgarri ustekabekoa! Emen atso zimurtuak; an, gizon azkarrak; piska bat urrutiyago, neskatx min-berak. Zar eta gazte, txiki eta aundi, aberats eta pobre, arrantzale, nekazari, alogerari, soldadu, itxas-gizon eta baserritarrak ibiltzen, mogitzen, aurreratzen, zabaltzen an dira, itxaso osdun eta naspillatuaren antzean. Oietako askok, argi-zutiyak dakarzkite; jende-taldearen erdiyan, gizon bat, adiñean txit aurreratua, illargia baño zuriago, auldua, nekatua, lurrerontz makurtua, ildakoaren antzekoa, zaldiz dator. Bere kaparen toles-artetan ume bat dakar. Aurrak, buru-gorritxoa estalkitik atereaz, esan eragiten dio jendeari: —Begira, nolako kabia egin duen aritz ustelduan uso zuriyak! —Beste illobak, soldadu baten besoetatik musuak eskuz igortzen dizkio ingurutakoai, eta jendea zalantzan dago, zeiñi geiago dio maitatzen, edo zar beneragarriari, arratsalde bat aomenaren eguzkiyaz gorritua dalarik, edo aurrai, egunsenti bat inozenziaren eta esperantzaren intzaz bustiya diralako.</p>
+<p><hi rend='Bold'>II</hi></p>
+<p>Arras luze eta zabala da <hi rend='Italic'>Manteo-tolareko </hi>baserriaren sukaldea, baño ezin kabitu dira gau onetan onera bildu diran jendeak.</p>
+<p>Maia ongi ornitua dago janariz; ardo-napartarra zagietatik dario iturriaren ura bezela, eta ikustekoa zan bai! zenbat <hi rend='Italic'>Peralta-zale </hi>bildu ziran sukalde ortan.</p>
+<p>Okendo, maiaren buruan exeri da; eskuion, bere emaztea, ezkerrean bere illobak ditu; denak asetzen diraden bitartean, bi edo iru ogi-azal bustitzen ditu ardoan. Dama Maria izuturik, baño bere izu-ikarak beregan gordeta, tristiro ikusten ditu, nola senarraren aurpegiyan agertzen diran eriotza berealakoren aztarnak.</p>
+<p>Bat-batetan denak isildu ziran, eta Miguel de Horma, Iruñaseme kapitan aomen aundiko batek, esan zuen: —Jakin nai dezute nola gertatu zan jazarra? Belarriyak idiki itzatzute ongi.</p>
+<p>Zan egun bat eguzkirik gabea. Arkitzen eziran Franzia eta Inglaterrako itxas-aldeak; euri-auts-erre bat botatzen ziguten lañoak; ipar-aldeko aize bizi batek aurpegi eta eskuak autsikitzen zizkigun minki. Gure <hi rend='Italic'>La Capitanaren </hi>bela apurrak aizeaz erabilliyak, arrano erituaren egoak bezela dardaratzen ziraden: ontziaren soldadu eta mariñel guziyak aitonatuak giñirudien, gure buru eta aurpegiko illeak apar zuriz estaliyak giñituelako.</p>
+<p>Bezperan, ogeita bat ontzi Españatar, eun eta amalau bajel Holandarren kontra, zortzi ordu eta geiago peleatu izan ziran gogorkiro. Baño D. Lope de Hoces, bere jende geienarekin, su eta garren artean biziya galdurik, eta etsaiaren kopurua ain geiegia zalako, beste sei ontzi Españatar errendatuta, gure Armada sakabanatu zan, etsaiari kalte aundia egin arren, bada ordurako, Holandarrak galdu zituzen ogei ontzi. Onela, laguntzarik gabe, geratu giñan itxaso genasi artan.</p>
+<p>Bat-batean, ixiltasuna urratu zuen boz batek: —Etsaia degu ezkerrerontz!</p>
+<p>Itsasoaren zabaltasun urdiña, mantxa beltzaz estali zan. Ontzi holandarrak dira. Otso lapur, arrano arrapari, buzoka gosetien eran, belak aizez uanditurik, hereje madarikatu aiek datoz. Gertaera arrigarriya! armada oso bat, ontzi baten kontra! Orduan, norbaitek esan zion On Antoniori, obe zala Dunasko portura itzulzea. —Ez beza nai Jaungoikoak! —erantzun zuen On Antoniok—, nere aomena kutsutu dezadala billaukeri orrekin. Etsaiak ez dizkit ikusi nere bizkarrak oraindikan. Mutillak, emen ill bear degu! —Armada Holandarrak ausarze sinisteziñ ori ikustean, arritu zan lazki, eta asi zan bere sutunpadi guziakin gure <hi rend='Italic'>La Capitanari </hi>erasotzen. Burniyak airea illunduta, ontziaren inguruan dinbi danba egiten zuten sutunpak; ura igotzen zan zeruetaraño: gu, aparraren odeien erdian, itsu eta gorrak genbiltzan. Soldadu eta itxas gizonak infernuko kazkarabar hura ikusita, asi ziran ikaratzen, eta jatxi ziran eskotillapera. Okendok oiu bat egin zuen, itxasoaren orroari gañez egin ziena, eta ezpata narrugorritua eskuiko eskuian arturik, igeslarien ondoren oien biotzak alaitzeagatik joan zan, eta asi zitzaien esaten onela: —«Adiskide maiteak! zergatikan iges egiten dezute? Zuen zañak ez daramate ia Españatarren odolik? A! zein erbal eta latxo dan zuen gogoa! Zortzi egun oraindik ez dira, etsai ori, agintari ori, bajel oriek ber-berak, gure La Capitanaren aurrean, iges egin dutela. Begira, eztegu beste erremediorik peleatzea baitzik, bada eguzkiya itxasoaren barrura eroriko da errazago, ni bizitzen naizen bitartean iges egitea baño. Ikaratzen zaituzte iltziak? Ilko gera gure Errelijio Santua eskudatzeko; ilko gera gure Errege eta Erreinuaren izen ondradua azken mallara igo-erazitzeko. Asko gudari dirala diozute?... Obe; onela, gure loriaren lekuko geiago izango ditugu. Utzi bildurra; ea, aurrera, nere mutillak!».</p>
+<p>Soldadu eta mariñelak itzaldi sututsu au, aditu bezain laster, eskotillapetik irtenda, itzuli ziran, nor bere tokiya betetzera. Ikustekoa zan pesta hura! Burniya airean, illuntasuna zeruan, apar-zuriya baga ferdetan, mastillen sokak zart egiten, ontz oolak dardaratzen, berreun sutunpa sua botatzen, eta itxaso ezopeak bere orro izugarriarekin esaten: «emen dauzkat ura, odol guziya garbitzeko, ondarra gorpuz denak obiratzeko». Baño alper alperrik ziran etsaiaren kemen guziyak. Gure <hi rend='Italic'>La Capitana </hi>goaraitezgarriyak, Holandako Armadaren, geiena alderatu zitzaiozkan ogei ontziak, galdu zituen. Holandarrak ikusirik beren indar guztiyakin ezin azpiratu zuala gure bakarra erabaki zuan azken erasoa emateko, abordatu bear zuala Okendoren ontzia. Onetarako paratu zituen <hi rend='Italic'>La Capitana, Almiranta </hi>eta beste bi buke holandarrak. Baño, zer balio du beleak arranoaren parean? On Antoniok donario ederrean, bela apurrak izaturik, esan zuen:</p>
+<p>—Geldi bedi bakoitza here lekuan; piztu itzatzute metxak.</p>
+<p>Etsaia, alboratu zitzagun bezin prest, Okendok deadar egin zuen:</p>
+<p>—Su! eta deskarga lodi bat <hi rend='Italic'>La Capitanak </hi>botaturik, Holandarrak ozka, aiezka, oiuka, birauka, muzinka, errenka, zaungaka sakabanatu ziran itxas-lanbro-tartetan.</p>
+<p>Zenbat txalo egin zituen jende ark, Hormaren itzaldia aditu zuenean, ezin esan liteke. Denak asi ziran deadarka: —Bizi bedi Okendo! bizi bedi <hi rend='Italic'>La Capitana! </hi>Gure erritar aundiya bizi dedilla beti betiko!</p>
+<p>Agure batzuek samurtasunez negar egiten zuten zokoetan, beren malkoak lotsagatik ez agiri naiez.</p>
+<p>On Antoniok, Aralarko eta Hernioko elurrak baño aurpegi zuriago zeukan. Keñuak eskuakin egin zituen, denak ixil zitezen; eta itz oiek esan zituen:</p>
+<p>—Biotz biotzetik eskerrak ematen dizkizutet, o lagun eta adiskide kutunak! Nik ere, asko maitatzen zaituztet. Etorri naiz beste eginkizunik gabe, nere azken agurrak zuei egitera. Ez dezute esan bear: «Bizi bedi Okendo»; itzala, autsa, ezereztasuna da gizona; aundiya izatea, Jaungoikotik dator. Ez nitzan izan ni, ez, Holandako eun ontzien, garailariya, ezpada Jaunaren esku guzialduna: aren laguntzarik gabe, ordu onetan, itxasoko arraien janariya izango giñan. Eskerrak eman dizazkiogun, bada, Euskaldun baten bitartez, ainbeste aomen Españari Jainkoak eman nai izan diolako».</p>
+<p>Denak belaunikatu ziran eta jaiera irazekiarekin errezatu zituzten <hi rend='Italic'>Aita gure </hi>eta <hi rend='Italic'>Ave Maria </hi>bat. Beriala, Okendo jaiki zan eta esan zuen:</p>
+<p>—Berandu da; bigar goizean irten biar det Coruñarontz.</p>
+<p>—Nola? —Dama Mariak galdetu zion—; Donostiatik alde egiteko asmoak dituzu? Ezin liteke; eriya zaude, argala zaude. Geldi zaite emen, zure indar aulduak suspertu artean.</p>
+<p>Emazte leialaren eta jende danaren ondo-esanak, erreguak, eta negarrak alper alperrik ziraden. On Antoniok eranzun zien leiatzen ziotenai:</p>
+<p>—Agindu dit Erregek <hi rend='Italic'>La Capitana </hi>eraman dezadala Coruñara, eta bear bada, nere obedientziya progatuko det illaz. Baño uste det Jaungoikoak indarrak emango dizkidala, Coruñan sartu arteraño; gero...gero... ai! Atoz nere besoetara, atoz nere biotzeko Mariya, nere bizitza osoaren lagun garbiya, nere argiya, nere eztiya, atoz! Zenbat aldiz itxasoko ekaitz eta jazarretan zure oroitzak diztiatu zuen neretzako, artizarrak baño geiago! Atozte, zuek ere, aurrak! Musu bat... eta beste bat... eta beste bat... eta milla, eta milla eman zaiozkazute zuen aitonari... Euskaldun onak izan zaiztezte... Ai ene! nai nuke ill emen! Agur nere aragiaren eta ezurren zatiyak!... Agur, Euskal-Erriya!</p>
+<p>Itz oiek esanda gero, irten zan Okendo; bi malko agitz lodi begietatik zerizkanak, ezkutatu ziran aurpegiko ille zuri-zuri artetan. Nork ikusi du leoi portitza negar egiten?</p>
+<p>—Ah gizajoa! —dio Dama Mariak—; eztet ikusiko sekulan.</p>
+<p>—Aitona itzuli dedilla laster; eztegu nai joan dedin —diote aurrak.</p>
+<p>Bitartean, Okendo abiatzen da portura; jendea dijoa bere ondoren; pozaren irrintz eta kantak mututu dira; beinik bein, «Viva Okendo» batek, gauaren ixiltasuna austen du. On Antonio triste dijoa Portu-alderontz. Zerua, atertu dalarik, izarratua dago; izar aiek, Okendoren koroaren arturgiyak dira.</p>
+<p><hi rend='Bold'>III</hi></p>
+<p>Illabete bat igaro zan.</p>
+<p><hi rend='Italic'>Corpus-Cristi </hi>eguna da.</p>
+<p>Coruñako ezkilldorreak, errepikatzen daude. Etxeen balkoietan ikusten dira damatxo ederrak, aur alaiak, zaldun galantak, denak lumaz, sedaz, urrez, terziopeloz eta beste asko gauza baliosoz ederki apainduak; karriketan, emendik ara, behetik gora, jira-biratzen ari dira baserritarrak, itzulamilka, bulzaka eta ipurkadaka leku on bat artu naiez, prozesioa ondo ikusteko. Noizik beiñ, jende-taldeak kaiaren ondoan zegoen etxe aundi baten aurrean, gelditzen dira, eta goardia ematen duten itxas-soldaduai, zerbait galdetzen diete, eta erantzuera aditzean itzultzen dira zeruari begiratuaz eta aurpegi tristeakin.</p>
+<p>Sart-gaitezen etxera. Gela aundi bat, illuna; bazterrean oe bat; oean, eri bat; oen gertuan, apaiz bat; eriaren eta apaizaren urrutiyago, argi bat mai-gañean ipiñia; orra, zer topatzen degun etxean.</p>
+<p>Ezpañ zuriyak; sudur zorrotza; kopeta izerdi otzaz bustiya; masallak igor eta ubelduak; asnase estua ditu eriyak eriotza berealaxekoaren aztarnak agertzen ditu bere aurpegi ansiatuak. Iltzen dagoana, On Antonio Okendokoa da; apaiza, Aita Gabriel de Henao, kondairazalle famatsua.</p>
+<p>On Antoniok begiyak idiki zituan, eta Aita Henaori galdetu zion:</p>
+<p>—Zer esan dute sendagiñak?</p>
+<p>Aita Henaok zizpuru bat egin zuen, baño itz bat erantzun gabe.</p>
+<p>—Esan zadazu, arren, egiya. Badakizu, Aita, eriotza asko aldiz ikusi dedala nik gertuan. Ez nau bada batere ikaratzen.</p>
+<p>—Samiña da egiya, baño ona. Sendagiñak diotenez, laster ikusiko dezu Jaungoikoa; laster irtengo zera mundu negargarri onetatik.</p>
+<p>—A! aiñ urrean dago eriotza?... Nere Jaungoikoa, <hi rend='Italic'>zure naia, zeruan bezala, lurrean ere egin bedi.</hi></p>
+<p>—Beti aundiya zera, On Antonio! Nik, gure salbatzallearen izenean, diotsut: <hi rend='Italic'>zorionekoak negar egiten dutenak, bada poztuak izango dira.</hi></p>
+<p>—Aita, ez nago oraindik sensurik gabe, eta nai det artu azken oleazioa beriala. Aita, lagun nazazu Sakramentu konsolagarri orrekin.</p>
+<p>Olio-santuak erakarri zituen Aita Henaok, eta Okendoren lagunak, <hi rend='Italic'>La Capitanaren </hi>soldadu eta agintariyak, sartu ziran gelara; denak zeramazkiten kandela irazekiyak eskuetan. Itxas-gizon aiek, aizez, ekaitzez, eguzkiz eta perillez gogortuak egon arren, beren ezpañak autsikitu zituzten ez sollozatzeko.</p>
+<p><hi rend='Italic'>Azken oleazioa </hi>artu ondoren On Antoniok esan zuen:</p>
+<p>—Aita, mesede aundi bat eskatzen dizut. Urkamendira eramaten dutenai ere, beren azken gogoa egiten dieztee.</p>
+<p>—Esan zazu nai dezuna. Guziyak emen gaude zu zerbitzeko, ala arimaren gauzetan, nola gorputzekoetan.</p>
+<p>—Badakizu, aita, ogeita bost egun oietan sukarrak odola irakin egin didala. Egarriyak itotzen nau; barruneko suak kiskaltzen dizkit erraiak. Agonia luze onetan, gogo bat bakarrik izan det, gau eta egun; ur preskoa edatea. Sendagiñak debekatu zidaten, esanaz, ur preskoak kalte aundia egingo zidala. Oraintxe, iltzera noa, eta ez ur preskoak eta ez beste gauzarik kalte aundirik ezin egin dizadake. Eman zadazu, arren, azken pozkida ori.</p>
+<p>Aita Henaok, bertatik, eskeñi zion baso bat urez betea.</p>
+<p>—A! zoratzen ari naiz! Ur preskua, ur garbiya!... Euskal mendietako ura dirudi. Uraren bitartez, mendi berdeak, baserri zuriyak, baso orritsuak, nere biotzeko <hi rend='Italic'>Manteo-tolareko </hi>etxea dakuskit... Atoz, ur konsolagarriya, ur opatua, ur benedikatua!</p>
+<p>On Antoniok artu zuen edan-ontzia, eta alderatu zuen ezpañetara; baña edan baño lenago, eskua beeratu, eta esan zuen:</p>
+<p>—Zer? gure Salbatzalleak kurutzean «egarri naiz» esanaz, Judu zatarrak eman zioten beazunez nastutako ozpiña edateko, eta pekatari aundi bat naizelarik, emango diot nere buruari zeru eta lurraren jabeak izan ez zuen atsegiñ au?</p>
+<p>Eta botatu zuen edan-ontzia lurrera, non puskatu zan osotoro.</p>
+<p>—A, On Antonio, berriz eta berriz esango dizut Salbazallearen agintz eztiya; zorionekoak negar egiten dutenak, bada poztuak izango dira.</p>
+<p>Une onetan, prozesioa Elizatik sorturik, Flandesko Eskuadra Errealaren sutunpak, asi ziraden disparatzen, eta etxe osoa dardaratu zan. On Antonio oean eseri zan, eta eriotzaren zotiñez ia larritua, deadar egin zuen:</p>
+<p>—Etsaia dator... itxas-gizonak, nigana!... <hi rend='Italic'>La Capitana </hi>perillean dago... ez dizkio ezarriko bere atzaparrak... prest zaude... para itzatzu sutunpak... gure alde Jaungoikoa badegu... aurrera mutillak... Bizi dedilla España... aurrera... aurre...</p>
+<p>Baño ezin zezakean bukatu: azken ansiyak estutu zuen eta erori zan burupe-gañera. Jesu-Kristo gurutziltzatuaren imajiña bat alboratu zion Henaok. Musu eman zion, eta ill zan.</p>
+<p>—Jaunak, On Antonio Okendokoa ill da —esan zien gelakoai Aita Henaok. Ill da Santuen gisan zorion aundi bat gerrari batentzako!</p>
+<p>Orra, <hi rend='Italic'>Jaungoikoaren eta Fueroen </hi>arbolaren azpian jaio zan baten bizitza eta eriotza.</p>
+<p>Zeiñ izango dira gureak, Euskaldun-gaztelatarrak?</p>
+<p>1883</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>AGINTZA</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>I</hi></p>
+<p>Gaba da. Aitor ingurutua dago, bere illobatxo maitetaz, zeñai kontatzen die Lekobide, gerratzalle famatsu euskaldunaren kondaira; aur txikiena, adintsuaren belaunetan eseria dago, ta aren bizarraren ille luze zillarrezkoakin jostatzen da. Arteak, sukaldean txingarrak botatzen ditu; kanpoan, ekaitz andi bat ozenduten da.</p>
+<p><hi rend='Bold'>II.</hi></p>
+<p>Bat batetan, esku batek atean jotzen du, eta zakur sumiña zaungaka asten da. —Nor da or? —Aitorrek galdetu zuen, eta zakurra etzan ixiltzen. —Munia —bere errañari Aitorrek diotsa—, atea idiki ezazu: Jaungoikoari onesten etzaio iñork euskaldunen atean alferrik jotzea.</p>
+<p><hi rend='Bold'>III.</hi></p>
+<p>Muniak atea idiki zuen, eta gizon ubel ta luze bat, oñak odolturik eta soñekoak urraturik sartu zan; aren gorputza ikaratua zegoen, bearbada otzaz, bearbada bildurrez. Adintsuak, ikusi zuenean, esan zion. —Benedikatua izan dedilla, Jaungoikoak Aitorren etxera dakarren arrotza.</p>
+<p><hi rend='Bold'>IV.</hi></p>
+<p>Muniak aparia prestatzen du; aur jakinaiak bere begi urdiñakin, bidebilleari begiratzen diote. Arteak sukaldean txingarrak botatzen ditu: kanpoan ekaitz aundi bat ozenduten da.</p>
+<p><hi rend='Bold'>V.</hi></p>
+<p>Apaldurik, eta arrotzaren soñekoak idorturik, Aitorrek esaten dio: —Nor zera? Zergatik etorri zera mendi oetara? — Arrotzak negarrez eranzun zion. —Zorigaiztokoa naiz; etxe, sorterri, eleiza gabe nago; igesi nabill, ostoen otsak eta ujolaren dunbotsak iruditzen zaizkit nere etsaien zaldien trostak direla; nere animarentzat pakerik, eta nere begientzat lorik ez da. Pelaio, kantabriako dukea ni naiz.</p>
+<p><hi rend='Bold'>VI.</hi></p>
+<p>Arrotzak Guadaleteko kondaira kontatzen duen bitartean, etxadia asberaka dago, sartaizak mendiko aritz bizkorrenak ateratzen ditu. An Españia argal ta galgiroz betea Moroak garaitua izan zan.</p>
+<p><hi rend='Bold'>VII.</hi></p>
+<p>Goiza da... eguzkiak argitzen du mendia, txoriak zuaitzetan kantatzen ari dira, eta intzak loreen artean arturgiak baño geiago diztiatzen du. Pelaiok, Aitorren eskuari musu eman eta esaten dio: —Agur, jauna, ez naiz beñere aztuko zure etxean artu nazula, gose ta nekatua nengoenean, arri bat gabe nere burua sostengatzeko, eta nere oñak igestearen nekeaz odola zeriotenean. Gaur ez dezaket zuentzat deus ere egin; baño bigar, nik esango diet nere seme eta mendekoai, Euskaldunak errespetatu eta maitatu ditzatela.</p>
+<p><hi rend='Bold'>VIII.</hi></p>
+<p>Eskerrik asko, jauna, —Aitorrek dio—; guk ez degu deus ere eskatzen, ezpada pakean mendi santu oetan, gure fuero ta oitura onakin bizitzeko baimendua. Zoaz Jainkoarekin, eta oroitu zaite Aitorri egin diozun agintzaz.</p>
+<p><hi rend='Bold'>IX.</hi></p>
+<p>Arrotza dijoa; Aitorrek, bere etxadiaz ingurutua, txutik etxeko atearen ondoan, Jaungoikoaren Ama santuari errezatu zion. Pelaio urrun zijoalarik, bele bat etorri zan etxeraño. Aitorrek ikusi zuenean, musu bat eman bere illobai, eta tristiro esan zien, «nere semeak, Erdaldunaren agintzak gezurrak dira».</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>MALAXKA TA AKULIÑA</p></head>
+        </front>
+        <body>
+<p><hi rend='Italic'>Iruñan 1909garren urteko Azaroaren 15 egunean</hi></p>
+<p>Aste Santua goiz etorri zan urte artan. Etxe-tellatuak elurrez estaliak zeuden; erreka-txistorrak zelairik zelai lasterka zijoazen. Kaletxo estu batian, bi ateren artian, istil aundi bat zabaltzen zan.</p>
+<p>Bi etxeko-alabak, nexka-koxkor oraindik ziranak, ondo apaindurik, ederki jantzirik, meza ondoren joan ziran istilera; ura erabilliaz nai zuten jostatu. Ume gaztena asi zan istil-barrenen sartzen, eta nagusienak esan zion:</p>
+<p>—Begira, Malaxka, ire amak joko au! Urez busti baño lenago, oñetakoak erantziko zetiñat nik: egin ezan nik bezela.</p>
+<p>Nexka-koxkorrak ankutsik eta gonak gora, istil barrendik bata besteagana alderatu ziran. Malaxka busti zan belaunetaraño.</p>
+<p>—Ur aundia dago, Akuliña: au bildurra!</p>
+<p>—Ezta gauza aundia ori —erantzun zion lagunak—: orko ura da aundiena; aurrera zaite, kaikua!</p>
+<p>Bildu ziranian esan zuen Akuliñak:</p>
+<p>—Kontu, Malaxka, kontu, abill polliki! Bestela, soñekoa loyaz zikinduko didan.</p>
+<p>Lagunak itz oyek esaten zituen bitartean, Malaxkak erabilli zituen oñak, eta Akuliñaren soñekoari, eta begi ta sudurrari ere bai, loya bota zien. Soñeko berria zikindua ikusirik Akuliñak, aserratu zan, ta belarrondoko eder batzuek emateko Malaxka nai zuen arrapatu.</p>
+<p>Izutu zan Malaxka. «Txorakeri bat egin diñat» esanaz, iges egin zuen etxerontz.</p>
+<p>Akuliñaren ama, etxetik irten zan eta alabaren soñeko zikindua orduantxe ikusi zuen.</p>
+<p>—Non zikindu den ire gona, aurra? A zerriya!</p>
+<p>—Malaxkak egin dit.</p>
+<p>Akuliñaren amak arrapatu zuen Malaxka ta zartako bat eman zion.</p>
+<p>Malaxka txilioka, ojuka asi, ta aren ama jetxi zan kalera.</p>
+<p>—Zergatik jotzen dezu nere alaba? —galdetu zion emakume aserretuak, beste amaren gaiñ irañ-irañak jarioz.</p>
+<p>Autsiabatzak egin zuen zart. Bi amak buruko illeak asi ziraden elkarri sustrayetik ateratzen. Etxeetatik irten ziran gizonak, elkargana bilduta, mordoak egiten zituzten. Bakoitzak suminki itz egiten zuen, auzokoen esanak aditugaberik. Esku ta makillak zebiltzan airean... Atso batek (Akuliñaren amonak), su ta garrak itzali nayez, esan zuen:</p>
+<p>—O adiskideak! zer egiten ari zerate zuek? Onelako pekatu itsusia Pazkua egunetan! Poztu-bearra badegu gaur guk!</p>
+<p>Iñork etzion jaramonik egin; Jaungoikoari eskerrak, etzuten lurrera bota eta ostikopetu. Atsoak doarik itz egiten zuen... Laguntza amonagana etorri zan, Akuliña ta Malaxkaren aldetik.</p>
+<p>Emakume-autsiabartzaren bizkitartean, Akuliñak soñekoa garbitu du. Berriz, istilera korrika itzuli zan, arri-txiki bat artu zuen eta asi zan lurra leuntzen, kale-berarontz ura joateko irten-gai egoki bat idiki naiez. Malaxka etorri zan ere, eta makiltxo batez erreten bat zabaldu zuen polliki.</p>
+<p>Kale-auzoak ostikoka, makillaka, ukabilka ari ziraden... Izpi bertan, istilleko ura, amona eztitzallea zegoen tokiraño, eldu zan. Bi umeak, erreka ertzetik, alboratzen ziran.</p>
+<p>—Ura, gu baño, lasterrago badoa; geldi-erazo ezan, Malaxka —oju egiten zuen Akuliñak— geldi-erazo ezan!</p>
+<p>Malaxkak zerbait nai zuen esan; baña alaitasunak itzak ebaki zizkion.</p>
+<p>Bi umeak korri-korrika zijoazten eta far egiten zuten ikusiaz nola ezpal bat ur-goyan emen, ur-pean or, igeri zijoan. Auzo-billeraren tokiraño joan ziran onela.</p>
+<p>—Begira, gizonak! eztezute Jainkoaren bildurrik! Zuen autsibartzea umetxo oiekgatik zan —eta umeak, beren mukertasuna azturik, elkarrekin jostatzen ari dirade oraintxe. Diot nik, zuek baño zentzu obeagoa dutela.</p>
+<p>Auzokoak begiratu zioten nexka-koxkorrai, lotsatu ziran txit, ta ayen buruai iseka eginda, bat banaka, triki traka etxeratu ziran ixilka.</p>
+<p><hi rend='Italic'>«Baldin aurrak bezela ezpazerate, etzerate Zeruetako Erreinuan sartuko».</hi></p>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI.2>
+

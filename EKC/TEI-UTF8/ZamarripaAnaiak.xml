@@ -1,0 +1,260 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+                       "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+   <!ENTITY % TEI.prose    'INCLUDE' >
+   <!ENTITY % TEI.linking  'INCLUDE' >
+   <!ENTITY % TEI.analysis 'INCLUDE' >
+   <!ENTITY % TEI.figures  'INCLUDE' >
+   <!ENTITY % TEI.XML      'INCLUDE' >
+   <!ENTITY % TEI.extensions.ent SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.ent' >
+   <!ENTITY % TEI.extensions.dtd SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.dtd' >
+]>
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+     <titleStmt>
+        <title>Anaiak gara</title>
+        <author>Paulo Zamarripa</author>
+        <respStmt>Ez dauka</respStmt>
+     </titleStmt>
+     <extent>1.910 hitz, 13.813 karaktere</extent>
+     <publicationStmt>
+        <publisher>Klasikoen Gordailua [http://klasikoak.armiarma.com/]</publisher>
+        <distributor>Estrata Liburuak S.L.</distributor>
+        <address type='email'>klasikoak@armiarma.com</address>
+        <idno type='ota'>ZamarripaAnaiak</idno>
+        <availability status='free'>Erabilpen librekoa; honoko helbidean topa daiteke (HTML, RTF eta PDF formatuetan): http://klasikoak.armiarma.com/idazlanak/Z/ZamarripaAnaiak.htm</availability>
+        <date>2006</date>
+     </publicationStmt>
+     <sourceDesc>
+        <bibl>Iturria: Anayak gara, Zamarripa abadea. Gaubeka, 1929</bibl>
+        <notesStmt><note>Iturburuen datazioa: 1929</note></notesStmt>
+     </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+     <projectDesc>Euskal literaturako testu klasikoen bilduma da KLASIKOEN GORDAILUA; testu hau berorren parte da</projectDesc>
+     <refsDecl>
+        <p>MENTIONED etiketa egilearenak ez diren hitzak markatzeko erabili da: hitzaurreak, aipuak, iruzkinak, e.a.</p>
+    </refsDecl>
+     <classDecl>
+        <taxonomy id='generoa'>
+            <category id='G-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='G-ANT'><catDesc>Antzerkia</catDesc></category>
+            <category id='G-BER'><catDesc>Bertsoak</catDesc></category>
+            <category id='G-ERL'><catDesc>Erlijioa</catDesc></category>
+            <category id='G-NAR'><catDesc>Narratiba</catDesc></category>
+            <category id='G-POE'><catDesc>Poesia</catDesc></category>
+            <category id='G-SAI'><catDesc>Saiakera, kronika, artikuluak...</catDesc></category>
+        </taxonomy>
+        <taxonomy id='garaia'>
+            <category id='M-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='M-16'><catDesc>XVI. mendea</catDesc></category>
+            <category id='M-17-1'><catDesc>XVII. mendea - 1. erdia</catDesc></category>
+            <category id='M-17-2'><catDesc>XVII. mendea - 2. erdia</catDesc></category>
+            <category id='M-18-1'><catDesc>XVIII. mendea - 1. erdia</catDesc></category>
+            <category id='M-18-2'><catDesc>XVIII. mendea - 2. erdia</catDesc></category>
+            <category id='M-19-1'><catDesc>XIX. mendea - 1. erdia</catDesc></category>
+            <category id='M-19-2'><catDesc>XIX. mendea - 2. erdia</catDesc></category>
+            <category id='M-20-1'><catDesc>XX. mendea - 1. erdia</catDesc></category>
+            <category id='M-20-2'><catDesc>XX. mendea - 2. erdia</catDesc></category>
+        </taxonomy>
+        <taxonomy id='euskalkia'>
+            <category id='E-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='E-BAT'><catDesc>batua</catDesc></category>
+            <category id='E-BIZ'><catDesc>bizkaiera</catDesc></category>
+            <category id='E-BNA'><catDesc>behenafarrera</catDesc></category>
+            <category id='E-ERR'><catDesc>erronkariera</catDesc></category>
+            <category id='E-GIP'><catDesc>gipuzkera</catDesc></category>
+            <category id='E-GNA'><catDesc>goi nafarrera</catDesc></category>
+            <category id='E-LAP'><catDesc>lapurtera</catDesc></category>
+            <category id='E-NAF'><catDesc>nafarrera</catDesc></category>
+            <category id='E-ZAR'><catDesc>zaraitzuera</catDesc></category>
+            <category id='E-ZUB'><catDesc>zuberera</catDesc></category>
+        </taxonomy>
+    </classDecl>
+  </encodingDesc>
+  <profileDesc>
+     <textClass>
+       <keywords scheme='generoa'>
+         <list><item>G-NAR</item></list>
+       </keywords>
+       <keywords scheme='garaia'>
+         <list><item>M-20-1</item></list>
+       </keywords>
+       <keywords scheme='euskalkia'>
+         <list><item>E-BIZ</item></list>
+       </keywords>
+     </textClass>
+  </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>Anaiak gara -- Paulo Zamarripa</docTitle>
+    </front>
+    <group>
+      <text>
+        <front>
+          <head rend='Bold'><p>ANAIAK GARA</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>IPUIÑA</hi></p>
+<p>ZAMARRIPA ABADEAK</p>
+<p>Dotriñako umeentzat egiña</p>
+<p><mentioned>Bermeon</mentioned></p>
+<p><mentioned>Gaubekaren irarkolan</mentioned></p>
+<p><mentioned>1929</mentioned></p>
+<p><mentioned>JAUBEDUNA DA</mentioned></p>
+<p><mentioned>Nihil obstat.</mentioned></p>
+<p><mentioned>JOSEPHUS MICHAEL DE BARANDIARAN</mentioned></p>
+<p><mentioned>Censor</mentioned></p>
+<p><mentioned>Imprimi potest.</mentioned></p>
+<p><mentioned>Victoriae, 12 Octobria 1929.</mentioned></p>
+<p><mentioned>JACOBUS VERASTEGUI</mentioned></p>
+<p><mentioned>Pro-vicarius generalis</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>ANAIAK GARA</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>IPUIÑA</hi></p>
+<p>Patxitxun mutilko lagunak ez eukien iñoiz Patxitxu bako olgetarik.</p>
+<p>Eta ikusirik ez zala eldu domeka-arratsalde atan elizara Patxitxu mutilko lagun ona, bere laguntxuen begi-begikoa, Dotriñara ta Errosariora Jai-domeka guztietan etorten zan dotriña-ikasle zintzoa, bere etxera joan zirean, ia zer jazoten ete iakon jakiten.</p>
+<p>— Zer dakazue, mutiltxuak? —itandu eutsien Patxitxun izekoak, euron deira urtenda.</p>
+<p>— Ia Patxitxuk zer daukon, gaur arratsaldean Dotriñara ez Errosariora etorri ez egiteko.</p>
+<p>— Andik dala ta egon naz neu ba...</p>
+<p>— Ez ete dago oian gero? —urten eban mutiltxuetariko zarrentxuenak.</p>
+<p>— Oian ostera? Zer dala ta? Bazkaldu besteetan lez egin dau, ta neuk ez aitak ezteutsagu igarri ezer txarrik daukonik.</p>
+<p>— Ba nik ondo igarri deutsat; urrean. Meza nausi ostean ezteusku olgetan lagundu gura izan ta... Orduan esan dot...</p>
+<p>— Banoa etsean ete dagoan ikusten. Eta zuek itxaron or etse aurrean apur baten; etsean ezpadago, bere billa danok asteko... Jesus maitea, zer ikusi bear ete dogu?</p>
+<p>Ta auxe esanda, larri bere larri, Patxitxun gelarantz egin eban.</p>
+<p>Ateko kisketari eskuko ikara andiaz eragin eutsan.</p>
+<p>Ta atea zabalduaz batera, gorputza guztia ikara baten iminteko berba onek entzun zituzan, Patxitxu oian ganean burua oitik kanpora atarata ikusten ebala:</p>
+<p><hi rend='Italic'>— Ezkondu gura dau baila bere... Zumeza Olandiaga Jaxintok... erri onetan iaio ta... erri beronetan bizi danak...</hi></p>
+<p>Ene Jainkoa! Neure aita da au!... Orra or egia izan da... Esan eustan aitatxuk berak... izeko Katalin ezkonduko dala laster, eta izeko Katalin ezkonduten dan egunean... berak beste izeko barri bat ekarriko daula... Ta izeko barria ekarteko izango dira onek deiunok... Ene! Zelangoa izango ete da izeko barri ori!... Ene! Ene Jainkoa!</p>
+<p>— Ene Jainkoa! —esan eban Kataliñek be, bere lobatxu maitearen gorputza oitik bera jausten asten zala ikusirik.— Ekazu, Jauna, bear dodan indarra...</p>
+<p>Ta tranku baten oian aurrera eldu, ta bere esku ikaratu bien ganean atrapau eban bere lobatxua... lurrari iya deutsala...</p>
+<p>Ta izeko onaren besoetan itzartu zan Patxitxu, non egoan ezekiala.</p>
+<p>— Ene! non nago ni? —esan eban oindiño ondo itzartu barik.</p>
+<p>— Emen, ederra: zeure izekotxuren besoetan, —erantzun eutsan izekoak.</p>
+<p>— Ta... zer? Zeu emen zagoz oindiño? Aurrekotsen? Aitanean? Izekoa!...</p>
+<p>Izekoak indar egin bear eban begietara etorkozan negar-anpuluak lotuteko. Ta indar egin ta guzti be, batzuk urten eutsien; ta bere lobatxuaren arpegian bere arpegiko negar-malkoak mosuka ta laztanka legortuten zituzala, esan eutsan:</p>
+<p>— Ene Patxitxu! Zer darabiltzu?... Zer daukazu, laztana? Zer jazoten iatzu, ederra?</p>
+<p>— Ezebez, izekoa.</p>
+<p>— Ezebez ta ainbeste zer?</p>
+<p>— Ara, ba; amesetan egon naz ta...</p>
+<p>— Ta, zek ekarri deutsuz orrek amesok, ba? Esan egia.</p>
+<p>— Eztakit zek ekarri deustazan. Baña meza nausian... zeure deiunak entzun dodaz... eta gero... aitatxunak... eta zu, ezkonduten zarean egunean, bazoaz seguru emetik, Aurrekotsetik... aitanetik... guretik... eta,... izekoa...</p>
+<p>— Baña ni joan arren, beste izeko bat iatortzu ta...</p>
+<p>— Bai, baña, zer izango da nigaz zeu barik... eta... beste izeko bategaz?</p>
+<p>— Izekoa baño geiago izango dozu aitak ekarriko deutsun izeko barria.</p>
+<p>— Izekoa baño geiago?</p>
+<p>— Bai; <hi rend='Italic'>ama.</hi></p>
+<p>— <hi rend='Italic'>Ama! Ama... </hi>bat izaten da! Ta <hi rend='Italic'>ama </hi>izan neban andrea... il zan ta...</p>
+<p>— Bai, lenengoa; baña ori beste ori bigarren ama izango dozu.</p>
+<p>— Ta amak lez artuko nau?... Zeuk lez artuko banindu be,... enintzake asarre.</p>
+<p>— Neuk baño obeto.</p>
+<p>— Zuk baño obeto ezin nei iñok artu. Baña, zeuk diñozunetik, esan lei ondo artuko naula...</p>
+<p>— Bai, laztana.</p>
+<p>— Tira, ba!</p>
+<p>— Tira, ba, Patxitxu! Itxi alde batera alperreko buruko miñok eta ames ganorabakook, eta joan poz-pozik zeure laguntxuakaz olgetan, or etse aurrean daukazuz begira ta!</p>
+<p>— Banoa, ba.</p>
+<p>— Tira, ba! —barriro esanda, iñoizko mosurik gozoena ezarri eutsan ezpantxuetan izeko onak bere lobatxu maiteari.</p>
+<p>Ta au, bere izekoaren mosu gozo aren indarrak bultz eginda legez, ariñeketa baten joan zan, Kataliñen besoetatik, bere laguntxuen aurrera.</p>
+<p>Ta eurok lagun artuta, betiko euron olgeta-lekura, eliza aurreko landara, joan zan.</p>
+<p>Bidean ioiala, lagunakaz berba egin-bearra ez eukan tartetxuetan, bere buruari esaten eutsan, poza siñistu eziñik:</p>
+<p>— Emongo ete deust, ba, iñoiz izeko barriak izeko Kataliñek gaur berton emon deustan lango mosurik?</p>
+<p>Ordu beteko olgeta-aldi gozoa bere laguntxuakaz eginda, poz-pozik biurtu zan Aurrekotsera, bere etxera; berak nondik ezekiala, izeko barria ezaututeko bildurra poz biurtuten ekiola.</p>
+<p>Beti lez, abemarietakoak entzun ta lastertxuan sartu zan etxean; ta beti euki oi eban gogo onagaz apaldu ostean, iñoizko ondoen egin eban lo, zabal-zabal, Zeruko aingeruak berari begira poz-pozik egoteko eran.</p>
+<p>Beste <hi rend='Italic'>amar lo eginda </hi>ikusi eban izeko barria ezaututeko eguna.</p>
+<p>Erbestera joan iakon aitatxu goizean goizetik, berari, lorik galerazo barik, loa baizen gozoa zan mosu andi-andi bat emonda; ta gaubean, Izeko Kataliñen eztegura etorririko lagun guztiak euron etxeetara joan baño lenago, agertu ekion izeko barriagaz... eta beste lagun bategaz.</p>
+<p>Oi, bere poza andiagoa izateko, aitatxuk eta izeko barriak beste lagun bat ekarren eurakaz!</p>
+<p>Bere antzeko mutilko polit-polit bat!</p>
+<p>Irurak etozan an erbestean, izeko barriaren ta mutiltxu aren bizileku ordurartean izaniko etxean, izeko barriaren ta aitatxuren ezkontza osteko eztegua eginda.</p>
+<p>Patxitxuk, jakiña zan!... a mutikotxua ikusi ebanaz batera, nor zan jakin gura izan eban ta... aitatxuri itandu egin eutsan:</p>
+<p>— Aitatxu, nor da ori mutilkotxu ori?</p>
+<p>Ta aitatxuk, mutilkotxu ekarri barriari mosu andi-andi bat emon ta gero, Patxiri, berari beste mosu bardin bat emonda, olantxe berba egin eutsan:</p>
+<p>— Patxitxu, au... anaia eztok; baña anaitzako artu einke; ba beronen ama, eure izeko barri au, eure ama ona izan zoanaren etse onetako ardurea artuten iatok.</p>
+<p>Eta orduan, izeko barriak, Patxitxuri berak be mosu andi-andi bat emon ta gero, mutilkotxu ekarri barriari beste mosu bardin bat emonda, esan eutsan oneri:</p>
+<p>— Telestxu, euk be au berau... anaia eztok; baña anaitzako oinganik artu einke; ba beronen aitak, eure osaba barri onek, eure aita ona zoanaren etsetik beronen etse onetara ekarri naiok, zeurok biok kristiñau onak lez azteko, lauron bizileku gaurganik ioagun etse maitegarri onetan.</p>
+<p>— Olan dala, berorreri, andrea, <hi rend='Italic'>izekoa </hi>barik, <hi rend='Italic'>ama </hi>deituko deutsat, —urten eutsan Patxitxuk urduri-urduri.</p>
+<p>— Ta nik zure aitari, Patxitxu, <hi rend='Italic'>osabea </hi>barik <hi rend='Italic'>aita </hi>deitu bearko, —diño orduan Telestxuk.</p>
+<p>Telestxun ama ta Patxitxun aita, berbalditxu onek emoniko pozak biotzean ikututa, iya negar egin bearrean dagoz pozaren-pozez.</p>
+<p>Ta Telestxun amak berak, Patxitxun ama barriak, negar malkoai iges eragiteko berbaldia amaitutearren, zer egin eztakiala, Patxitxuri, beronek pozen-pozen entzun eikean itaunetxu au egiten deutso:</p>
+<p>— Dotriña asko ikasten... dok... Patxitxu?</p>
+<p>— Alegiña egiten dot, ama.</p>
+<p>— Tirok ba! Biar asita, Jainkoak gura baiok, baukok laguna onegaz, Telestxugaz, astegunetan eskolarako, ta iai-egunetan, Mesa nausirako, Dotriñarako ta Errosariorako.</p>
+<p>— Au poza!... Eztaukat orain beste tamalik geure izeko Katalin ta gaur ezautu dodan osaba barri au biar baioakuzala iakitea baño.</p>
+<p>— Eztoaz atarañoko urrunera be ta, etorriko dira... zarritxu.</p>
+<p>— Bai, Patxitxu, albait zarrien etorriko gara.</p>
+<p>Poza sinistu eziñik egoan Patxitxu onek gauzok entzunda.</p>
+<p>Ta siñistu eziñeko poz andi orregaz joan zan, aita-aman ta izeko-osaban atzetik, bere anai barri Telestxu eskutik daula, bein ordura ezkero gertu egoan aparia jango eben maira.</p>
+<p>Izeko-osabak goizetik ibilli-bearra eukien biaramonean, euron erri barrian mezea entzuteko, ta orretarako apari luzea egin barik albait ariñen atsedeten joatea ondo etorkielako, ez zan egote luzerik egin maian.</p>
+<p>Baña alan ta be, ta alkarreri zer-esan asko euki arren be, Patxitxu ta Telestxu, aparia amaitu baño lenago, logureak geiago eginda, lo gozo-gozotan, alkarren ganera iausi zirean.</p>
+<p>Ta alantxe lo gozo-gozotan dagozala,... oi batera eroan zituezan biok aitak eta amak: ordurartean Patxitxuna ta ordurik gora biona izango zan oira.</p>
+<p>Ames gozo onik egingo eben aingerutxu biok alkarren ondotxuan.</p>
+<p>Biaramonean, Aurrekotsetik erriko meza nausira lau lagun joan zirean.</p>
+<p>Patxitxu ta Telestxu ta Patxitxun ta Telestxun aita-amak.</p>
+<p>Mutilkotxu biok, euron aita-aman aurretik ikustekoak ioiazan: biak neurri bardiñekoak, biak alkarren antz andikoak eta biak alkarren ondotxutik, iya batak besteari deutsala.</p>
+<p>Ta baeukien mutilkotxuok zer-konteu alkarreri bidean.</p>
+<p>Elizara eldurik, Patxitxuk Telestxu,... ze esan be ez!,... mutilkotxuentzako aulkietariko baten aurrera eroan eban beragaz.</p>
+<p>Ta antxe entzun eben meza nausia ta meza nausiko sermoia,... gizon askok oindiño ikasi barik daukien iaz ederragaz.</p>
+<p>Elizatik urten ebenean, an elizpean aurkitu ebezan, eurok baño lenago urtetea gertauta, euron begira egozan mutilkotxu lagunak.</p>
+<p>Eurotariko batek, Martzel izeneko zarrentxuenak, beingorako itandu eutsan Patxitxuri Telestxugaitik:</p>
+<p>— Au nor dok, mutil?</p>
+<p>— Nor izango ioat ba? Anaia! —erantzun eutsan Patxitxuk.</p>
+<p>— Bai, zereko anaia! Lengusua izango dok.</p>
+<p>— Ez! <hi rend='Italic'>Anaia!</hi></p>
+<p>— Eztok ba izeko barriaren semea?</p>
+<p>— Ez! <hi rend='Italic'>Ama barriarena! </hi>Eztok, Telestxu?</p>
+<p>— Bai, Patxitxu, —diño Telestxuk.</p>
+<p>— Olan dala, anaiak zarie.</p>
+<p>— Bai orixe!, —erantzun eutsien biak batera.</p>
+<p>— Ba gu... zeuron lagunak.</p>
+<p>— Eta gu... zeuronak. Eztok, Telestxu?</p>
+<p>— Bai, Patxitxu, eurok gura badabe.</p>
+<p>— Eztogu gurako ba?, —diñoe Martzelen lagunak.</p>
+<p>— Tira, ba, asi gaitezan!, —diño orduan Matzelek berak. Ia, Erramontxu! Ataraik pelotea. Txulian-txulianka egin bear ioguk... Buruan io barik, lepora iaurtitera gero!</p>
+<p>— Bai, eta bear dan lez, —diño Patxitxuk, bere txartestxua elizpeko age-adar batetik eskegiten daula.</p>
+<p>Eta landara urtenda, ekiñalean ekiten deutsie txulian-txulianka, amabietako kanpai-iotea entzun artean.</p>
+<p>Orduan, eurokandik urren dagozan zarren ondotxura ioan ta... eurokaz errezetan dabe <hi rend='Italic'>Anjelus </hi>izeneko otoitza bere iru abernariakaz.</p>
+<p>Ta au eginda,... bakotxa bere etxera.</p>
+<p>Baña ez Martzelek itaune au Patxitxuri egin barik:</p>
+<p>— Dotriñara be etorriko zarie... biok, ezta?</p>
+<p>— Bai, anai biok.</p>
+<p>Martzeleri arratsalderartean agur eginda, Patxitxuri Telestxu abadeagana eroatea otu iakon.</p>
+<p>Ain zuzen be, orduantxe urten eban abade jaunak elizatik.</p>
+<p>Eta euron txapeltxuak polito-polito burutik kendu, ta badoaz beragana, ta badiñotso Patxitxuk:</p>
+<p>— Jauna, apunteko dau au Dotriñan? Gaur asita, Dotriñara ibilli gura dau.</p>
+<p>— Ederto! Zelan iaukok izena?</p>
+<p>— Ba... Telestxu.</p>
+<p>— Ta abizena? Apellidua?</p>
+<p>— <hi rend='Italic'>Zumeza, </hi>neuk lez. (Ta eztiño guzurrik, alantxe dauko, suertez, euki be ta).</p>
+<p>— Lengusua dok?</p>
+<p>— Lengusua baño geiao, jauna. <hi rend='Italic'>Anaia!</hi> Neure ama barriaren semea da.</p>
+<p>— Berau barriz neure aita barriarena, jauna. —urteten dau Telestxuk.</p>
+<p>Eta biak batera diñotsie:</p>
+<p>— Anaiak gara, Jauna!</p>
+<p>Ainbeste anai, anai izan gura ezik bailegozan, txakur ta katu ikustea gertau ekion abade jaunak, mutilkotxu bion alkarren anai izan gurea ikusiaz poztuta, igotzi gozo bana eurori burutxuetan eginda, poz pozik diñotsie:</p>
+<p>— Tira, ba, olantxe urte askotan! Ta... etorri jai-domeka guztietan Dotriñara!... Bakik ik, Patxitxu, urteko jai-domeka guztietan iatozan mutilko-neskatoai txartes bana ta gona bana emoten ieutsiedana;... ta ganera, geien ikasten ioenai... Baña, entzuik: zer ein deutsak euk... igaz irabazi endun txartes politari?</p>
+<p>— Ene! —esan eban Patxitxuk esku biak bular bietara eroanda, soñean eztaukala ikusirik— elizpeko age-adar batetik eskegita itxi dot, jauna, bera loitu barik txulian-txulianka egiteko. Ta berori ikusi dodanean, berorrek Telestxu Dotriñan apuntetako, berorregana biok etortea baño besterik ez iat otu ta...</p>
+<p>— Iantzi arin, ba, otzitu barik!</p>
+<p>— Bai, jauna. Geratu beite ondo.</p>
+<p>— Etorri gero Dotriñara ta Errosariora, bietara!</p>
+<p>— Bietara, bai, jauna,... anai biok.</p>
+<p>— Olantxe beti alkar anaitzat eukiko al dozue!, —esan eban bere barruan, eskuak alkarreri emonda elizpera ioiazan mutilkotxu bioi begira.</p>
+<p>Ta ikusirik Patxitxu, Telestxun eskua itxiaz batera elizpeko orma ganera igon ta beingoan, age-adarretik arturiko txartesagaz, saltu bizkor baten jatsiten, iya eurok entzuteko eran esan eban:</p>
+<p>— Ta ez al zarie iñoiz be jausiko, aingerutxuok, pekatu astunean!</p>
+<p>Etxera eldu zireanean, beingoan esan bear izan eutsan Patxitxuk... eurok noiz etorriko... atartean begira eukien ama maiteari:</p>
+<p>— Ama, esan deutsat abade jaunari Telestxu Dotriñan apuntetako.</p>
+<p>— Ta... apelidua iakin dozu ba?</p>
+<p>— Ene! Iakinda dao. <hi rend='Italic'>Zumeza! Anaiak </hi>izan ezkero ba...</p>
+<p>— Bai, alantxe... Zoaze orain... biok,... semetxuak, or goiko soloan egongo da ta, aitagana,... esaten bazkaria gertu dagoala.</p>
+<p>— Ta gero,... bazkal-ostean... Dotriñara!... Ezta, amatxu?</p>
+<p>Ta au esanda, saltuka joan zirean mutilkotxu biak aitagana, amak agindu eutsiena esaten, amari begietatik urteten asi ekiozan negar-malko gozoak ikusi barik.</p>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI.2>
+

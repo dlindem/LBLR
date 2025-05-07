@@ -1,0 +1,727 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+                       "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+   <!ENTITY % TEI.prose    'INCLUDE' >
+   <!ENTITY % TEI.linking  'INCLUDE' >
+   <!ENTITY % TEI.analysis 'INCLUDE' >
+   <!ENTITY % TEI.figures  'INCLUDE' >
+   <!ENTITY % TEI.XML      'INCLUDE' >
+   <!ENTITY % TEI.extensions.ent SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.ent' >
+   <!ENTITY % TEI.extensions.dtd SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.dtd' >
+]>
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+     <titleStmt>
+        <title>Yolanda</title>
+        <author>Pierre Lhande</author>
+        <respStmt>Ez dauka</respStmt>
+     </titleStmt>
+     <extent>10.851 hitz, 84.333 karaktere</extent>
+     <publicationStmt>
+        <publisher>Klasikoen Gordailua [http://klasikoak.armiarma.com/]</publisher>
+        <distributor>Estrata Liburuak S.L.</distributor>
+        <address type='email'>klasikoak@armiarma.com</address>
+        <idno type='ota'>LhandeYolanda</idno>
+        <availability status='free'>Erabilpen librekoa; honoko helbidean topa daiteke (HTML, RTF eta PDF formatuetan): http://klasikoak.armiarma.com/idazlanak/L/LhandeYolanda.htm</availability>
+        <date>2006</date>
+     </publicationStmt>
+     <sourceDesc>
+        <bibl>Iturria: Yolanda, Pierre Lhande. Argiaren Idaztiak, 1921</bibl>
+        <notesStmt><note>Iturburuen datazioa: 1921</note></notesStmt>
+     </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+     <projectDesc>Euskal literaturako testu klasikoen bilduma da KLASIKOEN GORDAILUA; testu hau berorren parte da</projectDesc>
+     <refsDecl>
+        <p>MENTIONED etiketa egilearenak ez diren hitzak markatzeko erabili da: hitzaurreak, aipuak, iruzkinak, e.a.</p>
+    </refsDecl>
+     <classDecl>
+        <taxonomy id='generoa'>
+            <category id='G-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='G-ANT'><catDesc>Antzerkia</catDesc></category>
+            <category id='G-BER'><catDesc>Bertsoak</catDesc></category>
+            <category id='G-ERL'><catDesc>Erlijioa</catDesc></category>
+            <category id='G-NAR'><catDesc>Narratiba</catDesc></category>
+            <category id='G-POE'><catDesc>Poesia</catDesc></category>
+            <category id='G-SAI'><catDesc>Saiakera, kronika, artikuluak...</catDesc></category>
+        </taxonomy>
+        <taxonomy id='garaia'>
+            <category id='M-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='M-16'><catDesc>XVI. mendea</catDesc></category>
+            <category id='M-17-1'><catDesc>XVII. mendea - 1. erdia</catDesc></category>
+            <category id='M-17-2'><catDesc>XVII. mendea - 2. erdia</catDesc></category>
+            <category id='M-18-1'><catDesc>XVIII. mendea - 1. erdia</catDesc></category>
+            <category id='M-18-2'><catDesc>XVIII. mendea - 2. erdia</catDesc></category>
+            <category id='M-19-1'><catDesc>XIX. mendea - 1. erdia</catDesc></category>
+            <category id='M-19-2'><catDesc>XIX. mendea - 2. erdia</catDesc></category>
+            <category id='M-20-1'><catDesc>XX. mendea - 1. erdia</catDesc></category>
+            <category id='M-20-2'><catDesc>XX. mendea - 2. erdia</catDesc></category>
+        </taxonomy>
+        <taxonomy id='euskalkia'>
+            <category id='E-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='E-BAT'><catDesc>batua</catDesc></category>
+            <category id='E-BIZ'><catDesc>bizkaiera</catDesc></category>
+            <category id='E-BNA'><catDesc>behenafarrera</catDesc></category>
+            <category id='E-ERR'><catDesc>erronkariera</catDesc></category>
+            <category id='E-GIP'><catDesc>gipuzkera</catDesc></category>
+            <category id='E-GNA'><catDesc>goi nafarrera</catDesc></category>
+            <category id='E-LAP'><catDesc>lapurtera</catDesc></category>
+            <category id='E-NAF'><catDesc>nafarrera</catDesc></category>
+            <category id='E-ZAR'><catDesc>zaraitzuera</catDesc></category>
+            <category id='E-ZUB'><catDesc>zuberera</catDesc></category>
+        </taxonomy>
+    </classDecl>
+  </encodingDesc>
+  <profileDesc>
+     <textClass>
+       <keywords scheme='generoa'>
+         <list><item>G-NAR</item></list>
+       </keywords>
+       <keywords scheme='garaia'>
+         <list><item>M-20-1</item></list>
+       </keywords>
+       <keywords scheme='euskalkia'>
+         <list><item>E-GIP</item></list>
+       </keywords>
+     </textClass>
+  </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>Yolanda -- Pierre Lhande</docTitle>
+    </front>
+    <group>
+      <text>
+        <body>
+<p><mentioned>ARGIAren idaztiak.—1.a</mentioned></p>
+<p><mentioned>Pierre Lhande, S. J.</mentioned></p>
+<p><hi rend='Bold'>YOLANDA</hi></p>
+<p><mentioned>—IRAKURGAYA—</mentioned></p>
+<p><mentioned>1.° IRARKALDIA</mentioned></p>
+<p><mentioned>1921—DONOSTIA</mentioned></p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>I</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>Urdanibia</hi></p>
+<p>Irundik Ondarrabiaraiñoko bide zabalean lenago lau mando makal zartxo batzuk zaramaten gurdi moldakaitza, oraiñ tximista-indarraz dabillen trranbia ori liraiñ bat egiña dago.</p>
+<p>Ondarrabiaruntz joateko asmoaz gurdi berri ortara igoko baziña, irakurle, laixter —Kaputxiñoen etxera eldu baño len—, igar edo errota-urbide bat zubiaren azpitik dijoazula nabarituko zenuke. Itsasoa apalean dagolarik, igar-erreka ori loitsu ta erditara urez ustua dago; baña urandiak gora joten duan orduetan, ibai nasai, arto landa ederren artetik dabillen bat dirudi.</p>
+<p>Gaurko egunean erreka orren urak, arriz beteak Bidasoatik datozten txalupak, ara, bide bazterreko Sagarzazuren <hi rend='Italic'>edozein arriki lantegi</hi>ra ekartzea baizik beste lanik ez dauka. Baña... Gurditik jatxi zaite, irakurle, ta begira... Errekari bidea zabaltzeko egiña dagon eskuzko lan izugarri ori, Sagarzazuren lantegi txiki politarentzat iñork bururatuko etzezakela laixter ulertuko dezu. Uraren bi aldetatik aiñ zabal ta lodituak ikusten ditutzun iya ta kanaberak, egikizun ori atzokoa eztala, ageriki salatzen dute.</p>
+<p>Jo zazu aurrera... jarrai urari barrena... An-emen, zearka dabillen errekaren bidean, orra arrizko zubi zar bat, bizkarrezurrez goratua itsas ontziak azpitik igaro ditezen eran; orra or legorrean oska zabal bat egiña, gora ta bera dijoazen txalupak aldizka igo ta jaitxi ditezen; ona emen ontziak ustu-betetzeko antolatuak zeuzkaten biguiñ edo arolak, ta burni lokariak korapillatzeko abe tantaiak. Jo... jo... loizulo ta sasiak gaindi... Sar, basetxen inguruelako sagardi ta zelaietan, ango etxekandreak atorra ta maindire ta puxka gobaraberriak esi gainean zabaltzen ditualarik. Jo oraiñ ezkerrera, ibaiarekin batean, amezti beltz araruntz; ibilli, zugatz illun orien adarpean... Or daukazu, oyanean galdua dirudin orma-goradun yauregi bat...</p>
+<p>Yauregi aberats samingarria!</p>
+<p>Amaseigarren gizaldiko Zaldunak egoki zeukaten antzera, etxea arri eder apainduz jasoa dago, ta ate-gainean marmol edo aitxurdinezko arri-mai batean itz oriek ozkatuak daude:</p>
+<p><foreign>SEBAS</foreign></p>
+<p><foreign>TIAN D'UR</foreign></p>
+<p><foreign>DANIBIA-RE</foreign></p>
+<p><foreign>DIFICO ES</foreign></p>
+<p><foreign>TA CASA</foreign></p>
+<p><foreign>ANO DE</foreign></p>
+<p><foreign>1619</foreign></p>
+<p><hi rend='Italic'>Sebastian Urdanibienekoak etxe au berriztatu zuan, 1619 garren urtean. </hi>Izki orien azpian Urdanibitarren ezagutailluak: basurde ta orkatz ta oreiñ adarbakardunak.</p>
+<p>Orrelako alderdi basa ta illunean etxe ori jaso zuten gizonak, gogoan zer asmo zeukaten? Bere atsegin eta solasetako leku ori autatu ote zuten? Ez noski. Atsegintzalea bakartasunari itzuri egin oi dioala edozeiñek badaki.</p>
+<p>Etxagillearen asmo egiazkoa ikertu nai badezu, yauregi orren inguruneak urbildik begixta itzatzu. Orra amen lenago Irundik Ondarrabiaruntz zebillen Erromatarren erregebidea. Oraiñ otarte ta sasien erdian saparrez beteak ikusten ditutzun arrola oriek, gizaldi-ta-gizaldietan, bide zabal errex bat ortik bazabillala ezaguarazten dizute. Baña bidearen beste aldean datzan ur-bildegi orrek ta berari arrizko ur-bide batez lotua daukan etxola beltz illun ark, yauregi ori zertarako egiña izango ote zan agerian jartzen dute. Jaizkibel-mendieren erraietatik sortutako errekatxo bat onaraiño, ataurka zeyartu-ta, ekarri zuten. Ark pixkaka-pixkaka, ur-bildegia nasaiki betetu-ta, bere ur pisuak etxolaren goi-sapaiaraiño daramatza. Or lenago ur-errota edo aize-arka aundi bat izango zala ikusleak errex asma dezakeana da. Itz batez, Gipuzko aintziñakoan aiñ ezagutuak ziran <hi rend='Italic'>ola</hi> eder aietatik baten aurrean gaude. Auxe zan Urdanibiko ola, ola guzien artean aipatua zegona.</p>
+<p>Euskadiko kondaira zar-zarrenetan jarria dagon gauza da Euskaldunak betidanik burnizale ta ola-gizon izan dirala. Plino, Kaizar eta Esterabonek gure mendietako burnimeatzen aberastasuna goratu dute, ta Martzial olerkariak nonbait dio Zeltiberiko gudari ospetsuak, Bilbilis euskal irian landuak ziran ezpata eta azkonak obeagotzat edukitzen zituztela.</p>
+<p>Esan ori gutxi badirudizu, gutartean bertan entzun dezakezu Euskaldunen aitonen aitona bera, Tubalkain, Iapeten semea ludian izan dan len-len ola-gizona zala, ta oraindik aintziñagoko berriak jakin nai baditutzu, Ibarguen idazlariaren gutunetan aurkituko dezu.</p>
+<p>Ori gora bera, gogor baño gogorrago dan egia da, Erromatarrak gure menditarte orietara etorri baño askoz ere lenago, iñork ezagutu dituan gizon batzuk, burni billa, Auñe-mendiko sustraiak ikuskatu ta zulatu dituztela. Neronek nere begiez yaz ikusi dedalako esan nezake, Ayamendin, Oyarzungo lurretan, burnimia zar-zar batzuk badirala, aspaldiz geroz mendi-erraien ikertzaleak erabilli ez dituzten tresna edo lankaiekiñ eginikakoak. Orduko miagizonak burni gordiñ edo latza jalkitzeko aitzkiñ asko gogorrik etzeukatelako, lenbizi burni-beta ikatz-suakiñ bigundu-ta erauzten eta puxkatzen zuten. Oitura zar ortatik daloz gaur an ikusten ditugun uskuneak, eunka eta millaka, ormaren azalean zulatuak.</p>
+<p>Burni-lan oriek nolakoak izango ziran beste aztar batzuk badagerkigute. Elgoyen deritxon ibaiari bera, edozeiñek ikus litzazke orma mokor beltz, erdi-erroiztu, ke-bide motz, arruztai urratu eta abar: arriki erori multzoen erdian burni puxkak ere idoro ditzazketzu. Antxinako etxe orien izakera orain ere dakarten izenak berak adierazten digu: Olaberria, Olazarreta, Ibarrola, Olasagasti... Beti <hi rend='Italic'>ola </hi>ta <hi rend='Italic'>ola.</hi></p>
+<p>Amasei garren gizaldian geien geienik zabaldu zan, Gipuzko eta Bizkayan, burnigintza. Aita Henaok dio orduan irureun ola baiño geiago piztu zirala. Urtean lareun milla «kintale» burni emen landu ta Europako porlu guzietara bialtzen omen ziran. Euskaldunak izugarriko biltoki aundiak bazeuzkaten Flandretako itsas-uri geienetan, ala nola Lilen, Dunkerken, Brujasen eta Middelburgen; ta sal-eroskin biltokiarekiñ batean bai omen zeuzkaten ordezkari-etxe <foreign>(Consulado)</foreign> eta eleiza euskotarrak. An saltzen zituzten bere burni, ogi ta ardoak, ta ontziak berriz betetzeko zer erosten zuten jakiñ nai badezu, gutun zar-zar latiñeraz eginikakoaren batek esango dizu: «zaldi eder eta astunak, idi gizendunak, guri gozo, urdazpi gatzan edo kean mardotuak, ille ta oial aberatsak, margol-itxura xoragarriak, itz batez, gizonaren eskuz egiñ ditezkean zer eta zer ederren eta onenak».</p>
+<p>Orduan izanikako ordezkari-etxe aundienetatik bat zan, Brujasko <hi rend='Italic'>Bizkaitaren Yauregia </hi><foreign>(Proetorium cantabricum edo Palais des Biscayens)</foreign> deritzana. Sanderus idazle zarrak, etxe nagusi orren itxura eder bat gorde digu, <hi rend='Italic'>Flandria Illustrata </hi>dalako gutunean. <foreign>«Biscayers Plaatz» </foreign>edo «Bizkaitarren Plaza» gaur ere deritzon tokian, Euskaldun ontzikariak ura jaso zuten 1497 garren urtean, ta edozeiñ edergaillu ta apaingarriak josi ziozkaten <hi rend='Italic'><foreign>(magnifice admodum structa)</foreign>. </hi>Orduko yauregietan oi zan bezela, sapai zabal bat gaiñean sollairu agiri luze bat inguruan eta enparantza edo zelai nasai bat aurrian bazauzkan. Ein batez itxuraz beste egin bazan ere, etxe ura oraindik tente zagon emeretzi garren gizaldiaren erditsutan. Gero suak erre, ta gaur etxe berri bat daukate, zarraren orma sustraien gaiñean egiña. Bakarrik, lenago lurpetik ibaiaraiño zebillen ibiltokia ta an zeuden biltegiak, nai dezunean, nik bezela, ikus ditzazkezu.</p>
+<p>Brujas uria laixter gure Euskaldunekin adixkide egin izan zan. Azkatasun-sariak eman zizkioten, 1893 garren urtean eginikako gutuntxo batek dionaz. Eskutitz orren araura, iñork zuzenik etzeukan Euskaldun baten aitzi edo kontra, non Euskaldun ark ezpaitzuan gizon bat ill edo iltzeraiño jo: ta orduan ere iltzailleak bere Euskaldun Ordezkaria ta besterik iñorrezekiñ, bere egipena atzaldu bear zuan. Uriko atearen giltza Euskaldunak berekiñ bazekarten, itsasora nai zutenean juateko. Apaizak ere bereak bazeuzkaten: eleiza, ill-arri edo ill-obi, guztiak bereak.</p>
+<p>Euskaldunak Flandretara, Flamendarrak gure errira baiño askoz ere geiago zabiltzala agiri agirian dana da: Gutarrentzat Flamendarren erdara ikastea, arrotzentzat gure euskera aditzea baiño errexago zan-eta. Beraz, Bizkai ta Gipuzkoarrak emengo salgaiak bere ontziekin ara eraman-eta berriz onera angoak bazekartzen. An gelditzeko epea, laburra beti: Euskadira laixter biurtzeko asmoarekin zeunden. An gelditu ta ezkontzen zanik, gutxi.</p>
+<p>Bestalde, Flamendarrak gure legorrera jotzen zutenean, gogotik emengo lurrean oiñak lotzen ziezten: biotzak ere bai, noski, euskotar neskatxa ille beltz ta begi-samurrak Iparraldeko gizon bizargorri orientzat ein bat ikusgarri ta asmagarri ziralakoan. Egin izan ziran bada, noizpait, bitarteko ezkontzak: baña beste asko egin izan nai... ta egin izan ez... euskaldun pinpiriñak Euskalerriko loreak utzi nai etzituztelako. Ta orra nondik sortu ziran nigar marrakak...</p>
+<p>Gertaldi orietalik bat zuri esatea da, irakurle maitea, ni zure gana nakarran asmoa. Kondairatxo ori Urdanibiko olak nik baiño obeto xeatuko zizun, ark orren berri badaki-eta; baiña orma zarrek belauri bai, ta mingaiñik ez. Alere nik nundipaitik jakiñ baidet, dakidana esango dizut. Berri orien agertzaleak bere aitonaren aotik aditu zuan: aitonaren aoa egiaren iturri. Nik ez diot besterik galdetu. Entzun zazu bada gertaldi zar-zar au, ta uste det ura aditzean zuk ere nik bezela egingo dezula: irri pixka bat ta bi ari... nigar.</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>II</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>Ola</hi></p>
+<p>Iñoiz ere, ainbeste mutill sendo sortzen dituan Gipuzkoako alderdi ortan, etzan ikusi Ixtebe, Urdanibiko ola zarraren jabea bezelako gizon eder eta mardulik. Basajauna bezain aundi, sorbaldak gora, burua tente, arpegia gorri Andoaingo sagar gezagorria bezelatsu, ta illea luze ta gorbeltz azillako gaztena zoliaren antzera. Aren beso zainar ta lodiak bezalakorik, gutxi. Zaragoill edo galtza motzen azpian, zangoak narruzko lotkarriz ertsiki josiak zeuzkan. Ura zan, ura, itxuraz, egizko nekazari ta ola-gizon seme euskalduna!</p>
+<p>Baiña gorputz gora ta bular sendo orien barrenean biotz bat sasiko marrubia bezain guri ta biguna zekarren; ta bekoki kotor orren mamian, gogo zuzen eta zura. Oian-gizon bat zirudian mutill eder ark, aurtxo emearen gogo biotzak zeduzkan.</p>
+<p>Bizitza elkarrekin eramateko, bere ogei urtetan autatu zuan lagun liraiña gazterik obiratu zitzaion; baiña, Jainkoaren maitetasun ta bildurra biotzean zekarren kristau ziñezko orrek naigabe samiña bere zeruko Jabearen eskutikako doai edo emaitza bezala artu zuan, ta geroziik bere gurutza Goiko atsegiñen itxaropenakiñ bazeraman.</p>
+<p>Zorionean bizitu izan zan lau urtetatik oroimen bezela gelditzen zitzaiozkan iru alaba gazte, bere ama zarrakiñ etxean zegozkionak: Yolanda, Luixa eta Ixtebana. Iru maite-maite oriek Urdanibiko barren-lanak bere lepoko zeuzkaten.</p>
+<p>Etzan ori egikizun txikia! Jakiña da oletako otamenen ondoan mutur-zuri asko ta asko gogotik bazabiltzala. Olako ikatzetan erreak zeuden jatekoak beste sukaldetako suan egiñak baiño gozotsuagoak zirala zioten. Oregatik, ta Euskaldunen biotz ona ta esku zabala ondo jakiñaz, Ondarribi, Donosti, Pasai edo Debako portuetara zetozen itsas gizon arrotzak Urdanibira astiro jotzea oi zuten, olamen aberats bat iresteko asmoan. Flamendarrak batez ere orrelako joan-etorri batek etzituan beiñere asperzen. Eguarditarako (apaiza bezain xuxen) Urdanibiko maian zeuden. Olako langillentzako urdazpi edo ariki zatia beti errea zagon, baiña kanpotarrentzat beste jan-gai mordoxka batzuk berezituak bazeuzkaten: Oyarzungo auñ edo Jaizkibelgo erbiren bat. Ardoa, Xabierreko napar ardau sutsu artatikakoa. Nexkak jatekoa, ta morroiak edaria maiara ekarri oi zuten.</p>
+<p>Aparia gabaz egiten zanean atzerritar asko Urdanibian gelditzen ziran, batez ere ardau napar geiegi gurkatuz oiñez edo zaldiz ibiltzeko gai etzeudenean, ta sapaiako lasto edo belar mondoietan bear bezelako atze edo oeak aurkitzen zituzten. Eguarditakoa zanean, maitik ateratu ta olako lankaieri ikustaldi bat ematera bazijoazten, estea nik eztakit edo berotu edo arindu egitekotan.</p>
+<p>Beraz, 1623 garren urteko Eguberri aurregun batean, Urdanibiko yauregian bazkari gaitz aundi bat egin izan zan. Goizean goiz, Ondarraitz parean bi ontzi aundi agertu ziran ta laister Ondarrabitar ogei mutillek sokekiñ lotuak olako portutxora ekarri zituzten. <hi rend='Italic'>Lidwina </hi>ta <hi rend='Italic'>La Bella Anberesa </hi>zeritzen ontzi orien jabea zan Philippus Jordaens, Brujasko itsas-gizon aberats aipatuaren semea, ta bera Urdanibira bazetorren, beartu zituan burniak billa.</p>
+<p>Brujasera zijoazten Euskaldunetatik zeiñek ezagutuko etzuan ango <hi rend='Italic'>Euskal-Etxe</hi>ra astiro zebillen mutill ille-gorri ta arpegi guritsu ura? Ark ere beste Flamendar askok bezela, ango zelai ertzean, jai egunetako arratsaldetan, gure euskotar yauzi eta dantzak eman nai zitualarik, gure itsas-gizonak parrez lertuak edukitzen zituan:</p>
+<p>—Gizona! —zioten— eztek ori euskal dantza! Ori dek <hi rend='Italic'>artz</hi>-dantza!</p>
+<p>Bai, artz bat zirudian: artz gorrailtsu gizen bat...</p>
+<p>Urdanibiak Flamendar sal-erosleari batzarre ta ongi-etorri egin zion. Etxeko-jaunak ezkaratzean bazkari aundi nasai bat zerbitzarazi zion, ta egia esan bear bada, Jordaensek jakiak etzituan tzakurrentzat utzi: guziak, bada, itsasoan barrena igaro zituan lau astekiñ ederki gosetua zekarren urdai zabal artan iretsi.</p>
+<p>Bazkaldu ta gero Ixtebek olara lagundu zuan, ango lan ederrak bere begiez ikus zitzan, mutillak bi ontzietara sorbalden gainean burni zamak eramaten zituztelarik.</p>
+<p>Ordu artan, bere su-labe guztiak garretan, ola oro ikara, tximixta, ortziri, ke ta burrunba egiña zagon. Goizean goiz olamutillak amabi krisaillu edo labeak aurreguneko ikatz eta autsez ustu ta berriz, aoaraiño, mando zamaka Oyarzundik ekarritako burni-ga samarrez bete zituzten, ta gero azpitik piztu.</p>
+<p>Flamendarrak olan sartu ziranean, laben aotik gar luxe urdinzka batzuk atera asitzen ziran, ta oieri bidea itsitzekotan mutillak buztin-lurrez eginikako opillakin zuloak estaltzen ziezkaten. Soiñ edo gorputza erditaraño billuziak, besoak loi gorriz orakatuak ta arpegi guzitik izerdia zeriela, ikustekoak ziran langille bikaiñak! Ore gorriz ogi oratzen ari zitezken okiñak baziruditen!</p>
+<p>Beste batzuk ikatz auts ta burni puxkaz otarreak bete ta, kanpotik ke-biden barrena botatzera bazijazten ta orduan ots aundi bat entzuten zan labearen erraietan: burni zamaren erori astuna ta ke-zuloaren buruan su-txingarren txirria.</p>
+<p>Ura zan laben bazkal ordua. Bere sabel-soro beltzak meaz zintzurreraiño ondo anpatuak, an, goian, bere ao gosetu ezin asegarriak irikituak zeduzkaten, ola mutillak egotziko ziezkatenak aopaldi batean gantzabeera iresteko.</p>
+<p>Sartzean, Ixtebek bere ola-zayari otsegin zion:</p>
+<p>—Esak, Txomin... Labe oietatik bat laixter iriki dezakek edo?</p>
+<p>—Bai, lendabizikoa oraintxe, burni abarrak bi orduz geroz jaurtiki diozkagu-ta. Gero, eguarditan bustiñez estalerazi dedan bigarren aren aldea.</p>
+<p>Esan eta, Txominek oiu egin zuan:</p>
+<p>—Ea bada, mutillak! Lendabizikoari zillarra ken!</p>
+<p><hi rend='Italic'>Zillarra </hi>izen pollit ori, zillarra bezalako argi zuriz josia labetik jarion mea urtuari, gure ola-gizonak esan oi zioten.</p>
+<p>Labe aoaren aurrera burnizko aska luze bat ekarri zuten. Ixtebek orduan bere laguna andik eiñ bat basterrarazi zuan, langilleak labearen atea orratz luze batez irikitzen zualarik.</p>
+<p>Izugarrizko burrunba aditu izan zan. Tximixta-argiaren antzerako sutargi bizi-bizi bat sortu ta jaso zan:</p>
+<p>—Orra zillarra! —esan zuan Ixtebek.</p>
+<p>Labearen atetik, galgaraka, zillardun erreka bat bezela, burni urtua zerion. Aran inguruan olagizonak, arpegi ta bular ta besoak ikatz ta kedarrez zikinduak, an zeuden, begira, ixillikan, arrituak nola berok, gizon beltz ta loitsu oriek, aiñ argi garbia illunpetatik atera zuten.</p>
+<p>Pixkaka-pixkaka, zillar txirripa agortzen zalarik, turmoi ots samingarria bigundu zan. Bakarrik txinparten irrintzia aditzen zala, illunabarrak berriz gela guzia suntsitzen zuan. Gero, labearen barrenean burni zamak erortzearekiñ egiten zuan burrunba entzun zuten.</p>
+<p>—Oraiñ ura bota! —agindu zuan Txominek.</p>
+<p>Bi langillek urez betetako ontzi bat ekarri-ta burni gorrituari jaurtiki zioten. Orduan berriz labea gaiztatu zan. Asi zan marrakaz eta irrintziz, ke zuri nasai bat aotik zeriola. Lenago gure menditarteko arpe ta zuloetan zebiltzen basa-suge lauburudun izugarri aietatik bat zirudian. Gero, alere, geldi-geldika barretu ta ixildu zan, iltzera dijoan leoi zauritu baten antzera.</p>
+<p>Txominek oiu:</p>
+<p>—Zamarra ken!</p>
+<p>Arotz mardul gazte batzuk, orduan, bere burdiñaga luzez, labezolan zegoen zama jo ta zatitu zuten, ta Matxardakiñ artu ta urak zarabillen gabi edo maillu azpian sartu.</p>
+<p>Naza-zayak ordu bertan urari bidea iriki zion: ur-aska berealaxe bete egin izan zan ta maillu burua jo ta ustu-ta berriz bete ta jo... Ola guzia gabiaren arraboteaz ikara-ikara zegoan, burni azalari aize-arkak bere butz indartsua ufaka jaurtikitzen ziolarik. Orrela zamarrak zekartzan utsuneak zapatu-ta, burniari loturikako ikatz edo egur abarrak kentzen ziozkaten, zama guzia leuna ta biguna gelditu arteraiño.</p>
+<p>Azkenean, langilleak, berriz matxardaz zamarra tinkatu-ta lurrera egotzi zuten, Erromako gudatokian lengo gudariak bere etsai garaitua zelaira-etzan oi zuten bezala. Ta bere beso beltz ikastatuaz, bekokitik jeixten zeien izerdia, <hi rend='Italic'>ufa! </hi>egiñaz, ugindu edo txukatu zuten.</p>
+<p>Jordaens flamendarra arritua zegoan. Ixtebek esan zion:</p>
+<p>—Philippus, zure errira biurtuko zeranean, gure Gipuzko ta Bizkayako mendien arkaitzak nere olan puxkaka-puxkaka, sartzen ta gero andik burni zama eder egiñak ateratzen ikusi dituzula esan dezakezu.</p>
+<p>Flamendarrak aditu ez bezala egin zion. Burua apaldurik, zorrotzik begia, olako ateara urbildu edo urreratu zan; ta kanpoari begira zegoan.</p>
+<p>Ordu artan, iturrirako bidearen barrena nexka pollit liraiñ bat, sulla buruan, oin utsik ta gona motzaz apaindurik, etxearuntz zebillen. Esku bateaz sulla mototsaren gainean tente zedukan, ta beste besoa ankezurrari legunki lotua zeukan.</p>
+<p>Nexka ura Yolanda zala, irakurleak errexki asma dezake.</p>
+<p>Arrotzak Yolanda begiratu zuan luzaro... oi luzaro; ta etxe barrenera sartu zanean, asperenez, Ixtebe gana biurtu zan:</p>
+<p>—Bai —esan zuan—... Ori aipa nezake... Baiña beste gauzaren bat ere nik an esango det, ta auxe da: Zure etxean nere aberriko mutill gazte bat sar diteke, biotza zure burni ori bezain otz eta gogor daukala, baiña atera ezin leite bere biotz au zure miak bezala autsi ta puxkatua utzi gabe, zerbait bere begiez ikusi duanean...</p>
+<p>—Zer ba? —esan zion Ixtebek.</p>
+<p>Flamendarrak erantzun zion:</p>
+<p>—Zer? Zer, diozu?</p>
+<p>Ta begietatik tximixtak zeriozkala, ots egin zuan:</p>
+<p>—Auxe bakarrik: Yolanda zure alabaren ille urrezkoa ta beraren begi urdiña!</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>III</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>«Burni erregina»</hi></p>
+<p>Jordaens flamendarrak Urdanibiko atean sartzen ikusi zuen neskatxa liraiña Gipuzkoan zeudezken etxalaba aberatsenetatik bat zan. Euskal oituraren araura, jabearen alaba zarrena zalako ta semerik ez izanagatik, ark etxean gelditu bear zuan, izena ezpazan ere bederik sendi beraren odola an gorde zedin. Orregatik, ezkongai bat errex biltzeko bidean zegoela edozeiñek asmatu lezake.</p>
+<p>Baina ortarako, bere ondasun ta goitasunaz gaiñera, Yolandak besterik ere bazeukan, batez ere bere soiñ edertasuna ta arpegi ikusgaria. Gipuzkoar neskatxak oi duten bezela, burua tente ta sorbaldak gora bazarabilzkien, ta bera ez oso aundi-aundia izanarren, ibiltzearekiñ zaraman arintasunak, zan baiño aundiagoa zala idurirazten zuan. Euskaldun antza arpegiari josia zekarren: kokotxa luxe, bekain edo bepuruak beltz, matraillak gerezi gorria bezaiñ argi ta guri; ta begiak bustitua dagon burni berriaren antzera edo kopla zarrak dionaz, «gaba itzalaren kolore» zeuzkan. Itz batez, erregiñ gazte-gazte bat zirudian.</p>
+<p>Beraz, erregiñ bat zan Yolanda, erregiña bezaiñ aberatsa; ta bekokiaren inguruan zekarzkien ille adats gorri ederrak urrezko burestun edo korona baten itxura ematen zioten. Ille polit oren gorritasunari ta Sebastianek burnitik bildu zuan aberastasunari begiratuz, askok Yolanda deitzen zuten: «Burni erregiña».</p>
+<p>Baiña, guzien ta batez ere Flamendarren ixillik, erregiñ ark ia bere erregea bazeukan.</p>
+<p>Errege ura zeiñ zan edo non gordea zegoen jakiñ nai bazendu, irakurle maitea, eztakizu zeiñ aldera jo bear ote zendukean? Urdanibira juateko utzi dezun Irundik Ondarrabiaraiñoko bide zabal eder ura berriz artu bear zenduke ta itxasoruntz jarraitu.. Bere orma beltz zarren erdian sartua dagon Ondarrabiko uria ta Marinako arrantzalien etxe aurre-xuri ta leio-urdindunak igaro-ta, itsas bazterretik Jaizkibelgo azken muturraren luzean dabillen bide ikusgarri ari lotuko ziñateke, ta azkenean, antxe, oraiñ portutxo berri bat jasoa daukaten gune edo puntuan, gure aitonen aitonak <hi rend='Italic'>Azturiaga </hi>deitu oi zuten toki bat aurkituko zenduke.</p>
+<p>Izen polit ori an dagon iturritxo batena da; bai-ña or, geroan, portu berriaren inguruan pixkaka-pixkaka jasoko dan uriari emango dutelakoan nago. Batzuk badiote, gaur ere ikusten dezun yauregi zar orren lenengo bizizaleak, emezortzi garren gizaldiraiño, izen ori bera zekartela; ta gero galdu egin zan, ta Espaiñiako errege Felipe IIgarrenak beste izen bat eman zion: San Telmo. Guk, baldin nai badezu, izen zarra gordeko diogu, euskerazkoa da-ta eta oso goxua.</p>
+<p>Ikustaldi bat eman diozagun yauregi zarrari. Legorrearen muturxko baten gaiñean erakia dago, arri aundi beltzez josia, urteak badaramazki-eta. Ur ondoan lokartua zegoken atso-zar-zar bat dirudi. Ormak joten diozkan itsasoaren suzmurra ta beti aldean dauzkan auntzea girgill ots biguna; orra emen entzun dezakezun soñu bakarra. Egun guztian eguzkiz beti jantzia dago. Goizean goiz Arrunmendiko lepo atzean eguzkia sortzen danean, arpegira bere len-len leiñeruak bialtzen diozka ta egualdi guzian bere argi ta berotasunaz biribilkatu duanean, bere azken suak, ur-aundian suntsitzearekiñ badaramazkio. Olantxe, eguzkiaren ta itsasoaren argian pulun-patua, ta beltz ala-ere beti, zure sukaldeko krisailluan ikusten dezun garraren biotz illun ura badirudi.</p>
+<p>Baiña nik, krisaillua baiño obeto noski, Azturiagako yauregi ori itxas-egazti edo zurlinda kabi bat, arkaitzen artean apaindua dirudila esango nuke.</p>
+<p>Argiaren yauregi zirudian itsas bazterreko etxe artan jayoa zan Yoanes Azturiaga, Yolandaren maitaillea. Ura zan zazpi aurriden arteko azken etorria, ta, jakiña, ainbeste egaztirentzat txikiegia zan kabi artatik joan bear zukenetatik bat. Jaiotetxean geldi eziñ-ez gero, nora jo bearko ote zuan? Bere anaiak bezala, an bertan zeukaten itsas aundi ori beera, Ameriketako ikertzaille ospetsu Diego Harra, Txomiñ Irala, Mikel Legazpi ta Juan Garayen ondotik edo ludiari inguruka, Elkanoren antzera zijoazten itsas gizonekiñ? Ez. Ark etzuan orrelako amets zabal erorik egiten. Urrutiko legorretara baiño, an bertan zeukan legor maitagarrira bere asmoak bazabilzkion. Itsaso araruntzko alderdieri zegatik eskatuko lizkioke, an, Urdanibiko yauregi ark eman lizkioketean zorionezko egun gozoak, batez ere an zeuden bi begi urdiñak, ixillikan, baietz keiñu egiten ziotelarik?</p>
+<p>Egia aitor dezagun. Amets orren bururantzako eragozpen bat bazagon: ezkondu nai diran aberatsa ta beartsuaren arteko eragozpena. Baiña beste alderdi askotan eskontzeko asmoak austen ta galerazten dituan eragozpide orrek indar gutxi dauka Euskaldunak baitan. An guztiak, aberats edo beartsu, etxeko seme edo langille, jatorriz eta odolez berdiñak dira; ta sustrai beretik ateratuak diran ta izkuntza bera, euskerazko izen bera, oitura berak dauzkaten ezkongaien artean, zer ajola dakar bat edo besteak urre edo gariz geiago betetako aska izateak?</p>
+<p>Yolanda, Urdanibiko etxalaba aberatsak, gora baiño gorago bere ezkon-asmoak zaramaskela agirian dago. Kastillatik Plandretara zijoazten guda-agintari ospetsuak belarrira bere agerkai omenezkoak esan ziozkaten; baiña maite zeukan «Yoanes» izen onen aldean jaun aundi orien izenak arentzat gozorik gabe zeuden. Yauregi ikusgarrienak baiño, Azturiagako arriola zarrak bere begi biotzeri atsegin ematen zien; ta urre edo zillarrez jantzitako zaldi ederrak baiño, bere senar-gaiak zarabillen auñ-narru bataz apaindutako mando zainarra naiago zeukan. Kastilla edo Andaluzitik etorritako agintari ta jaun orik euskaldun aritikakoak etzirala bazakian, ta ark zaiñeri josia zekarren bere jatorri, odol, itzkuntza ta azturen maitetasuna. Bere etxetik Euskotarren sustraia kendu zezakian ezkon-gairik Yolandak etzuan beiñere aintzat artuko: Urdanibitarren aspalditako ezagutailluak Alvarez edo Henriquez edo <foreign>Cabeza de Vaca </foreign>bateren ikurdiakiñ estaltzea lotsagarri zitzayon. Ots aundiko izen orik baiño eztitsuagoa zirudion auntz girgilla bezain ariñ eta goxua dan izentxo au: Azturiaga.</p>
+<p>Beraz, aipatu degun 1619ko urte artan Eguberri gabako elizkizunak, Ondarribiko Buruñurdun edo Kaputxinoen lekaidetxean ospe aundirekiñ, oi dan bezela, egin izan ziran. Jaia amaituta, izugarriko gizon eta andre ostea eleizatik irten ikusteko, baserritar eta arrantzaleak ara taldeka eta multzoka bildu ziran. Batez ere Urdanibira etorritako arrotzak, bere janzki margodun ta bere txapel arro zabalakiñ aiñ parregarriak ziran Flamendar orik, Ondaribitarrak ikuskatu nai zituzten. Etzan ura lan errexa! Aiñbeste mutill ta nexka kaxkar, aiñbeste atso ta nekazarien artean ibiltzeko, ola, mutillak esku-makilka nolapait arrotzeri bide egiñ bear zieten.</p>
+<p>Euskaldunak oi duten antzera, gizonak lenik, gero andreak, ta nola-nai umeak, eleizatik aterata etxera elkarganatu gabe bazijoazten. Baiña Philippus Jordaens flamendarrari bereixtasun ori egoki etzirudiola laixter nabaritu izan zan. Beste gizon lagunak aurrera bazijoazkiolarik, bera atzean gelditu zan. Mutillen ondoan, neskatxak, lerroka ta izketaz eta parrez zetozen. Flamendarra bide bazterrean bakar-bakarrik gelditua ikustearekin asi ziran aopekakan:</p>
+<p>—Noren billa diñagu indioillar ori?</p>
+<p>—Indioillandaren, no!</p>
+<p>—Bejondiola! Eztin emen aurkituko.</p>
+<p>—Bai zera! Iri parreño bat egiñ baleike!</p>
+<p>—Ez milla egiñikan ere! Dan bezelakoa!</p>
+<p>Jordaensek len-len lerroak iragan utzi zituan, ark billatzen zuana azken taldekiñ zetorren-ta. Baiña lagunen artean zebillen Urdanabiko etxe alaba bertara eldu zitzayonean, bere txapel nasaia lurreraiño apaldu-ta, Errege-yauregitarrak egoki daukaten antzera besoa eskeiñi zion esaten ziolarik:</p>
+<p>—Etxeraiño nere laguntza oneritxi dezakezu, andre?</p>
+<p>Erregeren yauregiko oiturak etzakizkien Ondarribitar neskatxak, oiuz eta irrintziz, Jaizkibelgo auñak bezala, itzuri egin zioten. Baiña Yolandak arrotzari lotsakizuna ez emateagatik, eskeintzen ziokan besoari ariñ-ariñki lotu-ta jarraiki zion.</p>
+<p>Ozkorriaren argia, antxe, Lapurdiko mendi tontorrak xuritzen asia zagon, ta bestaldean, Urdanibiko leioak barrenean piztutako suaz dirdirikatuak ageri ziran ametzen adar illunen artetik.</p>
+<p>Flamendarrari, ordua nai bezelakoa zeukala, biotzean zekarren asmoa Yolandari irikitzeko iduritu zitzayon, ta, an, bere ontzi ederren aga tantaiak erakusten ziozkalarik esan zion:</p>
+<p>—Orra, Yolanda, zeiñ aberatsak gauden, gu Flamendarrak, ontzi oriek nola erakusten dizuten! Eziñ asma dezakezu zeñ eder eta ikusgarria dan Flandretako erria!</p>
+<p>—Bai, Jordaens, baiña nik naiago gure Euskadi!</p>
+<p>—Euskadin, Yolanda, galdua bezela zabiltz. Ameztarte orien erdian, zure edertasunaz iñor oartua eztago. Maiara jakiak ekartzen, neskame baten antzera, ikusten zaituztenean, zu orrelako etxalaba goi ta aberatsa zerala zeiñek esan dezake? Zu eiñ ortara jaitxirik aurkitzea niri lotsagarri zait. Nerekiñ Flandretara joango baziña, egun guztian janzki gorriz jantzia ibilliko ziñake, zutaz arta leuketen lau mirabe gazten artean. Uriko plazan, urrez apaindutako alki eder batean jarria, zure begi urdiñ orik xoratzeko eun zaldun ospatsuk darabilzketen ezpata edo azkon-guduak begiratzen geldituko ziñake...</p>
+<p>—Ez, jauna, ni nere jaiotetxean obeto nago.</p>
+<p>—Zer bada? Ganteko uri nasaia ta Brujas urixka polita beiñere ikusi gabe geldi zintezke?</p>
+<p>—Neretzat Euskadi bezaiñ alderdi ikusgarririk ludian eztago.</p>
+<p>—Baiña Flandren barrena ibilli ta gero Euskadira biurtuko gintezke...</p>
+<p>—Amets utsa daramazu, jauna, amets utsa...</p>
+<p>—Utsa dan ala ez, nere amets ori, zuk bakarrik ebaki dezakezu... Baiña amets ori egia izan dediñ nik badakit zure aotikako itz bat naikoa dala. Esan bada, andre, esan niri aiñ asmatutako itzño ori...</p>
+<p>—Esan nezakean itz bakarrak zure ametsak itsasora jaurtiki litzazke.</p>
+<p>—Gezurra diozu!</p>
+<p>—Ez jauna. Ona emen itz ori: nik norbait maite det; ta ura ezta Flamendarra; ni norbaitek maite nau, ta ura da Euskalduna.</p>
+<p>—Ta Euskaldun zakar bat gatik Philippus Jordaens dirudun ospetsua gaitzetsi dezakezu?</p>
+<p>—Neretzat nor da Philippus Jordaens? Ura da bakarrik atzerritar eta arrotza, ta dan bezelakoa dalako, ta arrotzaren maitetasuna niri lotsagarri zaitalako, Jordaens ori nik etsaitzat daukat. Bijua, bada, bere Flandretara ta bere janzki gorriz apaindutako andre ederren artera. Yolanda Urdanibitarrak eztu beiñere laguntzat artuko Jordaens «plamenkoa»!</p>
+<p>Yolandak, orrela zerasalarik, bere ibil-lagunaren aldetik itzuri egin zuan ta oraiñ bidearen erdian bakarrik zegon, kopeta gora ta begitik tximista zeriola.</p>
+<p>Neskatxaren itzak aditu zituanean atzerritarra arritu zan. Bere itzkuntzan izugarriko biraua bota ta ukabillak estutu zituan. Urdanibiko etxalaba, an bertan zeukaten olako ur-bidean itotzeko naiarekin zegoela zirudian.</p>
+<p>Gizonak buruan zerabillen egitekoa Yolandak asmatu ta esan zion:</p>
+<p>—Ito nazazu, baldin nai badezu! Erreka or bertan dago! Zer ote? Nexka ezer-eziñ baten bildurrarekiñ zaude?</p>
+<p>—Bai! —erantzun zion Flamendarrak—, bai, suge-umea, esan dinan bezela laixter itoko aut! Baiña (nere itzari oartu, gero!) beste lotsakizun aundi baten pean itoko aut; aiñ lotsakizun aundia, non iretzat asmagarri izango bait-ziteken gaur emengo erreka ortan suntsitua izaitea!</p>
+<p>—Ez nauk ire bildur, Jordaens! Nik bazauzkat nere aldean i baiño laguntzaille indartsuagoak!</p>
+<p>—Bai, e? Ire zaitzaille bildurgarri orik zeiñ diran jakiñ al nezake?</p>
+<p>—Urak dituk nere Aingerua, bat, ta nere eskongaia, bestea!</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>IV</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>Flamendarrak Flandraruntz</hi></p>
+<p>Flamendarrak biaramonean bere ontziekiñ joan bear ziralakoan, Ixtebek, eguarditan bazkari aundi bat bere Urdanibiko yauregian antolarazi zuan. Arrotzekiñ batean Irun ta Ondarribiko gizon ospetsu batzuk maiara deitu zituan. An zeuden ere inguruetako ola-gizon larrien-larrienak: Iohan Erreñozu, Arnalde Berrezuno-Garaikoa, ernaniarrak; Eneko Zuaznabar ta Gilen Olaberria, oyartzuarrak; Arantzate, Ibarrola ta Aranguren, irundarrak ta Lasarten zegon Okendoko yauregiko ola-gizon nagusia. Ezkaratzean apaindu zituzten bi maien buruan jarri ziran, alde batetik, Ezkoriazatar Damaso aba, Ondarribiko aita Buruñurdunen lendakaria ta bestetik Otaegitar Auspitzio yauna, uri bertako apaiz-nagusia. Emakumerik maian jarri etzala esan gabe doa. Etxeko jabearen alabak, beti bezela, jakien ekarri-eramatea bere gaiñ artu zuten.</p>
+<p>Ura zan bazkaria! Lenbizi eman izan zan «salda begiduna» edo oillo-milgorrak sortzen dituan begi txikiak bezelako maixpuillo koipetsu batzuz beterikako salda gizena; gero Lapurdiko «eltzekari» gozua, aza xuri, porru, ozpin-belar eta piper gorriz egiñikakoa; gero Jainkoak berak dakian orrenbeste aragi mota: idi, txekor, bildots, ari, auñ eta abar; gero basetxetako egazti eta mendiko eiza guziak: oillo, oillanda, oillar eta oillasko, aate, antzer, itsas-eper, oillagor eta erbi.</p>
+<p>Azkenik ekarri zuten, itsaso araruntzko alderdi berrietan ebilli ziran baillena arantzailleak an jaten ikusi ta emen ere antolatzen asi ziran jan-gai oso gozotsu bat. Ura zan, erdaldunen araura <foreign>«asado con cuero» </foreign>edo ari-azpia, bere narru ta illekiñ olako ikatzetan errea. Narru ta ille orien autsak aragi ori josiak gatza ta piperra baiño obeak zirala askok bazioten.</p>
+<p>Flamendarrak, «salda begidun» gozotsu artaz beterikako xali edo «kutxara» ezpaiñetaratu zuten bezaiñ laixter, txerriak muturra askan sartu duanean egin oi duan bezela, asi ziran zinkiri-irrintziz. Beiñere, jaki prestatzen ondo zakiten Flandretako etxekandreak orrelako jangai gizen ederrik etzuten maian jarri. Ura zan, ura, Zeru-Goieneko ao-xuriak asetzeko salda aberatsa! Zeiñek deabru orrelako eltze zoragarria Urdanibiko ikatzetan antolatu ote zuan?</p>
+<p>Guzien arteko poz-pozena zan Philippus Jordaens. Bere azken-gabazko Yolandarekikoa eskutu nairikan, noski, etxalaba samurrari ots egin zion:</p>
+<p>— Orrelako salda on bat egiteko, lapikoan zer sartu biar genukean ikasi ote dezakegu, andre?</p>
+<p>Yolandak jakiña jakiñ-ez bezela egin zuan ta, parrez, erantzun zion:</p>
+<p>—«Salda begidun» bear-bezelako bat egiteko naikoak dira lau puxka.</p>
+<p>—Lau baizik ez? Ludiko azken mugetaraiño puxka oyek billatzeko joan niteke.</p>
+<p>—Laurak emen bertan dauzkatzu, ta zure Flandretan ere baditezkela deritzat.</p>
+<p>—Zeiñ dira bada, andre?</p>
+<p>—Adittu! oyek dira: <hi rend='Italic'>buuu!... muuu!... juuu! </hi>eta <hi rend='Italic'>txuuu!</hi></p>
+<p>—Arraio pola! Ze euskera darabillazu or? Yolandak eskuetan zekarren egosari-ontzia mai gaiñean utzi-ta, bi eskuak aoaren inguruan jarri zituan ta idiaren murrusa bezelako orru bat egin zuan:</p>
+<p>—<hi rend='Italic'>Buuu! buuu! </hi>Orra: idia. Salsa on batek len-lenik idi edo bei aragi puxka bat eskatzen du.</p>
+<p>—Zapartingarria! Ea, <hi rend='Italic'>muuu?</hi></p>
+<p>—Bai asmakaitza daukazu ori! <hi rend='Italic'>muuu! </hi>Zeiñek orrela ots egiten du? Ez oillarrak noski? Ariyak, gizona, ariyak! Beraz saldari bota ariki zati bat... Oraiñ zer dan <hi rend='Italic'>juuu! </hi>zerorek aburutuko ote dezu?</p>
+<p>—Basurdea?</p>
+<p>—Baso edo etxekoa; baiña, alderdi orietan bederik, auxe dalako aurki-errexena, betor, bada txerri-azpi okel eder bat.</p>
+<p>—Alajaiña! Orra iru! Ta, laugarrena?</p>
+<p>—<hi rend='Italic'>Txuuu? </hi>Ori eztakizu, e? Ta zure Flandre ospetsu aietan zuen etxekandreak, oilluak baratzatik oildu edo iges-bialtzeko, nola oiu egin oi ote dute? Emen bezela, noski: <hi rend='Italic'>Txuuu! txuuu! </hi>Zer da beraz <hi rend='Italic'>txuuu? </hi>Oillua. Oillo eder bat lapikoan gauza biar-biarrena da.</p>
+<p>—Ez andre. Guk oillueri ez diegu egiten: <hi rend='Italic'>Txuuu!</hi></p>
+<p>—Nola, bada? Itzkuntza ori ludi guziko oilluak errex ulertzen dute eta.</p>
+<p>—Gureak, ez. Etxekandre Flamendarrak oilluak uxatzeko ots egin oi diete: <hi rend='Italic'>Hisss!</hi></p>
+<p>—Josu! Ori dezu <hi rend='Italic'>prantzimanta! </hi>Beraz, tori, gogoan emazu Flandretar «salda begidun» gozotsu nai dan bateri bota biar ziozkala: <hi rend='Italic'>buuu! muuu! juuu! </hi>ta <hi rend='Italic'>hisss!</hi></p>
+<p>Bazkaltzaille guziak parrez. Baiña Yolandak saldontzia berriz eskutaratu-ta, esan zion:</p>
+<p>—Bakarrik, zure azken orrek ots bera eztaukala dakuskezu. Orra bada non agirian jarria dagon egia: Euskaldun ta Flamenkoak elkarganatu ezin ditezkela!</p>
+<p>Nexkaren itz oriek aditu-ta, Philippus Jordaens igande-atorra bezain xuri-xuria gelditu zan, ta etxekojaunari buruz itzuliz esan zion:</p>
+<p>—Jauna, atzo nere biotzaren berotasuna norbaitentzat agertu nizunean oker nenbillela orain oartua nago. Egia bada ere euskaldun neskatxak baiño ederragorik ludian aurki ez ditezkela, ederrak bezaiñ ele-motz ta lotsagabe dirala gaur nik badakust. Alabak oraintxe zerasana, zure belarriz entzun al dezu?</p>
+<p>—Nere Yolandaren erantzupena etzizala gaitzi. Aipatu didazun zure maitetasun ori ezagutu baluke orrelako itzik etzizun esango. Baiña, gizajoa! biotzean ixillik daramazun su ori, neskatxa gazte-gazte orrek nola ta nondik jakiñ al dezake? Lorez-lore dabillen pinpillinpauxa ta airez-aire dijoan zeruko aingerua bezela, nexka biotzgarbi ori bere edertasun bertaz oartugabe egunak badaramazka. Zer deritzazu?</p>
+<p>Flamendarrak erantzun zion:</p>
+<p>—Bai, bai, baliteke!... Baiña... emakume deabru oriek, maitetasunaren usaia urruti usainkatzeko... ze sudurra daukaten!...</p>
+<p>Baiña, ezkaratza zolako maiaren beste burua Flamendarrak ikertu balu, an, arpegi ubel ta begi zorroz-dun mutill gazte-gazte bat, ixillikan ta berari begira zegoela nabarituko zuan.</p>
+<p>Ura zan Yoanes Azturiaga...</p>
+<p>Biotza maitetasunaren garraz errea daukan Euskaldun gaztea, bere «maiteño»-aren inguruan nor nola dabillen ikusten oartua dagola, aspaldiz gero jakiña da. Auñemendiko akerra, tontor baten gaiñian, bere antxume ta urruxa alarazten ari diralarik, erne dagon bezela, maitaille euskalduna beti gogoa bero ta begia bizkor badabill. Orrela, Yolandaren aldean, Yoanes zenbillen.</p>
+<p>Bazkaria amaitu zanean, Flamendarrak maian gelditu ziran. Urdaia aragiz betea, arpegia gorri, matraillak anpatuak, an zeuden, zintzurraraiño aseak diran antzarak bezelatsu. Totxatik pipa luze batzuk aterata, urak, Indietatik ekarritako belar usaiñtsu batekiñ bete zituzten ta piztu ta gero, ufaka, aotik ke urdiñ nasai bat botatzen asi ziran. Baserritarrak, Goierriko neurtitzlari edo pertsolari batzuen esan erantzunak aditzen, xoratuak, bekokia bi eskuen artean emana, ta gazteak kanpoan, tillape pirla egoztea edo pillota jotzen. Urdanibitar mirabeak, batzuk sukaldeko alartze edo atalasean pillotarieri begira, ta besteak barrenean, oillasko azpieri aginka zeuden.</p>
+<p>Orduantxe, Urdanibiko atzean dagon sagardiaren aldera begiratuko zuanak ango bidexkari beera nexkatxa liraiñ bat, suilla buruan, Iturriruntz zijoala ikusiko zuan.</p>
+<p>Zelaiaren erditsutako zulogune batean ur txiripa bat, mendabelarrez beterikako osin txiki batetara jaixten da. Ara egunero bere suilla betetzera oitua dago Yolanda. Ta gaur ere ara dijua, ixillikan, bere maitaillea atzetik jarraitzen ziola errex asmatzen dualarik.</p>
+<p>Biyok iturraldean elkarganatu ziranean, Yolandari esan zion Yoanesek:</p>
+<p>—Galtzagorrik eraman ditzalako atzerritar orieri edaten emateagatik iturrira etorri ote aiz gaur?</p>
+<p>Yolandak arpegi erdi samur ta erdi minkaitz batekiñ erantzun zion:</p>
+<p>—Bai, argatik! Or dek!</p>
+<p>—Ezpalinbazekiñ, ur utsa baiño Napar ardauak gozotsuagoak deritzateia esango nikiken.</p>
+<p>—Beraz, gure abesti zarrak dionaren antzera:</p>
+<p><hi rend='Italic'> —Maria nora zoaz, eder galant ori?</hi></p>
+<p><hi rend='Italic'> —Iturrira, Bartolo, nai badezu etorri,</hi></p>
+<p><hi rend='Italic'> —Iturrian, zer dago? ardotxo xuria!</hi></p>
+<p><hi rend='Italic'> Biyok erango degu nai degun guztia!</hi></p>
+<p>Azturiagako seme gazteak, burua alde batetik bestera kolokatzen zuala, esan zion:</p>
+<p>—Biotza alayirikan daukala deritzat, nexka! Zergatik ba? Bazkariaren burutik-buru Flamendarra i beti begitatzen egon dalako?</p>
+<p>Yolandaren begi-urdiña ubeldu zan, itsasoa bezela lañoak estaltzen duanean.</p>
+<p>Ala-ere Yoanesek jarraitu zuan:</p>
+<p>—Ire poza arrotz orien artean! Ikusi aut, arrotzak bere begi zorrotzez jaten indunatelarik, atsegiñez eziñ egonean intzan.</p>
+<p>—Gezurra diok, mutill! —erantzun zion neskatxak, aserre-aserre.</p>
+<p>—Bai zera! Nik bezela an zeuden guztiok ori bera nabaritu diñe. Pozez gorri-gorria jarria intzan, salda begiduna nola egin biar zan atzerritarrari xeatzen ionala!</p>
+<p>—Astakeri orik, otoi, utz itzak! Ni pastikarazteagatik darauskikala ageriki dakusat. Baiña aize epaiten aritzean gaiñera beste egikizun prango badiagu. Gaur goizeaz, eleizatik biurtzean, an, Oillurtako zubi ertzean ze igaro ote dan, jakiñ al nai dek?</p>
+<p>—Zer? Esan! A! zerbait kolkoan gordea eramanala banakina!</p>
+<p>—Orra, jakingo dek! Plamenko ustel, artz gorailtsu ori Ondarribitik oneruntzko bidean jaraitu zitak.</p>
+<p>—Lotsakabea! Jakiñ al izan banu!</p>
+<p>—Ta esan ditak...</p>
+<p>—Esan? Ba? Esan? Iri mintzatzeko arpegia al izan din?</p>
+<p>—Esan ditak zegatik Flandretara berakiñ juango eninteken.</p>
+<p>—Zegatik? Nik esango dionat: bere beatz txikarraren azalaz ukitzeko bekokia baleuke, nik aren urdai zabal ura sagardokupel bat bezelaxe zulatuko nikion... Orra zegatikl... Ta ik zer esan dion?</p>
+<p>—Nik? Jakiña! Bere Flandretara joan zediñ, bakarrik, len-baitlen; nik emen nere maiteño euskalduna baneukala, ta Yolanda Urdanibitarrak lotsagarritzat leukela «plamenko» tzar bat laguntzako aitatzea, tori!</p>
+<p>Yoanesen begi beltzatik sua, txirrixka, atera zan:</p>
+<p>—Ederto! —esan zuan—. Zaplada ederra bialdu dion! Baiña, nexka! Ik orrelako muturrekoa ari emanez-kero, nola arekiñ parrez ta ele-alaika, bazkari orduan, enbillan?</p>
+<p>Yolandak ihardetsi zion:</p>
+<p>—Bere asmo txarrak arpegi zuri orrez estaltzen zizkidalako, nik ere nere biotzekoak ezkutatzen zizkiokat. Orra zegatik itxuraz aiñ alairik nabilkan. Baiña begi ta gogoz erne nijoakok, beldurrik ez izan!</p>
+<p>—Beldurrik ez, nexka! Alere aitari dan guztia esan bear dion.</p>
+<p>—Aitari? Zertako? Aitak balaki, Flamendar ori gaur bertan urka lizakek.</p>
+<p>—Obe! Orrelako suge baten iltzeak damu ematen ote dikiñ?</p>
+<p>—Ez, negarrik egingo eniokek; baiña orren odolaz gure ola zikindua izan dadin nai ez dikat.</p>
+<p>—Ire aitak ezpadu iltzen, nik ilko diñat!</p>
+<p>—Ik? Bai zera! Nere omena garbi-garbia edukitzeko, ire edo beste norbaiten bearra daukala deritzak? Atzo nere bi esku oriez, ogei oillaskori lepoa moztu ziotekat. Atzerritar bati orrenbeste egitea eztek lan zailla.</p>
+<p>—Nexka! erorrek egingo uken?</p>
+<p>—Oillaskoeri bezaiñ erreix... Baiña oraindik ortaratuak ez gaituk. Arrotz orik biar goiz-goizean joatekoak dituk, ta onera berriz etorriko ez diralakoan niagok. Orduan erorrek dakusk: ni otso orren ortz-agiñetaz gordetzea gaba bakar aunen lana dikagu. I, aizan aldetik, abill erne. Ni Urdanibin geldituko nauk; etxean nagolarik galbiderik eztagok.</p>
+<p>Orrela izketan ari zirala, Yoanesek, an, Urdanibiko portutxoan zeuden Flamendarraren bi ontzien inguruan zerbait berri bazenbillela nabaritu zuan. Jordaensen itsas-gizonak ara zijoazten, osteka, erdi mozkortuak, yauregian eginikako bazkari nasai artatik landan. Ontzietara igaro-ta, ordikeria laixter galarazitzeko, jabeak makilka batzarre ematen zieten, ta guziak orduan lanari lotzen zitzazkion. Bi ontzien gaiñian langilleak agiri ziran, erlen antzera, ara-oneraka, zama eramaten, bazter garbitzen, lokari estutzen, aize-oial edo <hi rend='Italic'>bela </hi>zabaltzen. Katien kiria, agintarien txistuak, mailluen burrunba urrutiraiño aditzen ziran. Biaramonean ortik joateko, <hi rend='Italic'>Lidwina </hi>ta <hi rend='Italic'>La Bella Amberesa </hi>prestatzen ari zirala agirian zan.</p>
+<p>Yolandak ere araruntz begiratu zuan ta arpegia alaitasunez beterik, bere maite-maiteari esan zion:</p>
+<p>—Or dek! Or dek! Badijoaz!</p>
+<p>—Bai —erantzun zion Azturiagatarrak— baiña bi ontzi oriek emendik atera ta gure begietatik galdu arteraiño, i Urdanibin geldi adi. Zerbaitek biotzean ixillik esaten ditan iretako galbidea emen eztagola, baizik eta....</p>
+<p>—Galbidea? Baiña, gizona, oriek joanezkero, galbiderik ez dikagu!</p>
+<p>Yoanesek ezpaiñ ta ukabillak estutzen ta, begietatik tximista bezelako leiñuruak botatzen zitualarik, esan zion:</p>
+<p>—Bai, Yolanda! Bai! ire galbidea or daukan: or, ontzi orrien erraietan gordea! Or zerbait iretzat kalteagarri dana josten ari ditun!</p>
+<p>—I, ago emen! Nik orien inguruan diñat nere egitekoa. Agur!</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>V</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>Aurreskua</hi></p>
+<p>Euskaldunak, bazkari on baten ondotik, dantzan izan ari gabe iñolaz geldi ez ditezke. Burua berotu, ta urdaia astundu geroz, zangoak beti eiñ batean arindu bear dituzte.</p>
+<p>Orra zergatik Urdanibiko etxeko-jaunak nonbaitik txirulari ta ttuñ-tuñaria bildu-ta euskal-yauzi edo dantzak jo zitzaten agindu zien.</p>
+<p>Gaiñera, Philippus Jordaensek gure aberriko oitura eder orik ikusteko naiarekin zegon, ta Ixteberi eskatu zion, otoi, gure aitonen dantza zar-zarrenak emanaraz zitzan.</p>
+<p>Batez ere, gure <hi rend='Italic'>Aurreskua, </hi>gutartean dantzatu oi duten bezala, ikusteko asmoa zeukan.</p>
+<p>—Ori, ereix egin litekeana da, erantzun zion Irundarrak. Txirularen txixtua aditu bezaiñ laixter, onera bilduko dira inguruetako baserritar nexka ta mutill guziak.</p>
+<p>Berealaxe etxe aurrean dagon zelaia garbitu ta bere gurdi, golde, aitzur, maillu, ikatz edo mia-meta, burni puxka ta abarrez ustu ta, dantzarako apaindu dezaten, morroieri agintzen die jabeak. Eiñ batean orrela adelatu dutenean, zelai ori jaierako oso leku egokia gelditzen da, inguruan dauzkan gaztenondo aundi oriekiñ. Pixkaka-pixkaka, alde guzietarik baserritarrak badatoz, batzuk bere lanerako txamar ta eskalapoiakin, besteak igande ta jai egunetan jantzi oi duten bezela jarriak, gazte ta zarrak, nexka ta mutillak, itsas-gizon ta nekazari, guziak multzoka, oiuz eta parrez.</p>
+<p>Bakarrik, portutxo ta ibaiaren aldetik lanean ari ziran flamendarren otsa aditzen zan.</p>
+<p>—Gure ontziak Bidasoaraiño, andik biar joateko, ekarri-ta —esan zuten— gu ere dantzak ikus ta yauziak ematera etorriko gera.</p>
+<p>Ta, esan bezela, <hi rend='Italic'>Lidwina </hi>ta <hi rend='Italic'>La Bella Amberesa </hi>itsasorako antolatu-ta, sokakiñ lotuak urbideari beera, kaitik ibaiaraiño eraman zituzten.</p>
+<p>Bitartean Urdanibitarrak dantzan asi ziran.</p>
+<p>Len-lenik txirulak, oraiñ Zuberon bakarrik baiña gizaldi artan Euskal-Erri orotan ezagututako «mutxiko»-en airea jo zuan. Ereserti edo musika orren dei biguña aditu zuan bezain laster, Ixtebe agertu izan zan plazara ta zenbat-nai gizon mardul ta gizentsua izanikan ere, aria eta xotilki eman zituan len zango-joste ta urratsak. Ikustekoa zan, etxeko jaun eder ura, burua ta sorbaldak tente, bi besoak geldi ta aztalak lur-azalaren gaiñetik jauzika. Beraren ondoan beste gizonak, ala oletako jabeak, ala nekazari zar ta gazteak, bai ta Urdanibiko langilleak, guziak lerroka, bat bestearen ondoren-ondoren, inguruka zetozten. Orien artean etzan ez neskatxa ez emakumerik sartzen: baiña, plazaren bazterrean zeuden, an, jai ontako erregiñak bezela, dantza orien agurrak onetsitzeko jarriak. Ta txirularen soñuarekin batean jauzkarien oiñ-aztalak neurri-neurriz, lurra jotzen zuten, muxika orreri josi ta alkartuak izan balira bezela.</p>
+<p>Azkenik txistu ariñ ura ixildu zanean, zangoak ere, bat-batean, ekuru edo gelditu ziran, ta dantzariek, nork bere aldera itzketa edo solasera bide egin zuten: baiña ez ordu luzerako.</p>
+<p>Bat-batetan txirularen dei motz eta samiñ bat aditu izan zan. Berealaxe, amabi mutill gazte, eskuak elkarri emanik, plazan agertu ziran. Igandetako janzkiz apainduak bazetozten: soiñeko beltza, zaragoilla ori-urdiñak, galtza-motz xuriak ta abarketak gorri. Urak, bat-banaka, itzalpetik ateratzen zituala txirulariak zirudian; ta orrela kanporatu zituanean, asi zan irrintzi ta txistuka, guzien belaun eta aztalak igitzen ari ziralarik. Ori zan <hi rend='Italic'>mutill dantza. </hi>Gero alaere pixkaka-pixkaka gelditu ziran, ta orduan «aurresku» zegoan mutillak, jauziz, ta burusturik, Ixteberi agurrak egin zizkion.</p>
+<p>Gero Aurresku ta Atzeskua bat besteari aurka ibilli ta buruz-buru dantzan asi ziran, elkarri aupaka bazetorzketen bezela, ta lenagoko «torneo» edo buruketatan, andreari kausitzea gatik, Zaldunak ari zitezken antzera.</p>
+<p>Andrerik etzan oraindik agertu. Baiña, «desafioa» bukatu ondoan, laur dantzari, txapela eskuan, joan ziran Yolandaren billa. Burni-erregiña, orien erdian, dantza-zelaian sartu, ta geldirik, aurreskuaren aurrian egon zan, onek, berriz jauzika, agurrak egiten ziozkalarik. Bera, zeta beltzez jantzia zegoan ta janzki illun orren aldean bere ille urrezkoaren margo argiak iñoiz baiño leiñuru ederragokoak bazekartzan. Egiaz, ille ark, lur-peko zulo beltzatik atera dan burniaren meatz gorri bizi-bizia zirudian.</p>
+<p>Aren ondotik beste laur dantzarik bigarren neskatxa gazte eder bat Atzeskuari nonbaitik ekarri zioten ta onek ere andre berriari agurrak eskeiñi ziozkan.</p>
+<p>Baiña, gizon orien erdira andreak etorriz-kero, ezin esan dezakegun lotsa-itzal bezelako bat dantzarien artean sartu zan. Ordurarte ariñ, alai ta jauzkari zebillen txirularen otsa, oraiñ bigundu ta leundu egiten zan. Dantza baiño, deduzko ibilketa edo eleiza-birarako jo oi duten ereserkiaren antza zekarren.</p>
+<p>Zoaz, bada, nere irakurle maitea, zoaz ikustera ea oraingo dantza lizun ta lotsakabe orietan, gure oitura zar ederretan bezela, andreari zor zaion itzal eta begirunea gorderik ba-ote dan. Or ez dezu aurkituko likitz ta moldekaizkeri baizik, ta gero, gu Euskaldunak, ez ikasi ta kazkarrak garela esan bizatet! Gure arteko dantzetan, andrea ez ta, gizonak nai duan bezela uki, bulka, tira, itzulka ta estutu egin oi dan jostaillua, baizik agurka, burustuz ta zapiaren puntta-punttaz bakarrik alderatu oi dan erregiña.</p>
+<p>Era ortan jostatzen ari ziran Urdanibitar dantzariak. Batian ara bestean onera bazebiltzan, pausuki, emeki, neskatxak mutilleri zapi xuriaren lotkarri politaz alkartuak, an inguruan zeuden aita ta amen begipean.</p>
+<p>Oraiñ, Yolanda ta bere lagun Aurreskuak, besoak goratu-ta, besteak azpitik badijoazkie, ondoren-ondoren...</p>
+<p>Bere agintariak, an, portutxoan, ontziak biaramon goizean itsasoratzeko apaintzen ari ziozkalarik, Philippus Jordaens plazan dantzarieri begira gelditu zan. Alki eder batean, Urdanibiko etxeko jaunaren aldean jarria zegoan, ta noizetik-noizera lenbizi zekusan «aurresku» orren xetasun zerbait bere auzokoari galdetzen zion. Batez ere dantzariek Yolanda ta Aurreskuaren beso azpitik igaro ziranean moteldu ta arritu zan:</p>
+<p>—Zer da joku ori? —esan zion bere lagunari.</p>
+<p>Ixtebek iñardetsi zion:</p>
+<p>—Ori, jauna, lenago gure artean zeuden ta oraiñ ere or nonbait dabiltzan Agota oriek gure aldetik baztertzeagatik egiña dana daukazu. Arrotz orietatik bateren bat dantzarien erdian ixillik sartu ote danaren beldurrez, guziok, Aurreskuaren azpian, ta burua makurturik, igaro bear dute.</p>
+<p>—Burua makurturik? Zergatik bada? Zuok Euskaldunak, guzien errege bai-ote zerate?</p>
+<p>—Baliteke. Baiña beste zerbait gatik ere. Badakizu, gure abesti zarraren esanaz, Agotak belarri bat bestea baiño txikiagoa dakarla:</p>
+<p><hi rend='Italic'> Bata handiago dizü eta aldiz bestia</hi></p>
+<p><hi rend='Italic'> Biribil eta orotarik bilhoz üngüratia.</hi></p>
+<p>Burua makurtuz nork berak belarria nolakoa daukan, eskutatu eziñ.</p>
+<p>—Eta Agoteren bat aurkituko balezate, Yolanda ta bere aurrekuak zer egiñ ote lezakete?</p>
+<p>—Besoak beeratu ta ardi galdua bereztu, besterik ez.</p>
+<p>Jordaensek, arpegi aserrez, esan zion:</p>
+<p>—Zer milla deabru! gizona! Zuok, zergatik gu kanpotarrak orrela begietan artuak daukaguzute?</p>
+<p>—Guk —erantzun zion nagusiak, ezti-eztiki— ez ditugu atzerritarrak begietan artzen eta ez diegu begizkorik egiten. Gure artean ongi-etorriak dirala ta batzarre ederra egiten diegula zerorek, noski, asma dezakezu.</p>
+<p>—Ori, egia! Euskaldunen etxetan ospetsuki oneritxiak gaude.</p>
+<p>—Badirudit... Baiña gutartean jate ta etzatea nasaiki ematen dizkizutegulako, zuok beti kanpotarrak bezala zaituztegu. Gure azitikakoak etzeratelako, gure sendietan sar zaiztezen guk eztegu nai. Gure odola, diran zar-zarrenetatik bat dalako, garbi ta uts euki biar degula deritzagu.</p>
+<p>—Bai zera! Ludiko gizon guzien odola berdiñ zarra da! Zuena, Adan gure asabarena baiño zarragoa ba ote leite?</p>
+<p>—Jordaens, gure jatorriaren kondaira baiño obeto, Ayamendiko lur-zulo ta erraiak ezagutzen ditudala aitortu bear dizut. Nik, Ybarguenek irakurri dituan bezela, diotenaz, Simankasen edo Iruñan gordeak dauzkaten ardi narruzko idazki edo gutunak ez ditut beiñere begiztatu. Zuatz-azal eta txartel oriek Euskaldunen zartasunaz derasatena eztakit nik. Orretaz, egilleak berak nik baiño asko geiago jakingo etzualalakoan nago. Baiña egia bada ere, balinba, gure asaba Tubalkainen odola an-emen eiñ batean nastua dakargula, iñork, alarikan, antxiñakoen oitura, ibilkera, antza ta itzkuntza batez ere, soiñ eta biotzari josiak daramazkigula uka dezake. Ta ori guztia gure aitonen aiten oroimena dalako nai degu beti argi eta garbi euki.</p>
+<p>Flamendarrak, parra maltzur bat ezpaiñetaratzen ziola, erantzun zion:</p>
+<p>—Ederki, gizona! Euki, bada, euki ondo zuen odol zarra!</p>
+<p>Etxeko-jaun euskaldunak esan zuan:</p>
+<p>—Ortarako nago emen...</p>
+<p>Anarte, gabaren len itzalak jatxitzen asi ziran. Mendiaren beste aldetik itsasoan etzin edo obitzera zijoan eguzkiak bakarrik Jaizkibelgo tontorraren lepoan urrea bezelako argi leiñuru me-mee bat utzi-ta, bazter guziak illunpetuak zeduzkan. Pixka-pixkaka, Mendelu, Zuloaga-aundi ta Oillurtako etxe-auge xuriak beltzez jantzitzen ziran. Gaztena ta ametz oian edo basoetatik, illunabarra ildo-ildoka bazetorren. Laixter, zelai ta ibarrak beretu-ta, Urdanibiko yauregia ere estali ta suntsitu zuan.</p>
+<p>Alarik, Urdanibitarrak beti dantzan ari ziran. Aurreskua amaitu-ta, txirulak fandangoa jotzen zualarik, guziak jauzika ta krixkitinka, bi besoak airean, gazte ta zarrak, nexkatxa ta mutillak zelaiaratu ziran. Zuaitz, esi, sargatze ta etxeak berak igitzen ari zirala zirudian.</p>
+<p>—Alajaiña! —ots egin zuan Jordaensek— zeiñ geldi legoke emen? Ni ere dantzatzera nijoa!</p>
+<p>Eta, esan bezela, bere txapel lumatsu nasaia eskuan, buru gaiñetik, zerabillela, lurra oiñez jotzen asi zan.</p>
+<p>Ura itxura ortan ikustearekiñ, ze parrak ta zer oiuak!</p>
+<p>—Artz dantza! Begira artz dantza! —zioten.</p>
+<p>Bai... artza dantzan ari zan, iduri parrez eta maltzur... Baiña nola bildotxa aginkatu ta bere arpe-zulora eraman bear zuan gogoan zerabillen.</p>
+<p>Bildotxa ere zelaian jostatzen ari zan. Artalde ta artzaya an bertan zeuzkalarik, arentzat galbiderik bai ote legoke? Or, etxe maitearen itzalpean noren beldurra leuke? Eta Yolanda, ariñik biotza aztalen antzera, dantzatuz, batean Urdanibiko etxe-aurrera, bestean baso illunaren adarpera zebillen...</p>
+<p>Ordu artan portutxora zijoan bide aldetik, oiu ta irrintzi batzuk aditu izan ziran, ta aiñ laixter, dantzarien parra ta alagaren artean, plazan sartu ziran <hi rend='Italic'>Lidwina </hi>ta <hi rend='Italic'>La Bella Amberesa</hi>ren itsas-gizonak. Ango egikizunak bururatu-ta (ziotenaz) ontziak itsasoratzeko ordurarte apur bat jostatzera bazetozten. Itxuraz arrabots geiago pizteagatik, bere buruak parregarrizko apaingai batzuz jantzi-ta, momu ta mozorroen antzera, arpegiak oial edo bildots narruz estalduak zekarzkiten ta beren inguruan jendea bildu ta multzokatuz zebillen.</p>
+<p>Jordaens bakarrik dantzari jarraitzen zion, an, olako baztertxoan, Yolanda ta beste Flamendar itsas-gizon batekiñ...</p>
+<p>Eta orra non, bat-batean, olaren orma beltzen mutur atzean eskutuak zeuden gizon batzuk ustekabean neskatxa gaztea asaldatzen duten. Batek eskuaz aoa estaltzen dio, besteak illezko burusi nasai batean zango ta besoak ingurukatzen diozkate, ta, zama bat bezela, sorbalden gaiñean, portutxoan zai zeukaten ontzixka batera laixterka daramate...</p>
+<p>Ainbeste parra ta irrintzi ta iskanbillen artean, nexkatxa gizajoaren oiu samiña iñork ez tu aditu, ta oraiñ Jordaens ta berekilangoak, arrauneri lotuak, Urdanibiko etxalaba eroaten dute itsasoaruntz, an, beti, ametzen adarpean, txirula, ezertaz oartua, bere abesti bigun eta alayari jarraitzen ziolarik...</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>VI</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>Ontzi-gidaria</hi></p>
+<p>Yolandaren ezkongai ernea nolaz etzan egon bere maitearen aldean, jakiñik zer asmo beltzak Jordaensek buruan zeramazkien, orixe da, noski, nere irakurleak ondo ulertu ez dezakeana... Baiña aurrera bijua, ta laixter ikusiko du, Urdanibin ez gelditzeagatik, Yoanes Azturiagatarrak bere lana urrats alperretan galdu etzuala... Oroit dedilla bakarrik etxalaba aberatsaren maitallea bera beartsu ta ari illunekoa zala ta orregatik geiegi yauregiaren ingurunean gelditzeko zuzenik gabe zebillela. Zan bezelakoaz beste bat izango balitz, laixter Flamendarraren gogoeta tzarrak Yolandaren aitari salatuko ziuzkan. Baiña oraindik Ixtebek bere maitetasuna oneritxi etzualako, beldurrez zegoen, onek erantzun zizeyon:</p>
+<p>—Mutill! Ik ortan ikustekorik ez dek.</p>
+<p>Beraz iduritu zitzayon obe zuala Urdanibitik aldatzea ta ontzien joan-etorriak arduraz ikertzea.</p>
+<p>Berealaxe jakingo dezu, irakurle, etzala okerki ibilli.</p>
+<p>Jordaensek Urdanibitarreri gezurra sakatu zien, bere ontziak bioramonaraiño Azturiagako portura zeramazkiela esan zienean. Bidasoara eldu bezaiñ laixter, <hi rend='Italic'>Lidwina </hi>len-bait-len Ondarribiko ontzi-gidari nagusiakiñ itsasoaruntz joan zediñ agindu zuan, <hi rend='Italic'>Bella Amberesa </hi>ibai ertzean, ark bere asmo gaixtoa bururatu arteraiño, zai geldituko ziolarik:</p>
+<p>—Beste ontzi-gidari bat billa ezazute bigarren ontzi au itsasoraiño laguntzeko —esan zien— ta ordu baten buruan ni nere lagunekiñ emen nago.</p>
+<p>Eta, esan zuan bezela, bere egikizuna amaituta, Yolanda burusian gordea ta ertsiki lotkarriz josia zekarren ontzixkarekiñ etorri zanean, bere gizoneri galdetu zeien:</p>
+<p>—Ontzi gidari ordekoa topatu ote dezute?</p>
+<p>—Bai, jauna, kai ortan bertan berealaxe aurkitu degu. Or daukazu.</p>
+<p>Ta lema aurrian zegoan euskaldun mutill gazte bat erakutsi zioten.</p>
+<p>—I nor aiz? —galdetu zion Jordaensek.</p>
+<p>—Ni? Ondarribiko ontzi-gidari ordezkoa.</p>
+<p>—Zeiñ dek izena?</p>
+<p>—Piiotua... Beste izenik Ondarribin ematen ez didate.</p>
+<p>—Baiña... nik nunbait ikusi aut... Nun?</p>
+<p>—Ontzi orien artean beti banabill.</p>
+<p>—I... ez intzan gaur Urdanibiko bazkarian?</p>
+<p>—Bai zera! Ni bezelako txiroak eztira yauregitarren artean jaten oituak!</p>
+<p>—Azturiagako ondarpe ta arkaitzak ondo ezagutzen ote dituk?</p>
+<p>—An bertan jayoa banitz bezelaxe.</p>
+<p>—Beraz, goazen aurro. Leku au len-bailen utzi nai dikat.</p>
+<p>—Emendik ordu bat arte, eziñ.</p>
+<p>—Zergatik, motel?</p>
+<p>—Ondarroak bideari aurka ditugulako.</p>
+<p>—Gezurra diok! <hi rend='Italic'>Lidwina, </hi>nere len ontzia, ya itsasoratu zikiguk.</p>
+<p>—Baliteke. Baiña ondarroak batean ara bestean onera badabiltz. Oraintxe ur-bidea etsitzen digutela jakiteko, an, krexalak dakarzkan aboiñ lerro xuri urak ikustea naikoa da.</p>
+<p>Jordaensek gidaria urkatu nai izan balu bezela lepotik artu zuan ta esan zion:</p>
+<p>—Deabruaren anima! Ixillik geldi adi, ta agintzen dikatana egik...! edo bestela!...</p>
+<p>—Goazen, bada —iñardetsi zion mutill gazteak—. Baiña zure ontzia galdu dizutala zuk esan dezazun beldurrez nik nai det zu ementxe, nere aldean, geldi zaitezen.</p>
+<p>—Banauk! astaputza! Aurrera!</p>
+<p>Bere gizoneri aginduak emateko biurtzearakiñ, Flamendarrak nabaritu zuan antxe zegoan amabi urtetako mutill koxkor bat.</p>
+<p>—Zeiñ da aur txar ori? —galdetu zuan.</p>
+<p>Gidariak erantzun zion:</p>
+<p>—Au... nere anai gaztea. Nerekiñ badator.</p>
+<p>—Emen ez dikat iñor ikusi nai. Bijua!</p>
+<p><hi rend='Italic'>Pilotua</hi>k umeari esan zion euskeraz:</p>
+<p>—Abill, Manueltxo, ta olara laixter... Ordu baten buruan izan ditezen an, Arkaitzetan!</p>
+<p>Ordu artan, ontzixkatik atera ziran itsas-gizonak bazetozten, bi besoka zama beltz luze bat zeramatelarik.</p>
+<p>Orduan, aizeari kantuz ari izan balitz bezela, ontzi gidaria asi zan goratik abesten:</p>
+<p><hi rend='Italic'> Maria, nora zoaz eder galant ori...</hi></p>
+<p>Baiña geroko itzek etzuten aipatzen olerki orrek dakarran «ardotxo xuria», ta euskera etzakiten kanpotarrak ezin ulertu zezaketen era batean, koblariak zion:</p>
+<p><hi rend='Italic'> Ez izutu ezertaz, zu, nere kuttuna;</hi></p>
+<p><hi rend='Italic'> Zure zai emen dago zuk maite dezuna!</hi></p>
+<p>Flamendarrak, aserre-aserre, ots egin zion:</p>
+<p>—Ixillik egon al nai dek, edo!... Ire deabruaren itzkuntza basa orrekiñ!</p>
+<p>Oraiñ gaba zabala da. Zelai ta iraztorzen azal gaiñean sortutako lañoak, eme-emeki, legorrez, itsas-aldera badabiltza. Biotznarko tontorrean <hi rend='Italic'>atalayeruak </hi>gaberoko sua piztua dauka, ontzikarieri bidea argitzeko; ta beste otsik eztago ortzi-pean, Azturiagako arkaitzak jotzen dituan itsasoaren susmurru luzea baizik.</p>
+<p><hi rend='Italic'>Bella Amberesa</hi>ren mutillak lanean ari ziran: Batzuk, ondarroan sartua zeukaten ankilla altzatzen, besteak aize-zapi edo belek aizetaratzen, soka-lotkarriak zinkiriz, aga-tantaiak karraskaz, katiak kurrizkaz aditzen ziralarik. Azkenik ontzi-aundia pixka bat igitu ta aurrean zeukan zur urrestatuzko itsas-sugea ur-ildoak autsi ta zatitzen asi zan.</p>
+<p>Lapurrak bere Flandretako portuetara jo zuten.</p>
+<p>Bitartean, Manueltxo Urdanibiruntz lasterka zijoan. Gabaz bazterretan ibiltzen oitua zana bezela, bide nasaia utzi-ta, arto landen artetik, zearka, zebillen. Urruti, yauregiko leioen argiak ta oian-pean beti txixtuz ari zan txirularen otsak nora jo bear zuan erakusten zioten.</p>
+<p>Ordu laurden baten buruan Urdanibira eldu zan, izerdi ta asnaska:</p>
+<p>—Nagusia! —esan zuan— Non dago nagusia?</p>
+<p>—Antxe, olan! —erantzun zioten.</p>
+<p>Beraz, etxeko jauna olan zegoan, biaramoneko lanetarako aginduak ematen. Ler adar batzuen suak olaren barren illuna nolazpait argitzen zuten.</p>
+<p>—Zer nai dek? —ots egin zuan Ixtebek mutilltxoaren deia entzun zuanean.</p>
+<p>—Andre Yolanda!...</p>
+<p>—Zer! Andre ta andre! Andre baten lekua au ote dek? Aren berriak etxean jakintzak. An izango dek, sukaldean, edo bestela plazan, dantzan. Dantzaz bizi litezkek gaurko neskatxak!</p>
+<p>Manueltxok erantzun zion:</p>
+<p>—Bai! dantzan ari zaizu, zure Yolanda, baiña zuk este eztezun dantza-tokiyan: an, Flamendarren ontzian preso egiña!</p>
+<p>—Zer diok, ergela?...</p>
+<p>—Diot, Joanes nere anaia ta nik Flamendarrak oraintxe bertan ikusi ditugula beren ontzian sartzen besoetan zaramaten zama luze bezalako batekiñ, ta zama artan, oialez ta sokaz josia, neskatxa baten itxura. Ura zure Yolanda zan! Siñistu nazazu... Edo zerorek emen billazazu. Eztezu aurkituko!</p>
+<p>Urdanibiko etxeko jauna bildurtu zan, ta arpegia xuri-xuria jarririk ate-alartzera joan zan, otsez:</p>
+<p>—Yolanda! Yolanda!</p>
+<p>Bakarrik txirularen abestiak iñardetsi zion. Etxera laster egin zuan, sukaldian sartu:</p>
+<p>—Yolanda!</p>
+<p>Amona ta bere alaba gaztena agertu ziran.</p>
+<p>—Non dago Yolanda? Non dun aizpa, Ixtebana! —galdetu zuan.</p>
+<p>—Yolanda? Dantzan, noski. Dan bezelakoa! Emen gu, amona, Luixa ta ni, lanari buru ezin emanez gabiltzala, ura jostatzen! Plamendar tzar oriez lilluratua dabilkigu.</p>
+<p>— Ez, Ixtebana —erantzun zion amonak—; ez esan orrelakorik. Ire aizpa neskatxa langille ta zurra dun. Gurekiñ eztalakoan, nonbait, bazterrak garbitzen edo dabillela deritzatan.</p>
+<p>—Baiña non! Non, emakumea? —oiukatu zuan Ixtebek.</p>
+<p>Ta Manueltxok:</p>
+<p>—Itsasoan, jauna. Itsasorako bidean! <hi rend='Italic'>Bella Amberesa</hi>ren presontegietan! Egia diozut!</p>
+<p>Dantzariak, beargabeko zerbaiten berria bazabillela oarturik, osteka bazetozten:</p>
+<p>—Zeiñek ikusi ote du Yolanda?</p>
+<p>Ez, iñork etzuan aspaldiz-kero topatu Ixteberen alaba geiena. Bakarrik, aren adiskide min-mina zan Oillurtako nexka gazteak esan zuan:</p>
+<p>—Flamendar mozorruak plazan agertu diranean, ta gu orien ondotik bagenbillela, iduritu zaut Yolanda, antxe, ola aldean, dantzan ari zala, ta Jordaens ere aren aurrean... Geroztik eztet ikusi.</p>
+<p>Etxeko jauna Manueltxoren aldera biurtu zart ta esan zion:</p>
+<p>—Baiña ik, mutill? Ikusi al dek, an, ontzian?</p>
+<p>—Aren arpegirik eztegu ikusi, baiña an dago. Nere anaiak gabaz eguarditan bezela dakuskaten begiak dauzka, ta ark esan du baietz, zama aren pean gordea dala, ta berritz aurkitu nai balinbadezu, oraindik ordu bete baiño len ogei gizon, aizkora ta azkonekiñ, bialdu bear dituzula Azturiagako arkaiztartetara. Gero berak egitekoa xurituko dizute.</p>
+<p>—Baiña, mutill, legorrez dijoatzan ogei gizon oriek, itsasoz dabillen ontzi bateri zer egiñ biar diote? Goazen gu ere itsasoz!</p>
+<p>—Ezetz esan du Yoanesek... Legorrez! legorrez! Ark badaki zergatik. Siñistu zazute!</p>
+<p>Ixtebek orru gaitz samingarri bat botatu zuan:</p>
+<p>—Goazen, bada, adiskideak! Zeiñ dator nerekiñ?</p>
+<p>—Zu, ez, jauna! iñardetsi zion Manueltxok. Anayak esan dit zuk etxean gelditu biar dezula; bestela naigaberen bat etorriko litekela bildurrez dago.</p>
+<p>Urdanibiko nagusiak ots egin zuan aserre-aserre:</p>
+<p>—Baiña, niri orrela agindu emateko nor da ire anaya? Eta bera non dabill?</p>
+<p>—Non dabillen ez al dizut esan? Beraz, toki egoki batean... Bera da <hi rend='Italic'>Bella Amberesa</hi>ren ontzi-gidaria!</p>
+<p>Lasterka ogei gizonak jo zuten Azturiagako aldera...</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>VII</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>Lapurrari jazarka</hi></p>
+<p>Urdanibitar gudari bikaiñak Azturiaga-ko yauregira eldu ziran bezaiñ sarri, itsasoaren zelai zabalak bere begi zorrotzez ikertzen oitua zebillen arrantzale gazte bat ango dorre goi-goyera igo zan ta berealaxe oiu egin zuan:</p>
+<p>—Badatoz! badatoz! Antxen, Ondarraizko bi ill-arrien mutur ortara urrentzen dira!</p>
+<p>Jakiña da «Bi Illarri» edo «Bi Tunbak» Lapurdiko legorraren bazter-bazterrean dauden bi arkaitz batzuk gure arrantzaleak izendatu oi dituztela.</p>
+<p>—Bai! —norbaitek esan zuan— Beren ill-obira dijoaz lurde zikiñakt</p>
+<p>Baiña, itxuraz Urdanabitarren lendakari zan nekazari zar, Borttol Bordatxo izenekoak erantzun zion:</p>
+<p>—Oar ondo oni, mutillak: al egiñaz eztezagun Flamendarren odola ixuri. Bakarrik aurrezkatu nai balinbazaizkigu jo ditzagun aizkoraz edo labainaz. Baiña batez ere Jordaens ori bizi-bizia, txardiña gure sarretan bezela, bildu bear degu, ezen deabruaren ume orrek bere egitekoa Urdanibin bertan garbitu bear du.</p>
+<p>—Baiña, illumpean nola ezagutuko ote degu?</p>
+<p>—Esan dizuet —ots egin zuan Manueltxok. Nere anayaren aldean dator... Baiña len-bait-len jazar zatzakizkio, berak nere anaya ill eztezan.</p>
+<p>Iduriz bere bidea billatzen zuala, baiña egiaz Urdanibitarreri arkaitzetara eldutzeko astia utzi bearrez, Yoanesek ontzia zearka-mearka zeroan. Ur-azal argiaren gainean aren karbaza luze illuna ta aize-oialez estaldutako iru agak ageri ziran.</p>
+<p>—Goazen gure tokira! —agindu zuan Borttolek.. Gudari guztiak, bizkarrak makurtuz ta ondoren-ondoren, yauregiaren ormari josiak joan ziran itsas-bazterreko arkaitzetara, ta an, saguaren zai datzan katuaren antzera, ixillik ta begia erne gelditu ziran.</p>
+<p>Jordaens, bere aldetik, <hi rend='Italic'>Bella Amberesa</hi>ren zubi gañean, burua ametsetan sartua utzi gaberik zetorren. Batzutan ontziaren eskudelari lotua, begiratzen zuan ea ez-tzanez an ingurunean etsairik. Ez, ezer etzan ageri, ez itsasoz ez ta legorrez. Iñon ere etzan aditzen oiu edo irrintzirik. Zer bada? Urdanibitarrak ez ote zuten oraindik ezer asmatu? Ordu artan ere dantzan ariko ote ziran, Flamendarrek egin zien lotsakizunaren aztarrik usnatu gabe? Auxe zoriona! Laixter itsaso zabala gaindi bildurrik gabe bere Flandraruntz joango zan... Orduan ontzi-gidaria espetxe edo presondegira botatu-ta, zeraman euskaldun neskatxa ederra, zeiñek bere atzaparretatik kendu zezakion?</p>
+<p>Alabaiña bere ontzia geldi-geldiegi zebilkiola zirudion.</p>
+<p>—Ua zuzen, gizona! (esaten zion Yoaneseri). Zegatik orrela zearka abill?</p>
+<p>Yolandaren maitallia ixillik zegoan. Ontzia legorrera urbiltzen zionean Ondarabitik Azturiagaraiñoko bidea luzaro ikertzen zuan, burua tente ta belarriak erne, or nonbait ibiltzale batzuen otsik ezagun ez ote zanez entzun naian.</p>
+<p>Azkenik zerbait ikusi edo aditu zuala uste izan dezakegu. Beraz ordurarte kopeta illun eta itzik esan gabe gelditu izanarren, bat-batean itzketan asi zan eta parrez.</p>
+<p>—Ta zer uste dezu, Jordaens? —esan zion Flamendarrari—. Nik ere zuzen-zuzena itsasoraiño joanaz atsegiñ neuke. Orrela nere lana aurrago amaitua litzake. Baiña eztezu nai, noski, nik zure ontzi eder au muturra ondarroan sartua utzi dizazudan?</p>
+<p>—Ez, alajaiña!</p>
+<p>—Orduan goazen poli-poliki... Berantzen zaizu Brujasko portura eldutzea?</p>
+<p>—Berantzen zitakana dek Euskaldunen ibai eta itsaso tzar au nere atzean uztea.</p>
+<p>—Geldi! geldi, gizona! Zuk diozun «euskaldunen itsaso tzarr» onekin astiro ibilli bear da. Euskalduna da. Beraz Euskaldunak artu oi dan bezela au ere artu bear dezu; legun, bigun, erneki. Bestela au ere, Euskaldunen antzera, aserretzen da, ta, gizona! ontzi ta ontzizalleak, guztiak, itzulipurdikatzen dizkitzu!</p>
+<p>—Zer diok! Au baiño gaitzagokoak ikusiak gaituk! Nere burua joka nikiok gure gidari flamendarrak berak ik baiño obeto ondarpe au igaro lezakela.</p>
+<p>—Ala badirudizu betor onera, baiña nik diozut ordu laurden bat gabe zure <hi rend='Italic'>Bella Amberesa </hi>ipurdiz-gora ondarpill orietan ikusi bearko degula... Tori, gure eskubiko aldean nabaritzen ditutzu ur-ildo bitsu zikiñ orik? Ara jo, ta zure ontziak eta guk betikoa aurkitzen degu... Goazen, bada, legorraruntz. Or, Azturiagoko mendi masaillari lotua bezala gure ur-bidea badabillazu.</p>
+<p>Yoanesek lemaren pirringillari ingurua eman ta ontzia arkaitzak zeuden tokira urbildu zan.</p>
+<p>—Baiña, mutill —esan zion Jordaensek— emen urik eztauk!</p>
+<p>—Naikoa bada.</p>
+<p>Itsas-gizon batek kala urean sartu ta otsegin zuan:</p>
+<p>—Sei beserdi baizik eztago!</p>
+<p>Jordaens bildurrez xuri-xuria jarri zan ta gidaria lepotik estutzen zuala esan zion:</p>
+<p>—Maradikatua! nora eramaten gaituk?</p>
+<p>Ordu artan, ontziaren bestaldean ur-naya aundi izugarri bat goratzen ikusi zuan Yoanesek, ta ori muturraz urratu lekuan, ezkerrera beste lema-inguru bat eman-ta, <hi rend='Italic'>Bella Amberesa</hi>ren alboa, luze luzean, aurkeztu zion.</p>
+<p>Itsasoak ontzia jaso, itzulkatu ta berakiñ arkaiztartera eraman, eta an, ots samingarri batekiñ utzi zuan erortzen ta puxkatzen Azturiagako orma pean.</p>
+<p>Kaska arrigarriaren indarrak gizonak irauli zituan, baiña oriek ezertaz oartu baiño len, an eskutuak zeuden Urdanibitar gudariak jazartu ziezten, aizkorka, makilka, aginka.</p>
+<p>Jordaensek, labaiña eskuan, iru Euskalduneri buru egiten zien. Baiña atzean ikusi etzuan norbaitek bi besoka artu ta lurrera bota zuan.</p>
+<p>Ura zan Yoanes.</p>
+<p>Flamendarrak ezagutu zuan ta orruaz asi zan, aotik batean birauak ta bitsa jaurtikitzen zitualarik:</p>
+<p>—Txakur umea! ik saldu nauk!</p>
+<p>Ta galdua zala asmatu zuanean zekarren labaiñaz bere burua jo nai izan zuan, baiña Borttol zarrak eskutik kendu zion:</p>
+<p>—Geldi, geldi! nere bildotxa. Ik Urdanibin ire egikizuna xuritu bear dek!</p>
+<p>Esan ta gero, soiñean zeukan gerriko luzeaz lepotik belaunetaraiño biribilkatu zuan, armiarmak ulia josi oi duan antzera, ta Azturiagako espezulo batera, guduka amaitu arteraiño, eraman zuan.</p>
+<p><hi rend='Italic'>Bella Amberesa</hi>ren zubi ta erraietan Euskaldun eta Flamendarrak beti joka zeuden. Batzuen irrintziak ta besten birauak, itsaso otsaren gaiñetik aditzen ziran. An-emen, zaurituak, ayotsez ta zinkurinez. Ortxek, Jordaensen itsas mutill mardul gorailtsu bat iges zijoan, bere sabel urratutik zeriozkan esteaz zangoak lotuak zeuzkala. Beste batzuk arkaitz artean edo igerika itsasoz itzuri egiten zuten.</p>
+<p>Ontzia etsaiez garbitu zutenean, Yoanes, bi lagunekiñ ontziaren barrena ikertu zuan deitzen zualarik:</p>
+<p>—Yolanda! Yolanda!</p>
+<p>Iñork etzion erantzuten ta bere buruakiñ zion:</p>
+<p>—Nere maite-maitea ill ote dute?</p>
+<p>Ertsiki etsia zegoan gela bat aurkitu zuan, ta ate atzean neskatxa baten oiuak aditzen zituala iduritu zitzayon. Aizkoraz atea laixter puxkatuta, an, lurrean etzana, ta burusian josia topatu zuan bilatzen zuana.</p>
+<p>Bere labaiñaz lokarriak eten zizkion ta esan zion:</p>
+<p>—Yolanda, ez izan bildurrik. Gu gaitun, Urdanibitarrak.</p>
+<p>Nexka gizajoa itzik esan al gabe zegoan:</p>
+<p>—Esan. Yolanda —galdetu zion Yoanesek—, miñik egin al diñe?</p>
+<p>—Ez... ukitu ez nie...</p>
+<p>—Ta zer esan din, lapur tzar orrek?</p>
+<p>—Esan ditak: «Yolanda, non dauzkatzu oraiñ zure begirari ta artatzaille Aingeru ta ezkongaia?...».</p>
+<p>—Ta ik zerbait erantzun dion?</p>
+<p>—Bai... Ontzira eldu nazanean ire abestia adittu dikat ta bildurrik gabe nindukan. Orduan nik ere iñardetsi diokat...</p>
+<p>—Nola?</p>
+<p>—Nola?</p>
+<p>Neskatxa gazteak parraldi alai bat egiñaz esan zion:</p>
+<p>—Beiñere plamenko baten matraillak artu duan muturreko ederrena ari emanaz, to! Orrela erantzun diokat!</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>VIII</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>Olan odola</hi></p>
+<p>Urdanibitar gudariak Azturiagaruntz joan ziranean, Ixtebe, Yoanesek agindu zion bezela, etxean gelditu zan. Bere alaba Yolanda lapurraren atzaparretatik kendu ta suge flamendar ori aztalaz lertzea gogoan asmatzen zualarik, Manueltxoren esana siñistu izan zuan. Aurraren esku lañoaren pean gizon mardula makurtu zan. Bere ayez ta oldarraren ordezkariak joaten utzi ta, berak olaren aldera jo zuan ta langilleri biaramonerako aginduak ematen, oi zuan bezela, asi zan.</p>
+<p>Morroiak lanari jardun zegozten, ixill-ixillik, jabea noizetik-noizera begiratzen zutela. Laixter ke beltz eta nasaiak ola guzia bete zuan ta labeak asi ziran burrunbaz suaren indarraz. Ordurarte txirularen abesti bigunaren pean lokartuak bezela zeuden alderdiak esnatzen ziran trumoi ta intzirien artean.</p>
+<p>Azkenengo labea piztu zutenean, Ixtebe joan zan kanpora.</p>
+<p>Gau zabala zan; bazter guziak ixillik ta illunpean suntsituak. Bakarrik, jabeak nabaritu zuan bere yauregiaren goiko bizitzan, bere ama ta alaben gelaren parean, leioen artetik argia zeriola. An norbait Jainkoari otoiez Yolandaren gatik zegoela asmatu zuan.</p>
+<p>Ondarribiko eleiza-dorretik gaberdiko amabi ezkill-otsak orduan jatxi ziran.</p>
+<p>—Gaberdi! —esan zuan gizonak—. Oraiñ nere gudariak Azturiagako arkaitzetara elduak dira. Baña Flamendarren ontziak non dabiltzkit?</p>
+<p>Nora nola zijoan ez jakiñez Ixtebek artu zuan itsasorako bidea. Bere olara urak zeramazkion ugaskaren bi aldetatik aizeak arto-zango igartuak elkarri jotzen zituan ezur malgor batzuen otsakiñ. Itsasoa beeratzen asia zan.</p>
+<p>Legorraren azken muturrera urrendu zanean Azturiagako aldera begira luzaro gelditu zan; baiña alperrik... An, urruti, itsaso zabalaren argi illunaz josia zekusan yauregiaren orma... Baiña iñon ez ontzirik, iñon ez, lurrean edo ur gaiñean gizonak guduan ari zirala asmatu-eraz zezakion agiripenik. Jesus maitea! Urdanibitarrak berandu zuten edo? ta bere Yolanda kutuna, bere bizitzaren izarra, betikoz galdua ote zeukan? Ai! zergatik, Jordaensek bere maitetasuna aitortu zionean, gizon orrek biotzean zekarren asmo beltza berak etzuan usmatu? Zegatik etzuan bere aiaba nonbait giltzpean gorde edo nolaz an bertan etzion Flamendarrari bere olako maillu batekiñ bizkarrezurra autsi?</p>
+<p>Baiña batez ere bere gogoakiñ zion: «Jakiñ izango banu, nik Yoaneseri ez nion ukatuko Yolandaren laguna izatea. Orrela egiñez, atzerritar oriek etziran ausartatuko, senarraren bildurrez...». Ta oraiñ, Yoanesek bere saill gogorra bururatuko bazuan? bere alaba galbide izugarri ortatik kenduko bazion? Yolandaren eskua ordurarte bezela ari ukatzeko bekokia berak bai ote leuke? Ez! ez! Joanak joan! Bere bildotx galdua ekarri zizayola ta bieri ezkontzarako baimena emateko asmoan zegoen!...</p>
+<p>Orrela zerasalarik, bapatean Ixtebe ikaratu zan... An, Azturiagako arkaitzen ondoan su aundi bat pizten ta zabaltzen ikusi zuan. Gar ura, zer ote zan? artzayak, batzutan, illarre ta oteak erretzeko pizten dituzten su aietatik bat edo? Baina, arkaiztartetan illar eta oterik eztago! Zer zan bada?</p>
+<p>Garra aundituz ta argi ta nasai egiñaz zijoan; bere olan zekusken burni abarrez betetako labe bat zirudian...</p>
+<p>Ta berealaxe, itsas-aizeak jotzen zualarik, Ixtebek ageriki ikusi zuan suaren erdi-erdian ontzi aundi bat erretzen, bere oial-aga ta zur puxka guziekiñ...</p>
+<p>—Ontziak! —ots egin zuan— Flamendarren ontxiak sutan!</p>
+<p>Pozaren pozaz zoratua bezela, bi besoak gar eder aren aldera goratu zituan ta eskerrak Jainkoari ematen zizkiola laster egin zuan etxera.</p>
+<p>Olako jabea bere lurren muga barrenera sartu zanean, yauregiaren leio ta ate guziak zuziz argituak zirala nabaritu zuan. Etxaurreko zelai ta basoaren artean ere argiak ara-onera zijoazten. Alde guzietatik etxeko jaunari dei ta otsez Urdanibitarrak bazenbiltzen. Azkenekoz norbaitek ikusi zuan ta oiu egin zion:</p>
+<p>—Jauna! jauna! Zure alaba aurkitu dute!</p>
+<p>—Emen ote dago? —galdetu zuan.</p>
+<p>Mutill koskor bat aurreratu zitzayon, esanez:</p>
+<p>—Laixter emen ikusiko duzu. An dago, Azturiagako yauregian, gure gizonen esku pean. Nere anaiak <hi rend='Italic'>Bella Amberesa </hi>arkaiztartera yaurtiki-ta, Urdanibitarrak ontziaren jabe egin izan dira. Lapur tzarrak, batzuk ill ta besteak yauregiko zuloetan, katiez josiak, sartu dituzte. Oraiñ bertan onera etortzekoak dira ontziari su emanez-kero.</p>
+<p>—Baiña sutan dago ontzia! Neronek, ibai bazterretik ikusi dikat!</p>
+<p>Ta aserreak botza ikarazten ziolarik galdetu zuan:</p>
+<p>—Ta Jordaens? Ipernuko suge orrez zer egin ote dute?</p>
+<p>—Zer egin? —erantzun zion Manueltxok, parrez—. Bear bezela sokaz ertsi ta presondegi batean itzaleratu du Borttolek, orren egitekoa emen zuk garbitu bear dezula esanez.</p>
+<p>—Zai niagok —erantzun zion Ixtebek—. Orain, zuok, emakumeak, zoazte zuen geletara, ta zuok, mutillak, lanera! Ni olan geldituko naiz gure gizonak etorri arteraiño.</p>
+<p>Urdanibitarrak <hi rend='Italic'>Bella Amberesa</hi>ri sua lotu ziotenean, Philippus Jordaens bere zulotik atera zuten.</p>
+<p>—Debruaren ume ustela! —esan zion Borttol Bordatxok—. Uste ukan baiño lenago Urdanibira biurtu bear dek... Ik anima bat baldin al badek, ura ire jabe deabruari gomenda zayok.</p>
+<p>Flamendarra, arpegia bildurrez zurpaildurik ta ortzak kurrixka, zegoen. Soiñari inguru lokarri berriak josi ziozkaten ta ostikoka maldari beera Urdanibiri buruz bulkatu zuten.</p>
+<p>Ordu artan ola guzia langillen joan-etorri ta lankaien otsaz bete-betea zegoen. Uraskaren azta edo pisuak zarabillen gabi astunak burrunba izugarri batekiñ jotzen zuan burni-maia.</p>
+<p>Borttolek Flamendarra lepotik artu-ta, esan zion nagusiari:</p>
+<p>—Orra, Ixtebe, non daukan lapurra!</p>
+<p>Etxeko jaunak burua biurtu-ta Jordaens ezagutu zuanean, orru samiñ garratz bat egin zuan ta eskupean zeukan burni maillu aundi bat artuta ura goratu zuan etsaiaren buru gainean.</p>
+<p>Kask izugarri orreri iges egiteko, Flamendarra jauzkatu zan Borttolen aldetik olaren zola-zolaraiaño, burni maia astiro jotzen ari zan gabiaren ondoan, ta, an, ikatz meta baten gaiñera erori-ta ots egin zuan:</p>
+<p>—Ixtebe! Ni emen ire etxearen itzalpean niagok! Euskaldunak eztik beiñere iltzen bere etxean arrotza!</p>
+<p>Itz orik aditzearekiñ Euskotar zintzoa ikaratu zan... Geldi geldika burni maillua beeratu zuan... ta lurrera jaurtiki.</p>
+<p>Ta Jordaens, lotuak zeuzkan zangoen gaiñean tente jarri nai izan zan, baña oiñ petik lerratu zitzayon ikatz puxka batek berriz irailli zuan, beti gora-bera zijoan gabiaren azpira.</p>
+<p>Buruaz jo zuan burni maya, ta ortik ateratzeko astia izan baiño len, gabi astuna gaiñera erori zitzayon, burua lertzen ziolarik lazkagarrizko odol ta muiñ txapasta ta ezur autsien karraskaren artean...</p>
+<p>Ikusle guziak arrituak gelditu ziran. Baiña bere inguruan ixillik zeuden langille ta gudarieri etxeko jaunak Flamendarraren gorputz burumoztu ta odolestatua eskuaz erakutsi-ta esan zien:</p>
+<p>—Orra olak berak egin duan lana! Olak garbitu nai izan du Urdanibiko omena!</p>
+        </body>
+      </text>
+      <text>
+        <front>
+          <head rend='Bold'><p>IV</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>Toberak</hi></p>
+<p>Bere buruakiñ itzeman zuan bezela, Ixtebek oneritxi zituan Joanes ta Yolandaren ezkontza gaiak.</p>
+<p>—Bai ta bai —esan zion Azturiagatar mutill gartsuari— Yolanda ire andrea izan dedilla egoki deritzatak. Galbide ta lotsakizunaren osin beltzatik atera dian nexkaren eskua ukatu nai ez dikikat. Izan zaitezte bada betikoz bat bestearentzat.</p>
+<p>«Igandi xuri» euskal alderdi batzutan esaten zayon Bazko ondoko len igandeko astean ezkontzak egin izan ziran, ta Lezoko Kristo Donearen eleizan, Ondarribitar apaiz nagusi Auspizio Otaegiren aurrean elkarri itza emanez-kero, eskonberriak Urdanibin bere «etxe sartzea» egin zuten.</p>
+<p>Yaz bezela moroi ta mirabeak ezkaratza poliki lore ta maindire xuriz apaindu-ta, aren erdierdian mai luzeak antolatu zituzten bere kaiku, opor ta gatilloekiñ.</p>
+<p>Euskal basetxe zarretan oi zan bezela, Ixtebe joan zan erletegira, ta burusturik esan zuan:</p>
+<p>—Urdanibiko erleak, jabe berri bat izango dezutela, ni, jabe zarra, esatera natorkizue: ura da Yoanes Azturiagatarra, nere alaba Yolandaren senar gaztea!</p>
+<p>Ordu artan ezkillen soñu antzeko ots ariñ ta alai bat aditu izan zan...</p>
+<p>—Orra «toberak»! —esan zion Yolandak bere lagunari. Biok ate aurrera urreratu ziran.</p>
+<p>An, zelai ertzean, lau ola-gizon gazte ta baserritar zar-zar bat zeuden. Bi mutillek aize-askaren burnizko ao luzea ari mee batez lotua zekarten, ta beste biok ura itze hatekiñ, ezkilla mailluaz bezela, jotzen zuten. Aren aurrian baserritarra zegoen, bi besoak bularraren gaiñean, arpegia gora, begia erne.</p>
+<p>Bapatean onek eskuaz burnia estutu zuan, ta aditzailleak ixillik zeudelarik, berak asmatutako olerki bat oiukatzen asi zan:</p>
+<p><hi rend='Italic'>Ave Maria Purísima!</hi></p>
+<p>Jaungoikoak gabon!</p>
+<p>Adiraztera noa</p>
+<p>Zer asmo daukagun:</p>
+<p>Toberak jotzera gatoz</p>
+<p>Bost edo sei lagun.</p>
+<p>Toberak jotzera ta</p>
+<p>Dibertitutzera,</p>
+<p>Ez uztia gatikan</p>
+<p>Usariyua galtzera.</p>
+<p>Borondaterik ezpada</p>
+<p>Juango gera atzera.</p>
+<p>Ñeurtitz orik pertsulariak esan ondoan bere lau lagunak goratik abestu zuten:</p>
+<p><hi rend='Italic'>Sanmartin de la Monja</hi></p>
+<p><hi rend='Italic'>Monja de Sanmartin!</hi></p>
+<p>Toberak jo ditzagun</p>
+<p>Ordu onarekiñ</p>
+<p>Ordu onarekiñ-ta</p>
+<p>Birjiñ Amarekiñ!</p>
+<p>Ta berritz burni-aga jotzen asi ziran.</p>
+<p>—Ederto! —zioten inguruetakoak.</p>
+<p>—Botz ozena!</p>
+<p>—Kopla politak!</p>
+<p>Baiña laixter ixildu ziran, bigarren olerkia baserritarrak asi zualako. Ta zion:</p>
+<p>Nobiyo jaunak esan dio</p>
+<p>Andre nobiyari:</p>
+<p>«Zer egiñen diotegu</p>
+<p>Gizon oriyeri?</p>
+<p>Umore ona pasatzia</p>
+<p>Gustatzen zait niri».</p>
+<p>Andre nobiyak darantzu</p>
+<p>Jakiña bezela:</p>
+<p>«Etorri diranenean</p>
+<p>Kanta dezatela</p>
+<p>Lotsa aundiya emanen</p>
+<p>Diyegu bestela».</p>
+<p>Eztaitiar guziak, parrez, Yolandari begira zeuden. Zer erantzungo zion andre berriak? Etziran luzaro zai egon. Beren eskea onartu zutela erakusteko etxekandre gazteak esan zien:</p>
+<p>—Aurrera, gizonak! Ongi etorri!</p>
+<p>Baserritarrak abestuz erantzun zion:</p>
+<p>Artaratu dirade</p>
+<p>Biyak elkarrekiñ</p>
+<p>Guk ere segi dezagun</p>
+<p>Umore onakiñ</p>
+<p>Palanka pikatuaz</p>
+<p>Abestu Sanmartin.</p>
+<p>Jakiña dan bezela, euskal oituretan, norbait olerki egiten asi daneko, laixter beste pertsulari, an iñork jakiñ gabe dagon bat nunbaitik agertzen da, lenbizikoari erantzuteko...</p>
+<p>Ta orra non, zelai atzean, beste olerkari zartxo bat dagon, txapela eskuan. Basoko otartean dijuan ur txirriparen soñua bezaiñ ariñ ta garbia dauka botza, ta onek dio:</p>
+<p>Atzerriko belatza</p>
+<p>Gipuzkon da sartu</p>
+<p>Emengo uso xuri bat</p>
+<p>Naiz arrapatu;</p>
+<p>Atzapar egin eta</p>
+<p>Gorde nai izan du</p>
+<p>Baiña eiztari gazte bat</p>
+<p>Begiz erne zagon;</p>
+<p>Belatzari bizitza,</p>
+<p>Jo-ta, kendu zion</p>
+<p>Eta uso maiteari</p>
+<p>Azkatasuna emon.</p>
+<p>Guziok txaloak eman ziozkaten.</p>
+<p>—Au! au! —zioten— egizko pertsularia!</p>
+<p>—Zeiñ da ori?</p>
+<p>—Jakiña, gizona! Ori... Mañex, Saratarra!</p>
+<p>—Gora, Mañex!</p>
+<p>—Ederto, Mañex!</p>
+<p>—Emak beste bat, Mañex!</p>
+<p>Saratarra pixka bat gogoratu-ta, berritz bere sailari lotu zitzayon:</p>
+<p>Geldi zaitezte bada</p>
+<p>Biyok elkarrekiñ,</p>
+<p>Jainkoak dizuela</p>
+<p>Betikoz atsegiñ:</p>
+<p>Kabi eder orretatik</p>
+<p>Ez itzurik egiñ;</p>
+<p>Ta berritz Gipuzkora</p>
+<p>Belatza baletor,</p>
+<p>Zuk, eiztari pixkorra,</p>
+<p>Jo zazu, jo gogor,</p>
+<p>Aberriko txoriak</p>
+<p>Azke daudezten or!</p>
+<p>Mañexek esku-zapla ederrak aditu zituan. Bai-ña bapatean txaloak ixildu ziran... Yoanesek keiñu egin zuan Saratarrari erantzun nai ziola, bera olerkari ospetsu ta omen zabalekoa zan eta.</p>
+<p>Ta Azturiagatarrak abestu zuan:</p>
+<p>Ez izan beldurrikan</p>
+<p>Adiskide zarra.</p>
+<p>Belatza, biurzeko,</p>
+<p>Oso dago txarra:</p>
+<p>Egak moztu dizkiot</p>
+<p>Ta ebaki atzaparra.</p>
+<p>Baiña berriz obitik</p>
+<p>Jaikiko baledi</p>
+<p>Gure olako gabia</p>
+<p>Ez legoke geldi;</p>
+<p>Burua ari lertzeko</p>
+<p>Or dago Urdanibi!</p>
+<p>Kopla sutsu orik aditzearekiñ, zelai guzian, gora! ta gorak! altxatzen asi ziran ta iru pertsularien gudua eziñ amaitutzekoa zala zirudian.</p>
+<p>Baiña ordu artan, ezkaratzeko ate-alartzean andre zar bat agertu izan zan, gonaren egak gerrikoan lotuak, lanean ari dan etxekandraren antzera ta arpegi erdi samur ta erdi aserre bat erakusten zuala, esan zuan:</p>
+<p>—Gizonak! Ixillik geldituko ote zerate! Kopla ontzeko asti naikoa bazkalondoan izango ez al dezute? Orra emen ordu bat <hi rend='Italic'>salda begiduna </hi>irakitua dala! Iturriko zopa bezaiñ otza biurtu dedilla nai dezute edo?</p>
+<p>—Ixo! ixo, amona, —iñardetsi zion Yolandak—. Bagatoz! bagatoz!</p>
+<p>Ta estaitiarreri esan zien:</p>
+<p>—Adiskideak, aurrera! Goazen <hi rend='Italic'>salda begiduna </hi>gozatzera!</p>
+<p>Alayirikan ta guziak parrez, bazkaratzailleak sartu ziran Urdanibiko ezkaratzan.</p>
+<p>AZKENTZA</p>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI.2>
+

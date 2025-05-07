@@ -1,0 +1,190 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+                       "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+   <!ENTITY % TEI.prose    'INCLUDE' >
+   <!ENTITY % TEI.linking  'INCLUDE' >
+   <!ENTITY % TEI.analysis 'INCLUDE' >
+   <!ENTITY % TEI.figures  'INCLUDE' >
+   <!ENTITY % TEI.XML      'INCLUDE' >
+   <!ENTITY % TEI.extensions.ent SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.ent' >
+   <!ENTITY % TEI.extensions.dtd SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.dtd' >
+]>
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+     <titleStmt>
+        <title>Hunkailü berrien enthelegia Ziberuko laborarier</title>
+        <author>Jean Baptiste Althabe</author>
+        <respStmt>Bertsio elektroniko honen egilea: Joxemiel Bidador.</respStmt>
+     </titleStmt>
+     <extent>3.325 hitz, 25.300 karaktere</extent>
+     <publicationStmt>
+        <publisher>Klasikoen Gordailua [http://klasikoak.armiarma.com/]</publisher>
+        <distributor>Estrata Liburuak S.L.</distributor>
+        <address type='email'>klasikoak@armiarma.com</address>
+        <idno type='ota'>AlthabeHunkailu</idno>
+        <availability status='free'>Erabilpen librekoa; honoko helbidean topa daiteke (HTML, RTF eta PDF formatuetan): http://klasikoak.armiarma.com/idazlanak/A/AlthabeHunkailu.htm</availability>
+        <date>2006</date>
+     </publicationStmt>
+     <sourceDesc>
+        <bibl>Iturria: Honkailu berrien enthelegia Ziberuko laborarier, Jean Baptiste Althabe. Lamaignère, 1904</bibl>
+        <notesStmt><note>Iturburuen datazioa: 1904</note></notesStmt>
+     </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+     <projectDesc>Euskal literaturako testu klasikoen bilduma da KLASIKOEN GORDAILUA; testu hau berorren parte da</projectDesc>
+     <refsDecl>
+        <p>MENTIONED etiketa egilearenak ez diren hitzak markatzeko erabili da: hitzaurreak, aipuak, iruzkinak, e.a.</p>
+    </refsDecl>
+     <classDecl>
+        <taxonomy id='generoa'>
+            <category id='G-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='G-ANT'><catDesc>Antzerkia</catDesc></category>
+            <category id='G-BER'><catDesc>Bertsoak</catDesc></category>
+            <category id='G-ERL'><catDesc>Erlijioa</catDesc></category>
+            <category id='G-NAR'><catDesc>Narratiba</catDesc></category>
+            <category id='G-POE'><catDesc>Poesia</catDesc></category>
+            <category id='G-SAI'><catDesc>Saiakera, kronika, artikuluak...</catDesc></category>
+        </taxonomy>
+        <taxonomy id='garaia'>
+            <category id='M-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='M-16'><catDesc>XVI. mendea</catDesc></category>
+            <category id='M-17-1'><catDesc>XVII. mendea - 1. erdia</catDesc></category>
+            <category id='M-17-2'><catDesc>XVII. mendea - 2. erdia</catDesc></category>
+            <category id='M-18-1'><catDesc>XVIII. mendea - 1. erdia</catDesc></category>
+            <category id='M-18-2'><catDesc>XVIII. mendea - 2. erdia</catDesc></category>
+            <category id='M-19-1'><catDesc>XIX. mendea - 1. erdia</catDesc></category>
+            <category id='M-19-2'><catDesc>XIX. mendea - 2. erdia</catDesc></category>
+            <category id='M-20-1'><catDesc>XX. mendea - 1. erdia</catDesc></category>
+            <category id='M-20-2'><catDesc>XX. mendea - 2. erdia</catDesc></category>
+        </taxonomy>
+        <taxonomy id='euskalkia'>
+            <category id='E-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='E-BAT'><catDesc>batua</catDesc></category>
+            <category id='E-BIZ'><catDesc>bizkaiera</catDesc></category>
+            <category id='E-BNA'><catDesc>behenafarrera</catDesc></category>
+            <category id='E-ERR'><catDesc>erronkariera</catDesc></category>
+            <category id='E-GIP'><catDesc>gipuzkera</catDesc></category>
+            <category id='E-GNA'><catDesc>goi nafarrera</catDesc></category>
+            <category id='E-LAP'><catDesc>lapurtera</catDesc></category>
+            <category id='E-NAF'><catDesc>nafarrera</catDesc></category>
+            <category id='E-ZAR'><catDesc>zaraitzuera</catDesc></category>
+            <category id='E-ZUB'><catDesc>zuberera</catDesc></category>
+        </taxonomy>
+    </classDecl>
+  </encodingDesc>
+  <profileDesc>
+     <textClass>
+       <keywords scheme='generoa'>
+         <list><item>G-SAI</item></list>
+       </keywords>
+       <keywords scheme='garaia'>
+         <list><item>M-20-1</item></list>
+       </keywords>
+       <keywords scheme='euskalkia'>
+         <list><item>E-ZUB</item></list>
+       </keywords>
+     </textClass>
+  </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>Hunkailü berrien enthelegia Ziberuko laborarier -- Jean Baptiste Althabe</docTitle>
+    </front>
+    <group>
+      <text>
+        <front>
+          <head rend='Bold'><p>HUNKAILÜ BERRIEN ENTHELEGIA ZIBERUKO LABORARIER</p></head>
+        </front>
+        <body>
+<p><hi rend='Bold'>Hitz bat ahan marlatiaz</hi></p>
+<p>Frantzian ez da aski egiten hebeko beharünen. Zertako üskaldun laborariak ezliro egin, kanpoti ekharazi ordütan. Marlazteko aski da labe ordinario baten ukheitia. Hirur aldiz güti bat beroraz ahanak labian eta eginik dira, gastüik gabe, sükrerik gabe, bereki diena baizik, berantago esplikatüko dügün bezala. Bena zibetaren egiteko erbia behar beita, hala hala ahan marlatü egiteko, behar da esprezüko ahan larria, Ageneko ahana deitzen dena. Jinkuari esker, basa ahana franko bada zien funtz bazterretan. Zertako hetarik etzinioie enphelta edo sortha aldia bat. Jadanik franko berant da aurthenko. Uste dügü hargatik orano doidatekila sapa zortzi egün horietan, kharuari esker. Lehen lehiatiek edienen die, sos güti bateki, Ageneko ahan enpheltiak sindikateko sekretarieki baranthaila hunen 24, 25 eta 26ian.</p>
+<p><hi rend='Bold'>Hitz bat hunkailiez</hi></p>
+<p>Beste da guanoa<mentioned><SUP> [1]</SUP></mentioned>, beste <hi rend='Italic'><foreign>engrais chimiques </foreign></hi>dielako hunkailiak. Guanoa da hegazti eli batek salduan, itxas bazterreko harpe eli batetan atherbüstatzez, egiten dien hungarria. Ez da egün hanbat hunik, drogatüik dira. <hi rend='Italic'><foreign>Engrais chimiques </foreign></hi>dielakuak aldiz, erhauts eli bat dira, edo gatz süberte eli bat, kabalek milikatzeko bidian ützi behar ez dienak, zeren beitira phozuak üsian. Irauri onduan sohuek debetatü behar die kabaletarik zonbait denboraz.</p>
+<p>Ez da düdarik hunkailu horiek egiten diela hun handi lürrari. Bena jakin behar da nula zerbütxa. Behar den gisan ez balinbadira emanik, despendiua bada eta ez profeitürik.</p>
+<p>Aren jakin behar da: azota, fosfora, potaza eta latzüna edo plastria, horiek diela miraküilü egiliak. Lürrak behar dü orano ükhen bürdüña khosü bat, magnezia, karbona, oxigena, hidrogena, sofre, klora, siliza, manganeza, suda; bena üsian lürrak berak badütü, eta aidiak eta ebiak nasaiki emaiten deitzo. Mintzatüko gira berheziki lehen lau aiphatiez; zeren eta nasaiki eta beretzeko gisan (<hi rend='Italic'><foreign>assimilables</foreign></hi>) edieiten badütü lantharik lürrian, azkarki fusatüko beitü.</p>
+<p>Üzta urthe oroz lürrari emanazten bazaio, bortxatü da akhitzea eta auhertzea, zeren eta faltatzen betzaio azota eta fosfora, edo ere potaza eta latzüna. Zer egin aren? Eskas edo higatü zaionaren errendatüz. Eta nula? Barne gorotz eta <hi rend='Italic'><foreign>engrais chimiques </foreign></hi>horietarik emanez.</p>
+<p><hi rend='Bold'>Eta lehenik gorotzaz mintza gitian</hi></p>
+<p>Gaiza huna da, bena lür flakü edo flakatü batetan ez dü berak aski indar. Ezi hobekienik eginik den gorotzian, 1000 kilo gorotzetan ez da 4 kilo eta erdi baizik azota; 2 kilo eskas <hi rend='Italic'><foreign>acide phosphorique</foreign></hi>; 5 kilo <hi rend='Italic'><foreign>potasse</foreign></hi>; 5 kilo eta erdi latzun; 3 kilo edo 4 <hi rend='Italic'><foreign>oxide de fer</foreign></hi>; 2 edo 4 kilo <hi rend='Italic'><foreign>magnesie</foreign></hi>. Ezagün da jadanik 1000 kilotarik 20 edo 25 kilo baicik ez dela lürraren baliusik. Azota eta fosfora, bi beharrenak, eskasenak orano diela, eta hargatik lantharek hetarik diela haboruenik galthatzen. Ezi balin bada azota hanitx eta fosfora güti, zer agitzen da? Desgantzolkeria bat: azotak senthoki zankhua phuzazten dü, bena fosfata beita bihiaren berheziki egilia eta hazlia, büria gaizki muldatzen da, gaizki zohitzen eta lanhatzen da (<hi rend='Italic'><foreign>échaudé</foreign></hi>). Potaza eta fosfora biak eskas balin batü aldiz, erorten da (<hi rend='Italic'><foreign>la verse</foreign></hi>). Zer egin aren? Gorotzari emendatü eskas dütin laur gaiza horietarik behar den heñian, gero ikhusiko dügün bezala. Aren ez kuntenta <hi rend='Italic'><foreign>engrais chimique </foreign></hi>emaitiaz, horeki hobe ezazie gorotza, azota eta phosphora deja diana emendatüz. Gorotzaeki nahasirik, lantharik aisago beretzen dütü eta baliusago erendatzen. Gorotzak badü <hi rend='Italic'><foreign>humus </foreign></hi>edo <hi rend='Italic'><foreign>terreau</foreign></hi>, erran nahi beita, lür beltz iraurgei zokhitiak egiten diana. Harek dü azkartzen lür arhina, eta ahintzen lür gaitza. Gorotzez belztü lürra, hanitx huntzen da emanez <hi rend='Italic'><foreign>scories de déphosphoration </foreign></hi>deithia. Bena lür belztüik ez denian, deus ez liro egin, edo doblezka ezarri behar lüke eskoriak. Gorotzaeki berareki heltüko zira behar bada 20 hektolitra ükheitera hektaran (<hi rend='Italic'><foreign>88 ares</foreign></hi>). Gorotza eta engraiak, biek algarreki, emanen deizie aisa 30 hektolitra edo 40 ere, denbora eta azia untsa khausitzen delarik.</p>
+<p><foreign><hi rend='Italic'> <hi rend='Bold'>Engrais chimiques </hi></hi></foreign><hi rend='Bold'>dielakuak</hi></p>
+<p>Ez ahatz ardüran lürrak eskas diela azota eta fosfora, gero behar bada potasa eta latzüna edo plastria. Saltzaleak algarreki nahasirik saltzen dütie erhautsak eta deitzen <hi rend='Italic'><foreign>engrais complet</foreign></hi>. Hobe litzate eta merkiago ere nurk berak nahasirik hunkaila bakhotxa bere alde erosirik aurthen egin den bezala. Gisa hortan, frauda nekezago da, eta bestalde erhauts aitzinetikegi nahasten badira, algarri ogen egiten die, eta dien indarra flakatzen. Hobena litzate zerbütxatü behar den mezperan edo egünian berian nahastia.</p>
+<p><hi rend='Bold'>Azota</hi></p>
+<p>Azota bera bestetarik berhezirik ez da edieiten. Beste zerbaiteki bildürik edo nahasirik edieiten da. Aidiaren bost phartetarik bat azota da, bostgerrena aldiz oxigena. Negoziantek saltzen die azota <hi rend='Italic'><foreign>sulfate d'ammoniaque </foreign></hi>izenian edo orano <hi rend='Italic'><foreign>nitrate de soude </foreign></hi>eta <hi rend='Italic'><foreign>nitrate de potasse</foreign></hi> izenian. <hi rend='Italic'><foreign>Sulfate d'ammoniaque </foreign></hi>pribateko hungarrietarik egiten da, eta ehün kilotako zakhiak badu 20 kilo azota: khostatzen da 35 libera. <hi rend='Italic'><foreign>Nitrate de souda</foreign></hi>k badü 15 edo 16 kiloen altia sakhian: khostatzen da 25 libera. <hi rend='Italic'><foreign>Nitrate de potasse</foreign></hi>k aldiz badü 13 kilo azota eta 44 potaza: khostatzen da 48 libera zakia. Odol idortiak, eihean xehe ehorik, badü 10 edo 15 azota. Adarkentiak erreik eta haustuik ber gisan. Ilhekentiak erre onduan 5 edo 8 kilo. Ber gisan guanoak. Oiluen gorotzak badü hanitx azota, fosfora eta potaza, bera hunkailü kunpleta da, hanitx kasüeki bildü behar dena, eta lür idorrian begiratü, behera den tenoreko. Nula hoberena eta merkena beita <hi rend='Italic'><foreign>nitrate de soude</foreign></hi>, harez mintzatüko gira beste aldian.</p>
+<p><foreign><hi rend='Italic'> <hi rend='Bold'>Nitrate de soude</hi></hi></foreign></p>
+<p>Txiliako lür mina batetarik eginik da. Lürretik berhezi onduan latzatüz haren gatza, 1000 untzik itsasoz ekharten die hunat. <hi rend='Italic'><foreign>Nitrate de soude </foreign></hi>hori da azote emailia, belharraren phitzazlia, arthuaren eta ogi sankhuaren senthoazlia, solamente ez beitzira etxekitzen artho zankho ederraren ukheitiari, gütiago nitrate emaiten düzü ogiari eta sohuari beno. Hori da gatz bat, beraren phezüko hurian hurtzen dena. Gatzak bezala hur hartzen dü aide bustitik. Hartakotz, zerbütxatzeko tenoria jin artio, edüki behar dü lekhü idorrian, aide txükian, ahalaz güti ümi dadin. Saltzalik behar dü bermatü ehün kilotako sakiak badila, ehünetarik 95 kilo <hi rend='Italic'><foreign>nitrate de soude</foreign></hi> garbi eta hartan 15 edo 16 kilo azota. Ehün kilo hoietarik ez da 15 edo 16 kilo azota hori baizik lürraren baliusik. Beste lauetan hogeita bostak ez dira khuntatzen hunkailu bezala. Aren 16 kilo azota <hi rend='Italic'><foreign>nitrate de souda </foreign></hi>din sakia khostatzen bada 24 libera, 8 kilo azota baizik ez lükin sakiak, ez lüke erdia baizik balio, erran nahi beita 12 libera. Ber gaiza erran ahal laite fosfata eta potaza dien zakietaz. Bispahirur liberaren khostüz, analizatzen ahal da eta jakiten segürka sakik badinez 15 edo 16 kilo azota garantitiak.</p>
+<p><foreign><hi rend='Italic'> Nitrate de souda</hi></foreign> laket zaie lür süberte orori, bena ez zaie eman behar soberakinik, eta bai dena bedatsin, zeren eta negüko ebi handiek sobera latsa beilioie. Bena neguti landa, lantharen iatzartziaeki, bedatseko ebi eztiak nezesari dia, eta hatik aski ere badira, lantharen builtatzeko, sütan ezarteko, bistaz kasik ikhusten dira phusatzen.</p>
+<p><hi rend='Bold'>Nitrata hori nola adela</hi></p>
+<p>Zerbütxatü beno lehen, horen mokhorak xehekatü behar dira phalaeki, bardin orotan heda edo iraur dadin. Esküz iraurtzen denin, eta ez mekanikaz, eskietan ezta ükhen behar phikorik, zeren erretzen beitü. Gure ithegün lürrian (22 <hi rend='Italic'><foreign>ares</foreign></hi>, 22 <hi rend='Italic'><foreign>centiares</foreign></hi>), 25 kilo nitrata berere behar da, beste haenbeste edo haboro superfosfata eta plastreeki nahasirik, errekolta sübertiaren arabea, gero erranen dügün bezala. Ez da hanbat bera iraurtzen <hi rend='Italic'><foreign>nitrate de souda</foreign></hi>, ez litzateke abantailarik. Lehenago aldi bakoitz geia oro iraurtzen zien. Ezagütürik da orai, biga edo hirur kolpüz, hilabete arte, hobe dela iraurtzia, eta hori ebi bati bürüz ahalaz. Ez dira algarreki nahasten nitrata eta superfosfata iraurtzeko egünin baizik, lehen eginez, gal litake azota aldia bat.</p>
+<p>Erran dügü 14 edo 16 kilo azota ziala <hi rend='Italic'><foreign>nitrate de soude </foreign></hi>delako zakiak. Zihaük nahi badüzü horreki eta beste erhautseki konpozatü hori ez zaiola eman behar sei kiloz goiti azotarik. Ez eta lürra azotaz kalkatü behar kabale bat bezala. Ithegünkal ez zaio eman behar 30 edo 40 kilo nitrata goiti. Bi kilotarik bostetara azota din sakü konpozatia huna da. Huna aren modela bat <hi rend='Italic'><foreign>nitrate de souda</foreign></hi>eki nahi düzien heiñian azotaren nahasteko:</p>
+<p>7 kilo<hi rend='Italic'><foreign> nitrate de souda</foreign></hi>k badü azota kilo baten altia,</p>
+<p>13 kilo <hi rend='Italic'><foreign>nitrate de souda</foreign></hi>k badü 2 kilo azota iganik,</p>
+<p>19 kilo eta erdi <hi rend='Italic'><foreign>nitrate de souda</foreign></hi>k badü 3 kilo azota iganik,</p>
+<p>26 kilo <hi rend='Italic'><foreign>nitrate de souda</foreign></hi>k badü 4 kilo azota iganik,</p>
+<p>39 kilo <hi rend='Italic'><foreign>nitrate de souda</foreign></hi>k badü 6 kilo azota iganik.</p>
+<p><hi rend='Bold'>Fosfata eta superfosfata</hi></p>
+<p>Erran dügü azotak belharra eta ogi sankhua senthoki phusazten diala. <hi rend='Italic'><foreign>Acide phosphorique</foreign></hi>k aldiz, belharrari emanazten dero gozo araua kabalen hazteko. Ogiaren sankhua azkarturik ez da erorten. Ogiaren eta arthuaren buriak handiago eta hazirikago dira, eta goizago zohitzen dira. Lür sagarra eta miñabezeko ardua hobiago dira. Karotaren eta betarrabaren sükria emendatzen da. Bena lan hunen ürhentzian erranen dügün bezala, <hi rend='Italic'><foreign>acide phosphorique</foreign></hi>k juntatüik edo nahasirik izan behar dü heiñ batetan azotaeki, potazaeki eta plastriaeki, lürraren kalitatiaren arabera, bai eta errekolta sübertiaren arabera.</p>
+<p><foreign><hi rend='Italic'> Acide phosphorique </hi></foreign>ez da berbera edieiten, üsian nahasirik da latzünaeki. Jiten da edo edieiten da: 1. lürpeko mina eli batetan, <hi rend='Italic'><foreign>phosphate de chaux </foreign></hi>deitzen dien ali batetan, 2. kabalen ezürretarik. 3. s<hi rend='Italic'><foreign>corie de déphosphoration </foreign></hi>deitzen dien bürdüñaren zikhinetik edo izerditik.</p>
+<p><hi rend='Bold'>1. </hi>Eta lehenik lürpeko minak, <hi rend='Italic'><foreign>phosphate de chaux </foreign></hi>emailiak. Frantzian hanitx lekhütan edieiten dira. Ardennakua hoberenetarik da eta berde koloreko. Badira fosfata hoiliak, Somme, Cher, Lot, Oise, Rhône dielako departamentietan. Saltzen dira untsa haustürik eta ehorik. Badire hobenak, 20 kilo <hi rend='Italic'><foreign>acide phosphorique </foreign></hi>din sakia erdiaz merkiago beita 20 kilo dina beno. Bena lür fosfata dielako horien <hi rend='Italic'><foreign>acide phosphorique </foreign></hi>aiphatia ez da hurian hurtzen, eta hartakotz lürrak ez dü beretzen, lantharek ere ez die guti bat baizik lür deno baliatzen, ürriago die beretzia, hartakotz dira negü hatzarretik lürrian iraurtzen. Horra zertako, nahiz, fosfata horietan den <hi rend='Italic'><foreign>acide phosphorique </foreign></hi>oro eta laster lantharek bil dezen, hürrüpa dezen zaiñetarik, eraiten ahal bada, fosfata horiek bustatzen dütie <hi rend='Italic'><foreign>acide sulfurique</foreign></hi>n edo aigafortian. Hala bustirik eta adelatürik, fosfata hori deitzen da superfosfata. Horren <hi rend='Italic'><foreign>acide phosphorique </foreign></hi>hurtzen da parterik handiena hurian, eta undara beste ingredient batetan, <hi rend='Italic'><foreign>citrate d'ammoniaque </foreign></hi>deitzen denian, dela 12 edo 14 edo 16 kilo azide fosforika, 100 kiloko süperfosfata sakian, lantahrik hobeki beretzen dü. Untsa har aren hirur izen horien sübertia: azide fosforika da hunkailü baliusa, frütü emailia, edenik dena haboro superfosfatan, gütiago eta ürriago fosfata minan.</p>
+<p>Badira fosfatak lürrian hurtzen ez direnak, sekula hetarik ez eros, balitz ere bost sosetan haren azide fosforika. Badira hurtzen dienak, ez hurian bena berere zitrate d'ammoniakan, zerbaitez merkiago dira superfosfatak beno, berantzen die beren huntzapenaren emaitia, bena hala hala lüsazago ere emaiten die huntzapen gütiago bat. Superfosfatek aldiz bertan die bere huntzapen handia, bena denbora labürrago iraiten die. Hartakoz bedatsian dira emaiten lürrari. Zointarik da hobe erostia? Eraile bada fosfata edo eskoria, merkiago dienek, superfosfatak bezain beste ekhoizpen emaiten diela. Sentzü borogatük bakoitzari erranen dü bere lürraren zoin den hobena eta merkena. Superfosfatak bethi segürago dü ekhoizpena. Bena zoin da hobenik erostia, <hi rend='Italic'><foreign>acide phosphorique</foreign></hi> hanitx zakukal diana, ala güti diana? Ageri da hanitx dianeti erostia dela hoberena eta merkena, ezi, 5, ala 10, ala 15 kilo <hi rend='Italic'><foreign>acide phosphorique</foreign></hi> ükhenik, hunkailü zakiak badü bethi 100 kilo. Haren erosten badüzü 20 kilo acide phosphorique din zakü bat, baten porta bürdün bidian eta zakü bat düzü phakatzen. Bena erosten badüzü bi zakü, bakhoitzak 10 <hi rend='Italic'><foreign>acide</foreign></hi> baizik ez diena, doble khostatzen zaizü bürdün bidia, hartarik etxera, doble haren iraurtzia eta bi zakü behar düzü.</p>
+<p><hi rend='Bold'>Nula heda edo iraur</hi></p>
+<p>Sohuetan borxatü da fosfata ala superfosfata, estalgi bezala, axalin iraursea. Bena lür eabilietan behar dü haeki nahasi edo ütsülsian edo ahiareki, ogia ereiten den bezala urthuki onduan. Lüzegi ez balitz, hoberena aldiz ilduala ereitian, azitik beheziz lür muxi batez. Ausarki emaiten ahal da fosfata, eta doiago superfosfata. Soberakinik balin bada, lürrak begiatüko dü ondoko errekoltaren, soberak ez dü inunko lürrari ogenik egiten. Bereziki baliatzen dira büztan lürrak, suphizteko, latzün, ilhare lürrak.</p>
+<p><hi rend='Bold'>2. Ezürretako fosfora</hi></p>
+<p>Erran düt ezürretan ere bazela azide fosforika. Lüzaz ez zin lürrak besterik ükheiten. Bena orai, minetakua beno khariuago delakoz, ützixerik da, eta hati markha baledi haren heiñiala, arra hartzeko litzateke, ezi minetakuek bezain beste indar badü eta badü bestalde azote zerbait, baliusten dina haren superfosfatak din azide fosforika. Minetakuez doblia khuntü orai khostatzen da: 16 libera zakia. Ahin delakoz, aiza eztadin, ehortzen da iraurziaeki.</p>
+<p><hi rend='Bold'>3<hi rend='Italic'><foreign>. Scorie de dèphosphoration</foreign></hi></hi></p>
+<p>Bürdün lürra edo mina hurtazten denin lürretik berhezteko, egiten zaio gain zikhin bat, berhezi behar dena bürdüñati, besteñik xanpor baratzen da. Zikhin hori berhezi onduan deitzen da <hi rend='Italic'><foreign>scorie</foreign></hi>. Hanitx xehe erhautsi behar dü, eta ordian badü ehünetarik 15 edo 20 <hi rend='Italic'><foreign>acide phosphorique</foreign></hi>, xehiago eta beretzenago du lürrak. Hanitx balius da eta merke, zeren beitü bestalde 40 edo 50 kilo latzün. Maule ondoko khostatzen da 6 libera eta erdi zakia. Latzün unxatto dielakoz, ezta abantaila latzün hanitx jadanik dien lürrari emaitia, bena araua da büztan lürretako. Lür erabilietan hun da egün zonbait aitzinetik iraur dadin, gero ereitin ehorzteko. Sohuer hanitx laket zaie hartarik ükheitia.</p>
+<p><hi rend='Bold'>Potaza</hi></p>
+<p>Potaza osoki eskas dien lürrak güti dira Frantzian. Belharrek bereziki, hortarik haboruenik die thiatzen lürrer. Bena kabalek beitie jaten belharra eta hartan den potaza, haien gorotzak eta ixurkinek, khuntü oro errendatzen die sorhuer, goroztopuk untsa eginik dienian. Hortakoz, gorotz untsa emaiten din laborariak bere lürrer, potazaz ez dü arranküratzeko, azotaz eta fosforaz bezala. Eta hargatik potaza gabe ez da lür aberatsik. Nulaz jakin haren badinez aski? Analizatzez. Bena lan khosta bat da. Nula aren? Zien lürretarik borogatüz. Potaza hanitx den lürrian, phusatzen dü bermütaz ürzo belharrak, treflak, lüzenak. Badira lanthariak, hura gabe untsa juiten ez dienak, hala nula orai, aiphatu belharrak, ilharra, ilhar biribila, baba, aihena eta lür sagarra. Azken bi horiek segürik auheretan errezibitzen die potaza, gorotz hanitx ükhen badie. Nahi düzia jakhin zure alhorrak eskas die lur garaillatsiek, sü phistekuek, latsüntsiek, bena analizatzez baizik ez da segürtamenik. Arrokan gañen dien büztan lürrek aldiz eta sokharotsiek (<hi rend='Italic'><foreign>granitiques?</foreign></hi>) soberakin ere badie, auher da haier emaitia. Emaiten denian, doitto erabil behar da potaza, ez gainti 30 kilo ithegünian, ez bera iraur bedatsian, erra beilio lantaria. Iraurtzen ahal da bera larrazkenian, bena ehortzi behar dü. Hoberena da azota eta fosforaeki nahastia, eta üsian ez da beharrik potazaren, gorotza emanik izan bada, gorotzak din potaza aski dü. Esküzarik zertako ari erosten?</p>
+<p>Potaza egiten da itsasoko huretik, errakinetarik eta Prüsiako mina lür eli batetarik. Güti da Frantzian. Potaza beharra dinak lürrarentako üsienik erosten dü <hi rend='Italic'><foreign>chlorüre de potassium</foreign></hi>, merkenik delakoz. Badü 50 kilo potasse ehun kilotako sakiak, khostatzen da 22 libera eta 7 sos. Potaza üthürri hun dira orano, bena khariuago. <hi rend='Italic'><foreign>Nitrate de potasse</foreign></hi> badü 13 kilo azota eta 44 potasse: khosta 48 libera edo orano. <hi rend='Italic'><foreign>Sulfate de potasse</foreign></hi> badü 42 edo 58 potasse: khosta 25 libera. Kainita, merke da eta hun bere heiñian, badü 25 potassa zakiak: khostatzen da 7 libera. Hanitx hun egiten dü sorhuetan. Ükhen deneti behala behar dü irauri, bestenik bertan gogortzen da.</p>
+<p><hi rend='Bold'>Egur hautsak</hi></p>
+<p>Süko hautsa franko dianak, eta barnen begiatürik, eztü beste potaza beharrik. Berak badü ehünetarik 9 edo 12 <hi rend='Italic'><foreign>carbonate de potasse</foreign></hi>, 35 k. latzün eta 3 k. <hi rend='Italic'><foreign>acide phosphorique</foreign></hi>. Ehün kilok balio dü 4 libera. Laborariak ezagützen dü haütsaren indarra sorhuer emaiten dianin. Bukhatan iganik den haütskaldeak galdü dü potaza, halere gorotzilat igorri behar dü, beitü latzün.</p>
+<p><hi rend='Bold'>Latzüna eta plastria</hi></p>
+<p>Latzünik ez din lürrak üzta güti, lür antzü bat da. Eskas balin badü, eman behar zaio. Eskas dü ihia phuzatzen din lürrak, bermütaz trefla jiten da lür latzünez abrats dienetan. Horra sinua. Latzüna nezesari da büztan lürretan. Latzüna ez da nahasten arruntian azota eta potazaeki, seküla ammoniaka din hunkailiaeki, ez eta gorotzaeki. Iraurtzen da bera horiek beno lehen zonbait egünez, eta gero hunkailiak aziaren ereiteko.</p>
+<p>Plastria aldiz, jakintsünek deitzen diena <hi rend='Italic'><foreign>sulfate de chaux</foreign></hi>, beste hunkailü horieki oroeki nahasten da, kasik bethi. Berbera ere laket zaie sorhuer orori, berheziki lüzerna, trefla eta legümineuses deitzen diener. Emaiten ahal da 70 kiloen altia gure ithegünari. Plastre gordinak badü ehünetarik 32 kilo latzun, erriak aldiz 41. Plastre erria ageri da hobe dela, eta hatik zonbaiten erranila nekezago lantharik beretzen dü. Heben zakü txipia khostatzen da 20 sos, ehün kilotako zakü handia 40 sos. Eskoriak beitü <hi rend='Italic'><foreign>acide phosphorique</foreign></hi> eta ehünetarik 50 k. latzün, berheziki gomendatürik da latzün eskas dien lürretan.</p>
+<p><hi rend='Bold'>Lür kalitatia eta lantharen dominanta</hi></p>
+<p>Lau hunkailü gehien horien bederaka ezagützia, egin dügün bezala, ez da aski lürrari hanitx emanazteko. Behar dü ezagütü orano bere lürraren kalitatia, zer eskas, zer nasaiki badien, zertarik lantharik habuenik galthatzen din, edo zer den haren dominanta.</p>
+<p>Analiza lizate, ezagützeko bide bat, zure lürrak zertarik din eskas, ala azota, ala fosfora, ala potaza. Bena khario da lürraren analizaztia, lür xantillon bat igorriz, eta ez bethi<hi rend='Italic'><foreign> moyen</foreign></hi> segura. Huna <hi rend='Italic'><foreign>moyen</foreign></hi> bat zihauk borogatzen ahal düzüna. Deitzen die <hi rend='Italic'><foreign>champ d'expérience.</foreign></hi></p>
+<p>Zure alhorrian berhezten düzü lau lür pharte, algarren ondozka, oro bardin handi. Emazü bakhotxak badira 10 metra zabal, 10 metra lüze. Oro ber gisan lanthürik, oroek ber azitik eta ber heiñian. Lehen phartilla, jakilia deitzen düzü, deüs ere hunkailüik ez düzü emaiten. Bigerrenian ausarki iraurtzen düzü azota dien hunkailia bera, dügün<hi rend='Italic'><foreign> nitrate de soude</foreign></hi>. Hirurgerrenian, potaza diana bera: dügün <hi rend='Italic'><foreign>chlorüre de potasse</foreign></hi>. Laurgerrenian, <hi rend='Italic'><foreign>acide phosphorique</foreign></hi> diana: dügün superfosfata. Eta orai egürüki zer errekolta bakhoitzak jaukhiko din. Ezagün da zure lürra azotaren eskasian bazen, eta aski <hi rend='Italic'><foreign>acide phosphorique</foreign></hi> balin bazin, zure errekolta hanitxez ederrago datekila azota eman düzün phartillan. Hala hala, zure lürrak aski azota balin bazin eta eskas fosfora, ageri da fosfora ükhen din phartillaren errekolta datekila hobena. Ber gisan laurgeren phartillaz. Holetan badakizü zer din beharrena zure lürrak eta emanen derozu ondoko urthian. Arruntian erran daite belharraen berdia xurphail denian, nahi bada büria phezü, azota orano falta. Bena ogi eta artho zankhua askitto propi eta büria txipi, fosfora dü eskas.</p>
+<p><hi rend='Bold'>Lantharen dominanta</hi></p>
+<p>Ez da aski lürraren azagützia, lantharer, eman behar zaie, haboruenik laket zaien hunkailia eta dominanta. Lanthare bakhotxak badü bere hunkailü maitiagua, haitatiagua.</p>
+<p>ORAI BERIAN:</p>
+<p>1. Azak, intsaladak, asperjiak, gaagarrak, sekaliak, olhuak, soho algatsiak nahi die hanitx azota eta<hi rend='Italic'><foreign> acide phosphorique</foreign></hi>.</p>
+<p>2. Lür sagarrak, karotak, betarrabak, ñabuak, arbiak, liak, tabakuak, artuak, topinanburrak, gütiago azota eta hanitx <hi rend='Italic'><foreign>acide phosphorique</foreign></hi> eta potaza heiñ bat.</p>
+<p>3. Ilharrak, ilhar bibilak, babak, miñabeziak, zühain fruta emailek, treflak, lüzernak, sainfoinak, ez die galtatzen batere azotarik, bena haien dominanta da potaza hanitx eta heiñ bat <hi rend='Italic'><foreign>acide phosphorique</foreign></hi>. Horieki ez ahatz behar dela bethi plastre nahasi. Ez ahatz ere lür gizenian eta goroztatian gütiago aski dela azota eta potaza. Büztan lürretan gütiago dela potaza edo batere berek nasaiki jadanik dielakoz, nahi bada ereiten den lanthariak potaza din dominanta, bereziki goroztatüik balin badira. Orai zer heiñetan algarreki nahasi behar dien hunkailü bederatarik erranen dügü eta emanen formülak edo xediak. Bena ohart zitie, hanitx lür bati emanazi deon<hi rend='Italic'><foreign> engrais</foreign></hi> konpletak, beste lür batetan ez dükiala bethi ber ekhoizpena, zeren beste lür horrek beitüke beste kalitaterik; nausiak ezagütü behar dü bere lürra, eta bere jakinaren arabea emendatü edo gütitü, eskas edo sobera hunkailü horietarik manhazten deron formüla.</p>
+<p><hi rend='Bold'>Formülak edo xediak</hi></p>
+<p><hi rend='Italic'> Ogiarentako:</hi></p>
+<p>100 kilo <hi rend='Italic'><foreign>nitrate de soude</foreign></hi>.</p>
+<p>200 kilo <hi rend='Italic'><foreign>superphosphate 12/14 sur cent d'acide phosphorique</foreign></hi>.</p>
+<p>200 kilo plastre.</p>
+<p>Horen erdia emazü ereitean, beste erdia galtzaratzian.</p>
+<p><hi rend='Italic'> Sorhuentako:</hi></p>
+<p>50 kilo <hi rend='Italic'><foreign>nitrate de soude.</foreign></hi></p>
+<p>50 kilo<hi rend='Italic'><foreign> clhorure de potassium</foreign></hi>.</p>
+<p>200 kilo superfosfata.</p>
+<p>200 kilo <hi rend='Italic'><foreign>scorie de déphosphoration</foreign></hi>.</p>
+<p>200 kilo plastre.</p>
+<p>Horiek iraur bedats hatsarrian.</p>
+<p><hi rend='Italic'> Arthuarentako:</hi></p>
+<p>50 kilo <hi rend='Italic'><foreign>nitrate de soude</foreign></hi>.</p>
+<p>300 kilo superfosfata.</p>
+<p>300 kilo plastre.</p>
+<p>Hortan ükhüratzen ahal da kondizionetan lürra ükhenik dela goroztaldi bat.</p>
+<p><hi rend='Italic'> Lür sagarrentako:</hi></p>
+<p>Gorotz hanitx, ehortzirik hilabete zonbait aitzinetik lürraren ütsültzian.</p>
+<p>200 kilo superfosfata ereitian eta</p>
+<p>100 kilo <hi rend='Italic'><foreign>chlorure de potassium</foreign></hi>.</p>
+<p>Badira <hi rend='Italic'><foreign>chlorure</foreign></hi> hoi beno nahiago dienak 100 kilo <hi rend='Italic'><foreign>sulfate de potasse</foreign></hi>.</p>
+<p>Büztan lürretan emendatzen ahal da 150 kilo plastre.</p>
+<p><hi rend='Italic'> Miñabeziaentako:</hi></p>
+<p>200 kilo superfosfata.</p>
+<p>200 kilo plastre.</p>
+<p>100 kilo <hi rend='Italic'><foreign>chlorure de potassium</foreign></hi>. Hunen ordari ere zonbaitek nahiago die 100 kilo <hi rend='Italic'><foreign>sulfate de potasse</foreign></hi>.</p>
+<p>Formüla horiek emanik dira hektararentako, erran nahi beita gure laur ithegün eta erdien, khuntü. Bi ithegün eta laurdenen phasta baizik nahi ez dianak, aski dü hunkailü horien erdiaren nahastia, laurdena laurdenaz aski dinak.</p>
+<p><hi rend='Bold'>Nula nahas hunkailü horiek</hi></p>
+<p>Deus ere aisagorik. Ezkatz zolan edo selau batetan heda zabal-zabala lehenik superfosfata, orotan bardin lodi. Gero hartan gañen orotan bardin lodi, <hi rend='Italic'><foreign>nitrate de soude.</foreign></hi> Berriz hoietan gañen ber gisan heda <hi rend='Italic'><foreign>clhorure de potassium</foreign></hi>, gero hola hola plastria eta bestiak, behar badie. Ordian haitzür eta phalaeki, bürü bateti bestila nahas hiruretan, murtera egiten den bezala, eta zure hunkailia oso eginik eta prest da lürrari iraurtzeko. Zakiak arra betha, eta ebi bati bürüz, aizerik ez delarik, bota ausarki ogia iraurtzen den bezala. Bardinago lürrian hedatürik eta bardinago izanen dateke errekolta.</p>
+<p>Hanitx balius dira hunkailü horieki errekoltaren doblatzia, ahal den lekhin. Bena hanitxez baliusago orano Jinkuaren benedizionia gure alhorretan eta lanetan.</p>
+<p><mentioned>— [1] Hontaz eta nahiz gaiarekin ertsiki loturik ez egon, Vinsonen bibliografian 456 zenbakia daraman sarreraren berri ekar genezake: <hi rend='Italic'>Mono-phospho-guanoaz argia angeles compania the biphosphated guano Londresen Europa guzico saltze escua duena Frantzian saltze cargua dutenac</hi>, Baionan eta Bordelen, F. Fontclair, Laran eta beste, 1874. Hauxe <hi rend='Italic'>Mono-phospho-guano et son emploi</hi> izenburuko frantsesezko lan baten 7 orrialdetako itzulpen laburtua dugu.</mentioned></p>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI.2>
+

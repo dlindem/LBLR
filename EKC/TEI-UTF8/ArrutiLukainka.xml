@@ -1,0 +1,207 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+                       "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+   <!ENTITY % TEI.prose    'INCLUDE' >
+   <!ENTITY % TEI.linking  'INCLUDE' >
+   <!ENTITY % TEI.analysis 'INCLUDE' >
+   <!ENTITY % TEI.figures  'INCLUDE' >
+   <!ENTITY % TEI.XML      'INCLUDE' >
+   <!ENTITY % TEI.extensions.ent SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.ent' >
+   <!ENTITY % TEI.extensions.dtd SYSTEM 'http://www.tei-c.org/Lite/DTD/teilitex.dtd' >
+]>
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+     <titleStmt>
+        <title>Lukainka</title>
+        <author>Antonio Arruti</author>
+        <respStmt>Ez dauka</respStmt>
+     </titleStmt>
+     <extent>1.360 hitz, 9.837 karaktere</extent>
+     <publicationStmt>
+        <publisher>Klasikoen Gordailua [http://klasikoak.armiarma.com/]</publisher>
+        <distributor>Estrata Liburuak S.L.</distributor>
+        <address type='email'>klasikoak@armiarma.com</address>
+        <idno type='ota'>ArrutiLukainka</idno>
+        <availability status='free'>Erabilpen librekoa; honoko helbidean topa daiteke (HTML, RTF eta PDF formatuetan): http://klasikoak.armiarma.com/idazlanak/A/ArrutiLukainka.htm</availability>
+        <date>2006</date>
+     </publicationStmt>
+     <sourceDesc>
+        <bibl>Iturria: Olerki galduak, Antonio Arruti (J. Etxeberriaren, K. Zubizarretaren eta J. Letonaren edizioa). Elkar, 1998</bibl>
+        <notesStmt><note>Iturburuen datazioa: 1913, 1998</note></notesStmt>
+     </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+     <projectDesc>Euskal literaturako testu klasikoen bilduma da KLASIKOEN GORDAILUA; testu hau berorren parte da</projectDesc>
+     <refsDecl>
+        <p>MENTIONED etiketa egilearenak ez diren hitzak markatzeko erabili da: hitzaurreak, aipuak, iruzkinak, e.a.</p>
+    </refsDecl>
+     <classDecl>
+        <taxonomy id='generoa'>
+            <category id='G-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='G-ANT'><catDesc>Antzerkia</catDesc></category>
+            <category id='G-BER'><catDesc>Bertsoak</catDesc></category>
+            <category id='G-ERL'><catDesc>Erlijioa</catDesc></category>
+            <category id='G-NAR'><catDesc>Narratiba</catDesc></category>
+            <category id='G-POE'><catDesc>Poesia</catDesc></category>
+            <category id='G-SAI'><catDesc>Saiakera, kronika, artikuluak...</catDesc></category>
+        </taxonomy>
+        <taxonomy id='garaia'>
+            <category id='M-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='M-16'><catDesc>XVI. mendea</catDesc></category>
+            <category id='M-17-1'><catDesc>XVII. mendea - 1. erdia</catDesc></category>
+            <category id='M-17-2'><catDesc>XVII. mendea - 2. erdia</catDesc></category>
+            <category id='M-18-1'><catDesc>XVIII. mendea - 1. erdia</catDesc></category>
+            <category id='M-18-2'><catDesc>XVIII. mendea - 2. erdia</catDesc></category>
+            <category id='M-19-1'><catDesc>XIX. mendea - 1. erdia</catDesc></category>
+            <category id='M-19-2'><catDesc>XIX. mendea - 2. erdia</catDesc></category>
+            <category id='M-20-1'><catDesc>XX. mendea - 1. erdia</catDesc></category>
+            <category id='M-20-2'><catDesc>XX. mendea - 2. erdia</catDesc></category>
+        </taxonomy>
+        <taxonomy id='euskalkia'>
+            <category id='E-0'><catDesc>sailkatu gabea</catDesc></category>
+            <category id='E-BAT'><catDesc>batua</catDesc></category>
+            <category id='E-BIZ'><catDesc>bizkaiera</catDesc></category>
+            <category id='E-BNA'><catDesc>behenafarrera</catDesc></category>
+            <category id='E-ERR'><catDesc>erronkariera</catDesc></category>
+            <category id='E-GIP'><catDesc>gipuzkera</catDesc></category>
+            <category id='E-GNA'><catDesc>goi nafarrera</catDesc></category>
+            <category id='E-LAP'><catDesc>lapurtera</catDesc></category>
+            <category id='E-NAF'><catDesc>nafarrera</catDesc></category>
+            <category id='E-ZAR'><catDesc>zaraitzuera</catDesc></category>
+            <category id='E-ZUB'><catDesc>zuberera</catDesc></category>
+        </taxonomy>
+    </classDecl>
+  </encodingDesc>
+  <profileDesc>
+     <textClass>
+       <keywords scheme='generoa'>
+         <list><item>G-NAR</item></list>
+       </keywords>
+       <keywords scheme='garaia'>
+         <list><item>M-20-1</item></list>
+       </keywords>
+       <keywords scheme='euskalkia'>
+         <list><item>E-GIP</item></list>
+       </keywords>
+     </textClass>
+  </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>Lukainka -- Antonio Arruti</docTitle>
+    </front>
+    <group>
+      <text>
+        <body>
+<p>Arruti'tar Andoni Aba</p>
+<p><hi rend='Bold'>LUKAINKA</hi></p>
+<p><hi rend='Bold'>IPUIA</hi></p>
+<p><mentioned>Tolosa'ko Euskal-jaien bitartez</mentioned></p>
+<p><mentioned><hi rend='Italic'>Euskalerriaren alde'</hi>k egindako</mentioned></p>
+<p><mentioned>Batzaldian, lendabiziko saria</mentioned></p>
+<p><mentioned>Irabazi zuan ipui onek 7'gn. gaian</mentioned></p>
+<p><mentioned>DONOSTIA'N</mentioned></p>
+<p><mentioned>Martín, Mena y C.ªren etxean</mentioned></p>
+<p><mentioned>Fuenterrabia, 14, beko gelan</mentioned></p>
+<p><mentioned>1913</mentioned></p>
+<p><hi rend='Italic'> —Etorri al dek ama?</hi></p>
+<p><hi rend='Italic'> —Ez, eta etzekiñat etorriko dan ere.</hi></p>
+<p><hi rend='Italic'> —Lau t'erdietako irten balu Zarauztik....</hi></p>
+<p><hi rend='Italic'> —Ez agon txarra! Nola nai uken ori? Irurak izango itunan ara eldu daneko; etzekiñat zenbat eginkizun arautu bear dizkin; badakiñ gaiñera ango Leketxean aitortzeko asmoa zeramala...</hi></p>
+<p><hi rend='Italic'> —Bai, biar Ama Neskutsaren Sorkundea dek-eta...</hi></p>
+<p><hi rend='Italic'> —Lau t'erdietako ezin amaituko zizkiñan ba ainbeste gauza.</hi></p>
+<p><hi rend='Italic'> —Egia diok.</hi></p>
+<p><hi rend='Italic'> —Badakin zer ordu degun?</hi></p>
+<p><hi rend='Italic'> —Seirak alde.</hi></p>
+<p><hi rend='Italic'> —Zazpiretako agertzen ez bada, berari ez itxagoteko esan din.</hi></p>
+<p><hi rend='Italic'> —Ordu bete luzea oraindik! Aspertuko gaituk.</hi></p>
+<p><hi rend='Italic'> —Ez al daukan zer egiñik? Antolatu al den afaria?</hi></p>
+<p><hi rend='Italic'> —Or zeukak lapikondokoa, baita esnia ere egosita pertzian...</hi></p>
+<p><hi rend='Italic'> —Eta bi lukainka mutur auek...?</hi></p>
+<p><hi rend='Italic'> —Txikiena batentzat. Eta andiena, ama datorrenian, erdibituta bientzat izateko oldoztua zeukat.</hi></p>
+<p><hi rend='Italic'> —Eta ez badator ama?</hi></p>
+<p><hi rend='Italic'> —Orduan... ipuirik ederrena oraintxe asmatzen duanarentzat.</hi></p>
+<p><hi rend='Italic'> —Ez den ateraldi makala! Nai den asi?</hi></p>
+<p><hi rend='Italic'> —Ekin eiok euk.</hi></p>
+<p><hi rend='Italic'> —Adi zan ba burura datorkidan au.</hi></p>
+<p>Ludi osoko jaun eta jabe, ta biztale guztien berdingabeko nagusia zalako ustez, aizez puztuta arro-arro zebillen bein batean leoia. Bai al da, zion bere buruari, bai al liteke ni bezin galant, eder, sendo ta irme danik? Zeñek nere aunditasuna? Nork nire almen eta indarrak? Ez dago nere atzaparrak zatitu ta nere legatiñak zeatuko ez luketen gauzik. Naikoa da nere orroi bat abere txiki ta aundiak izututa utzitzeko. Aski ta naikua naiz ni neu bakarrik. Beste guztiak nere bear izan arren, ez det nik iñoren bearrik.</p>
+<p>—Zeñek daki? —erantzun zion leoiaren bakarrizketa bere orma zulotik aditu zuan sagu txiki batek.</p>
+<p>—Ire bearra! —irri-barrez esan zuan leoiak. Algara eta amorrua bat-batean etorri zitzaizkion.</p>
+<p>Baña, bai al zan iñor eguzkiaren azpian bere aunditasuna ta agintia ez aitortzeko arpegia zeukanik?</p>
+<p>—Aski naiz ni —len baño arroago jarraitu zuan—. Beste guztiak nere bear izan arren, ez det nik iñoren bearrik.</p>
+<p>—Zeñek daki? —txistu zoli baten eran erantzun zion berriro sagu zirtzillak. Baña tximista baño ariñago ezkutatu bear izan zuan bere burua, suak artutako leoiaren atzaparretatik iges egiteko.</p>
+<p>Egunak juan eta egunak etorri, kaiola batean arkitu zuan goiz batean bere burua leoiak. Gizajoa lo zegon bitartean atxitu zuten eiztari azkar bik. Aren orroak eta marroak! Irakiten zeukan odola, aotik bitsa zerion, eta bi txinpart gorri-gorrien antza zeukaten aren begiak. Eta dena alperrik! Orduantse bai artuko zukela poz-pozik norbaiteren laguntasuna! Amorruz itxututa zegon ta etzituan ikusten kaiola bazterrean lanean ari ziran bi sagu; ez ere aditu bere marroakin, aiek ateratzen zuten otsa. Alako batean begiratu zuan zoko artara, eta bai ezagutu ere orma zulotik itzegin zion sagua.</p>
+<p>—Zer ari aiz or? —galdetu zion leoiak.</p>
+<p>—Begira! —erantzun zion saguak, bere ortz zoliakin ebakitako ola erakutsirik.</p>
+<p>—Eskerrik asko! —esan zuan leoiak kaiola lagatzen zuan bitartian—, baita onela jarraitu ere, basoruntz abiadura artu baño len: Gaizki egin nuan. Ez da iñor isekatu bear. Ez da iñor aundia eta altsua izan arren, noiz edo noiz txikienen eta zistriñenen bear izan ezin litekeanik.</p>
+<p><hi rend='Italic'> —Mutill, ez dek txarra, baña ikusiko diagu zeiñentzat dan lukainka mutur luzea. Leoiena dek ipui au ere. Adi zak:</hi></p>
+<p>Aizez ondo puztuta zeraman bere buruba leoiak bein batean. Arpegiko narrua kendu, ta lepua biurrituko bazioten ere, etzuan siñistuko bera aiñakorik izan zitekeanik. Ta berak onela sinistea naikua izan balitz! Beste guztiai au bera sinistuerazi nai... Baita aitortu biarko ere, lepo gañean edo lepo alboan iduki nai bazuan iñork bere burua, etzeukala lur osoak ura bezelakorik.</p>
+<p>Onelako burutasun arroz bero-bero eginda, irten zan goiz batean bere zulotik. Mendira zijuazen ardi, larrera zijuazen bei, auntz, asto... mueta askoko abereak arkitu zituan leoiak bere bidean. Guztiai eta bakoitzari itandu zien:</p>
+<p>—Zein da zuen nagusia? Nor da zuen jaun ta jabea?</p>
+<p>—Gizona, gizona! —erantzuten zioten danak.</p>
+<p>—Gizona, gizona! —zion bere artean leoiak.</p>
+<p>—Zein ote da ori? Auxe da abere ori ezagutzeko nai bizi-bizia. Bai ote da ni aiña? Ez dek oraindik beintzat ni aiña danik nere arpegiaren aurrean jarri. Ez da jarriko ere.</p>
+<p>Onda jarraitzen zion bideari mar-mar egiñaz, eta ikusi gabe oso aurrean zeukan arte, alde batera eta bestera buztana zerabillen txakur jostalaria.</p>
+<p>—Nor dek ire nagusia? —galdetu zion leoiak.</p>
+<p>—Atzetik datorren ori —erantzun zion txakurrak.</p>
+<p>—Eta zein dek bera?</p>
+<p>—Gizona.</p>
+<p>—Ori al da gizona? Txaldan, txatxu, ziztrin, ezertarako ez dan ori al da gauza guztien jabea? Ez nerea beintzat. Ez bestiena ere emendik une batera...</p>
+<p>Urreratu zan eta:</p>
+<p>—I al aiz gizon altsu, abere guztien jaun ta jabea?</p>
+<p>—Bai igandik asita.</p>
+<p>—Orixe dek berealaxe agertuko dana.</p>
+<p>—Burruka egin nai dek, noski?</p>
+<p>—Bai.</p>
+<p>—Aserratu gabe burrukan ibiltzea oso parregarria dek. Aldendu adi pittin bat, ta jaurti izkiagun alkarri datorzkigun gaiztakeriak, aserratu arte. Orduan etorriko gaituk eskuetara.</p>
+<p>—Ez dek gaizki esana.</p>
+<p>Aldendu ziran, baita ekin ere leoiak zekizkian ta etzekizkian likiskeri ta zitalkeriak gizonari jaurtitzen.</p>
+<p>—Bukatu dek? —galdetu zion onek ura isildu zanean. Eta suarma bat ari begira ipiñirik, «iretzat» deadar egin zion durrundara beldurgarri bat aditzen zan bitartean... Buru zatitutik odola zeriola lurrera erori zan leoi panparroia. Gelditu zitzaion bizitz-unea onuratu zuan esateko:</p>
+<p>—Geiago aiz! Ez dek nere ortz eta atzaparrik, baña ire bekoki garbi ta begi argi oietan ezkutapenen bat badaukak...</p>
+<p><hi rend='Italic'> —Zer deritzok?</hi></p>
+<p><hi rend='Italic'> —Neska, ez den irea ere ain txarra. Beste ipui batek erabaki dezala zeñentzat dan lukainka muturluzea.</hi></p>
+<p><hi rend='Italic'> —Begira eiok sarri, or zebillek katua ta...</hi></p>
+<p>Bi anai ziran oso langille, zintzo eta elkar maite-maite zutenak. Gurasoak ill ondorean, beren etxe zarrean morroi batekin egon ziran urte batzuetan. Baña Patxiri ezkontzeko era ta gogoa aurkeztu zitzaizkion, eta auzoko neskatx lerden eta txukun Joxeparekin kabi berria egitera juan zan. Lengo etxe-zar-otzean gelditu zan Joxe bere morroiarekin.</p>
+<p>Burutasun eder-eder bat etorri zitzaion alako batean Patxiri, baita azaldu ere emazteari.</p>
+<p>—Aizu, Joxepa, ez al litzake ona izango tamal ematen didan gure anai gizajo bakarrik dugun orri zerbait laguntzea?</p>
+<p>—Al degunean berari sorostutzeko beti prest nagola badakizu.</p>
+<p>—Ez det lagunik bear bururatu zaidana egiteko, zuri lendabizi agertzea ondo zala iruditu bazait ere.</p>
+<p>—Zer asmotan zaude?</p>
+<p>—Orra ba, atzo eta gaur ebakitako gariak zabal-zabal dauzkagu soroan, eta besarkada bat edo beste ari eraman nai niozke, baña berak igerri gabe, osterantzean ez lizkidake artuko-ta.</p>
+<p>—Bapo, gizon. Txiro ta beartsuai emandakoak ez du inor arlotu.</p>
+<p>Illunduta geroxeago egin zuan Patxik oldoztua zeukana. Baña, bere arritasuna bigaramonean lasto baten utsunerik ere soroan arkitu etzuanean!</p>
+<p>—Auxe dek auxe!... Gaur eramango dizkiat berriro bart-arratsean aiña besarkada... Urrengo goizean atzegunian aña lasto eta gari zeuzkan bere soroan.</p>
+<p>—Onelakorik! Ementxe geratuko nauk —esan zuan Patxik—, ezkutapen au ikusi ta igarri arte.</p>
+<p>Gau artako amaikak izango ziran gitxi gora bera, gariz zamatuta bere sorora zetorren gizon bat nabaitu zuanean Patxik.</p>
+<p>—Gabon! —esan zion onek.</p>
+<p>—Patxi,</p>
+<p>—I al aiz, Joxe?</p>
+<p>—Zer burutasunek akar onera?</p>
+<p>—Ireak ber-berak nunbait... Bakar egon ezkero, iri nik laguntzea ez dek arritzeko gauza...</p>
+<p>—Entzun zak nola oldoztutzen nuan nik: Nere anaiak sendia dauka, oraintxe erne zaizka bi landaretxu. Politak eta etxia alaitzen diotenak dira, baña aiek elikatzeko ta apaintzeko nik baño geiago bear...</p>
+<p><hi rend='Italic'> —Mutil, ipui ederra dek ori!</hi></p>
+<p><hi rend='Italic'> —Etsi den? Neretzako orduan lukainka...</hi></p>
+<p><hi rend='Italic'> —Etxoron zak apur bat, oraintxe zetorkidak beste bi anaien ipui bat eta...</hi></p>
+<p>Gose-gose ziran anai bik etzeukaten jateko arrautza bat baizik.</p>
+<p>—Nerea dek —esan zuan Andresek—, i baño zarragua nauk-eta.</p>
+<p>—Onetarako ez dik adiñak eskubiderik ematen —erantzun zion Pellok.</p>
+<p>—Uste al dek gaztiak ez degula urdallik? Ez dek aitu ostera iñoiz onelako gauzatxoak ume ta guztientzat izaten dirala?</p>
+<p>Zirrika eta mirrika era onetan jardun zuten nekatu arte, euren eztabaida bukatu ezinik. Ara azkenian zer erabaki zuten:</p>
+<p>—Goazen lotara —esan zion Pellok bere anaiari—, ta ametsik ederrena egiten duanarentzat izan dedilla arrautza. Guazen.</p>
+<p>Egun sentiko argi biguñak begiak ideki ziozkaneko, asi zan deadarka Andres:</p>
+<p>—Ai zak, nerea dek arrautza. Ona baño obeagoa dan ames eder-ederra egin diat. Aingeruen egatan nijuala uste izan diat, baita igaro ere gau guztia zeruko doatsuen artean.</p>
+<p>—Bai, eta ara oakala ikustean, esan diat nik: Ez dik onek lurreko arrautzik bear. Jetxi nauk ba berealaxe sukaldera, baita jan ere gure arrautza...</p>
+<p>—Bapo neska, ja, ja, ja.</p>
+<p>—Lukainka...? Non dek gure lukainka?</p>
+<p>—Ooo!!!</p>
+<p>—An, an...! Sapaira zijuak ortzetatik zintzilika duala. Zapi! Zapi!</p>
+<p>—Arrapa zan! Lertuko al den bertan gure lukainka mutur luzea jan digun katu madarikatu ori!</p>
+<p>—Zer egingo diagu orain?</p>
+<p>—Apaldu; onezkero ez den ama etorriko ta... Zeñentzat izango dek gelditu dan lukainka?</p>
+<p>—Erdibituta pakia.</p>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI.2>
+
