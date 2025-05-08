@@ -1,0 +1,11 @@
+*** Failed uploading body of: LizarragaSermoiak.xml
+*** Failed uploading body of: LizarragaSanduak.xml
+*** Failed uploading body of: UriarteBibliaI.xml
+*** Failed uploading body of: UriarteBibliaII.xml
+*** Failed uploading body of: DuvoisinBibleaIII.xml
+*** Failed uploading body of: DuvoisinBibleaI.xml
+*** Failed uploading body of: DuvoisinBibleaII.xml
+*** Failed uploading body of: AgirreAErakusBirjina.xml
+*** Failed uploading body of: UriarteBibliaIII.xml
+*** Failed uploading body of: LeizarragaTesta.xml
+*** Failed uploading body of: HaranederEbanjelioa.xml
