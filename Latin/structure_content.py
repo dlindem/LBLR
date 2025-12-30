@@ -2,7 +2,7 @@ from xml.etree import ElementTree
 from xml.dom import minidom
 import json, csv
 
-with open('mapping.csv') as file:
+with open('paragraph_types_mapping.csv') as file:
     mappingfile = csv.reader(file, delimiter="\t")
     mapping = {}
     for row in mappingfile:

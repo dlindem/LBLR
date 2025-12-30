@@ -62,3 +62,45 @@ SELECT distinct ?source_id ?sarreraburu ?lexeme ?lila_form ?lila_uri ?lila_lemma
 
 } group by ?source_id ?sarreraburu ?lexeme ?lila_form ?lila_uri ?lila_lemma ?lila_pos ?lila_gender ?lila_inflectionType ?sense_translations
 # order by xsd:integer(?source_id) ?lila_id
+
+*** test for getting fed. query from LiLa working (fails)
+
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX lila: <http://lila-erc.eu/ontologies/lila/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX powla: <http://purl.org/powla/powla.owl#>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX mwb: <https://monumenta.wikibase.cloud/entity/>
+PREFIX mdp: <https://monumenta.wikibase.cloud/prop/direct/>
+PREFIX mp: <https://monumenta.wikibase.cloud/prop/>
+PREFIX mps: <https://monumenta.wikibase.cloud/prop/statement/>
+PREFIX mpq: <https://monumenta.wikibase.cloud/prop/qualifier/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+select ?lila_lemma_id  (group_concat(distinct concat(str(?trans), " (",lang(?trans),")"); SEPARATOR=", ") as ?sense_translations)
+?wikibase_lexeme ?wikibase_lemma ?basque_sense
+where {
+  ?lila_lemma_uri rdf:type lila:Lemma . # bind(strafter(str(?lila_lemma_uri),"http://lila-erc.eu/data/id/") as ?lila_lemma_id)
+  {
+SERVICE <https://monumenta.wikibase.cloud/query/sparql> {
+       SELECT ?lila_lemma_id ?basque_dict_latin ?wikibase_lexeme ?wikibase_lemma ?basque_sense WHERE {
+  ?wikibase_lexeme mdp:P6 mwb:Q1284;
+    wikibase:lemma ?wikibase_lemma;
+    mdp:P185 ?lila_lemma_id.
+ # bind(iri(concat("http://lila-erc.eu/data/id/",?lila_lemma_id)) as ?lila_lemma_uri)
+  {
+    SELECT ?wikibase_lexeme (COUNT(distinct ?lila_1id) AS ?lila_ids) WHERE { ?wikibase_lexeme mdp:P185 ?lila_1id. }
+    GROUP BY ?wikibase_lexeme ?lila_ids
+  }
+  FILTER(?lila_ids = 1 )
+
+  optional {?wikibase_lexeme ontolex:sense ?sense.
+      ?sense skos:definition ?basque_sense.}
+
+}
+    }}
+
+optional {?dict_entry ontolex:canonicalForm ?lila_lemma_id. ?dict_entry ontolex:sense [rdfs:label ?trans]. filter(lang(?trans)="es" || lang(?trans)="pt" || lang(?trans)="en" || lang(?trans)="fr")}
+  } group by ?lila_lemma_id ?sense_translations ?basque_dict_latin ?wikibase_lexeme ?wikibase_lemma ?basque_sense
+limit 5
