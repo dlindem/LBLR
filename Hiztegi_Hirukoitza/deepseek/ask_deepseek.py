@@ -42,7 +42,7 @@ def process_chunk(chunk, chunk_num, total_chunks):
 
 Your task is to transform each dictionary entry by:
 
-1. **Joining hyphenated words**: Remove end-of-line hyphens and join the broken words (e.g., "macha-" followed on next line by "tu" becomes "machatu").
+1. **Join enty lines**: Replace line breaks inside entries with single spaces, and remove end-of-line hyphens and join the broken words (e.g., "macha-" followed on next line by "tu" becomes "machatu").
 
 2. **Applying XML tags** to specific content within each entry:
    - `<head>`: The Spanish headword(s) at the beginning of the entry. This is the word or phrase that appears immediately after the {{sarrera|...}} template, up to the first comma or colon that begins the definition.
@@ -58,7 +58,7 @@ Your task is to transform each dictionary entry by:
 
 In the following a chunk of the dictionary with annotations, as training set for the task, and the chunk to process.
 
-Here is the training chunk:
+Here is the training chunk, where tagging has been applied (but not lines joining):
 
 {training_chunk}
 
@@ -115,7 +115,7 @@ def process_dictionary_fragment(file_path, entries_per_chunk=50):
         if result:
             processed_chunks.append(result)
             with open(output_path, 'a', encoding='utf-8') as f:
-                f.write(result)
+                f.write(result+"\n")
         else:
             print(f"  Warning: Chunk {i} failed, skipping...")
 
