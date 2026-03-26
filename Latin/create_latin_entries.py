@@ -34,7 +34,7 @@ for result in results:
     mapping[result['source_id']['value']] = result['wikibase']['value']
 input(f"Got {len(mapping)} existing entry mappings. ENTER to proceed.")
 
-with open('lila_matches.csv') as file:
+with open('data/lila_matches.csv') as file:
     lilacsv = csv.DictReader(file, delimiter="\t")
 
     for row in lilacsv:

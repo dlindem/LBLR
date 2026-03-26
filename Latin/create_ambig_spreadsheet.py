@@ -1,7 +1,7 @@
 import re, csv, time
 from xml.etree import ElementTree
 
-tree = ElementTree.parse('content_structured.xml')
+tree = ElementTree.parse('data/content_structured.xml')
 dict_text = {}
 for entry in tree.findall('entry'):
     entry_id = entry.attrib['entry_id']
@@ -20,7 +20,7 @@ spreadsheet = "source_id\tsarrera_buru\twikibase_lexeme\tlila_form\tlila_uri\tli
 seen_once = []
 seen_twice = []
 lexeme_count = {}
-with open('lila_ambig_matches.csv') as file:
+with open('data/lila_ambig_matches.csv') as file:
     lila_content = csv.reader(file, delimiter=",")
 
     for row in lila_content:
@@ -47,7 +47,7 @@ with open('lila_ambig_matches.csv') as file:
             spreadsheet += spreadsheet_json[lila_id]['line']+"\n"
 
 
-with open('lila_ambig_spreadsheet.csv', 'w') as file:
+with open('data/lila_ambig_spreadsheet.csv', 'w') as file:
     file.write(spreadsheet)
 
 

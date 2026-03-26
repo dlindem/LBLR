@@ -5,7 +5,7 @@ import csv
 import re
 from unidecode import unidecode
 
-with open('D:/Lab_LAR/anchoreddict.json', 'r', encoding="utf-8") as json_file:
+with open('pagedict.json', 'r', encoding="utf-8") as json_file:
 	pagedict = json.load(json_file)
 
 basquedict = {}
