@@ -20,7 +20,7 @@
 {{sarrera|macarronico}}<head>Macarronico</head> , <eu>''nastizquiña''</eu>. Lat. <la>Maca-
 	ronicus.</la>
 {{sarrera|macarse}}<head>Macarse</head> , <def>empezar à pudrirse , viene de
-	<es>''maca''</es> , cuyo origen es Bascongado</def> , <eu>''ma-''
+	''maca'', cuyo origen es Bascongado</def> , <eu>''ma-''
 	''catu''</eu> , <eu>''usteltzera'' ''eguin''</eu>, <eu>''asi''</eu>. Lat. <la>Cor-
 	rumpi</la> , <la>putrescere</la>.
 {{sarrera|macear}}<head>Macear</head> , <eu>''pisoitu''</eu> , <eu>''cabicotu''</eu>. Lat. <la>Malleo
