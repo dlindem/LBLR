@@ -2,13 +2,13 @@ from xml.etree import ElementTree
 from xml.dom import minidom
 import json, csv
 
-with open('ELH_wikibase_entries.csv') as file:
+with open('data/ELH_wikibase_entries.csv') as file:
     elh_entries = {}
     rows = csv.DictReader(file, delimiter=",")
     for row in rows:
         elh_entries[row['source_id']] = row['wikibase_lexeme']
 
-tree = ElementTree.parse('content_structured.xml')
+tree = ElementTree.parse('data/content_structured.xml')
 newroot = ElementTree.Element('root')
 element_types = {}
 mapped_types = {}
@@ -27,7 +27,7 @@ for entry in tree.findall("entry"):
 
 
 
-with open('pretty_entries.csv', "w", encoding="utf-8") as file:
+with open('data/pretty_entries.csv', "w", encoding="utf-8") as file:
     file.write(csvtext)
 print('Finished.')
 

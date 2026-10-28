@@ -1,7 +1,7 @@
 from xml.etree import ElementTree
 import json, csv, re
 
-tree = ElementTree.parse('content_structured.xml')
+tree = ElementTree.parse('data/content_structured.xml')
 result = {'no_pos':{}, 'noun': {}, 'verb': {}, 'prep': {}, 'xref': {}, 'adj':{}, 'adb':{}, 'conj':{}}
 resultcount = {'found_pos':{'noun': 0, 'verb': 0, 'prep': 0, 'xref': 0, 'adj':0, 'adb':0, 'conj':0}, 'not_found':0}
 for entry in tree.findall('entry'):
@@ -81,7 +81,7 @@ for entry in tree.findall('entry'):
 
 
 
-with open('content_pos.json', 'w') as file:
+with open('data/content_pos.json', 'w') as file:
     json.dump(result, file, indent=2)
 
 print(resultcount)

@@ -10,16 +10,16 @@ print("Getting logged into monumenta wikibase...")
 monumenta = WikibaseIntegrator(login=wbi_login.Login(user=config_private.wb_bot_user, password=config_private.wb_bot_pwd))
 print("Login successful.")
 
-with open('cleared_entities.txt', 'r') as logfile:
+with open('data/cleared_entities.txt', 'r') as logfile:
     cleared_entities = logfile.read().split("\n")
 
-with open('lila_uri_wikibase.csv') as file:
+with open('data/lila_uri_wikibase.csv') as file:
     lila_uris = {}
     rows = csv.DictReader(file, delimiter=",")
     for row in rows:
         lila_uris[row['lila_uri']] = row['qid']
 
-with open('lila_matches_liladata.csv') as file:
+with open('data/lila_matches_liladata.csv') as file:
     content = csv.DictReader(file, delimiter=",")
     count = 0
 
@@ -57,7 +57,7 @@ with open('lila_matches_liladata.csv') as file:
         if lexeme_id not in cleared_entities:
             action = ActionIfExists.REPLACE_ALL
             cleared_entities.append(lexeme_id)
-            with open('cleared_entities.txt', 'a') as logfile:
+            with open('data/cleared_entities.txt', 'a') as logfile:
                 logfile.write(lexeme_id+"\n")
         else:
             action = ActionIfExists.FORCE_APPEND

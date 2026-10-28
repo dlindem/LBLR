@@ -7,13 +7,13 @@ csrfquery = monumenta_api.api('query', meta='tokens')
 monumenta_api_token = csrfquery['query']['tokens']['csrftoken']
 print("Got fresh CSRF token for monumenta.wikibase.cloud.")
 
-with open('ELH_wikibase_entries.csv') as file:
+with open('data/ELH_wikibase_entries.csv') as file:
     elh_entries = {}
     rows = csv.DictReader(file, delimiter=",")
     for row in rows:
         elh_entries[row['source_id']] = row['p6st']
 
-with open('pretty_entries.csv') as file:
+with open('data/pretty_entries.csv') as file:
     content = csv.DictReader(file, delimiter="\t")
     count = 0
     for row in content:

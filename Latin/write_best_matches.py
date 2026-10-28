@@ -1,6 +1,6 @@
 import csv, xwbi, time
 
-with open('lila_best_matches_wikidata.csv') as file:
+with open('data/lila_best_matches_wikidata.csv') as file:
     content = csv.DictReader(file, delimiter="\t")
     count = 0
     for row in content:

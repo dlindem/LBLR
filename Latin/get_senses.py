@@ -2,13 +2,13 @@ from xml.etree import ElementTree
 from xml.dom import minidom
 import json, csv, time, re
 
-with open('ELH_wikibase_entries.csv') as file:
+with open('data/ELH_wikibase_entries.csv') as file:
     elh_entries = {}
     rows = csv.DictReader(file, delimiter=",")
     for row in rows:
         elh_entries[row['source_id']] = row['wikibase_lexeme']
 
-tree = ElementTree.parse('content_structured_equivs.xml')
+tree = ElementTree.parse('data/content_structured_equivs.xml')
 newroot = ElementTree.Element('root')
 element_types = {}
 mapped_types = {}
@@ -54,7 +54,7 @@ for entry in tree.findall("entry"):
                     senses.append({'glosstext': glosstext, 'equivs': equivs})
     if len(senses) > 0:
         sense_dict[entry_id] = {'qid': entry_qid, 'senses': senses}
-with open('senses_dict.json', 'w') as file:
+with open('data/senses_dict.json', 'w') as file:
     json.dump(sense_dict, file, indent=2)
 
 

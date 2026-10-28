@@ -12,10 +12,10 @@ print("Getting logged into monumenta wikibase...")
 monumenta = WikibaseIntegrator(login=wbi_login.Login(user=config_private.wb_bot_user, password=config_private.wb_bot_pwd))
 print("Login successful.")
 
-with open('sense_entities.txt', 'r') as logfile:
+with open('data/sense_entities.txt', 'r') as logfile:
     done_entities = logfile.read().split("\n")
 
-with open('senses_dict.json') as file:
+with open('data/senses_dict.json') as file:
     senses_dict = json.load(file)
     count = 0
     for entry in senses_dict:
@@ -42,7 +42,7 @@ with open('senses_dict.json') as file:
                 new_sense.claims.add(claim, action_if_exists=ActionIfExists.APPEND_OR_REPLACE)
             lexeme_entity.senses.add(new_sense)
         lexeme_entity.write()
-        with open('sense_entities.txt', 'a') as logfile:
+        with open('data/sense_entities.txt', 'a') as logfile:
             logfile.write(lexeme_entity.id + "\n")
         print(f"[{count}] Successfully written to http://monumenta.wikibase.cloud/entity/{lexeme_entity.id}")
         time.sleep(0.5)
